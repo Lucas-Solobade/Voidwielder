@@ -6,6 +6,9 @@
 - Alan é Homus Bananus; Elen, Johnny Calcinha e Geraldo mantêm os papéis estabelecidos nos dois primeiros arcos.
 - Geraldo está em reparação supervisionada depois do Palco Veludo. Suas participações no arco Faze Azul são chamadas e imagens de trabalho supervisionado; a ameaça ativa é a rede corporativa Vardo.
 - A Faze Azul é uma motocicleta fictícia de Isaac; não representa uma marca real.
+- A exposição da Vardo ao fim do arco Geraldo é um escândalo público, não sua queda definitiva. A corporação ainda opera e reage nos arcos seguintes; sua dissolução só ocorre após as provas e a operação de A Última Poda.
+- Isaac/Cabelinho aparece com três fãs adultas recorrentes. Elen é integrante distinta do grupo, identificada por cabelos longos e lisos, óculos redondos e roupa azul.
+- Referências visuais: Geraldo tem cabelo curto escuro, óculos aviador escuros, bigode e cavanhaque; Johnny Calcinha usa chapéu claro, bigode fino, camiseta branca e colar de contas; Alan mantém a fantasia amarela de banana, óculos escuros e barba curta. Isaac/Cabelinho tem cachos curtos, roupa preta e correntes prateadas. As fãs mantêm, respectivamente, roupa branca com cabelo escuro; franja preta, tatuagens e roupa preta; cabelo longo escuro e camiseta preta.
 
 ## Arco Faze Azul (p. 51–78)
 

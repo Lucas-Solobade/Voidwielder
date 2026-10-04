@@ -129,7 +129,7 @@ ARCS = (
         slug="faze-azul",
         title="Faze Azul: O Beat Contra a Vardo",
         description=(
-            "Depois da queda pública da Vardo, Isaac transforma recibos, ruas e uma moto azul "
+            "Depois do escândalo público da Vardo, Isaac transforma recibos, ruas e uma moto azul "
             "em música. A corporação reage tentando controlar quem pode ser ouvido — e cobra "
             "um preço covarde pela voz que ela não consegue calar."
         ),

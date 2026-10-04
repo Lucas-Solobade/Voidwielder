@@ -43,6 +43,7 @@ def write_page(client: Client, path: str) -> None:
 def build_catalog() -> list[dict[str, str | int]]:
     return [
         {
+            "category": "hq",
             "kind": "Arco",
             "title": arc.title,
             "detail": arc.description,
@@ -51,6 +52,7 @@ def build_catalog() -> list[dict[str, str | int]]:
         for arc in ARCS
     ] + [
         {
+            "category": "hq",
             "kind": "Capítulo",
             "title": chapter.title,
             "detail": chapter.subtitle,

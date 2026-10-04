@@ -70,12 +70,15 @@ def read_page(request: HttpRequest, arc_slug: str, page: int) -> HttpResponse:
 @require_GET
 def search(request: HttpRequest) -> HttpResponse:
     query = " ".join(request.GET.get("q", "").split())[:80]
+    category = request.GET.get("tipo", "todos")
+    if category not in {"todos", "hq", "livros", "jogos", "estudos"}:
+        category = "todos"
     results: list[dict[str, object]] = []
-    if query:
+    if category in {"todos", "hq"}:
         needle = query.casefold()
         for arc in ARCS:
             arc_text = f"{arc.title} {arc.description}".casefold()
-            if needle in arc_text:
+            if not needle or needle in arc_text:
                 results.append(
                     {
                         "kind": "Arco",
@@ -86,7 +89,7 @@ def search(request: HttpRequest) -> HttpResponse:
                 )
             for chapter in arc.chapters:
                 chapter_text = f"{chapter.title} {chapter.subtitle}".casefold()
-                if needle in chapter_text or needle == str(chapter.number):
+                if not needle or needle in chapter_text or needle == str(chapter.number):
                     results.append(
                         {
                             "kind": "Capítulo",
@@ -95,7 +98,7 @@ def search(request: HttpRequest) -> HttpResponse:
                             "detail": chapter.subtitle,
                         }
                     )
-    context = {"manga": MANGA, "query": query, "results": results}
+    context = {"manga": MANGA, "query": query, "category": category, "results": results}
     return render(request, "reader/search.html", context)
 
 

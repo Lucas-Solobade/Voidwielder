@@ -34,16 +34,23 @@
   </header>
 
   <nav class="drawer" id="main-menu" data-menu hidden aria-label="Menu principal">
-    <div class="drawer-head"><strong>Capítulos</strong><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
+    <div class="drawer-head"><strong>Explorar</strong><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
     <a href="/">Início</a>
+    <div class="drawer-categories" aria-label="Buscar por categoria">
+      <a href="/buscar/?tipo=livros">Livros</a>
+      <a href="/buscar/?tipo=hq">HQs</a>
+      <a href="/buscar/?tipo=jogos">Jogos</a>
+      <a href="/buscar/?tipo=estudos">Estudos</a>
+    </div>
+    <p class="drawer-label">Arcos da HQ</p>
     <a href="/arcos/invasao-desastrada/">Arco 1 · A Invasão Mais Desastrada da Terra</a><a href="/arcos/palco-veludo-geraldo/">Arco 2 · O Palco Veludo de Geraldo</a><a href="/arcos/faze-azul/">Arco 3 · Faze Azul: O Beat Contra a Vardo</a><a href="/arcos/ultima-poda/">Arco 4 · A Última Poda: O Fim da Vardo</a>
-    <a href="/buscar/">Pesquisar</a>
+    <a href="/buscar/">Pesquisar todo o catálogo</a>
   </nav>
   <div class="backdrop" data-backdrop hidden></div>
 
   <dialog class="search-dialog" data-search-dialog>
     <form class="search-form" action="/buscar/" method="get" role="search">
-      <label for="global-search">Pesquisar no mangá</label>
+      <label for="global-search">Pesquisar no catálogo</label>
       <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="Arco, capítulo ou personagem…"><button type="submit">Buscar</button></div>
       <button class="dialog-close" type="button" data-search-close>Fechar</button>
     </form>
@@ -51,7 +58,7 @@
 
   <main id="conteudo">
 <main class="arc-book">
-  <header class="book-header"><a href="/arcos/faze-azul/">← Voltar ao arco</a><p class="eyebrow">Leitura contínua · páginas 51–78</p><h1>Faze Azul: O Beat Contra a Vardo</h1><p>Depois da queda pública da Vardo, Isaac transforma recibos, ruas e uma moto azul em música. A corporação reage tentando controlar quem pode ser ouvido — e cobra um preço covarde pela voz que ela não consegue calar.</p></header>
+  <header class="book-header"><a href="/arcos/faze-azul/">← Voltar ao arco</a><p class="eyebrow">Leitura contínua · páginas 51–78</p><h1>Faze Azul: O Beat Contra a Vardo</h1><p>Depois do escândalo público da Vardo, Isaac transforma recibos, ruas e uma moto azul em música. A corporação reage tentando controlar quem pode ser ouvido — e cobra um preço covarde pela voz que ela não consegue calar.</p></header>
   
     <h2 class="book-chapter" id="capitulo-8">Capítulo 8 · Depois do Escândalo</h2>
     <figure class="book-page"><img src="/static/reader/images/pages/page-51.webp" alt="Página 51 do capítulo Depois do Escândalo" loading="eager"><figcaption>Página 51</figcaption></figure>
