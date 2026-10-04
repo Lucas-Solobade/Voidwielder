@@ -1,0 +1,7 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}{{ arc.title }} · {{ manga.title }}{% endblock %}
+{% block description %}{{ arc.description }}{% endblock %}
+{% block content %}
+<section class="arc-hero"><img src="{% static arc.cover %}" alt="Arte de título de {{ arc.title }}" fetchpriority="high"><div class="hero-shade"></div><div class="hero-copy"><p class="eyebrow">Arco {{ arc.number }} · páginas {{ arc.start_page }}–{{ arc.end_page }}</p><h1>{{ arc.title }}</h1><p>{{ arc.description }}</p><a class="primary-button" href="{% url 'reader:read' arc.slug arc.start_page %}">Ler este arco</a></div></section>
+<section class="section-shell"><h2>Capítulos</h2><ol class="chapter-list">{% for chapter in arc.chapters %}<li><a href="{% url 'reader:read' arc.slug chapter.start_page %}"><img class="chapter-cover" src="{% static chapter.cover %}" alt="Imagem de título do capítulo {{ chapter.title }}" loading="lazy"><span class="chapter-number">{{ chapter.number|stringformat:'02d' }}</span><span><strong>{{ chapter.title }}</strong><small>{{ chapter.subtitle }}</small></span><span class="page-chip">p. {{ chapter.start_page }}–{{ chapter.end_page }}</span></a></li>{% endfor %}</ol></section>
+{% endblock %}

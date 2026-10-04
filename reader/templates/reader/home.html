@@ -1,0 +1,12 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block structured_data %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"ComicSeries","name":"{{ manga.title|escapejs }}","description":"{{ manga.description|escapejs }}","inLanguage":"pt-BR"}</script>{% endblock %}
+{% block content %}
+<section class="hero">
+  <img src="{% static manga.cover %}" alt="Alan Banana, Elen, Johnny, Geraldo e a galinha robótica Clotilde diante da Terra" fetchpriority="high" width="1672" height="941">
+  <div class="hero-shade"></div><div class="hero-copy"><p class="eyebrow">Mangá brasileiro · Comédia · Ação</p><h1>{{ manga.title }}</h1><p>{{ manga.tagline }}</p><a class="primary-button" href="{% url 'reader:read' arcs.0.slug 1 %}">Começar a ler</a></div>
+</section>
+<section class="section-shell" aria-labelledby="arcos-title"><div class="section-heading"><div><p class="eyebrow">Biblioteca</p><h2 id="arcos-title">Arcos publicados</h2></div><span>50 páginas</span></div>
+  <div class="arc-grid">{% for arc in arcs %}<article class="arc-card"><a href="{% url 'reader:arc' arc.slug %}"><div class="arc-art"><img src="{% static arc.cover %}" alt="Arte do arco {{ arc.title }}" loading="lazy" width="1672" height="941"><span>Arco {{ arc.number }}</span></div><div class="arc-copy"><p>{{ arc.page_count }} páginas · {{ arc.chapters|length }} capítulos</p><h3>{{ arc.title }}</h3><p>{{ arc.description }}</p><span class="text-link">Ver capítulos →</span></div></a></article>{% endfor %}</div>
+</section>
+{% endblock %}
+

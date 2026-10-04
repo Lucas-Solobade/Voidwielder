@@ -1,0 +1,29 @@
+[project]
+name = "homus-bananus-manga"
+version = "1.0.0"
+description = "Leitor web do mangá Homus Bananus: Guerra do Absurdo"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=5.2.17,<5.3",
+    "whitenoise>=6.9.0,<7",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.0,<10",
+    "pytest-django>=4.11.0,<5",
+    "ruff>=0.12.0,<1",
+]
+
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "config.settings"
+python_files = ["test_*.py"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "DJ"]
+ignore = ["E501"]
