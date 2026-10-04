@@ -4,8 +4,7 @@
 {% block content %}
 <section class="reader" data-reader data-page="{{ page_number }}" data-arc="{{ arc.slug }}">
   <header class="reader-header"><div><a href="{% url 'reader:arc' arc.slug %}">← {{ arc.title }}</a><h1>{{ chapter.title }}</h1></div><label>Página <select data-page-select aria-label="Ir para página">{% for number in page_range %}<option value="{% url 'reader:read' arc.slug number %}" {% if number == page_number %}selected{% endif %}>{{ number }} / {{ arc.end_page }}</option>{% endfor %}</select></label></header>
-  <figure class="manga-page"><img src="{% static page_filename %}" alt="Página {{ page_number }} do capítulo {{ chapter.title }}" width="1024" height="1536" fetchpriority="high"><figcaption>Página {{ page_number }} de 50</figcaption></figure>
+  <figure class="manga-page"><img src="{% static page_filename %}" alt="Página {{ page_number }} do capítulo {{ chapter.title }}" width="1024" height="1536" fetchpriority="high"><figcaption>Página {{ page_number }} de {{ manga.total_pages }}</figcaption></figure>
   <nav class="reader-nav" aria-label="Navegação entre páginas">{% if previous_url %}<a rel="prev" href="{{ previous_url }}">← Anterior</a>{% else %}<span></span>{% endif %}<button type="button" data-fit-button>Ajustar largura</button>{% if next_url %}<a rel="next" href="{{ next_url }}">Próxima →</a>{% else %}<a href="{% url 'reader:home' %}">Voltar ao início</a>{% endif %}</nav>
 </section>
 {% endblock %}
-

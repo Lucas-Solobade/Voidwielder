@@ -20,6 +20,23 @@ def arc_detail(request: HttpRequest, arc_slug: str) -> HttpResponse:
 
 
 @require_GET
+def read_arc(request: HttpRequest, arc_slug: str) -> HttpResponse:
+    """Render an entire arc as one continuous, book-like reader."""
+    arc = get_arc(arc_slug)
+    if arc is None:
+        raise Http404("Arco não encontrado")
+    pages = [
+        {
+            "number": page,
+            "filename": f"reader/images/pages/page-{page:02}.webp",
+            "chapter": get_chapter_for_page(page),
+        }
+        for page in range(arc.start_page, arc.end_page + 1)
+    ]
+    return render(request, "reader/read_arc.html", {"manga": MANGA, "arc": arc, "pages": pages})
+
+
+@require_GET
 def read_page(request: HttpRequest, arc_slug: str, page: int) -> HttpResponse:
     arc = get_arc(arc_slug)
     if arc is None or not arc.start_page <= page <= arc.end_page:
@@ -74,7 +91,7 @@ def search(request: HttpRequest) -> HttpResponse:
                         {
                             "kind": "Capítulo",
                             "title": chapter.title,
-                            "url": reverse("reader:read", args=(arc.slug, chapter.start_page)),
+                            "url": f"{reverse('reader:read_arc', args=(arc.slug,))}#capitulo-{chapter.number}",
                             "detail": chapter.subtitle,
                         }
                     )
@@ -92,6 +109,9 @@ def robots(_: HttpRequest) -> HttpResponse:
 def sitemap(request: HttpRequest) -> HttpResponse:
     urls = [request.build_absolute_uri(reverse("reader:home"))]
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
+    urls.extend(
+        request.build_absolute_uri(reverse("reader:read_arc", args=(arc.slug,))) for arc in ARCS
+    )
     entries = "".join(f"<url><loc>{url}</loc></url>" for url in urls)
     xml = (
         '<?xml version="1.0" encoding="UTF-8"?>'

@@ -124,6 +124,57 @@ ARCS = (
             ),
         ),
     ),
+    Arc(
+        number=3,
+        slug="faze-azul",
+        title="Faze Azul: O Beat Contra a Vardo",
+        description=(
+            "Depois da queda pública da Vardo, Isaac transforma recibos, ruas e uma moto azul "
+            "em música. A corporação reage tentando controlar quem pode ser ouvido — mas este "
+            "novo arco ainda está em andamento."
+        ),
+        cover="reader/images/covers/faze-azul-arc.webp",
+        start_page=51,
+        end_page=73,
+        chapters=(
+            Chapter(
+                8,
+                "noticias-pos-escandalo",
+                "Depois do Escândalo",
+                "Manchetes, uma live e caixas demais.",
+                51,
+                56,
+                "reader/images/pages/page-51.webp",
+            ),
+            Chapter(
+                9,
+                "isaac-faze-azul",
+                "Isaac e a Faze Azul",
+                "A batida cresce; a Vardo começa a vigiar.",
+                57,
+                64,
+                "reader/images/pages/page-57.webp",
+            ),
+            Chapter(
+                10,
+                "som-sem-coleira",
+                "Som Sem Coleira",
+                "Uma transmissão livre vira ato de resistência criativa.",
+                65,
+                69,
+                "reader/images/pages/page-65.webp",
+            ),
+            Chapter(
+                11,
+                "lentes-da-vardo",
+                "As Lentes da Vardo",
+                "A cidade encontra uma saída, mas a Vardo está registrando tudo.",
+                70,
+                73,
+                "reader/images/pages/page-70.webp",
+            ),
+        ),
+    ),
 )
 
 MANGA = {
@@ -134,6 +185,7 @@ MANGA = {
         "seus rivais improváveis e uma conspiração corporativa perigosamente teatral."
     ),
     "cover": "reader/images/covers/main-cover.webp",
+    "total_pages": ARCS[-1].end_page,
 }
 
 

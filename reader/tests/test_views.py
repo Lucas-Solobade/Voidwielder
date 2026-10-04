@@ -1,11 +1,12 @@
 from django.urls import reverse
 
 
-def test_home_lists_both_arcs(client):
+def test_home_lists_all_arcs(client):
     response = client.get(reverse("reader:home"))
     assert response.status_code == 200
     assert "A Invasão Mais Desastrada da Terra" in response.content.decode()
     assert "O Palco Veludo de Geraldo" in response.content.decode()
+    assert "Faze Azul: O Beat Contra a Vardo" in response.content.decode()
 
 
 def test_reader_rejects_page_outside_arc(client):
@@ -24,4 +25,13 @@ def test_canonical_page_ranges():
 
     assert ARCS[0].start_page == 1 and ARCS[0].end_page == 17
     assert ARCS[1].start_page == 18 and ARCS[1].end_page == 50
-    assert sum(arc.page_count for arc in ARCS) == 50
+    assert ARCS[2].start_page == 51 and ARCS[2].end_page == 73
+    assert sum(arc.page_count for arc in ARCS) == 73
+
+
+def test_arc_book_reader_has_all_pages(client):
+    response = client.get(reverse("reader:read_arc", args=("faze-azul",)))
+    content = response.content.decode()
+    assert response.status_code == 200
+    assert "page-51.webp" in content
+    assert "page-73.webp" in content
