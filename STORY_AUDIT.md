@@ -10,3 +10,11 @@
 ## Arco Faze Azul (p. 51–78)
 
 As notícias de p. 51 fazem a ligação direta com o final do arco Geraldo: a Vardo foi exposta, e Geraldo repara os danos sob supervisão. A exposição dos documentos inspira Isaac a transformar informação pública em música, com Bia, Nara e Luna como equipe criativa. A Vardo reage primeiro com drones e propaganda, depois com o Decreto de Harmonia Sonora. O grupo recupera a transmissão por meios comunitários, mas a Vardo fabrica uma prova técnica, usa uma ordem de prisão abusiva e leva Isaac sem confronto físico. Elen preserva a inconsistência dos metadados, e a equipe fica livre para chamar o próximo personagem sem desfazer a prisão nem transformar a Vardo em uma ameaça derrotada.
+
+## Arco A Última Poda (p. 79–96)
+
+- O homem de terno que aparece como sombra no encontro com Geraldo (p. 23) é Otávio Nox, comprador oculto do Projeto Veludo e atual marido de Mônica Pig. A revelação não altera a condição de Geraldo, que continua em reparação supervisionada e só ajuda por chamada autorizada.
+- Mônica Pig é uma alienígena **porquinha humanoide adulta**, CEO da Vardo. Podador, seu ex-companheiro, escapou das tentativas de assassinato dela depois de encerrar uma relação controladora. Eles pilotam máquinas distintas: Podador, mecha preto com tubulações roxas e verdes; Mônica, mecha vermelho de porte maior.
+- Luna é a fã adulta de Isaac que coordena a entrada na Vardo. Ela e Podador desenvolvem afeto por escolha própria, sem que a trama trate controle como romance.
+- Isaac permanece sob custódia até a operação de resgate. Elen preservou os metadados da falsa acusação nas p. 74–78; essa prova, os arquivos Veludo e os testemunhos dos trabalhadores sustentam a exposição pública e a ação das autoridades.
+- O grupo evacua os funcionários antes de desativar os três nós operacionais da Vardo. A corporação cai por ação combinada da equipe, exposição documental e destruição de sua infraestrutura, não por rendição repentina da CEO.

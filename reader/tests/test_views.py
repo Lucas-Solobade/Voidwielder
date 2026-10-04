@@ -7,6 +7,7 @@ def test_home_lists_all_arcs(client):
     assert "A Invasão Mais Desastrada da Terra" in response.content.decode()
     assert "O Palco Veludo de Geraldo" in response.content.decode()
     assert "Faze Azul: O Beat Contra a Vardo" in response.content.decode()
+    assert "A Última Poda: O Fim da Vardo" in response.content.decode()
 
 
 def test_reader_rejects_page_outside_arc(client):
@@ -26,7 +27,8 @@ def test_canonical_page_ranges():
     assert ARCS[0].start_page == 1 and ARCS[0].end_page == 17
     assert ARCS[1].start_page == 18 and ARCS[1].end_page == 50
     assert ARCS[2].start_page == 51 and ARCS[2].end_page == 78
-    assert sum(arc.page_count for arc in ARCS) == 78
+    assert ARCS[3].start_page == 79 and ARCS[3].end_page == 96
+    assert sum(arc.page_count for arc in ARCS) == 96
 
 
 def test_arc_book_reader_has_all_pages(client):
@@ -34,4 +36,5 @@ def test_arc_book_reader_has_all_pages(client):
     content = response.content.decode()
     assert response.status_code == 200
     assert "page-51.webp" in content
-    assert "Próxima faixa: alguém novo" in content
+    assert "page-78.webp" in content
+    assert "story-page" not in content

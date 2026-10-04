@@ -184,6 +184,25 @@ ARCS = (
             ),
         ),
     ),
+    Arc(
+        number=4,
+        slug="ultima-poda",
+        title="A Última Poda: O Fim da Vardo",
+        description=(
+            "Podador, Luna e a equipe partem para libertar Isaac. Mônica Pig, a alienígena "
+            "porquinha humanoide que comanda a Vardo, e seu marido Otávio Nox defendem "
+            "o Projeto Veludo enquanto a cidade aprende a rir do próprio medo."
+        ),
+        cover="reader/images/covers/podador-final-arc.webp",
+        start_page=79,
+        end_page=96,
+        chapters=(
+            Chapter(13, "homem-fora-de-controle", "O Homem Fora de Controle", "Um piloto, uma galinha e uma porta pequena demais.", 79, 82, "reader/images/pages/page-79.webp"),
+            Chapter(14, "debaixo-da-vardo", "Debaixo da Vardo", "O arquivo sob a escada e o resgate de Isaac.", 83, 88, "reader/images/pages/page-83.webp"),
+            Chapter(15, "dois-robos-tres-nos", "Dois Robôs, Três Nós", "A corporação ainda tem dentes; o grupo tem uma batida.", 89, 93, "reader/images/pages/page-89.webp"),
+            Chapter(16, "ultima-poda", "A Última Poda", "O fim definitivo da Vardo e a última piada.", 94, 96, "reader/images/pages/page-94.webp"),
+        ),
+    ),
 )
 
 MANGA = {
