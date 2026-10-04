@@ -1,6 +1,6 @@
 # Homus Bananus: Guerra do Absurdo
 
-Leitor responsivo em Django para o mangá, com 73 páginas canônicas divididas em três arcos e leitura contínua por arco.
+Leitor responsivo em Django para o mangá, com 78 páginas canônicas divididas em três arcos e leitura contínua por arco.
 
 ## Executar com UV
 

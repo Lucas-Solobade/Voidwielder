@@ -6,7 +6,9 @@
   <header class="book-header"><a href="{% url 'reader:arc' arc.slug %}">← Voltar ao arco</a><p class="eyebrow">Leitura contínua · páginas {{ arc.start_page }}–{{ arc.end_page }}</p><h1>{{ arc.title }}</h1><p>{{ arc.description }}</p></header>
   {% for page in pages %}
     {% ifchanged page.chapter.number %}<h2 class="book-chapter" id="capitulo-{{ page.chapter.number }}">Capítulo {{ page.chapter.number }} · {{ page.chapter.title }}</h2>{% endifchanged %}
-    <figure class="book-page"><img src="{% static page.filename %}" alt="Página {{ page.number }} do capítulo {{ page.chapter.title }}" loading="{% if forloop.counter0 < 2 %}eager{% else %}lazy{% endif %}"><figcaption>Página {{ page.number }}</figcaption></figure>
+    {% if page.story %}
+      <article class="story-page" aria-label="Página {{ page.number }}: {{ page.story.title }}"><h3>{{ page.story.title }}</h3><div class="story-grid">{% for source, caption in page.story.panels %}<figure><img src="{% static source %}" alt="{{ caption }}" loading="lazy"><figcaption>{{ caption }}</figcaption></figure>{% endfor %}</div><p class="story-page-number">Página {{ page.number }}</p></article>
+    {% else %}<figure class="book-page"><img src="{% static page.filename %}" alt="Página {{ page.number }} do capítulo {{ page.chapter.title }}" loading="{% if forloop.counter0 < 2 %}eager{% else %}lazy{% endif %}"><figcaption>Página {{ page.number }}</figcaption></figure>{% endif %}
   {% endfor %}
 </main>
 {% endblock %}

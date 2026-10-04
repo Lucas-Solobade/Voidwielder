@@ -130,12 +130,12 @@ ARCS = (
         title="Faze Azul: O Beat Contra a Vardo",
         description=(
             "Depois da queda pública da Vardo, Isaac transforma recibos, ruas e uma moto azul "
-            "em música. A corporação reage tentando controlar quem pode ser ouvido — mas este "
-            "novo arco ainda está em andamento."
+            "em música. A corporação reage tentando controlar quem pode ser ouvido — e cobra "
+            "um preço covarde pela voz que ela não consegue calar."
         ),
         cover="reader/images/covers/faze-azul-arc.webp",
         start_page=51,
-        end_page=73,
+        end_page=78,
         chapters=(
             Chapter(
                 8,
@@ -172,6 +172,15 @@ ARCS = (
                 70,
                 73,
                 "reader/images/pages/page-70.webp",
+            ),
+            Chapter(
+                12,
+                "preco-do-ruido",
+                "O Preço do Ruído",
+                "Uma prisão forjada encerra a primeira batalha de Isaac contra a Vardo.",
+                74,
+                78,
+                "reader/images/pages/page-74.webp",
             ),
         ),
     ),

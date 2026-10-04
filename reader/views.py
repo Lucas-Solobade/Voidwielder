@@ -5,6 +5,114 @@ from django.views.decorators.http import require_GET
 
 from .catalog import ARCS, MANGA, get_arc, get_chapter_for_page
 
+FINALE_PAGES = {
+    74: {
+        "title": "A prova que chegou antes do crime",
+        "panels": (
+            (
+                "reader/images/pages/page-73.webp",
+                "A Vardo projeta uma gravação adulterada: Isaac supostamente teria sabotado a transmissão.",
+            ),
+            (
+                "reader/images/pages/page-65.webp",
+                "Elen encontra a falha: o arquivo tem uma data que ainda não aconteceu.",
+            ),
+            (
+                "reader/images/pages/page-66.webp",
+                "Alan usa a lupa ao contrário; Johnny oferece recibos de tecido. Nenhum dos dois ajuda, mas tentam.",
+            ),
+            (
+                "reader/images/pages/page-70.webp",
+                "O drone anuncia a acusação: ‘Disrupção sonora’. Isaac responde: ‘Meu beat nem tem grave hoje!’",
+            ),
+        ),
+    },
+    75: {
+        "title": "Ordem de silêncio",
+        "panels": (
+            (
+                "reader/images/pages/page-70.webp",
+                "A Vardo chama uma ‘inspeção’ que não aceita perguntas.",
+            ),
+            (
+                "reader/images/pages/page-68.webp",
+                "Elen pede a ordem judicial. A Vardo entrega uma folha sem assinatura.",
+            ),
+            (
+                "reader/images/pages/page-71.webp",
+                "As luzes apagam para criar pânico; a Faze Azul ilumina a escada.",
+            ),
+            (
+                "reader/images/pages/page-73.webp",
+                "No escuro, os drones cercam Isaac e declaram prisão por uma prova que eles mesmos criaram.",
+            ),
+        ),
+    },
+    76: {
+        "title": "A prisão mais covarde da cidade",
+        "panels": (
+            (
+                "reader/images/pages/page-72.webp",
+                "A plateia tenta cantar mais alto; a Vardo corta o som e exibe o vídeo falso nos drones.",
+            ),
+            (
+                "reader/images/pages/page-64.webp",
+                "Geraldo, ainda em reparo supervisionado, avisa por vídeo: ‘Não assinem nada. Eles querem um bode expiatório.’",
+            ),
+            (
+                "reader/images/pages/page-62.webp",
+                "Clotilde leva a chave da Faze Azul para longe; Isaac pede que ninguém lute por ele.",
+            ),
+            (
+                "reader/images/pages/page-73.webp",
+                "Isaac é levado sem violência física, sob luz vermelha e uma acusação fabricada.",
+            ),
+        ),
+    },
+    77: {
+        "title": "A batida não ficou presa",
+        "panels": (
+            (
+                "reader/images/pages/page-58.webp",
+                "Bia, Nara e Luna transformam as cartas dos fãs em uma linha do tempo da fraude.",
+            ),
+            (
+                "reader/images/pages/page-68.webp",
+                "Elen copia os metadados em três lugares da rede comunitária.",
+            ),
+            (
+                "reader/images/pages/page-60.webp",
+                "Johnny promete ‘advocacia de capa’, e Clotilde responde com um pi-pi de reprovação.",
+            ),
+            (
+                "reader/images/pages/page-69.webp",
+                "Mesmo preso, o refrão de Isaac continua nos telhados: a cidade não esqueceu.",
+            ),
+        ),
+    },
+    78: {
+        "title": "Próxima faixa: alguém novo",
+        "panels": (
+            (
+                "reader/images/pages/page-65.webp",
+                "A Vardo celebra a prisão em seus monitores, sem perceber que a fraude deixou rastros.",
+            ),
+            (
+                "reader/images/pages/page-68.webp",
+                "Elen guarda a prova e diz: ‘Agora precisamos de alguém que saiba entrar onde eles se escondem.’",
+            ),
+            (
+                "reader/images/pages/page-72.webp",
+                "Alan, Johnny, Bia, Nara, Luna e Clotilde olham a cidade: ‘A gente traz o Isaac de volta.’",
+            ),
+            (
+                "reader/images/pages/page-73.webp",
+                "Narração: ‘FIM DO ARCO FAZE AZUL. O PRÓXIMO NOME JÁ ESTÁ A CAMINHO.’",
+            ),
+        ),
+    },
+}
+
 
 @require_GET
 def home(request: HttpRequest) -> HttpResponse:
@@ -30,6 +138,7 @@ def read_arc(request: HttpRequest, arc_slug: str) -> HttpResponse:
             "number": page,
             "filename": f"reader/images/pages/page-{page:02}.webp",
             "chapter": get_chapter_for_page(page),
+            "story": FINALE_PAGES.get(page),
         }
         for page in range(arc.start_page, arc.end_page + 1)
     ]
@@ -63,6 +172,7 @@ def read_page(request: HttpRequest, arc_slug: str, page: int) -> HttpResponse:
             "previous_url": previous_url,
             "next_url": next_url,
             "page_range": range(arc.start_page, arc.end_page + 1),
+            "story": FINALE_PAGES.get(page),
         },
     )
 
