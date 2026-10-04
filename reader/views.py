@@ -4,6 +4,7 @@ from django.urls import reverse
 from django.views.decorators.http import require_GET
 
 from .catalog import ARCS, MANGA, get_arc, get_chapter_for_page
+from .study_catalog import STUDY_GUIDE
 
 
 @require_GET
@@ -98,8 +99,37 @@ def search(request: HttpRequest) -> HttpResponse:
                             "detail": chapter.subtitle,
                         }
                     )
-    context = {"manga": MANGA, "query": query, "category": category, "results": results}
+    if category in {"todos", "estudos"}:
+        study_text = f"{STUDY_GUIDE['title']} {STUDY_GUIDE['detail']} {' '.join(STUDY_GUIDE['topics'])}".casefold()
+        if not query or query.casefold() in study_text:
+            results.append(
+                {
+                    "kind": "Trilha de estudos",
+                    "title": STUDY_GUIDE["title"],
+                    "url": reverse("reader:studies"),
+                    "detail": STUDY_GUIDE["detail"],
+                }
+            )
+    titles = {
+        "todos": "Explore o catálogo",
+        "livros": "Livros",
+        "hq": "HQs e arcos",
+        "jogos": "Jogos",
+        "estudos": "Estudos",
+    }
+    context = {
+        "manga": MANGA,
+        "query": query,
+        "category": category,
+        "category_title": titles[category],
+        "results": results,
+    }
     return render(request, "reader/search.html", context)
+
+
+@require_GET
+def studies(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/studies.html", {"manga": MANGA})
 
 
 @require_GET
@@ -111,6 +141,7 @@ def robots(_: HttpRequest) -> HttpResponse:
 @require_GET
 def sitemap(request: HttpRequest) -> HttpResponse:
     urls = [request.build_absolute_uri(reverse("reader:home"))]
+    urls.append(request.build_absolute_uri(reverse("reader:studies")))
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
     urls.extend(
         request.build_absolute_uri(reverse("reader:read_arc", args=(arc.slug,))) for arc in ARCS

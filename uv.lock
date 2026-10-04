@@ -35,7 +35,7 @@ wheels = [
 ]
 
 [[package]]
-name = "homus-bananus-manga"
+name = "voidwielder"
 version = "1.0.0"
 source = { virtual = "." }
 dependencies = [

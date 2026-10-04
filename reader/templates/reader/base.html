@@ -5,23 +5,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0d0d12">
-  <meta name="description" content="{% block description %}{{ manga.description }}{% endblock %}">
+  <meta name="description" content="{% block description %}Voidwielder reúne HQs, livros, jogos e materiais de estudo em um só lugar.{% endblock %}">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{% block og_title %}{{ manga.title }}{% endblock %}">
-  <meta property="og:description" content="{{ manga.description }}">
-  <meta property="og:image" content="{% static manga.cover %}">
-  <title>{% block title %}{{ manga.title }}{% endblock %}</title>
+  <meta property="og:title" content="{% block og_title %}Voidwielder{% endblock %}">
+  <meta property="og:description" content="{% block og_description %}HQs, livros, jogos e materiais de estudo em um só lugar.{% endblock %}">
+  {% block og_image %}<meta property="og:image" content="{% static manga.cover %}">{% endblock %}
+  <title>{% block title %}Voidwielder{% endblock %}</title>
   <link rel="canonical" href="{{ request.build_absolute_uri }}">
-  <link rel="stylesheet" href="{% static 'reader/css/site.css' %}">
-  <script src="{% static 'reader/js/site.js' %}" defer></script>
+  <link rel="stylesheet" href="{% static 'reader/css/site.css' %}?v=9">
+  <link rel="stylesheet" href="{% static 'reader/css/library.css' %}?v=9">
+  <link rel="stylesheet" href="{% static 'reader/css/portal.css' %}?v=9">
+  <script src="{% static 'reader/js/site.js' %}?v=9" defer></script>
   {% block structured_data %}{% endblock %}
 </head>
 <body>
   <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
   <header class="site-header">
     <a class="brand" href="{% url 'reader:home' %}" aria-label="Página inicial">
-      <span class="brand-mark" aria-hidden="true">HB</span>
-      <span>Homus Bananus</span>
+      <span class="brand-mark" aria-hidden="true">V</span>
+      <span>Voidwielder</span>
     </a>
     <div class="header-actions">
       <button class="icon-button" type="button" data-search-open aria-label="Abrir pesquisa">
@@ -34,29 +36,28 @@
   </header>
 
   <nav class="drawer" id="main-menu" data-menu hidden aria-label="Menu principal">
-    <div class="drawer-head"><strong>Explorar</strong><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
-    <a href="{% url 'reader:home' %}">Início</a>
-    <div class="drawer-categories" aria-label="Buscar por categoria">
-      <a href="{% url 'reader:search' %}?tipo=livros">Livros</a>
-      <a href="{% url 'reader:search' %}?tipo=hq">HQs</a>
-      <a href="{% url 'reader:search' %}?tipo=jogos">Jogos</a>
-      <a href="{% url 'reader:search' %}?tipo=estudos">Estudos</a>
+    <div class="drawer-head"><div><span class="drawer-kicker">Biblioteca</span><strong>Explorar</strong></div><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
+    <a class="drawer-home" href="{% url 'reader:home' %}">Início</a>
+    <p class="drawer-label">Escolha uma área</p>
+    <div class="drawer-categories">
+      <a href="{% url 'reader:search' %}?tipo=livros"><span class="drawer-glyph" aria-hidden="true">L</span><span><strong>Livros</strong><small>Leituras disponíveis</small></span><span aria-hidden="true">›</span></a>
+      <a href="{% url 'reader:search' %}?tipo=hq"><span class="drawer-glyph" aria-hidden="true">HQ</span><span><strong>HQs</strong><small>Arcos e capítulos</small></span><span aria-hidden="true">›</span></a>
+      <a href="{% url 'reader:search' %}?tipo=jogos"><span class="drawer-glyph" aria-hidden="true">J</span><span><strong>Jogos</strong><small>Projetos e experiências</small></span><span aria-hidden="true">›</span></a>
+      <a href="{% url 'reader:studies' %}"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilha de programação</small></span><span aria-hidden="true">›</span></a>
     </div>
-    <p class="drawer-label">Arcos da HQ</p>
-    {% for nav_arc in arcs %}<a href="{% url 'reader:arc' nav_arc.slug %}">Arco {{ nav_arc.number }} · {{ nav_arc.title }}</a>{% endfor %}
-    <a href="{% url 'reader:search' %}">Pesquisar todo o catálogo</a>
+    <a class="drawer-all" href="{% url 'reader:search' %}">Pesquisar todo o catálogo</a>
   </nav>
   <div class="backdrop" data-backdrop hidden></div>
 
   <dialog class="search-dialog" data-search-dialog>
     <form class="search-form" action="{% url 'reader:search' %}" method="get" role="search">
       <label for="global-search">Pesquisar no catálogo</label>
-      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="Arco, capítulo ou personagem…"><button type="submit">Buscar</button></div>
+      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="HQ, livro, jogo ou estudo…"><button type="submit">Buscar</button></div>
       <button class="dialog-close" type="button" data-search-close>Fechar</button>
     </form>
   </dialog>
 
   <main id="conteudo">{% block content %}{% endblock %}</main>
-  <footer><p>Homus Bananus: Guerra do Absurdo · Mangá de comédia e ação.</p></footer>
+  <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
 </body>
 </html>

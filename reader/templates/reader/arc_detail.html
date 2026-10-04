@@ -1,5 +1,5 @@
 {% extends 'reader/base.html' %}{% load static %}
-{% block title %}{{ arc.title }} · {{ manga.title }}{% endblock %}
+{% block title %}{{ arc.title }} · Voidwielder{% endblock %}
 {% block description %}{{ arc.description }}{% endblock %}
 {% block content %}
 <section class="arc-hero"><img src="{% static arc.cover %}" alt="Arte de título de {{ arc.title }}" fetchpriority="high"><div class="hero-shade"></div><div class="hero-copy"><p class="eyebrow">Arco {{ arc.number }} · páginas {{ arc.start_page }}–{{ arc.end_page }}</p><h1>{{ arc.title }}</h1><p>{{ arc.description }}</p><a class="primary-button" href="{% url 'reader:read_arc' arc.slug %}">Ler como livro</a></div></section>

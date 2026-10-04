@@ -1,7 +1,7 @@
 [project]
-name = "homus-bananus-manga"
+name = "voidwielder"
 version = "1.0.0"
-description = "Leitor web do mangá Homus Bananus: Guerra do Absurdo"
+description = "Portal de HQs, livros, jogos e materiais de estudos em Django"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

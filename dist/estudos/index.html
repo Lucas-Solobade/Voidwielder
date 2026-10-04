@@ -1,0 +1,179 @@
+
+<!doctype html>
+<html lang="pt-BR" data-static-export>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0d0d12">
+  <meta name="description" content="Roteiro de estudos para iniciantes: seis semanas de lógica e Python, com exercícios e projeto final de jogo da forca.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Lógica de Programação e Algoritmos · Voidwielder">
+  <meta property="og:description" content="Seis semanas para aprender lógica, Python e construir um jogo da forca.">
+  <title>Lógica de Programação e Algoritmos · Voidwielder</title>
+  <link rel="canonical" href="https://voidwielder.alves-lucas0200.chatgpt.site/estudos/">
+  <link rel="stylesheet" href="/static/reader/css/site.css?v=9">
+  <link rel="stylesheet" href="/static/reader/css/portal.css?v=9">
+  <link rel="stylesheet" href="/static/reader/css/library.css?v=9">
+  <script src="/static/reader/js/site.js?v=9" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Página inicial">
+      <span class="brand-mark" aria-hidden="true">V</span>
+      <span>Voidwielder</span>
+    </a>
+    <div class="header-actions">
+      <button class="icon-button" type="button" data-search-open aria-label="Abrir pesquisa">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg>
+      </button>
+      <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="main-menu">
+        <span class="sr-only">Abrir menu</span><span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="drawer" id="main-menu" data-menu hidden aria-label="Menu principal">
+    <div class="drawer-head"><div><span class="drawer-kicker">Biblioteca</span><strong>Explorar</strong></div><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
+    <a class="drawer-home" href="/">Início</a>
+    <p class="drawer-label">Escolha uma área</p>
+    <div class="drawer-categories">
+      <a href="/buscar/?tipo=livros"><span class="drawer-glyph" aria-hidden="true">L</span><span><strong>Livros</strong><small>Leituras disponíveis</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=hq"><span class="drawer-glyph" aria-hidden="true">HQ</span><span><strong>HQs</strong><small>Arcos e capítulos</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=jogos"><span class="drawer-glyph" aria-hidden="true">J</span><span><strong>Jogos</strong><small>Projetos e experiências</small></span><span aria-hidden="true">›</span></a>
+      <a href="/estudos/"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilha de programação</small></span><span aria-hidden="true">›</span></a>
+    </div>
+    <a class="drawer-all" href="/buscar/">Pesquisar todo o catálogo</a>
+  </nav>
+  <div class="backdrop" data-backdrop hidden></div>
+
+  <dialog class="search-dialog" data-search-dialog>
+    <form class="search-form" action="/buscar/" method="get" role="search">
+      <label for="global-search">Pesquisar no catálogo</label>
+      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="HQ, livro, jogo ou estudo…"><button type="submit">Buscar</button></div>
+      <button class="dialog-close" type="button" data-search-close>Fechar</button>
+    </form>
+  </dialog>
+
+  <main id="conteudo"><div class="study-page">
+  <header class="study-hero">
+    <div class="study-hero-inner">
+      <p class="eyebrow">Estudos / Trilha para iniciantes</p>
+      <h1>Lógica de Programação<br><span>e Algoritmos</span></h1>
+      <p class="study-lead">Comece do zero, aprenda a pensar em passos e termine construindo seu próprio jogo da forca em Python. O caminho acompanha os assuntos das aulas 1 a 6, com prática em cada etapa.</p>
+      <div class="study-facts" aria-label="Resumo da trilha"><span>6 semanas</span><span>4 encontros por semana</span><span>45–60 min por encontro</span><span>Projeto final</span></div>
+      <a class="study-start" href="#plano">Ver plano de estudo <span aria-hidden="true">↓</span></a>
+    </div>
+  </header>
+
+  <div class="study-layout" id="plano">
+    <aside class="study-sidebar" aria-label="Navegação da trilha">
+      <div class="study-sidebar-card">
+        <p class="study-sidebar-label">Sua trilha</p>
+        <strong>Do primeiro algoritmo ao primeiro jogo</strong>
+        <p class="study-progress" data-study-progress aria-live="polite">0 de 6 etapas concluídas</p>
+        <div class="study-progress-track" role="progressbar" aria-label="Progresso da trilha" aria-valuemin="0" aria-valuemax="6" aria-valuenow="0" data-study-progress-bar><span></span></div>
+        <nav class="study-nav" aria-label="Semanas">
+          <a href="#semana-1"><span>01</span> Fundamentos</a>
+          <a href="#semana-2"><span>02</span> Primeiros programas</a>
+          <a href="#semana-3"><span>03</span> Decisões</a>
+          <a href="#semana-4"><span>04</span> Repetições</a>
+          <a href="#semana-5"><span>05</span> Funções</a>
+          <a href="#semana-6"><span>06</span> Estruturas de dados</a>
+          <a href="#projeto-final"><span>★</span> Projeto final</a>
+        </nav>
+      </div>
+    </aside>
+
+    <div class="study-main">
+      <section class="study-intro-card" aria-labelledby="como-estudar">
+        <p class="eyebrow">Antes de começar</p>
+        <h2 id="como-estudar">Um ritmo que cabe na semana</h2>
+        <p>Use quatro encontros curtos por semana: <strong>1.</strong> leia os conceitos e escreva um resumo; <strong>2.</strong> reproduza exemplos digitando o código; <strong>3.</strong> resolva os desafios sem copiar; <strong>4.</strong> revise, corrija os erros e explique a solução em voz alta. Se precisar de mais tempo, avance só depois de cumprir o critério da etapa.</p>
+        <div class="study-note"><strong>Prepare o ambiente:</strong> um editor de código e Python 3 bastam. Um notebook Python também serve para os primeiros exercícios. Guarde seus programas em pastas chamadas <code>semana-01</code> a <code>semana-06</code>.</div>
+      </section>
+
+      <section class="study-week" id="semana-1" aria-labelledby="titulo-semana-1">
+        <div class="study-week-head"><span class="study-week-number">01</span><div><p class="study-source">Aula 1 · Fundamentos</p><h2 id="titulo-semana-1">Aprenda a pensar como quem programa</h2><p>Antes de escrever código, transforme problemas em instruções claras.</p></div></div>
+        <div class="study-columns"><div><h3>O que estudar</h3><ul><li>Lógica, algoritmo e sequência de passos.</li><li>Entrada, processamento e saída; como um computador executa programas.</li><li>Descrição narrativa, pseudocódigo e fluxograma.</li><li>O papel de uma linguagem de programação e por que começar com Python.</li></ul></div><div><h3>Pratique</h3><ol><li>Escreva um algoritmo para preparar um sanduíche, prevendo quantidades e ordem.</li><li>Desenhe o fluxo de um caixa que recebe dois valores e mostra a soma.</li><li>Faça um teste de mesa: siga os passos com valores diferentes e anote a saída.</li></ol></div></div>
+        <div class="study-deliverable"><strong>Entregável:</strong> um fluxograma e um pseudocódigo legíveis para um problema simples.</div>
+        <details class="study-check"><summary>Posso avançar?</summary><p>Você consegue explicar a diferença entre algoritmo e programa, apontar entrada/processamento/saída e seguir um fluxograma sem adivinhar etapas.</p></details>
+        <label class="study-done"><input type="checkbox" data-study-step="1"> Marcar semana 1 como concluída</label>
+      </section>
+
+      <section class="study-week" id="semana-2" aria-labelledby="titulo-semana-2">
+        <div class="study-week-head"><span class="study-week-number">02</span><div><p class="study-source">Aula 2 · Python básico</p><h2 id="titulo-semana-2">Faça o computador conversar com você</h2><p>Escreva programas sequenciais e acompanhe o valor de cada variável.</p></div></div>
+        <div class="study-columns"><div><h3>O que estudar</h3><ul><li><code>print()</code>, <code>input()</code>, variáveis e tipos <code>int</code>, <code>float</code>, <code>str</code> e <code>bool</code>.</li><li>Atribuição, operadores aritméticos e precedência.</li><li>Conversão de entrada com <code>int()</code> e <code>float()</code>.</li><li>Strings, índices, fatiamento, <code>len()</code> e f-strings.</li></ul></div><div><h3>Pratique</h3><ol><li>Faça uma calculadora que leia dois números e mostre soma, diferença e produto.</li><li>Crie um conversor de temperatura e uma conta de compras com quantidade e preço.</li><li>Teste os programas com zero, decimais e entradas inesperadas. Anote o que aconteceu.</li></ol></div></div>
+        <pre class="study-code"><code>preco = float(input("Preço: "))
+quantidade = int(input("Quantidade: "))
+total = preco * quantidade
+print(f"Total: R$ {total:.2f}")</code></pre>
+        <div class="study-deliverable"><strong>Entregável:</strong> três programas pequenos e uma tabela de teste com entradas e saídas.</div>
+        <details class="study-check"><summary>Posso avançar?</summary><p>Você prevê o resultado de uma expressão, distingue texto de número e sabe por que <code>input()</code> precisa de conversão antes de uma conta.</p></details>
+        <label class="study-done"><input type="checkbox" data-study-step="2"> Marcar semana 2 como concluída</label>
+      </section>
+
+      <section class="study-week" id="semana-3" aria-labelledby="titulo-semana-3">
+        <div class="study-week-head"><span class="study-week-number">03</span><div><p class="study-source">Aula 3 · Condições</p><h2 id="titulo-semana-3">Ensine o programa a decidir</h2><p>Escolha caminhos sem duplicar instruções.</p></div></div>
+        <div class="study-columns"><div><h3>O que estudar</h3><ul><li>Comparações: <code>==</code>, <code>!=</code>, <code>&lt;</code>, <code>&gt;</code>, <code>&lt;=</code> e <code>&gt;=</code>.</li><li><code>if</code>, <code>else</code> e <code>elif</code>; indentação em Python.</li><li>Expressões booleanas com <code>and</code>, <code>or</code> e <code>not</code>.</li><li>Condições aninhadas e escolha da forma mais simples.</li></ul></div><div><h3>Pratique</h3><ol><li>Classifique um número como par ou ímpar e teste valores negativos e zero.</li><li>Monte um menu de frutas que calcula o preço pela escolha e quantidade.</li><li>Crie regras de aprovação para três notas; compare sua resposta com uma tabela de casos.</li></ol></div></div>
+        <pre class="study-code"><code>if opcao == 1:
+    preco = 2.30
+elif opcao == 2:
+    preco = 3.60
+elif opcao == 3:
+    preco = 1.85
+else:
+    print("Opção inválida")</code></pre>
+        <div class="study-deliverable"><strong>Entregável:</strong> menu com escolhas válidas e mensagem para opção inválida.</div>
+        <details class="study-check"><summary>Posso avançar?</summary><p>Você explica por que só um ramo de <code>if/elif/else</code> é executado e consegue testar os limites de cada condição.</p></details>
+        <label class="study-done"><input type="checkbox" data-study-step="3"> Marcar semana 3 como concluída</label>
+      </section>
+
+      <section class="study-week" id="semana-4" aria-labelledby="titulo-semana-4">
+        <div class="study-week-head"><span class="study-week-number">04</span><div><p class="study-source">Aula 4 · Laços</p><h2 id="titulo-semana-4">Repita sem se perder</h2><p>Controle o início, a atualização e a parada de uma repetição.</p></div></div>
+        <div class="study-columns"><div><h3>O que estudar</h3><ul><li><code>while</code> para repetir enquanto uma condição for verdadeira.</li><li>Contadores, acumuladores, validação de entrada, <code>break</code> e <code>continue</code>.</li><li><code>for</code>, <code>range()</code> e varredura de strings.</li><li>Laços aninhados para tabelas e combinações.</li></ul></div><div><h3>Pratique</h3><ol><li>Leia um número até receber um inteiro positivo.</li><li>Calcule a média de cinco notas com acumulador.</li><li>Imprima a tabuada de 1 a 10 usando dois laços; depois explique quantas vezes cada bloco roda.</li></ol></div></div>
+        <div class="study-deliverable"><strong>Entregável:</strong> tabuada completa e um programa que rejeita entrada fora da regra.</div>
+        <details class="study-check"><summary>Posso avançar?</summary><p>Você identifica uma condição de parada, evita laços infinitos e escolhe entre <code>while</code> e <code>for</code> com justificativa.</p></details>
+        <label class="study-done"><input type="checkbox" data-study-step="4"> Marcar semana 4 como concluída</label>
+      </section>
+
+      <section class="study-week" id="semana-5" aria-labelledby="titulo-semana-5">
+        <div class="study-week-head"><span class="study-week-number">05</span><div><p class="study-source">Aula 5 · Funções</p><h2 id="titulo-semana-5">Organize o que você já sabe</h2><p>Divida um problema em partes pequenas que podem ser testadas separadamente.</p></div></div>
+        <div class="study-columns"><div><h3>O que estudar</h3><ul><li><code>def</code>, parâmetros, argumentos opcionais e <code>return</code>.</li><li>Escopo local e global; prefira passar dados por parâmetros.</li><li>Erros de sintaxe e de execução; <code>try/except</code> para entradas inválidas.</li><li>Funções <code>lambda</code> como leitura complementar, depois de dominar <code>def</code>.</li></ul></div><div><h3>Pratique</h3><ol><li>Transforme sua calculadora da semana 2 em funções de entrada, cálculo e exibição.</li><li>Escreva uma função que valida o tamanho de uma palavra e retorna <code>True</code> ou <code>False</code>.</li><li>Trate <code>ValueError</code> ao converter uma entrada e tente novamente sem encerrar o programa.</li></ol></div></div>
+        <pre class="study-code"><code>def dentro_do_limite(texto, minimo, maximo):
+    tamanho = len(texto)
+    return minimo &lt;= tamanho &lt;= maximo</code></pre>
+        <div class="study-deliverable"><strong>Entregável:</strong> um programa anterior refeito com funções curtas e sem repetir a mesma lógica.</div>
+        <details class="study-check"><summary>Posso avançar?</summary><p>Você distingue <code>print()</code> de <code>return</code>, sabe de onde vem cada variável e testa uma função com entradas diferentes.</p></details>
+        <label class="study-done"><input type="checkbox" data-study-step="5"> Marcar semana 5 como concluída</label>
+      </section>
+
+      <section class="study-week" id="semana-6" aria-labelledby="titulo-semana-6">
+        <div class="study-week-head"><span class="study-week-number">06</span><div><p class="study-source">Aula 6 · Coleções</p><h2 id="titulo-semana-6">Trabalhe com vários dados</h2><p>Escolha uma estrutura adequada para cada informação do programa.</p></div></div>
+        <div class="study-columns"><div><h3>O que estudar</h3><ul><li>Tuplas imutáveis, listas mutáveis e seus índices.</li><li>Listas de listas e dados relacionados.</li><li>Dicionários com chaves, valores e pares <code>chave:valor</code>.</li><li>Métodos de string como <code>lower()</code>, <code>strip()</code>, <code>split()</code> e <code>replace()</code>.</li></ul></div><div><h3>Pratique</h3><ol><li>Crie uma lista de compras e permita adicionar e consultar itens.</li><li>Registre nome, quantidade e preço de produtos em dicionários.</li><li>Normalize palavras digitadas com <code>strip().lower()</code> e compare os resultados.</li></ol></div></div>
+        <div class="study-deliverable"><strong>Entregável:</strong> cadastro simples com uma lista de dicionários, além de exemplos próprios de tupla e string.</div>
+        <details class="study-check"><summary>Posso avançar?</summary><p>Você decide quando usar lista, tupla ou dicionário, acessa dados com índice ou chave e explica por que uma string não é alterada no lugar.</p></details>
+        <label class="study-done"><input type="checkbox" data-study-step="6"> Marcar semana 6 como concluída</label>
+      </section>
+
+      <section class="study-final" id="projeto-final" aria-labelledby="titulo-projeto">
+        <p class="eyebrow">Projeto final</p>
+        <h2 id="titulo-projeto">Construa seu jogo da forca</h2>
+        <p>O projeto enviado junto com a aula 6 reúne quase tudo da trilha. Faça uma versão sua, em etapas, sem copiar a solução pronta:</p>
+        <ol>
+          <li>Guarde palavras em uma lista e escolha uma palavra para a rodada.</li>
+          <li>Mostre uma posição oculta para cada letra e receba uma tentativa por vez.</li>
+          <li>Use uma lista para impedir tentativas repetidas; acerte letras ou conte até seis erros.</li>
+          <li>Separe entrada, exibição e regra de vitória em funções.</li>
+          <li>Adicione um menu para jogar novamente e mostre a pontuação da sessão.</li>
+        </ol>
+        <p class="study-extra"><strong>Desafio extra:</strong> depois de dominar as seis aulas, estude leitura e escrita de arquivos para guardar palavras e pontuações entre sessões. Esse passo aparece no projeto de referência, mas vai além do núcleo desta trilha.</p>
+        <div class="study-finish"><strong>Você terminou quando...</strong><span>o jogo aceita letras válidas, não pune letra repetida, encerra em vitória ou derrota e você consegue explicar cada função sem consultar o código.</span></div>
+      </section>
+    </div>
+  </div>
+</div>
+</main>
+  <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
+</body>
+</html>

@@ -17,6 +17,7 @@ django.setup()
 from django.test import Client  # noqa: E402
 
 from reader.catalog import ARCS  # noqa: E402
+from reader.study_catalog import STUDY_GUIDE  # noqa: E402
 
 DIST_DIR = BASE_DIR / "dist"
 STATIC_SOURCE = BASE_DIR / "reader" / "static" / "reader"
@@ -35,6 +36,8 @@ def write_page(client: Client, path: str) -> None:
     html = response.content.decode("utf-8").replace(
         '<html lang="pt-BR">', '<html lang="pt-BR" data-static-export>'
     )
+    origin = os.getenv("SITE_ORIGIN", "https://example.invalid").rstrip("/")
+    html = html.replace(f"http://testserver{path}", f"{origin}{path}")
     destination = destination_for(path)
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(html, encoding="utf-8")
@@ -61,6 +64,15 @@ def build_catalog() -> list[dict[str, str | int]]:
         }
         for arc in ARCS
         for chapter in arc.chapters
+    ] + [
+        {
+            "category": "estudos",
+            "kind": "Trilha de estudos",
+            "title": STUDY_GUIDE["title"],
+            "detail": STUDY_GUIDE["detail"],
+            "url": "/estudos/",
+            "topics": " ".join(STUDY_GUIDE["topics"]),
+        }
     ]
 
 
@@ -72,7 +84,7 @@ def main() -> None:
     )
 
     client = Client()
-    routes = ["/", "/buscar/"]
+    routes = ["/", "/buscar/", "/estudos/"]
     routes.extend(f"/arcos/{arc.slug}/" for arc in ARCS)
     routes.extend(f"/ler/arco/{arc.slug}/" for arc in ARCS)
     routes.extend(

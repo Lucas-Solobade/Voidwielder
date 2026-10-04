@@ -1,5 +1,5 @@
 {% extends 'reader/base.html' %}{% load static %}
-{% block title %}Página {{ page_number }} · {{ chapter.title }}{% endblock %}
+{% block title %}Página {{ page_number }} · {{ chapter.title }} · Voidwielder{% endblock %}
 {% block description %}Leia a página {{ page_number }} de {{ manga.title }}, capítulo {{ chapter.title }}.{% endblock %}
 {% block content %}
 <section class="reader" data-reader data-page="{{ page_number }}" data-arc="{{ arc.slug }}">

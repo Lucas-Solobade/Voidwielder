@@ -43,7 +43,12 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
   const form = document.querySelector('.search-form-page');
   const input = document.querySelector('#page-search');
   const query = new URLSearchParams(window.location.search).get('q')?.trim() || '';
-  const category = new URLSearchParams(window.location.search).get('tipo') || 'todos';
+  const requestedCategory = new URLSearchParams(window.location.search).get('tipo') || 'todos';
+  const category = ['todos', 'livros', 'hq', 'jogos', 'estudos'].includes(requestedCategory) ? requestedCategory : 'todos';
+  const categoryTitle = document.querySelector('[data-category-title]');
+  if (categoryTitle) categoryTitle.textContent = {
+    todos: 'Explore o catálogo', livros: 'Livros', hq: 'HQs e arcos', jogos: 'Jogos', estudos: 'Estudos',
+  }[category];
   if (input) input.value = query;
   document.querySelectorAll('.category-tabs a').forEach((link) => {
     const linkCategory = new URL(link.href).searchParams.get('tipo') || 'todos';
@@ -67,7 +72,7 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
       })
       .then((records) => {
         const needle = query.toLocaleLowerCase('pt-BR');
-        const results = records.filter((record) => (category === 'todos' || record.category === category) && `${record.title} ${record.detail} ${record.number || ''}`.toLocaleLowerCase('pt-BR').includes(needle));
+        const results = records.filter((record) => (category === 'todos' || record.category === category) && `${record.title} ${record.detail} ${record.topics || ''} ${record.number || ''}`.toLocaleLowerCase('pt-BR').includes(needle));
         const heading = document.createElement('h2');
         heading.textContent = `${results.length} resultado${results.length === 1 ? '' : 's'}${query ? ` para “${query}”` : ''}`;
         staticSearch.append(heading);
@@ -89,10 +94,39 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
         } else {
           const empty = document.createElement('p');
           empty.className = 'empty-state';
-          empty.textContent = ['livros', 'jogos', 'estudos'].includes(category) ? 'Ainda não há títulos nesta categoria.' : 'Nada encontrado. Tente outro título, arco ou capítulo.';
+          empty.textContent = ['livros', 'jogos'].includes(category) ? 'Ainda não há títulos nesta categoria.' : 'Nada encontrado. Tente outro título ou assunto.';
           list.append(empty);
         }
         staticSearch.append(list);
       })
       .catch(() => { staticSearch.textContent = 'Não foi possível carregar o catálogo. Tente novamente.'; });
+}
+
+const studySteps = [...document.querySelectorAll('[data-study-step]')];
+if (studySteps.length) {
+  const storageKey = 'voidwielder-study-progress-v1';
+  let completed = [];
+  try {
+    const stored = JSON.parse(localStorage.getItem(storageKey) || localStorage.getItem('homus-bananus-study-progress-v1') || '[]');
+    if (Array.isArray(stored)) completed = stored.filter((step) => studySteps.some((input) => input.dataset.studyStep === step));
+  } catch { /* Reading progress is optional. */ }
+  const progressText = document.querySelector('[data-study-progress]');
+  const progressBar = document.querySelector('[data-study-progress-bar]');
+  const updateProgress = () => {
+    const count = studySteps.filter((input) => input.checked).length;
+    if (progressText) progressText.textContent = `${count} de ${studySteps.length} etapas concluídas`;
+    if (progressBar) {
+      progressBar.setAttribute('aria-valuenow', String(count));
+      progressBar.querySelector('span').style.width = `${(count / studySteps.length) * 100}%`;
+    }
+  };
+  studySteps.forEach((input) => {
+    input.checked = completed.includes(input.dataset.studyStep);
+    input.addEventListener('change', () => {
+      completed = studySteps.filter((step) => step.checked).map((step) => step.dataset.studyStep);
+      try { localStorage.setItem(storageKey, JSON.stringify(completed)); } catch { /* Keep checkboxes usable without storage. */ }
+      updateProgress();
+    });
+  });
+  updateProgress();
 }

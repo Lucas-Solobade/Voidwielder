@@ -1,6 +1,8 @@
-# Homus Bananus: Guerra do Absurdo
+# Voidwielder
 
-Leitor responsivo em Django para o mangá, com 96 páginas canônicas divididas em quatro arcos e leitura contínua por arco.
+Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O catálogo atual inclui a HQ *Homus Bananus: Guerra do Absurdo*, com 96 páginas em quatro arcos, e uma trilha de seis semanas de Lógica de Programação e Algoritmos.
+
+As categorias de livros e jogos já têm navegação e pesquisa próprias. Novos itens podem ser adicionados ao catálogo sem alterar o menu principal.
 
 ## Executar com UV
 
@@ -29,7 +31,7 @@ uv run python manage.py collectstatic --noinput
 
 O WhiteNoise entrega os arquivos estáticos com nomes versionados e compressão.
 
-## Cânone utilizado
+## HQ publicada
 
 - Arco 1 — páginas 1–17: `A Invasão Mais Desastrada da Terra`.
 - Arco 2 — páginas 18–50: `O Palco Veludo de Geraldo`.
@@ -46,6 +48,6 @@ O projeto conserva o código Django como fonte. O comando a seguir exporta o cat
 o leitor e as páginas ilustradas para `dist/`, usado na hospedagem pública:
 
 ```bash
-SITE_ORIGIN=https://homus-bananus-guerra-do-absurdo.alves-lucas0200.chatgpt.site \
+SITE_ORIGIN=https://voidwielder.alves-lucas0200.chatgpt.site \
   uv run python scripts/export_static.py
 ```

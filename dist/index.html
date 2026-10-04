@@ -5,23 +5,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0d0d12">
-  <meta name="description" content="Mangá brasileiro de comédia e ação sobre Alan, um alienígena fantasiado de banana, seus rivais improváveis e uma conspiração corporativa perigosamente teatral.">
+  <meta name="description" content="Voidwielder reúne HQs, livros, jogos e materiais de estudo em um só lugar.">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Homus Bananus: Guerra do Absurdo">
-  <meta property="og:description" content="Mangá brasileiro de comédia e ação sobre Alan, um alienígena fantasiado de banana, seus rivais improváveis e uma conspiração corporativa perigosamente teatral.">
-  <meta property="og:image" content="/static/reader/images/covers/main-cover.webp">
-  <title>Homus Bananus: Guerra do Absurdo</title>
-  <link rel="canonical" href="http://testserver/">
-  <link rel="stylesheet" href="/static/reader/css/site.css">
-  <script src="/static/reader/js/site.js" defer></script>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"ComicSeries","name":"Homus Bananus: Guerra do Absurdo","description":"Mangá brasileiro de comédia e ação sobre Alan, um alienígena fantasiado de banana, seus rivais improváveis e uma conspiração corporativa perigosamente teatral.","inLanguage":"pt-BR"}</script>
+  <meta property="og:title" content="Voidwielder">
+  <meta property="og:description" content="HQs, livros, jogos e materiais de estudo em um só lugar.">
+  <title>Voidwielder</title>
+  <link rel="canonical" href="https://voidwielder.alves-lucas0200.chatgpt.site/">
+  <link rel="stylesheet" href="/static/reader/css/site.css?v=9">
+  <link rel="stylesheet" href="/static/reader/css/portal.css?v=9">
+  <link rel="stylesheet" href="/static/reader/css/library.css?v=9">
+  <script src="/static/reader/js/site.js?v=9" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
   <header class="site-header">
     <a class="brand" href="/" aria-label="Página inicial">
-      <span class="brand-mark" aria-hidden="true">HB</span>
-      <span>Homus Bananus</span>
+      <span class="brand-mark" aria-hidden="true">V</span>
+      <span>Voidwielder</span>
     </a>
     <div class="header-actions">
       <button class="icon-button" type="button" data-search-open aria-label="Abrir pesquisa">
@@ -34,37 +34,61 @@
   </header>
 
   <nav class="drawer" id="main-menu" data-menu hidden aria-label="Menu principal">
-    <div class="drawer-head"><strong>Explorar</strong><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
-    <a href="/">Início</a>
-    <div class="drawer-categories" aria-label="Buscar por categoria">
-      <a href="/buscar/?tipo=livros">Livros</a>
-      <a href="/buscar/?tipo=hq">HQs</a>
-      <a href="/buscar/?tipo=jogos">Jogos</a>
-      <a href="/buscar/?tipo=estudos">Estudos</a>
+    <div class="drawer-head"><div><span class="drawer-kicker">Biblioteca</span><strong>Explorar</strong></div><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
+    <a class="drawer-home" href="/">Início</a>
+    <p class="drawer-label">Escolha uma área</p>
+    <div class="drawer-categories">
+      <a href="/buscar/?tipo=livros"><span class="drawer-glyph" aria-hidden="true">L</span><span><strong>Livros</strong><small>Leituras disponíveis</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=hq"><span class="drawer-glyph" aria-hidden="true">HQ</span><span><strong>HQs</strong><small>Arcos e capítulos</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=jogos"><span class="drawer-glyph" aria-hidden="true">J</span><span><strong>Jogos</strong><small>Projetos e experiências</small></span><span aria-hidden="true">›</span></a>
+      <a href="/estudos/"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilha de programação</small></span><span aria-hidden="true">›</span></a>
     </div>
-    <p class="drawer-label">Arcos da HQ</p>
-    <a href="/arcos/invasao-desastrada/">Arco 1 · A Invasão Mais Desastrada da Terra</a><a href="/arcos/palco-veludo-geraldo/">Arco 2 · O Palco Veludo de Geraldo</a><a href="/arcos/faze-azul/">Arco 3 · Faze Azul: O Beat Contra a Vardo</a><a href="/arcos/ultima-poda/">Arco 4 · A Última Poda: O Fim da Vardo</a>
-    <a href="/buscar/">Pesquisar todo o catálogo</a>
+    <a class="drawer-all" href="/buscar/">Pesquisar todo o catálogo</a>
   </nav>
   <div class="backdrop" data-backdrop hidden></div>
 
   <dialog class="search-dialog" data-search-dialog>
     <form class="search-form" action="/buscar/" method="get" role="search">
       <label for="global-search">Pesquisar no catálogo</label>
-      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="Arco, capítulo ou personagem…"><button type="submit">Buscar</button></div>
+      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="HQ, livro, jogo ou estudo…"><button type="submit">Buscar</button></div>
       <button class="dialog-close" type="button" data-search-close>Fechar</button>
     </form>
   </dialog>
 
   <main id="conteudo">
-<section class="hero">
-  <img src="/static/reader/images/covers/main-cover.webp" alt="Alan Banana, Elen, Johnny, Geraldo e a galinha robótica Clotilde diante da Terra" fetchpriority="high" width="1672" height="941">
-  <div class="hero-shade"></div><div class="hero-copy"><p class="eyebrow">Mangá brasileiro · Comédia · Ação</p><h1>Homus Bananus: Guerra do Absurdo</h1><p>Conquistar a Terra era a parte fácil.</p><a class="primary-button" href="/ler/arco/invasao-desastrada/">Começar a ler</a></div>
+<section class="portal-hero" aria-labelledby="portal-title">
+  <div class="portal-hero-inner">
+    <div class="portal-intro">
+      <p class="eyebrow">Biblioteca digital · Voidwielder</p>
+      <h1 id="portal-title">Um universo de ideias para <span>explorar.</span></h1>
+      <p>HQs para acompanhar, materiais para aprender e espaço para novos livros e jogos. Escolha uma área e siga sua curiosidade.</p>
+      <div class="portal-actions"><a class="primary-button" href="/buscar/">Explorar o catálogo <span aria-hidden="true">↗</span></a><a class="portal-secondary" href="/estudos/">Começar a estudar <span aria-hidden="true">→</span></a></div>
+    </div>
+    <div class="portal-orbit" aria-hidden="true"><span>V</span><i></i><i></i><i></i><i></i></div>
+  </div>
 </section>
-<section class="section-shell" aria-labelledby="arcos-title"><div class="section-heading"><div><p class="eyebrow">Biblioteca</p><h2 id="arcos-title">Arcos publicados</h2></div><span>96 páginas</span></div>
-  <div class="arc-grid"><article class="arc-card"><a href="/arcos/invasao-desastrada/"><div class="arc-art"><img src="/static/reader/images/covers/intro-arc.webp" alt="Arte do arco A Invasão Mais Desastrada da Terra" loading="lazy" width="1672" height="941"><span>Arco 1</span></div><div class="arc-copy"><p>17 páginas · 3 capítulos</p><h3>A Invasão Mais Desastrada da Terra</h3><p>Alan, o Homus Bananus, chega à Terra decidido a conquistar tudo — e descobre que romance, vendas e rivalidade são bem mais perigosos que qualquer exército.</p><span class="text-link">Ver capítulos →</span></div></a></article><article class="arc-card"><a href="/arcos/palco-veludo-geraldo/"><div class="arc-art"><img src="/static/reader/images/covers/geraldo-arc.webp" alt="Arte do arco O Palco Veludo de Geraldo" loading="lazy" width="1672" height="941"><span>Arco 2</span></div><div class="arc-copy"><p>33 páginas · 4 capítulos</p><h3>O Palco Veludo de Geraldo</h3><p>Um convite dourado leva a equipe até Geraldo, a Ilha Orfeu e o Projeto Veludo. O golpe vira guerra quando a corporação Vardo decide apagar todos os envolvidos.</p><span class="text-link">Ver capítulos →</span></div></a></article><article class="arc-card"><a href="/arcos/faze-azul/"><div class="arc-art"><img src="/static/reader/images/covers/faze-azul-arc.webp" alt="Arte do arco Faze Azul: O Beat Contra a Vardo" loading="lazy" width="1672" height="941"><span>Arco 3</span></div><div class="arc-copy"><p>28 páginas · 5 capítulos</p><h3>Faze Azul: O Beat Contra a Vardo</h3><p>Depois do escândalo público da Vardo, Isaac transforma recibos, ruas e uma moto azul em música. A corporação reage tentando controlar quem pode ser ouvido — e cobra um preço covarde pela voz que ela não consegue calar.</p><span class="text-link">Ver capítulos →</span></div></a></article><article class="arc-card"><a href="/arcos/ultima-poda/"><div class="arc-art"><img src="/static/reader/images/covers/podador-final-arc.webp" alt="Arte do arco A Última Poda: O Fim da Vardo" loading="lazy" width="1672" height="941"><span>Arco 4</span></div><div class="arc-copy"><p>18 páginas · 4 capítulos</p><h3>A Última Poda: O Fim da Vardo</h3><p>Podador, Luna e a equipe partem para libertar Isaac. Mônica Pig, a alienígena porquinha humanoide que comanda a Vardo, e seu marido Otávio Nox defendem o Projeto Veludo enquanto a cidade aprende a rir do próprio medo.</p><span class="text-link">Ver capítulos →</span></div></a></article></div>
+
+<section class="section-shell portal-section" aria-labelledby="areas-title">
+  <div class="portal-section-head"><div><p class="eyebrow">Navegue por interesse</p><h2 id="areas-title">Encontre seu próximo destino</h2></div><p>Quatro caminhos, um único lugar.</p></div>
+  <div class="portal-categories">
+    <a class="portal-category" href="/buscar/?tipo=hq"><span class="portal-category-icon" aria-hidden="true">▣</span><span class="portal-category-copy"><strong>HQs</strong><small>Histórias, arcos e capítulos</small></span><span class="portal-category-arrow" aria-hidden="true">↗</span></a>
+    <a class="portal-category" href="/buscar/?tipo=livros"><span class="portal-category-icon" aria-hidden="true">▤</span><span class="portal-category-copy"><strong>Livros</strong><small>Uma estante para explorar</small></span><span class="portal-category-arrow" aria-hidden="true">↗</span></a>
+    <a class="portal-category" href="/buscar/?tipo=jogos"><span class="portal-category-icon" aria-hidden="true">◇</span><span class="portal-category-copy"><strong>Jogos</strong><small>Projetos e experiências</small></span><span class="portal-category-arrow" aria-hidden="true">↗</span></a>
+    <a class="portal-category" href="/estudos/"><span class="portal-category-icon" aria-hidden="true">✳</span><span class="portal-category-copy"><strong>Estudos</strong><small>Trilhas e materiais de apoio</small></span><span class="portal-category-arrow" aria-hidden="true">↗</span></a>
+  </div>
+</section>
+
+<section class="section-shell portal-feature-section" aria-labelledby="destaques-title">
+  <div class="portal-section-head"><div><p class="eyebrow">Comece por aqui</p><h2 id="destaques-title">Em destaque</h2></div></div>
+  <div class="portal-features">
+    <article class="portal-feature portal-feature-hq">
+      <div class="portal-feature-image"><img src="/static/reader/images/covers/main-cover.webp" alt="Capa da HQ Homus Bananus: Guerra do Absurdo" loading="lazy" width="1672" height="941"></div>
+      <div class="portal-feature-copy"><p class="eyebrow">HQ · 4 arcos</p><h3>Homus Bananus: Guerra do Absurdo</h3><p>Conquistar a Terra era a parte fácil.</p><a href="/buscar/?tipo=hq">Ver a HQ e seus arcos <span aria-hidden="true">→</span></a></div>
+    </article>
+    <article class="portal-feature portal-feature-study"><div class="portal-study-symbol" aria-hidden="true">{ }</div><div class="portal-feature-copy"><p class="eyebrow">Estudos · Trilha para iniciantes</p><h3>Lógica de Programação e Algoritmos</h3><p>Seis semanas de prática com Python, dos primeiros passos ao projeto de jogo da forca.</p><a href="/estudos/">Abrir roteiro de estudos <span aria-hidden="true">→</span></a></div></article>
+  </div>
 </section>
 </main>
-  <footer><p>Homus Bananus: Guerra do Absurdo · Mangá de comédia e ação.</p></footer>
+  <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
 </body>
 </html>
