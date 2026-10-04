@@ -21,3 +21,9 @@ As notícias de p. 51 fazem a ligação direta com o final do arco Geraldo: a Va
 - Luna é a fã adulta de Isaac que coordena a entrada na Vardo. Ela e Podador desenvolvem afeto por escolha própria, sem que a trama trate controle como romance.
 - Isaac permanece sob custódia até a operação de resgate. Elen preservou os metadados da falsa acusação nas p. 74–78; essa prova, os arquivos Veludo e os testemunhos dos trabalhadores sustentam a exposição pública e a ação das autoridades.
 - O grupo evacua os funcionários antes de desativar os três nós operacionais da Vardo. A corporação cai por ação combinada da equipe, exposição documental e destruição de sua infraestrutura, não por rendição repentina da CEO.
+
+## Estado da revisão visual
+
+- Conferidas e atualizadas nesta rodada: páginas 02, 04–15, 18–32, 51–52, 57, 63–66, 77 e 96, além das capas principal e Faze Azul.
+- A página 51 agora informa que a Vardo foi exposta e segue investigada, em continuidade com os capítulos posteriores.
+- Permanecem páginas com variações de fisionomia, especialmente 16–17, 33–50 e trechos dos arcos Faze Azul e A Última Poda. A geração de imagens atingiu o limite de uso antes do fim da revisão. Não substituir quadros não conferidos: balões, personagens e ações precisam ser verificados em cada página.
