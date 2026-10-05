@@ -4,7 +4,7 @@ from django.urls import reverse
 from django.views.decorators.http import require_GET
 
 from .catalog import ARCS, MANGA, get_arc, get_chapter_for_page
-from .game_catalog import GAME
+from .game_catalog import GAMES
 from .study_catalog import STUDY_GUIDE
 
 
@@ -129,16 +129,17 @@ def search(request: HttpRequest) -> HttpResponse:
                 }
             )
     if category in {"todos", "jogos"}:
-        game_text = f"{GAME['title']} {GAME['detail']} {GAME['topics']}".casefold()
-        if not query or query.casefold() in game_text:
-            results.append(
-                {
-                    "kind": "Jogo",
-                    "title": GAME["title"],
-                    "url": reverse("reader:game"),
-                    "detail": GAME["detail"],
-                }
-            )
+        for game_item in GAMES:
+            game_text = f"{game_item['title']} {game_item['detail']} {game_item['topics']}".casefold()
+            if not query or query.casefold() in game_text:
+                results.append(
+                    {
+                        "kind": "Jogo",
+                        "title": game_item["title"],
+                        "url": game_item["url"],
+                        "detail": game_item["detail"],
+                    }
+                )
     titles = {
         "todos": "Explore o catálogo",
         "livros": "Livros",
@@ -167,6 +168,11 @@ def game(request: HttpRequest) -> HttpResponse:
 
 
 @require_GET
+def playground(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/playground.html")
+
+
+@require_GET
 def robots(_: HttpRequest) -> HttpResponse:
     body = "User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n"
     return HttpResponse(body, content_type="text/plain")
@@ -178,6 +184,7 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls.append(request.build_absolute_uri(reverse("reader:hq")))
     urls.append(request.build_absolute_uri(reverse("reader:studies")))
     urls.append(request.build_absolute_uri(reverse("reader:game")))
+    urls.append(request.build_absolute_uri(reverse("reader:playground")))
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
     urls.extend(
         request.build_absolute_uri(reverse("reader:read_arc", args=(arc.slug,))) for arc in ARCS

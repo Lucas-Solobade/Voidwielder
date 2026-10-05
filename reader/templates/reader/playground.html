@@ -1,0 +1,79 @@
+{% load static %}
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101324">
+  <meta name="description" content="Laboratório do Vazio: programe uma centelha, resolva desafios de lógica e transforme seu caminho em uma constelação no playground do Voidwielder.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Laboratório do Vazio · Voidwielder">
+  <meta property="og:description" content="Uma experiência interativa de lógica: programe seu caminho e crie uma constelação.">
+  <title>Laboratório do Vazio · Voidwielder</title>
+  <link rel="canonical" href="https://voidwielder.alves-lucas0200.chatgpt.site/playground/">
+  <link rel="stylesheet" href="{% static 'reader/playground/lab.css' %}?v=1">
+  <script type="module" src="{% static 'reader/playground/lab.mjs' %}?v=1"></script>
+</head>
+<body>
+  <a class="skip-link" href="#experimento">Pular para o experimento</a>
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="lab-header">
+    <a class="brand" href="/" aria-label="Voltar ao início do Voidwielder"><span class="brand-mark">V</span><span>Voidwielder</span></a>
+    <span class="lab-label"><span class="live-dot"></span> Laboratório do Codex <span class="lab-number">/ EXP. 001</span></span>
+    <a class="header-back" href="/">Voltar ao site <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main id="experimento">
+    <section class="hero" aria-labelledby="lab-title">
+      <div class="hero-copy">
+        <p class="eyebrow">Playground · Um lugar para inventar sem mexer no resto</p>
+        <h1 id="lab-title">O vazio agora <em>obedece a você.</em></h1>
+        <p>Codex criou uma pequena centelha. Você dá a ela um algoritmo. Cada caminho concluído acende uma constelação que só existe porque você a programou.</p>
+      </div>
+      <div class="hero-orbit" aria-hidden="true"><div class="orbit-core">✦</div><i></i><i></i><i></i><i></i></div>
+    </section>
+
+    <section class="experience" aria-label="Jogo de programação de constelações">
+      <aside class="mission-panel" aria-labelledby="mission-title">
+        <p class="panel-kicker">MISSÃO ATIVA <span id="mission-number">01 / 03</span></p>
+        <h2 id="mission-title">Acenda a primeira estrela</h2>
+        <p id="mission-story">A centelha saiu do vazio. Faça uma rota até o farol, recolhendo o sinal no caminho.</p>
+        <div class="mission-concept"><span class="concept-icon" aria-hidden="true">{ }</span><span><small>Você está praticando</small><strong id="mission-concept">Sequência</strong></span></div>
+        <div class="level-list" aria-label="Missões">
+          <button type="button" data-level="0">01 <span>Primeira estrela</span></button>
+          <button type="button" data-level="1">02 <span>Chuva de meteoros</span></button>
+          <button type="button" data-level="2">03 <span>Constelação</span></button>
+        </div>
+        <button class="hint-button" type="button" id="hint-button" aria-expanded="false">Preciso de uma dica <span aria-hidden="true">↗</span></button>
+        <p class="hint" id="hint" hidden></p>
+      </aside>
+
+      <div class="stage-panel">
+        <div class="stage-head"><span><span class="stage-spark" aria-hidden="true">✦</span> MAPA DO VAZIO</span><span id="signal-count">0 / 1 sinal</span></div>
+        <div class="board-wrap"><div class="board" id="board" role="grid" aria-label="Mapa da missão"></div></div>
+        <div class="legend"><span><i class="legend-ship"></i> Centelha</span><span><i class="legend-signal"></i> Sinal</span><span><i class="legend-goal"></i> Farol</span><span><i class="legend-rock"></i> Meteoro</span></div>
+        <p class="stage-status" id="lab-status" role="status" aria-live="polite">Monte um programa à direita e toque em Executar.</p>
+      </div>
+
+      <aside class="console-panel" aria-labelledby="console-title">
+        <div class="console-heading"><span class="window-dots" aria-hidden="true"><i></i><i></i><i></i></span><span>console / centelha</span></div>
+        <h2 id="console-title">Seu algoritmo</h2>
+        <p>Monte uma sequência de comandos. <strong>Repetir 2×</strong> avança duas casas com um único bloco.</p>
+        <div class="command-palette" aria-label="Adicionar comandos">
+          <button type="button" data-op="forward"><span aria-hidden="true">↑</span> Avançar</button>
+          <button type="button" data-op="left"><span aria-hidden="true">↶</span> Girar à esquerda</button>
+          <button type="button" data-op="right"><span aria-hidden="true">↷</span> Girar à direita</button>
+          <button type="button" data-op="forward2"><span aria-hidden="true">⇈</span> Repetir 2×</button>
+        </div>
+        <div class="program-head"><span>PROGRAMA <small id="command-count">0 / 20</small></span><button type="button" id="undo-button">Desfazer</button></div>
+        <ol class="program" id="program" aria-label="Comandos do programa"><li class="program-empty">Seus comandos vão aparecer aqui.</li></ol>
+        <div class="console-actions"><button class="run-button" type="button" id="run-button">▶ Executar programa</button><button class="reset-button" type="button" id="clear-button">Limpar</button></div>
+        <div class="success" id="success" hidden><strong>Constelação criada ✦</strong><p>O caminho virou um desenho no céu. Pode guardar esta descoberta.</p><div><button type="button" id="save-button">Salvar cartão PNG</button><button type="button" id="next-button">Próxima missão →</button></div></div>
+      </aside>
+    </section>
+
+    <section class="about" aria-label="Sobre o playground"><span class="about-mark" aria-hidden="true">✳</span><div><h2>Uma experiência pequena. Um universo de possibilidades.</h2><p>Este experimento vive em uma área própria do Voidwielder. Nada aqui altera seus livros, HQs, estudos ou jogos. Seu progresso fica apenas neste navegador.</p></div><span class="about-number">001 / ∞</span></section>
+  </main>
+  <footer><span>Feito no vazio, com curiosidade. · Voidwielder</span><a href="/">Voltar ao universo ↗</a></footer>
+</body>
+</html>

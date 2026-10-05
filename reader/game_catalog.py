@@ -6,3 +6,12 @@ GAME = {
     "topics": "plataforma infantil constelações aventura",
     "url": "/jogos/pipo-e-o-correio-das-estrelas/",
 }
+
+PLAYGROUND = {
+    "title": "Laboratório do Vazio",
+    "detail": "Programe uma centelha em três desafios de lógica e crie sua própria constelação.",
+    "topics": "laboratório playground programação algoritmos lógica constelação Codex",
+    "url": "/playground/",
+}
+
+GAMES = (GAME, PLAYGROUND)

@@ -31,6 +31,19 @@ def test_game_is_in_catalog_and_has_own_page(client):
     assert "game/main.js" in content
 
 
+def test_playground_is_in_games_and_search(client):
+    games = client.get(reverse("reader:search"), {"tipo": "jogos"}).content.decode()
+    assert "Laboratório do Vazio" in games
+    assert 'href="/playground/"' in games
+
+    search = client.get(reverse("reader:search"), {"tipo": "jogos", "q": "Laboratório"})
+    assert "Laboratório do Vazio" in search.content.decode()
+
+    page = client.get(reverse("reader:playground"))
+    assert page.status_code == 200
+    assert "lab.mjs" in page.content.decode()
+
+
 def test_canonical_page_ranges():
     from reader.catalog import ARCS
 

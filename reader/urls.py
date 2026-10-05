@@ -13,6 +13,7 @@ urlpatterns = [
     path("buscar/", views.search, name="search"),
     path("estudos/", views.studies, name="studies"),
     path("jogos/pipo-e-o-correio-das-estrelas/", views.game, name="game"),
+    path("playground/", views.playground, name="playground"),
     path("robots.txt", views.robots, name="robots"),
     path("sitemap.xml", views.sitemap, name="sitemap"),
 ]
