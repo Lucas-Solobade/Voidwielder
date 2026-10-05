@@ -71,7 +71,7 @@ def write_page(client: Client, path: str) -> None:
     html = response.content.decode("utf-8").replace(
         '<html lang="pt-BR">', '<html lang="pt-BR" data-static-export>'
     )
-    origin = os.getenv("SITE_ORIGIN", "https://example.invalid").rstrip("/")
+    origin = os.getenv("SITE_ORIGIN", "https://voidwielder.alves-lucas0200.chatgpt.site").rstrip("/")
     html = html.replace(f"http://testserver{path}", f"{origin}{path}")
     html = "\n".join(line.rstrip() for line in html.splitlines()) + "\n"
     destination = destination_for(path)
@@ -173,7 +173,7 @@ def main() -> None:
     (DIST_DIR / "robots.txt").write_text(
         "User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n", encoding="utf-8"
     )
-    origin = os.getenv("SITE_ORIGIN", "https://example.invalid").rstrip("/")
+    origin = os.getenv("SITE_ORIGIN", "https://voidwielder.alves-lucas0200.chatgpt.site").rstrip("/")
     (DIST_DIR / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
