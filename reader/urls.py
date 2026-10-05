@@ -12,6 +12,7 @@ urlpatterns = [
     path("ler/<slug:arc_slug>/<int:page>/", views.read_page, name="read"),
     path("buscar/", views.search, name="search"),
     path("estudos/", views.studies, name="studies"),
+    path("jogos/pipo-e-o-correio-das-estrelas/", views.game, name="game"),
     path("robots.txt", views.robots, name="robots"),
     path("sitemap.xml", views.sitemap, name="sitemap"),
 ]

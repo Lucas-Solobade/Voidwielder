@@ -1,0 +1,94 @@
+
+<!doctype html>
+<html lang="pt-BR" data-static-export>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0d0d12">
+  <meta name="description" content="Jogue Pipo e o Correio das Estrelas: um platformer infantil original com três fases, arte em Canvas e controles para teclado ou toque.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Pipo e o Correio das Estrelas · Voidwielder">
+  <meta property="og:description" content="Três mundos coloridos e uma missão: devolver as cartas brilhantes ao céu.">
+  <title>Pipo e o Correio das Estrelas · Jogos · Voidwielder</title>
+  <link rel="canonical" href="https://voidwielder.alves-lucas0200.chatgpt.site/jogos/pipo-e-o-correio-das-estrelas/">
+  <link rel="stylesheet" href="/static/reader/css/site.css?v=11">
+  <link rel="stylesheet" href="/static/reader/css/portal.css?v=11">
+  <link rel="stylesheet" href="/static/reader/css/game.css?v=1">
+  <link rel="stylesheet" href="/static/reader/css/library.css?v=11">
+  <script src="/static/reader/js/site.js?v=11" defer></script>
+  
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Página inicial">
+      <span class="brand-mark" aria-hidden="true">V</span>
+      <span>Voidwielder</span>
+    </a>
+    <div class="header-actions">
+      <button class="icon-button" type="button" data-search-open aria-label="Abrir pesquisa">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg>
+      </button>
+      <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="main-menu">
+        <span class="sr-only">Abrir menu</span><span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="drawer" id="main-menu" data-menu hidden aria-label="Menu principal">
+    <div class="drawer-head"><div><span class="drawer-kicker">Biblioteca</span><strong>Explorar</strong></div><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
+    <a class="drawer-home" href="/">Início</a>
+    <p class="drawer-label">Escolha uma área</p>
+    <div class="drawer-categories">
+      <a href="/buscar/?tipo=livros"><span class="drawer-glyph" aria-hidden="true">L</span><span><strong>Livros</strong><small>Leituras disponíveis</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=hq"><span class="drawer-glyph" aria-hidden="true">HQ</span><span><strong>HQs</strong><small>Arcos e capítulos</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=jogos"><span class="drawer-glyph" aria-hidden="true">J</span><span><strong>Jogos</strong><small>Projetos e experiências</small></span><span aria-hidden="true">›</span></a>
+      <a href="/estudos/"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilha de programação</small></span><span aria-hidden="true">›</span></a>
+    </div>
+    <a class="drawer-all" href="/buscar/">Pesquisar todo o catálogo</a>
+  </nav>
+  <div class="backdrop" data-backdrop hidden></div>
+
+  <dialog class="search-dialog" data-search-dialog>
+    <form class="search-form" action="/buscar/" method="get" role="search">
+      <label for="global-search">Pesquisar no catálogo</label>
+      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="HQ, livro, jogo ou estudo…"><button type="submit">Buscar</button></div>
+      <button class="dialog-close" type="button" data-search-close>Fechar</button>
+    </form>
+  </dialog>
+
+  <main id="conteudo">
+<section class="game-page" aria-labelledby="game-title">
+  <div class="game-heading">
+    <a class="game-back" href="/buscar/?tipo=jogos">← Todos os jogos</a>
+    <p class="eyebrow">Uma aventura original · Voidwielder</p>
+    <h1 id="game-title">Pipo e o <span>Correio das Estrelas</span></h1>
+    <p>As cartas do céu se espalharam. Ajude Pipo a juntá-las antes que o Rabugão das Nuvens transforme a noite em um cochilo sem graça.</p>
+  </div>
+
+  <div class="game-shell" data-game>
+    <div class="game-topbar" aria-live="polite">
+      <span class="game-level" data-level-label>Fase 1 · Jardim Lunar</span>
+      <span class="game-health" data-health-label>♥ ♥ ♥</span>
+      <span class="game-score" data-score-label>✉ 0</span>
+      <button class="game-pause" type="button" data-pause aria-label="Pausar jogo">Pausar</button>
+    </div>
+    <div class="game-viewport">
+      <canvas data-canvas width="960" height="540" aria-label="Jogo de plataforma Pipo e o Correio das Estrelas"></canvas>
+      <div class="game-screen" data-screen>
+        <div class="game-screen-card" data-screen-content></div>
+      </div>
+    </div>
+    <div class="game-touch" aria-label="Controles por toque">
+      <div class="game-touch-move"><button type="button" data-touch="left" aria-label="Mover para a esquerda">←</button><button type="button" data-touch="right" aria-label="Mover para a direita">→</button></div>
+      <div class="game-touch-actions"><button type="button" data-touch="special" aria-label="Sopro de estrelas">✧<small>Sopro</small></button><button type="button" data-touch="jump" aria-label="Pular">↑<small>Pular</small></button></div>
+    </div>
+  </div>
+  <div class="game-guide"><span><kbd>A</kbd> <kbd>D</kbd> ou <kbd>←</kbd> <kbd>→</kbd> mover</span><span><kbd>Espaço</kbd> pular</span><span><kbd>X</kbd> sopro de estrelas</span><span><kbd>Esc</kbd> pausar</span></div>
+  <p class="game-note">Junte cartas para marcar pontos. O sopro atordoa criaturas e pode acordar o Rabugão na hora certa. Seu progresso entre fases fica salvo neste navegador.</p>
+</section>
+</main>
+  <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
+<script type="module" src="/static/reader/js/game/main.js?v=1"></script>
+</body>
+</html>

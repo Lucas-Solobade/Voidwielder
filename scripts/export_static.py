@@ -17,6 +17,7 @@ django.setup()
 from django.test import Client  # noqa: E402
 
 from reader.catalog import ARCS, MANGA  # noqa: E402
+from reader.game_catalog import GAME  # noqa: E402
 from reader.study_catalog import STUDY_GUIDE  # noqa: E402
 
 DIST_DIR = BASE_DIR / "dist"
@@ -80,6 +81,12 @@ def build_catalog() -> list[dict[str, str | int]]:
             "url": "/estudos/",
             "topics": " ".join(STUDY_GUIDE["topics"]),
         }
+    ] + [
+        {
+            "category": "jogos",
+            "kind": "Jogo",
+            **GAME,
+        }
     ]
 
 
@@ -91,7 +98,7 @@ def main() -> None:
     )
 
     client = Client()
-    routes = ["/", "/buscar/", "/estudos/", "/hqs/homus-bananus/"]
+    routes = ["/", "/buscar/", "/estudos/", "/hqs/homus-bananus/", "/jogos/pipo-e-o-correio-das-estrelas/"]
     routes.extend(f"/arcos/{arc.slug}/" for arc in ARCS)
     routes.extend(f"/ler/arco/{arc.slug}/" for arc in ARCS)
     routes.extend(

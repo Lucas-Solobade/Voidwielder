@@ -4,6 +4,7 @@ from django.urls import reverse
 from django.views.decorators.http import require_GET
 
 from .catalog import ARCS, MANGA, get_arc, get_chapter_for_page
+from .game_catalog import GAME
 from .study_catalog import STUDY_GUIDE
 
 
@@ -127,6 +128,17 @@ def search(request: HttpRequest) -> HttpResponse:
                     "detail": STUDY_GUIDE["detail"],
                 }
             )
+    if category in {"todos", "jogos"}:
+        game_text = f"{GAME['title']} {GAME['detail']} {GAME['topics']}".casefold()
+        if not query or query.casefold() in game_text:
+            results.append(
+                {
+                    "kind": "Jogo",
+                    "title": GAME["title"],
+                    "url": reverse("reader:game"),
+                    "detail": GAME["detail"],
+                }
+            )
     titles = {
         "todos": "Explore o catálogo",
         "livros": "Livros",
@@ -150,6 +162,11 @@ def studies(request: HttpRequest) -> HttpResponse:
 
 
 @require_GET
+def game(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/game.html", {"manga": MANGA})
+
+
+@require_GET
 def robots(_: HttpRequest) -> HttpResponse:
     body = "User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n"
     return HttpResponse(body, content_type="text/plain")
@@ -160,6 +177,7 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls = [request.build_absolute_uri(reverse("reader:home"))]
     urls.append(request.build_absolute_uri(reverse("reader:hq")))
     urls.append(request.build_absolute_uri(reverse("reader:studies")))
+    urls.append(request.build_absolute_uri(reverse("reader:game")))
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
     urls.extend(
         request.build_absolute_uri(reverse("reader:read_arc", args=(arc.slug,))) for arc in ARCS

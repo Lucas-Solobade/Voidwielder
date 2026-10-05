@@ -24,12 +24,12 @@
     <h2>{{ results|length }} resultado{{ results|length|pluralize }}{% if query %} para “{{ query }}”{% endif %}</h2>
     <div class="results">
       {% for result in results %}
-      <a class="{% if result.cover %}series-card{% endif %}" href="{{ result.url }}">
+      <a class="{% if result.cover %}series-card{% elif result.kind == 'Jogo' %}game-card{% endif %}" href="{{ result.url }}">
         {% if result.cover %}<img src="{% static result.cover %}" alt="Capa da HQ {{ result.title }}" loading="lazy" width="1672" height="941">{% endif %}
         <span class="result-copy"><span>{{ result.kind }}</span><strong>{{ result.title }}</strong><span class="result-detail">{{ result.detail }}</span>{% if result.cover %}<span class="result-action">Explorar HQ →</span>{% endif %}</span>
       </a>
       {% empty %}
-      <p class="empty-state">{% if category == 'livros' or category == 'jogos' %}Ainda não há títulos nesta categoria.{% else %}Nada encontrado. Tente outro título ou assunto.{% endif %}</p>
+      <p class="empty-state">{% if category == 'livros' %}Ainda não há títulos nesta categoria.{% else %}Nada encontrado. Tente outro título ou assunto.{% endif %}</p>
       {% endfor %}
     </div>
   </div>

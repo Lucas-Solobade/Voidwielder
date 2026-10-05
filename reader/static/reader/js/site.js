@@ -87,6 +87,7 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
           results.forEach((result) => {
             const link = document.createElement('a');
             link.href = result.url;
+            if (result.kind === 'Jogo') link.className = 'game-card';
             if (result.cover) {
               link.className = 'series-card';
               const cover = document.createElement('img');
@@ -119,7 +120,7 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
         } else {
           const empty = document.createElement('p');
           empty.className = 'empty-state';
-          empty.textContent = ['livros', 'jogos'].includes(category) ? 'Ainda não há títulos nesta categoria.' : 'Nada encontrado. Tente outro título ou assunto.';
+          empty.textContent = category === 'livros' ? 'Ainda não há títulos nesta categoria.' : 'Nada encontrado. Tente outro título ou assunto.';
           list.append(empty);
         }
         staticSearch.append(list);

@@ -1,0 +1,40 @@
+.game-page{max-width:1200px;margin:auto;padding:clamp(1.5rem,4vw,3rem) 1rem 5rem;color:#f7f2ff}
+.game-heading{max-width:800px;margin:0 auto 1.5rem;text-align:center}
+.game-back{display:inline-block;margin-bottom:1.5rem;color:#aeeef8;font-weight:800;text-decoration:none}
+.game-back:hover{text-decoration:underline;text-underline-offset:4px}
+.game-heading .eyebrow{color:#ffd765}
+.game-heading h1{font-size:clamp(2.3rem,6vw,4.5rem);line-height:1.04;letter-spacing:-.05em;margin:.3rem 0 1rem}
+.game-heading h1 span{color:#ffda70}
+.game-heading>p:last-child{color:#c9c4d8;line-height:1.6;font-size:1.05rem}
+.game-shell{overflow:hidden;border:1px solid #70678e;border-radius:23px;background:#15152b;box-shadow:0 22px 80px #05050c99,0 0 0 5px #ffffff08}
+.game-topbar{min-height:58px;padding:.55rem 1rem;display:flex;align-items:center;gap:.8rem;background:#22213a;border-bottom:1px solid #70678e;color:#fff;font-weight:850}
+.game-level{flex:1;color:#ffda70}
+.game-health{color:#ff859c;font-size:1.3rem;white-space:nowrap;letter-spacing:.05em}
+.game-score{white-space:nowrap;color:#b6f7ef}
+.game-pause{border:1px solid #7e789f;background:#373453;color:#fff;border-radius:10px;padding:.45rem .85rem;cursor:pointer;font:inherit}
+.game-pause:hover{background:#4a456e}
+.game-viewport{position:relative;aspect-ratio:16/9;width:100%;background:#191633}
+.game-viewport canvas{display:block;width:100%;height:100%;touch-action:none}
+.game-screen{position:absolute;inset:0;display:grid;place-items:center;padding:1rem;background:linear-gradient(145deg,#111329e8,#241b4cde);backdrop-filter:blur(7px)}
+.game-screen[hidden]{display:none}
+.game-screen-card{width:min(500px,100%);max-height:100%;overflow:auto;text-align:center;padding:clamp(1.1rem,4vw,2.2rem);background:#24203eee;border:1px solid #9b8bc2;border-radius:22px;box-shadow:0 16px 60px #0008}
+.game-screen-card .game-mascot{font-size:3.2rem;line-height:1;margin-bottom:.5rem;color:#ffda70}
+.game-screen-card h2{font-size:clamp(1.65rem,4vw,2.5rem);letter-spacing:-.04em;margin:.25rem 0 .7rem;color:#fff}
+.game-screen-card p{font-size:1rem;line-height:1.55;color:#d5d0e7;margin:.6rem 0 1.2rem}
+.game-screen-card .game-screen-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:.65rem}
+.game-screen-actions button{border:0;border-radius:12px;padding:.85rem 1.15rem;background:#ffd765;color:#232034;font:inherit;font-weight:900;cursor:pointer;min-height:44px}
+.game-screen-actions button.secondary{background:#494461;color:#fff;border:1px solid #8f88aa}
+.game-screen-actions button:hover{filter:brightness(1.1);transform:translateY(-1px)}
+.game-touch{display:none;justify-content:space-between;align-items:center;gap:1rem;padding:.7rem;background:#22213a;touch-action:none;user-select:none}
+.game-touch-move,.game-touch-actions{display:flex;gap:.55rem}
+.game-touch button{min-width:60px;min-height:58px;border:1px solid #8d82b4;border-radius:14px;background:#403a64;color:#fff;font:900 1.5rem system-ui;touch-action:none;display:grid;place-items:center;line-height:1;cursor:pointer}
+.game-touch button:active,.game-touch button.pressed{background:#7565aa;transform:scale(.96)}
+.game-touch button small{display:block;font-size:.57rem;letter-spacing:.02em;margin-top:.1rem}
+.game-touch-actions button:last-child{background:#806149;border-color:#e1ab69}
+.game-guide{display:flex;justify-content:center;gap:1.1rem;flex-wrap:wrap;margin:1.2rem 0 .7rem;color:#d3cfe0;font-size:.88rem}
+.game-guide kbd{display:inline-block;padding:.12rem .35rem;border:1px solid #746e8c;border-radius:5px;background:#302d43;color:#fff;font:inherit;font-weight:850}
+.game-note{text-align:center;color:#aeb0c3;line-height:1.6;max-width:850px;margin:0 auto}
+.game-page button:focus-visible,.game-back:focus-visible{outline:3px solid #9feafa;outline-offset:3px}
+@media(max-width:760px){.game-touch{display:flex}.game-guide{display:none}.game-topbar{gap:.45rem;padding:.45rem .6rem;font-size:.72rem;min-height:48px}.game-health{font-size:1rem}.game-pause{padding:.35rem .55rem}.game-page{padding-inline:.6rem}.game-shell{border-radius:15px}.game-note{margin-top:1rem;font-size:.85rem}}
+@media(max-width:440px){.game-touch button{min-width:52px;min-height:53px}.game-screen-card p{font-size:.84rem}.game-screen-card{padding:.9rem}.game-screen-actions button{padding:.65rem .8rem;font-size:.85rem}.game-heading>p:last-child{font-size:.9rem}}
+@media(prefers-reduced-motion:reduce){.game-screen-actions button:hover{transform:none}}

@@ -1,8 +1,19 @@
 # Voidwielder
 
-Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O catálogo atual inclui a HQ *Homus Bananus: Guerra do Absurdo*, com 96 páginas em quatro arcos, e uma trilha de seis semanas de Lógica de Programação e Algoritmos.
+Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O catálogo atual inclui a HQ *Homus Bananus: Guerra do Absurdo*, com 96 páginas em quatro arcos, uma trilha de seis semanas de Lógica de Programação e Algoritmos e o jogo *Pipo e o Correio das Estrelas*.
 
-As categorias de livros e jogos já têm navegação e pesquisa próprias. Novos itens podem ser adicionados ao catálogo sem alterar o menu principal.
+As categorias de livros e jogos têm navegação e pesquisa próprias. Novos itens podem ser adicionados ao catálogo sem alterar o menu principal.
+
+## Jogo: Pipo e o Correio das Estrelas
+
+Platformer infantil feito com Canvas API, sem imagens ou bibliotecas gráficas externas. Pipo entrega cartas brilhantes em três fases: **Jardim Lunar**, **Arquipélago de Algodão** e **Observatório do Cochilo**. O chefe final, **Rabugão das Nuvens**, avisa antes de atacar, cansa após as ondas e muda de padrão quando perde energia.
+
+- **Teclado:** A/D ou setas para mover; Espaço para pular; X para o sopro de estrelas; Esc para pausar; Enter nos menus.
+- **Toque:** botões de direção, pulo e sopro aparecem em telas menores.
+- **Sopro:** atordoa criaturas próximas; durante a pausa do chefe, é a forma de acordá-lo. Recarrega automaticamente.
+- **Arquivos:** `reader/templates/reader/game.html` contém a página; `reader/static/reader/css/game.css` define o layout; `reader/static/reader/js/game/` contém fases, arte procedural e lógica de jogo.
+
+Com o servidor iniciado, abra `/jogos/pipo-e-o-correio-das-estrelas/`. O progresso entre fases fica salvo somente no navegador atual.
 
 ## Executar com UV
 

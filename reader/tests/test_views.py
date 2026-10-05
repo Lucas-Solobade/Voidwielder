@@ -1,13 +1,12 @@
 from django.urls import reverse
 
 
-def test_home_lists_all_arcs(client):
+def test_home_links_to_catalog_and_studies(client):
     response = client.get(reverse("reader:home"))
     assert response.status_code == 200
-    assert "A Invasão Mais Desastrada da Terra" in response.content.decode()
-    assert "O Palco Veludo de Geraldo" in response.content.decode()
-    assert "Faze Azul: O Beat Contra a Vardo" in response.content.decode()
-    assert "A Última Poda: O Fim da Vardo" in response.content.decode()
+    content = response.content.decode()
+    assert reverse("reader:search") in content
+    assert reverse("reader:studies") in content
 
 
 def test_reader_rejects_page_outside_arc(client):
@@ -19,6 +18,17 @@ def test_search_finds_clotilde_chapter(client):
     response = client.get(reverse("reader:search"), {"q": "Clotilde"})
     assert response.status_code == 200
     assert "A Agência e Clotilde" in response.content.decode()
+
+
+def test_game_is_in_catalog_and_has_own_page(client):
+    search = client.get(reverse("reader:search"), {"tipo": "jogos"})
+    assert search.status_code == 200
+    assert "Pipo e o Correio das Estrelas" in search.content.decode()
+    game = client.get(reverse("reader:game"))
+    assert game.status_code == 200
+    content = game.content.decode()
+    assert "data-canvas" in content
+    assert "game/main.js" in content
 
 
 def test_canonical_page_ranges():
