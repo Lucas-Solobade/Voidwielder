@@ -110,6 +110,61 @@ def test_linux_manuscript_has_real_unique_pages_and_every_lesson():
     assert {page.diagram for page in pages if page.diagram} == {"rede", "boot", "container"}
 
 
+def test_python_book_is_in_catalog_and_all_deep_links_resolve(client):
+    catalog = client.get(reverse("reader:search"), {"tipo": "livros"})
+    assert catalog.status_code == 200
+    assert "Python: do zero ao avançado" in catalog.content.decode()
+    detail = client.get(reverse("reader:python_detail"))
+    assert detail.status_code == 200
+    assert "<strong>39</strong> desafios" in detail.content.decode()
+    for number in (1, 9, 142, 281):
+        response = client.get(reverse("reader:read_python", args=(number,)))
+        assert response.status_code == 200
+        assert f'data-page="{number}"' in response.content.decode()
+        assert "python-lab" in response.content.decode()
+    assert client.get(reverse("reader:read_python", args=(282,))).status_code == 404
+
+
+def test_python_manuscript_and_exercise_solutions_are_complete():
+    import asyncio
+
+    from reader.python_catalog import get_python_lessons, get_python_pages
+    from reader.python_exercises import EXERCISES
+
+    pages = get_python_pages()
+    lessons = get_python_lessons()
+    assert len(pages) == 281
+    assert len(lessons) == len(EXERCISES) == 39
+    assert len({page.body for page in pages}) == 281
+    assert [sum(page.lesson_number == lesson.number for page in pages) for lesson in lessons] == [7] * 39
+
+    def raises_value_error(fn, *args):
+        try:
+            fn(*args)
+        except ValueError:
+            return True
+        return False
+
+    def carteiras_independentes(cls):
+        first, second = cls(0), cls(0)
+        first.depositar(2)
+        return first.saldo == 2 and second.saldo == 0
+
+    async def await_result(awaitable, expected):
+        return await awaitable == expected
+
+    for exercise in EXERCISES:
+        scope = {
+            "_raises_value_error": raises_value_error,
+            "_carteiras_independentes": carteiras_independentes,
+            "_await_result": await_result,
+        }
+        exec(exercise.solution, scope)
+        for label, check in exercise.tests:
+            result = asyncio.run(eval(check[6:], scope)) if check.startswith("await ") else eval(check, scope)
+            assert result, f"Lição {exercise.lesson}: {label}"
+
+
 def test_book_pagination_preserves_every_sentence_once():
     from reader.book_catalog import CHAPTER_DIR, _split_chapter, get_book_pages
 

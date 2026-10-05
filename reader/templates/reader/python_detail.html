@@ -1,0 +1,35 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}{{ book.title }} · Livros · Voidwielder{% endblock %}
+{% block description %}{{ book.detail }}{% endblock %}
+{% block og_image %}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/python-book.css' %}?v=1">{% endblock %}
+{% block content %}
+<article class="python-detail section-shell">
+  <a class="python-back" href="{% url 'reader:search' %}?tipo=livros">← Livros</a>
+  <div class="python-hero">
+    <div class="python-cover-frame"><canvas data-python-art="cover" width="540" height="720" role="img" aria-label="Capa ilustrada com um caminho de algoritmos, código e dados"></canvas></div>
+    <div class="python-intro">
+      <p class="eyebrow">Biblioteca de conhecimento · Programação</p>
+      <h1>Python:<br><em>do zero ao avançado</em></h1>
+      <p class="python-lead">Pense, escreva, execute, entenda.</p>
+      <p>{{ book.detail }} O percurso começa antes da primeira linha de código. Depois de cada lição, você pode programar e corrigir um desafio no próprio navegador.</p>
+      <div class="python-stats"><span><strong>281</strong> páginas</span><span><strong>39</strong> lições</span><span><strong>39</strong> desafios</span></div>
+      <div class="python-actions"><a class="python-start" href="{% url 'reader:read_python' 1 %}">Abrir o livro <span aria-hidden="true">→</span></a><a data-python-resume hidden href="{% url 'reader:read_python' 1 %}">Retomar leitura</a></div>
+    </div>
+  </div>
+  <section class="python-guide" aria-labelledby="python-guide-title"><div><p class="eyebrow">Aprenda fazendo</p><h2 id="python-guide-title">Um caminho para sua primeira aplicação.</h2></div><p>Você começa com entrada, processamento, saída, fluxogramas e algoritmos. Em seguida pratica sintaxe, funções, testes, orientação a objetos e bibliotecas. As partes finais aplicam Python a dados, APIs, bots, machine learning e projetos de empresas. Cada lição tem um desafio com testes e solução explicada. A leitura e os rascunhos ficam salvos neste navegador.</p></section>
+  <section class="python-toc" aria-labelledby="python-toc-title">
+    <div class="python-section-head"><p class="eyebrow">Mapa do livro</p><h2 id="python-toc-title">Escolha uma parte</h2><p>Na primeira leitura, siga a sequência. Depois use este sumário para voltar a qualquer assunto.</p></div>
+    {% regroup lessons by part_number as grouped_lessons %}
+    <div class="python-parts">{% for group in grouped_lessons %}<details class="python-part" {% if forloop.first %}open{% endif %}><summary><span class="python-part-num">{{ group.grouper|stringformat:"02d" }}</span><span class="python-part-name">{{ group.list.0.part_title }}<small>3 lições · 3 desafios</small></span><span class="python-part-arrow" aria-hidden="true">⌄</span></summary><ol>{% for lesson in group.list %}<li><a href="{% url 'reader:read_python' lesson.start_page %}"><span>{{ lesson.title }}</span><small>p. {{ lesson.start_page }}</small></a></li>{% endfor %}</ol></details>{% endfor %}</div>
+  </section>
+  <section class="python-sources" aria-labelledby="python-sources-title"><h2 id="python-sources-title">Continue aprendendo nas fontes oficiais</h2><p>As bibliotecas evoluem. Use estes guias para conferir versões e explorar recursos novos.</p><ul>
+    <li><a href="https://docs.python.org/3/tutorial/index.html">Tutorial oficial de Python</a> e <a href="https://docs.python.org/3/library/index.html">biblioteca padrão</a></li>
+    <li><a href="https://docs.astral.sh/uv/guides/projects/">Projetos com uv</a> e <a href="https://docs.pytest.org/en/latest/getting-started.html">testes com pytest</a></li>
+    <li><a href="https://numpy.org/doc/stable/user/absolute_beginners">NumPy</a>, <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html">pandas</a> e <a href="https://matplotlib.org/stable/tutorials/pyplot.html">Matplotlib</a></li>
+    <li><a href="https://www.python-httpx.org/quickstart/">HTTPX</a>, <a href="https://fastapi.tiangolo.com/tutorial/first-steps/">FastAPI</a> e <a href="https://playwright.dev/python/docs/intro">Playwright</a></li>
+    <li><a href="https://scikit-learn.org/stable/getting_started.html">scikit-learn</a> e <a href="https://docs.sqlalchemy.org/en/20/tutorial/index.html">SQLAlchemy</a></li>
+  </ul></section>
+</article>
+{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/python-book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/python-book/reader.mjs' %}?v=1"></script>{% endblock %}

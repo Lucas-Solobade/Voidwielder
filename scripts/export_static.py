@@ -20,6 +20,8 @@ from reader.book_catalog import BOOK, get_book_pages  # noqa: E402
 from reader.catalog import ARCS, MANGA  # noqa: E402
 from reader.game_catalog import GAMES  # noqa: E402
 from reader.linux_catalog import LINUX_BOOK, get_linux_pages  # noqa: E402
+from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
+from reader.python_exercises import EXERCISES  # noqa: E402
 from reader.study_catalog import STUDY_GUIDE  # noqa: E402
 
 DIST_DIR = BASE_DIR / "dist"
@@ -44,6 +46,16 @@ def write_linux_data() -> Path:
         encoding="utf-8",
     )
     return destination
+
+
+def write_python_data() -> tuple[Path, Path]:
+    directory = STATIC_SOURCE / "book" / "python"
+    directory.mkdir(parents=True, exist_ok=True)
+    pages = directory / "pages.json"
+    exercises = directory / "exercises.json"
+    pages.write_text(json.dumps([page.as_json() for page in get_python_pages()], ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    exercises.write_text(json.dumps([exercise.as_json() for exercise in EXERCISES], ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    return pages, exercises
 
 
 def destination_for(path: str) -> Path:
@@ -76,6 +88,10 @@ def build_catalog() -> list[dict[str, str | int]]:
         "category": "livros", "kind": "Livro didático", "title": LINUX_BOOK["title"],
         "detail": f"13 partes · 78 lições · {LINUX_BOOK['page_count']} páginas. {LINUX_BOOK['detail']}",
         "url": LINUX_BOOK["url"], "topics": LINUX_BOOK["topics"], "linux_art": True,
+    }, {
+        "category": "livros", "kind": "Livro didático", "title": PYTHON_BOOK["title"],
+        "detail": f"13 partes · 39 lições · 39 desafios · {PYTHON_BOOK['page_count']} páginas. {PYTHON_BOOK['detail']}",
+        "url": PYTHON_BOOK["url"], "topics": PYTHON_BOOK["topics"], "python_art": True,
     }, {
         "category": "hq",
         "kind": "HQ",
@@ -125,6 +141,7 @@ def build_catalog() -> list[dict[str, str | int]]:
 def main() -> None:
     write_book_data()
     write_linux_data()
+    write_python_data()
     shutil.rmtree(DIST_DIR, ignore_errors=True)
     DIST_DIR.mkdir()
     shutil.copytree(
@@ -137,6 +154,8 @@ def main() -> None:
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
     routes.append(LINUX_BOOK["url"])
     routes.extend(f"{LINUX_BOOK['url']}ler/{page}/" for page in range(1, LINUX_BOOK["page_count"] + 1))
+    routes.append(PYTHON_BOOK["url"])
+    routes.extend(f"{PYTHON_BOOK['url']}ler/{page}/" for page in range(1, PYTHON_BOOK["page_count"] + 1))
     routes.extend(game["url"] for game in GAMES)
     routes.extend(f"/arcos/{arc.slug}/" for arc in ARCS)
     routes.extend(f"/ler/arco/{arc.slug}/" for arc in ARCS)
@@ -245,10 +264,49 @@ def linux_only() -> None:
         sitemap_path.write_text(sitemap, encoding="utf-8")
 
 
+def python_only() -> None:
+    """Publish the Python book while preserving the existing site export."""
+    data = write_python_data()
+    for source in (
+        STATIC_SOURCE / "css" / "python-book.css",
+        STATIC_SOURCE / "js" / "python-book" / "art.mjs",
+        STATIC_SOURCE / "js" / "python-book" / "reader.mjs",
+        STATIC_SOURCE / "js" / "python-book" / "worker.mjs",
+        STATIC_SOURCE / "js" / "site.js",
+        *data,
+    ):
+        destination = DIST_DIR / "static" / "reader" / source.relative_to(STATIC_SOURCE)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, destination)
+    client = Client()
+    write_page(client, PYTHON_BOOK["url"])
+    for page in get_python_pages():
+        write_page(client, f"{PYTHON_BOOK['url']}ler/{page.number}/")
+    (DIST_DIR / "catalog.json").write_text(
+        json.dumps(build_catalog(), ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
+    search_path = DIST_DIR / "buscar" / "index.html"
+    search_html = search_path.read_text(encoding="utf-8")
+    if "reader/css/python-book.css" not in search_html:
+        search_html = search_html.replace("</head>", '<link rel="stylesheet" href="/static/reader/css/python-book.css?v=1"></head>', 1)
+    if "reader/js/python-book/art.mjs" not in search_html:
+        search_html = search_html.replace("</body>", '<script type="module" src="/static/reader/js/python-book/art.mjs?v=1"></script></body>', 1)
+    search_path.write_text(search_html, encoding="utf-8")
+    sitemap_path = DIST_DIR / "sitemap.xml"
+    sitemap = sitemap_path.read_text(encoding="utf-8")
+    origin = os.getenv("SITE_ORIGIN", "https://voidwielder.alves-lucas0200.chatgpt.site").rstrip("/")
+    book_urls = [PYTHON_BOOK["url"]] + [f"{PYTHON_BOOK['url']}ler/{page.number}/" for page in get_python_pages()]
+    if f"{origin}{PYTHON_BOOK['url']}" not in sitemap:
+        sitemap = sitemap.replace("</urlset>", "".join(f"<url><loc>{origin}{url}</loc></url>" for url in book_urls) + "</urlset>")
+        sitemap_path.write_text(sitemap, encoding="utf-8")
+
+
 if __name__ == "__main__":
     if "--book-only" in sys.argv:
         book_only()
     elif "--linux-only" in sys.argv:
         linux_only()
+    elif "--python-only" in sys.argv:
+        python_only()
     else:
         main()

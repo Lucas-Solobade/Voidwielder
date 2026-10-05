@@ -7,6 +7,9 @@ from .book_catalog import BOOK, get_book_pages
 from .catalog import ARCS, MANGA, get_arc, get_chapter_for_page
 from .game_catalog import GAMES
 from .linux_catalog import LINUX_BOOK, PARTS, get_linux_lessons, get_linux_pages
+from .python_catalog import PARTS as PYTHON_PARTS
+from .python_catalog import PYTHON_BOOK, get_python_lessons, get_python_pages
+from .python_exercises import EXERCISES
 from .study_catalog import STUDY_GUIDE
 
 
@@ -97,6 +100,13 @@ def search(request: HttpRequest) -> HttpResponse:
                 "kind": "Livro didático", "title": LINUX_BOOK["title"], "url": LINUX_BOOK["url"],
                 "detail": f"13 partes · 78 lições · {LINUX_BOOK['page_count']} páginas. {LINUX_BOOK['detail']}",
                 "linux_art": True,
+            })
+        python_text = f"{PYTHON_BOOK['title']} {PYTHON_BOOK['detail']} {PYTHON_BOOK['topics']}".casefold()
+        if not query or query.casefold() in python_text:
+            results.append({
+                "kind": "Livro interativo", "title": PYTHON_BOOK["title"], "url": PYTHON_BOOK["url"],
+                "detail": f"13 partes · 39 lições · {PYTHON_BOOK['page_count']} páginas · exercícios em Python. {PYTHON_BOOK['detail']}",
+                "python_art": True,
             })
     if category in {"todos", "hq"}:
         needle = query.casefold()
@@ -216,6 +226,30 @@ def read_linux(request: HttpRequest, page: int) -> HttpResponse:
 
 
 @require_GET
+def python_detail(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/python_detail.html", {
+        "book": PYTHON_BOOK, "parts": list(enumerate(PYTHON_PARTS, start=1)),
+        "lessons": get_python_lessons(),
+    })
+
+
+@require_GET
+def read_python(request: HttpRequest, page: int) -> HttpResponse:
+    pages = get_python_pages()
+    if not 1 <= page <= len(pages):
+        raise Http404("Página não encontrada")
+    lesson = pages[page - 1].lesson_number
+    return render(request, "reader/python_read.html", {
+        "book": PYTHON_BOOK, "page": pages[page - 1],
+        "next_page": pages[page] if page < len(pages) else None,
+        "previous_number": page - 1 if page > 1 else None,
+        "next_number": page + 1 if page < len(pages) else None,
+        "lessons": get_python_lessons(),
+        "exercise": EXERCISES[lesson - 1] if lesson else None,
+    })
+
+
+@require_GET
 def studies(request: HttpRequest) -> HttpResponse:
     return render(request, "reader/studies.html", {"manga": MANGA})
 
@@ -247,6 +281,8 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls.extend(request.build_absolute_uri(reverse("reader:read_book", args=(page,))) for page in range(1, 151))
     urls.append(request.build_absolute_uri(reverse("reader:linux_detail")))
     urls.extend(request.build_absolute_uri(reverse("reader:read_linux", args=(page,))) for page in range(1, LINUX_BOOK["page_count"] + 1))
+    urls.append(request.build_absolute_uri(reverse("reader:python_detail")))
+    urls.extend(request.build_absolute_uri(reverse("reader:read_python", args=(page,))) for page in range(1, PYTHON_BOOK["page_count"] + 1))
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
     urls.extend(
         request.build_absolute_uri(reverse("reader:read_arc", args=(arc.slug,))) for arc in ARCS

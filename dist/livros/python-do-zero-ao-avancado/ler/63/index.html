@@ -1,0 +1,84 @@
+
+<!doctype html>
+<html lang="pt-BR" data-static-export>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0d0d12">
+  <meta name="description" content="Somando com estado. Para acumular, comece `total = 0` e, em cada volta, use `total += valor`. Depois de quatro valores, total é a soma dos quatro. Se inicializar com o …">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Voidwielder">
+  <meta property="og:description" content="HQs, livros, jogos e materiais de estudo em um só lugar.">
+
+  <title>Página 63 · Python: do zero ao avançado · Voidwielder</title>
+  <link rel="canonical" href="https://example.invalid/livros/python-do-zero-ao-avancado/ler/63/">
+  <link rel="stylesheet" href="/static/reader/css/site.css?v=11">
+  <link rel="stylesheet" href="/static/reader/css/library.css?v=11">
+  <link rel="stylesheet" href="/static/reader/css/portal.css?v=11">
+  <link rel="stylesheet" href="/static/reader/css/python-book.css?v=1">
+  <script src="/static/reader/js/site.js?v=11" defer></script>
+
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Página inicial">
+      <span class="brand-mark" aria-hidden="true">V</span>
+      <span>Voidwielder</span>
+    </a>
+    <div class="header-actions">
+      <button class="icon-button" type="button" data-search-open aria-label="Abrir pesquisa">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg>
+      </button>
+      <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="main-menu">
+        <span class="sr-only">Abrir menu</span><span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="drawer" id="main-menu" data-menu hidden aria-label="Menu principal">
+    <div class="drawer-head"><div><span class="drawer-kicker">Biblioteca</span><strong>Explorar</strong></div><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
+    <a class="drawer-home" href="/">Início</a>
+    <p class="drawer-label">Escolha uma área</p>
+    <div class="drawer-categories">
+      <a href="/buscar/?tipo=livros"><span class="drawer-glyph" aria-hidden="true">L</span><span><strong>Livros</strong><small>Leituras disponíveis</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=hq"><span class="drawer-glyph" aria-hidden="true">HQ</span><span><strong>HQs</strong><small>Arcos e capítulos</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=jogos"><span class="drawer-glyph" aria-hidden="true">J</span><span><strong>Jogos</strong><small>Projetos e experiências</small></span><span aria-hidden="true">›</span></a>
+      <a href="/estudos/"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilha de programação</small></span><span aria-hidden="true">›</span></a>
+    </div>
+    <a class="drawer-all" href="/buscar/">Pesquisar todo o catálogo</a>
+  </nav>
+  <div class="backdrop" data-backdrop hidden></div>
+
+  <dialog class="search-dialog" data-search-dialog>
+    <form class="search-form" action="/buscar/" method="get" role="search">
+      <label for="global-search">Pesquisar no catálogo</label>
+      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="HQ, livro, jogo ou estudo…"><button type="submit">Buscar</button></div>
+      <button class="dialog-close" type="button" data-search-close>Fechar</button>
+    </form>
+  </dialog>
+
+  <main id="conteudo">
+<article class="python-reader" data-python-reader data-page="63" data-total="281">
+  <div class="python-reader-bar section-shell"><a class="python-back" href="/livros/python-do-zero-ao-avancado/">← Sumário</a><div class="python-current"><span data-python-part>Parte 03 · Decisões e repetição</span><strong data-python-lesson>Repetição com while</strong></div><label for="python-lesson-select">Ir para lição <select id="python-lesson-select" data-python-lesson-select><option value="1">Abertura · p. 1</option><option value="9" >01 · Programar é dar instruções verificáveis</option><option value="16" >02 · Decompor, ordenar e testar passos</option><option value="23" >03 · Fluxogramas e decisões</option><option value="30" >04 · Instalar e abrir Python</option><option value="37" >05 · Expressões, valores e operadores</option><option value="44" >06 · Variáveis, tipos e conversões</option><option value="51" >07 · Condições que expressam regras</option><option value="58" selected>08 · Repetição com while</option><option value="65" >09 · for, range e percurso</option><option value="72" >10 · Strings: texto como dado</option><option value="79" >11 · Listas, tuplas e índices</option><option value="86" >12 · Dicionários e conjuntos</option><option value="93" >13 · Funções e escopo</option><option value="100" >14 · Recursão e análise de algoritmo</option><option value="107" >15 · Módulos, pacotes e ambiente</option><option value="114" >16 · Arquivos, JSON e CSV</option><option value="121" >17 · Exceções e falhas compreensíveis</option><option value="128" >18 · Testes, depuração e qualidade</option><option value="135" >19 · Objetos que guardam estado</option><option value="142" >20 · Composição, herança e interfaces</option><option value="149" >21 · Dataclasses e desenho de modelos</option><option value="156" >22 · Compreensões, iteradores e geradores</option><option value="163" >23 · Decoradores e gerenciadores de contexto</option><option value="170" >24 · Tipos, async e concorrência</option><option value="177" >25 · collections e itertools</option><option value="184" >26 · Datas, regex e formatos</option><option value="191" >27 · logging, subprocess e organização</option><option value="198" >28 · NumPy e pensamento vetorial</option><option value="205" >29 · pandas para tabelas</option><option value="212" >30 · Matplotlib e comunicação de dados</option><option value="219" >31 · Consumir APIs com HTTPX</option><option value="226" >32 · Criar APIs com FastAPI</option><option value="233" >33 · Bots, navegador e agendamento</option><option value="240" >34 · Machine learning começa pela pergunta</option><option value="247" >35 · scikit-learn em um pipeline</option><option value="254" >36 · Avaliação, ética e uso responsável</option><option value="261" >37 · SQLite e SQLAlchemy</option><option value="268" >38 · Python em produção e em empresas</option><option value="275" >39 · Projeto final: do algoritmo ao serviço</option></select></label></div>
+  <div class="python-stage" data-python-stage><div class="python-spread" data-python-spread>
+    <section class="python-sheet" data-python-left aria-label="Página 63"><div class="python-sheet-inner" data-python-content="left"><span class="python-page-kicker">PARTE 03 · LIÇÃO 08</span><h1>Somando com estado</h1><div class="python-page-body"><p>Para acumular, comece <code>total = 0</code> e, em cada volta, use <code>total += valor</code>. Depois de quatro valores, total é a soma dos quatro. Se inicializar com o primeiro item e ainda somá-lo no laço, contará duas vezes. Teste lista vazia, um item e vários. O valor inicial é parte do algoritmo, não detalhe de sintaxe.</p></div><span class="python-page-number">63</span></div></section>
+    <section class="python-sheet python-sheet-right" data-python-right  aria-label="Página 64"><div class="python-sheet-inner" data-python-content="right"><span class="python-page-kicker">PARTE 03 · LIÇÃO 08</span><h1>Verifique e pratique</h1><div class="python-page-body"><p>Rastreie uma tabela para <code>contador</code> e <code>total</code> ao somar de 1 a 4. Preveja saída antes de executar. Na atividade, implemente <code>soma_ate(n)</code> usando <code>while</code>, devolvendo 0 quando <code>n</code> é 0. Verifique se o laço termina para um caso grande e explique o que acontece com entrada negativa.</p></div><span class="python-page-number">64</span></div></section>
+  </div></div>
+  <nav class="python-controls section-shell" aria-label="Navegação do livro"><a data-python-prev rel="prev" href="/livros/python-do-zero-ao-avancado/ler/62/" >← Anterior</a><label for="python-page-jump">Página <input id="python-page-jump" data-python-jump type="number" min="1" max="281" value="63" inputmode="numeric"> / 281</label><a data-python-next rel="next" href="/livros/python-do-zero-ao-avancado/ler/64/">Próxima →</a></nav>
+  <div class="python-progress" role="progressbar" aria-label="Progresso de leitura" aria-valuemin="1" aria-valuemax="281" aria-valuenow="63" data-python-progress><span></span></div>
+  <p class="python-reader-hint">Use as setas do teclado ou deslize para virar a página. O texto pode ser selecionado.</p>
+  <section class="python-lab section-shell" data-python-lab aria-labelledby="python-lab-title">
+    <div class="python-lab-head"><div><p class="eyebrow">Laboratório interativo</p><h2 id="python-lab-title">Desafio da lição <span data-exercise-number>08</span></h2><p data-exercise-prompt>Implemente soma_ate(n) com while: 1 + ... + n; para n=0, devolva 0.</p></div><span class="python-lab-badge">Python real · no navegador</span></div>
+    <div class="python-lab-grid"  data-exercise-panel><div class="python-editor"><label for="python-code">Seu código</label><textarea id="python-code" data-python-code spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" aria-describedby="python-lab-help">def soma_ate(n):
+    total = 0
+    # use while
+    return total</textarea><p id="python-lab-help">Seu rascunho fica salvo neste navegador. Pressione Tab para indentar.</p><div class="python-lab-actions"><button type="button" data-python-run>Executar</button><button type="button" data-python-grade>Corrigir</button><button type="button" data-python-reset>Recomeçar</button></div></div><div class="python-feedback"><h3>Resultado</h3><p data-python-status role="status" aria-live="polite">Pronto para tentar.</p><pre data-python-output aria-label="Saída do programa"></pre><ul data-python-tests aria-label="Casos de teste"></ul><button type="button" class="python-solution-button" data-python-solution-toggle aria-expanded="false">Ver solução explicada</button><div class="python-solution" data-python-solution hidden><pre><code data-python-solution-code></code></pre><p data-python-explanation></p></div></div></div>
+    <p class="python-lab-note">O código roda apenas nesta aba, com tempo limitado. Bibliotecas que dependem do servidor são ensinadas no livro e praticadas em um projeto local. A primeira execução precisa carregar o interpretador pela internet.</p>
+  </section>
+</article>
+</main>
+  <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
+  <script type="module" src="/static/reader/js/python-book/art.mjs?v=1"></script><script type="module" src="/static/reader/js/python-book/reader.mjs?v=1"></script>
+</body>
+</html>

@@ -96,6 +96,14 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
               canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
               import('/static/reader/js/linux-book/art.mjs').then(({ drawLinuxArt }) => drawLinuxArt(canvas));
             }
+            if (result.python_art) {
+              link.className = 'python-result-card';
+              const frame = document.createElement('span'); frame.className = 'python-mini-cover';
+              const canvas = document.createElement('canvas'); canvas.width = 540; canvas.height = 720;
+              canvas.dataset.pythonArt = 'cover'; canvas.setAttribute('role', 'img');
+              canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
+              import('/static/reader/js/python-book/art.mjs').then(({ drawPythonArt }) => drawPythonArt(canvas));
+            }
             if (result.cover) {
               link.className = 'series-card';
               const cover = document.createElement('img');
