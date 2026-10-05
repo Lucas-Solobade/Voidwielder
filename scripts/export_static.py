@@ -16,7 +16,7 @@ django.setup()
 
 from django.test import Client  # noqa: E402
 
-from reader.catalog import ARCS  # noqa: E402
+from reader.catalog import ARCS, MANGA  # noqa: E402
 from reader.study_catalog import STUDY_GUIDE  # noqa: E402
 
 DIST_DIR = BASE_DIR / "dist"
@@ -44,7 +44,14 @@ def write_page(client: Client, path: str) -> None:
 
 
 def build_catalog() -> list[dict[str, str | int]]:
-    return [
+    return [{
+        "category": "hq",
+        "kind": "HQ",
+        "title": MANGA["title"],
+        "detail": MANGA["description"],
+        "url": "/hqs/homus-bananus/",
+        "cover": MANGA["cover"],
+    }] + [
         {
             "category": "hq",
             "kind": "Arco",
@@ -84,7 +91,7 @@ def main() -> None:
     )
 
     client = Client()
-    routes = ["/", "/buscar/", "/estudos/"]
+    routes = ["/", "/buscar/", "/estudos/", "/hqs/homus-bananus/"]
     routes.extend(f"/arcos/{arc.slug}/" for arc in ARCS)
     routes.extend(f"/ler/arco/{arc.slug}/" for arc in ARCS)
     routes.extend(

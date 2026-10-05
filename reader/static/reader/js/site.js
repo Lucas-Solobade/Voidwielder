@@ -45,9 +45,10 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
   const query = new URLSearchParams(window.location.search).get('q')?.trim() || '';
   const requestedCategory = new URLSearchParams(window.location.search).get('tipo') || 'todos';
   const category = ['todos', 'livros', 'hq', 'jogos', 'estudos'].includes(requestedCategory) ? requestedCategory : 'todos';
+  document.querySelector('.search-page')?.toggleAttribute('data-hq-browse', category === 'hq' && !query);
   const categoryTitle = document.querySelector('[data-category-title]');
   if (categoryTitle) categoryTitle.textContent = {
-    todos: 'Explore o catálogo', livros: 'Livros', hq: 'HQs e arcos', jogos: 'Jogos', estudos: 'Estudos',
+    todos: 'Explore o catálogo', livros: 'Livros', hq: 'HQs', jogos: 'Jogos', estudos: 'Estudos',
   }[category];
   if (input) input.value = query;
   document.querySelectorAll('.category-tabs a').forEach((link) => {
@@ -72,7 +73,11 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
       })
       .then((records) => {
         const needle = query.toLocaleLowerCase('pt-BR');
-        const results = records.filter((record) => (category === 'todos' || record.category === category) && `${record.title} ${record.detail} ${record.topics || ''} ${record.number || ''}`.toLocaleLowerCase('pt-BR').includes(needle));
+        const results = records.filter((record) => (
+          (category === 'todos' || record.category === category)
+          && (query || !['Arco', 'Capítulo'].includes(record.kind))
+          && `${record.title} ${record.detail} ${record.topics || ''} ${record.number || ''}`.toLocaleLowerCase('pt-BR').includes(needle)
+        ));
         const heading = document.createElement('h2');
         heading.textContent = `${results.length} resultado${results.length === 1 ? '' : 's'}${query ? ` para “${query}”` : ''}`;
         staticSearch.append(heading);
@@ -82,13 +87,33 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
           results.forEach((result) => {
             const link = document.createElement('a');
             link.href = result.url;
+            if (result.cover) {
+              link.className = 'series-card';
+              const cover = document.createElement('img');
+              cover.src = `/static/${result.cover}`;
+              cover.alt = `Capa da HQ ${result.title}`;
+              cover.loading = 'lazy';
+              cover.width = 1672;
+              cover.height = 941;
+              link.append(cover);
+            }
+            const copy = document.createElement('span');
+            copy.className = 'result-copy';
             const kind = document.createElement('span');
             kind.textContent = result.kind;
             const title = document.createElement('strong');
             title.textContent = result.title;
-            const detail = document.createElement('p');
+            const detail = document.createElement('span');
+            detail.className = 'result-detail';
             detail.textContent = result.detail;
-            link.append(kind, title, detail);
+            copy.append(kind, title, detail);
+            if (result.cover) {
+              const action = document.createElement('span');
+              action.className = 'result-action';
+              action.textContent = 'Explorar HQ →';
+              copy.append(action);
+            }
+            link.append(copy);
             list.append(link);
           });
         } else {

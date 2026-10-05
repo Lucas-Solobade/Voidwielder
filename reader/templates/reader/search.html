@@ -1,6 +1,37 @@
-{% extends 'reader/base.html' %}
+{% extends 'reader/base.html' %}{% load static %}
 {% block title %}Catálogo · Voidwielder{% endblock %}
 {% block description %}Explore HQs, livros, jogos e materiais de estudo no catálogo Voidwielder.{% endblock %}
 {% block og_description %}Explore HQs, livros, jogos e materiais de estudo.{% endblock %}
 {% block og_image %}{% endblock %}
-{% block content %}<section class="section-shell search-page"><p class="eyebrow">Catálogo</p><h1 data-category-title>{{ category_title }}</h1><nav class="category-tabs" aria-label="Categorias"><a href="{% url 'reader:search' %}" {% if category == 'todos' %}aria-current="page"{% endif %}>Tudo</a><a href="{% url 'reader:search' %}?tipo=livros" {% if category == 'livros' %}aria-current="page"{% endif %}>Livros</a><a href="{% url 'reader:search' %}?tipo=hq" {% if category == 'hq' %}aria-current="page"{% endif %}>HQs</a><a href="{% url 'reader:search' %}?tipo=jogos" {% if category == 'jogos' %}aria-current="page"{% endif %}>Jogos</a><a href="{% url 'reader:search' %}?tipo=estudos" {% if category == 'estudos' %}aria-current="page"{% endif %}>Estudos</a></nav><form class="search-form search-form-page" action="{% url 'reader:search' %}" method="get" role="search"><label for="page-search">Termo de pesquisa</label><input type="hidden" name="tipo" value="{{ category }}"><div><input id="page-search" name="q" type="search" maxlength="80" value="{{ query }}" placeholder="Título, assunto ou personagem…"><button type="submit">Buscar</button></div></form><div data-static-search-results aria-live="polite"></div><div data-django-search-results><h2>{{ results|length }} resultado{{ results|length|pluralize }}{% if query %} para “{{ query }}”{% endif %}</h2><div class="results">{% for result in results %}<a href="{{ result.url }}"><span>{{ result.kind }}</span><strong>{{ result.title }}</strong><p>{{ result.detail }}</p></a>{% empty %}<p class="empty-state">{% if category == 'livros' or category == 'jogos' %}Ainda não há títulos nesta categoria.{% else %}Nada encontrado. Tente outro título, arco ou capítulo.{% endif %}</p>{% endfor %}</div></div></section>{% endblock %}
+{% block content %}
+<section class="section-shell search-page" {% if category == 'hq' and not query %}data-hq-browse{% endif %}>
+  <p class="eyebrow">Catálogo</p>
+  <h1 data-category-title>{{ category_title }}</h1>
+  <nav class="category-tabs" aria-label="Categorias">
+    <a href="{% url 'reader:search' %}" {% if category == 'todos' %}aria-current="page"{% endif %}>Tudo</a>
+    <a href="{% url 'reader:search' %}?tipo=livros" {% if category == 'livros' %}aria-current="page"{% endif %}>Livros</a>
+    <a href="{% url 'reader:search' %}?tipo=hq" {% if category == 'hq' %}aria-current="page"{% endif %}>HQs</a>
+    <a href="{% url 'reader:search' %}?tipo=jogos" {% if category == 'jogos' %}aria-current="page"{% endif %}>Jogos</a>
+    <a href="{% url 'reader:search' %}?tipo=estudos" {% if category == 'estudos' %}aria-current="page"{% endif %}>Estudos</a>
+  </nav>
+  <form class="search-form search-form-page" action="{% url 'reader:search' %}" method="get" role="search">
+    <label for="page-search">Termo de pesquisa</label>
+    <input type="hidden" name="tipo" value="{{ category }}">
+    <div><input id="page-search" name="q" type="search" maxlength="80" value="{{ query }}" placeholder="Título, assunto ou personagem…"><button type="submit">Buscar</button></div>
+  </form>
+  <div data-static-search-results aria-live="polite"></div>
+  <div data-django-search-results>
+    <h2>{{ results|length }} resultado{{ results|length|pluralize }}{% if query %} para “{{ query }}”{% endif %}</h2>
+    <div class="results">
+      {% for result in results %}
+      <a class="{% if result.cover %}series-card{% endif %}" href="{{ result.url }}">
+        {% if result.cover %}<img src="{% static result.cover %}" alt="Capa da HQ {{ result.title }}" loading="lazy" width="1672" height="941">{% endif %}
+        <span class="result-copy"><span>{{ result.kind }}</span><strong>{{ result.title }}</strong><span class="result-detail">{{ result.detail }}</span>{% if result.cover %}<span class="result-action">Explorar HQ →</span>{% endif %}</span>
+      </a>
+      {% empty %}
+      <p class="empty-state">{% if category == 'livros' or category == 'jogos' %}Ainda não há títulos nesta categoria.{% else %}Nada encontrado. Tente outro título ou assunto.{% endif %}</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

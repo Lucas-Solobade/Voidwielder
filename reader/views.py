@@ -13,6 +13,11 @@ def home(request: HttpRequest) -> HttpResponse:
 
 
 @require_GET
+def hq_detail(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/hq_detail.html", {"manga": MANGA, "arcs": ARCS})
+
+
+@require_GET
 def arc_detail(request: HttpRequest, arc_slug: str) -> HttpResponse:
     arc = get_arc(arc_slug)
     if arc is None:
@@ -77,28 +82,40 @@ def search(request: HttpRequest) -> HttpResponse:
     results: list[dict[str, object]] = []
     if category in {"todos", "hq"}:
         needle = query.casefold()
-        for arc in ARCS:
-            arc_text = f"{arc.title} {arc.description}".casefold()
-            if not needle or needle in arc_text:
-                results.append(
-                    {
-                        "kind": "Arco",
-                        "title": arc.title,
-                        "url": reverse("reader:arc", args=(arc.slug,)),
-                        "detail": arc.description,
-                    }
-                )
-            for chapter in arc.chapters:
-                chapter_text = f"{chapter.title} {chapter.subtitle}".casefold()
-                if not needle or needle in chapter_text or needle == str(chapter.number):
+        manga_text = f"{MANGA['title']} {MANGA['description']} {MANGA['tagline']}".casefold()
+        if not query or needle in manga_text:
+            results.append(
+                {
+                    "kind": "HQ",
+                    "title": MANGA["title"],
+                    "url": reverse("reader:hq"),
+                    "detail": MANGA["description"],
+                    "cover": MANGA["cover"],
+                }
+            )
+        if query:
+            for arc in ARCS:
+                arc_text = f"{arc.title} {arc.description}".casefold()
+                if needle in arc_text:
                     results.append(
                         {
-                            "kind": "Capítulo",
-                            "title": chapter.title,
-                            "url": f"{reverse('reader:read_arc', args=(arc.slug,))}#capitulo-{chapter.number}",
-                            "detail": chapter.subtitle,
+                            "kind": "Arco",
+                            "title": arc.title,
+                            "url": reverse("reader:arc", args=(arc.slug,)),
+                            "detail": arc.description,
                         }
                     )
+                for chapter in arc.chapters:
+                    chapter_text = f"{chapter.title} {chapter.subtitle}".casefold()
+                    if needle in chapter_text or needle == str(chapter.number):
+                        results.append(
+                            {
+                                "kind": "Capítulo",
+                                "title": chapter.title,
+                                "url": f"{reverse('reader:read_arc', args=(arc.slug,))}#capitulo-{chapter.number}",
+                                "detail": chapter.subtitle,
+                            }
+                        )
     if category in {"todos", "estudos"}:
         study_text = f"{STUDY_GUIDE['title']} {STUDY_GUIDE['detail']} {' '.join(STUDY_GUIDE['topics'])}".casefold()
         if not query or query.casefold() in study_text:
@@ -113,7 +130,7 @@ def search(request: HttpRequest) -> HttpResponse:
     titles = {
         "todos": "Explore o catálogo",
         "livros": "Livros",
-        "hq": "HQs e arcos",
+        "hq": "HQs",
         "jogos": "Jogos",
         "estudos": "Estudos",
     }
@@ -141,6 +158,7 @@ def robots(_: HttpRequest) -> HttpResponse:
 @require_GET
 def sitemap(request: HttpRequest) -> HttpResponse:
     urls = [request.build_absolute_uri(reverse("reader:home"))]
+    urls.append(request.build_absolute_uri(reverse("reader:hq")))
     urls.append(request.build_absolute_uri(reverse("reader:studies")))
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
     urls.extend(
