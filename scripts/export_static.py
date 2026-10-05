@@ -16,12 +16,23 @@ django.setup()
 
 from django.test import Client  # noqa: E402
 
+from reader.book_catalog import BOOK, get_book_pages  # noqa: E402
 from reader.catalog import ARCS, MANGA  # noqa: E402
 from reader.game_catalog import GAMES  # noqa: E402
 from reader.study_catalog import STUDY_GUIDE  # noqa: E402
 
 DIST_DIR = BASE_DIR / "dist"
 STATIC_SOURCE = BASE_DIR / "reader" / "static" / "reader"
+
+
+def write_book_data() -> Path:
+    destination = STATIC_SOURCE / "book" / "casa-medidas" / "pages.json"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        json.dumps([page.as_json() for page in get_book_pages()], ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    return destination
 
 
 def destination_for(path: str) -> Path:
@@ -39,6 +50,7 @@ def write_page(client: Client, path: str) -> None:
     )
     origin = os.getenv("SITE_ORIGIN", "https://example.invalid").rstrip("/")
     html = html.replace(f"http://testserver{path}", f"{origin}{path}")
+    html = "\n".join(line.rstrip() for line in html.splitlines()) + "\n"
     destination = destination_for(path)
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(html, encoding="utf-8")
@@ -46,6 +58,10 @@ def write_page(client: Client, path: str) -> None:
 
 def build_catalog() -> list[dict[str, str | int]]:
     return [{
+        "category": "livros", "kind": "Livro", "title": BOOK["title"],
+        "detail": f"{BOOK['author']} · {BOOK['genre']} · 150 páginas. {BOOK['detail']}",
+        "url": BOOK["url"], "topics": BOOK["topics"], "book_art": True,
+    }, {
         "category": "hq",
         "kind": "HQ",
         "title": MANGA["title"],
@@ -92,6 +108,7 @@ def build_catalog() -> list[dict[str, str | int]]:
 
 
 def main() -> None:
+    write_book_data()
     shutil.rmtree(DIST_DIR, ignore_errors=True)
     DIST_DIR.mkdir()
     shutil.copytree(
@@ -100,6 +117,8 @@ def main() -> None:
 
     client = Client()
     routes = ["/", "/buscar/", "/estudos/", "/hqs/homus-bananus/"]
+    routes.append(BOOK["url"])
+    routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
     routes.extend(game["url"] for game in GAMES)
     routes.extend(f"/arcos/{arc.slug}/" for arc in ARCS)
     routes.extend(f"/ler/arco/{arc.slug}/" for arc in ARCS)
@@ -127,5 +146,47 @@ def main() -> None:
     )
 
 
+def book_only() -> None:
+    """Publish the book without rebuilding unrelated, hand-tuned static pages."""
+    data = write_book_data()
+    for source in (
+        STATIC_SOURCE / "css" / "book.css",
+        STATIC_SOURCE / "js" / "book" / "art.mjs",
+        STATIC_SOURCE / "js" / "book" / "reader.mjs",
+        data,
+    ):
+        destination = DIST_DIR / "static" / "reader" / source.relative_to(STATIC_SOURCE)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, destination)
+    client = Client()
+    write_page(client, BOOK["url"])
+    for page in get_book_pages():
+        write_page(client, f"{BOOK['url']}ler/{page.number}/")
+    (DIST_DIR / "catalog.json").write_text(
+        json.dumps(build_catalog(), ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
+    search_path = DIST_DIR / "buscar" / "index.html"
+    search_html = search_path.read_text(encoding="utf-8")
+    if "reader/css/book.css" not in search_html:
+        search_html = search_html.replace(
+            "</head>", '<link rel="stylesheet" href="/static/reader/css/book.css?v=1"></head>', 1
+        )
+    if "reader/js/book/art.mjs" not in search_html:
+        search_html = search_html.replace(
+            "</body>", '<script type="module" src="/static/reader/js/book/art.mjs?v=1"></script></body>', 1
+        )
+    search_path.write_text(search_html, encoding="utf-8")
+    sitemap_path = DIST_DIR / "sitemap.xml"
+    sitemap = sitemap_path.read_text(encoding="utf-8")
+    origin = os.getenv("SITE_ORIGIN", "https://voidwielder.alves-lucas0200.chatgpt.site").rstrip("/")
+    book_urls = [BOOK["url"]] + [f"{BOOK['url']}ler/{page.number}/" for page in get_book_pages()]
+    if f"{origin}{BOOK['url']}" not in sitemap:
+        sitemap = sitemap.replace("</urlset>", "".join(f"<url><loc>{origin}{url}</loc></url>" for url in book_urls) + "</urlset>")
+        sitemap_path.write_text(sitemap, encoding="utf-8")
+
+
 if __name__ == "__main__":
-    main()
+    if "--book-only" in sys.argv:
+        book_only()
+    else:
+        main()

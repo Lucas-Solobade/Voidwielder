@@ -1,0 +1,26 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}{{ book.title }} · Livros · Voidwielder{% endblock %}
+{% block description %}{{ book.detail }}{% endblock %}
+{% block og_title %}{{ book.title }} · Voidwielder{% endblock %}
+{% block og_description %}{{ book.detail }}{% endblock %}
+{% block og_image %}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/book.css' %}?v=1">{% endblock %}
+{% block content %}
+<article class="book-detail section-shell">
+  <a class="book-back" href="{% url 'reader:search' %}?tipo=livros">← Livros</a>
+  <div class="book-detail-grid">
+    <div class="book-cover-wrap"><canvas class="book-cover" data-book-art="cover" width="480" height="720" role="img" aria-label="Capa de A Casa das Medidas"></canvas></div>
+    <div class="book-detail-copy">
+      <p class="eyebrow">Romance original · Terror psicológico</p>
+      <h1>{{ book.title }}</h1>
+      <p class="book-byline">Helena Bastos</p>
+      <p class="book-deck">Um prédio que excede a própria fachada. Uma planta assinada por quem tentou esquecer. E sete nomes que a cidade apagou.</p>
+      <p>{{ book.detail }}</p>
+      <div class="book-facts"><span>15 capítulos</span><span>150 páginas</span><span>Leitura gratuita</span></div>
+      <a class="book-primary" href="{% url 'reader:read_book' 1 %}">Começar a ler <span aria-hidden="true">→</span></a>
+      <a class="book-resume" data-book-resume hidden href="{% url 'reader:read_book' 1 %}">Retomar leitura</a>
+    </div>
+  </div>
+</article>
+{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/book/reader.mjs' %}?v=1"></script>{% endblock %}

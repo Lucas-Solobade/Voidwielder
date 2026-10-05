@@ -61,3 +61,41 @@ def test_arc_book_reader_has_all_pages(client):
     assert "page-51.webp" in content
     assert "page-78.webp" in content
     assert "story-page" not in content
+
+
+def test_book_catalog_and_reader_deep_links(client):
+    catalog = client.get(reverse("reader:search"), {"tipo": "livros"})
+    assert catalog.status_code == 200
+    assert "A Casa das Medidas" in catalog.content.decode()
+    assert 'data-book-art="cover"' in catalog.content.decode()
+
+    detail = client.get(reverse("reader:book_detail"))
+    assert detail.status_code == 200
+    assert "150 páginas" in detail.content.decode()
+
+    for page_number in (1, 74, 150):
+        page = client.get(reverse("reader:read_book", args=(page_number,)))
+        assert page.status_code == 200
+        assert f'data-page="{page_number}"' in page.content.decode()
+        assert len(page.content) > 2000
+    assert client.get(reverse("reader:read_book", args=(151,))).status_code == 404
+
+
+def test_book_pagination_preserves_every_sentence_once():
+    from reader.book_catalog import CHAPTER_DIR, _split_chapter, get_book_pages
+
+    pages = get_book_pages()
+    assert len(pages) == 150
+    assert [page.number for page in pages] == list(range(1, 151))
+    assert [page.chapter_number for page in pages if page.chapter_start] == list(range(1, 16))
+    assert min(page.word_count for page in pages) >= 80
+    assert max(page.word_count for page in pages) <= 185
+    for chapter_number, path in enumerate(sorted(CHAPTER_DIR.glob("*.md")), start=1):
+        _, source = _split_chapter(path.read_text(encoding="utf-8"))
+        original = " ".join(sentence for _, sentence in source)
+        published = " ".join(
+            paragraph
+            for page in pages if page.chapter_number == chapter_number
+            for paragraph in page.paragraphs
+        )
+        assert published == original

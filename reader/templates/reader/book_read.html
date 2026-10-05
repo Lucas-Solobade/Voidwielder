@@ -1,0 +1,39 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}Página {{ page.number }} · {{ book.title }} · Voidwielder{% endblock %}
+{% block description %}Leia {{ book.title }}, de {{ book.author }}, em formato de livro interativo.{% endblock %}
+{% block og_image %}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/book.css' %}?v=1">{% endblock %}
+{% block content %}
+<article class="book-reader" data-book-reader data-page="{{ page.number }}" data-total="{{ book.page_count }}" data-book-root="/livros/a-casa-das-medidas/ler/">
+  <div class="book-reader-bar section-shell">
+    <a class="book-back" href="{% url 'reader:book_detail' %}">← {{ book.title }}</a>
+    <div class="book-reader-position"><span data-reader-chapter>{{ page.chapter_title }}</span><span data-reader-position>Página {{ page.number }} de {{ book.page_count }}</span></div>
+    <label class="book-chapters-label" for="book-chapters">Capítulos <select id="book-chapters" data-chapter-select>{% for chapter in chapter_starts %}<option value="{{ chapter.number }}" {% if chapter.chapter_number == page.chapter_number %}selected{% endif %}>{{ chapter.chapter_number|stringformat:"02d" }} · {{ chapter.chapter_title }}</option>{% endfor %}</select></label>
+  </div>
+  <div class="book-stage" data-book-stage>
+    <div class="book-spread" data-book-spread>
+      <section class="book-sheet book-sheet-left" data-sheet-left aria-label="Página {{ page.number }}">
+        <div class="book-sheet-inner" data-page-content="left">
+          {% if page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ page.chapter_number|stringformat:"02d" }}</span><h1>{{ page.chapter_title }}</h1>{% if page.chapter_number == 1 or page.chapter_number == 7 or page.chapter_number == 13 %}<canvas class="book-illustration" data-book-art="scene" data-scene="{{ page.chapter_number }}" width="580" height="170" role="img" aria-label="Ilustração em nanquim do capítulo"></canvas>{% endif %}{% endif %}
+          {% for paragraph in page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}
+          {% if page.number == 150 %}<p class="book-endmark">FIM</p>{% endif %}<span class="book-page-number">{{ page.number }}</span>
+        </div>
+      </section>
+      <section class="book-sheet book-sheet-right" data-sheet-right {% if not next_page %}hidden{% endif %} aria-label="Página {% if next_page %}{{ next_page.number }}{% endif %}">
+        <div class="book-sheet-inner" data-page-content="right">
+          {% if next_page %}{% if next_page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ next_page.chapter_number|stringformat:"02d" }}</span><h1>{{ next_page.chapter_title }}</h1>{% if next_page.chapter_number == 1 or next_page.chapter_number == 7 or next_page.chapter_number == 13 %}<canvas class="book-illustration" data-book-art="scene" data-scene="{{ next_page.chapter_number }}" width="580" height="170" role="img" aria-label="Ilustração em nanquim do capítulo"></canvas>{% endif %}{% endif %}{% for paragraph in next_page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}{% if next_page.number == 150 %}<p class="book-endmark">FIM</p>{% endif %}<span class="book-page-number">{{ next_page.number }}</span>{% endif %}
+        </div>
+      </section>
+    </div>
+  </div>
+  <nav class="book-controls section-shell" aria-label="Navegação do livro">
+    <a rel="prev" data-book-prev href="{% if previous_number %}{% url 'reader:read_book' previous_number %}{% else %}{% url 'reader:read_book' 1 %}{% endif %}" {% if not previous_number %}hidden{% endif %}>← Página anterior</a>
+    <label for="book-page-jump">Ir para página <input id="book-page-jump" data-page-jump type="number" min="1" max="150" value="{{ page.number }}" inputmode="numeric"></label>
+    <a rel="next" data-book-next href="{% if next_number %}{% url 'reader:read_book' next_number %}{% else %}{% url 'reader:read_book' 150 %}{% endif %}" {% if not next_number %}hidden{% endif %}>Próxima página →</a>
+    <a data-book-finish href="{% url 'reader:book_detail' %}" {% if next_number %}hidden{% endif %}>Fim · Voltar ao livro →</a>
+  </nav>
+  <div class="book-progress" role="progressbar" aria-label="Progresso da leitura" aria-valuemin="1" aria-valuemax="150" aria-valuenow="{{ page.number }}" data-book-progress><span style="width:{{ page.number|floatformat:0 }}%"></span></div>
+  <p class="book-reader-help">Use as setas do teclado ou deslize para virar as páginas. O texto pode ser selecionado.</p>
+</article>
+{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/book/reader.mjs' %}?v=1"></script>{% endblock %}
