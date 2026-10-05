@@ -19,6 +19,7 @@ from django.test import Client  # noqa: E402
 from reader.book_catalog import BOOK, get_book_pages  # noqa: E402
 from reader.catalog import ARCS, MANGA  # noqa: E402
 from reader.game_catalog import GAMES  # noqa: E402
+from reader.linux_catalog import LINUX_BOOK, get_linux_pages  # noqa: E402
 from reader.study_catalog import STUDY_GUIDE  # noqa: E402
 
 DIST_DIR = BASE_DIR / "dist"
@@ -30,6 +31,16 @@ def write_book_data() -> Path:
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(
         json.dumps([page.as_json() for page in get_book_pages()], ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    return destination
+
+
+def write_linux_data() -> Path:
+    destination = STATIC_SOURCE / "book" / "linux" / "pages.json"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        json.dumps([page.as_json() for page in get_linux_pages()], ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
     return destination
@@ -61,6 +72,10 @@ def build_catalog() -> list[dict[str, str | int]]:
         "category": "livros", "kind": "Livro", "title": BOOK["title"],
         "detail": f"{BOOK['author']} · {BOOK['genre']} · 150 páginas. {BOOK['detail']}",
         "url": BOOK["url"], "topics": BOOK["topics"], "book_art": True,
+    }, {
+        "category": "livros", "kind": "Livro didático", "title": LINUX_BOOK["title"],
+        "detail": f"13 partes · 78 lições · {LINUX_BOOK['page_count']} páginas. {LINUX_BOOK['detail']}",
+        "url": LINUX_BOOK["url"], "topics": LINUX_BOOK["topics"], "linux_art": True,
     }, {
         "category": "hq",
         "kind": "HQ",
@@ -109,6 +124,7 @@ def build_catalog() -> list[dict[str, str | int]]:
 
 def main() -> None:
     write_book_data()
+    write_linux_data()
     shutil.rmtree(DIST_DIR, ignore_errors=True)
     DIST_DIR.mkdir()
     shutil.copytree(
@@ -119,6 +135,8 @@ def main() -> None:
     routes = ["/", "/buscar/", "/estudos/", "/hqs/homus-bananus/"]
     routes.append(BOOK["url"])
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
+    routes.append(LINUX_BOOK["url"])
+    routes.extend(f"{LINUX_BOOK['url']}ler/{page}/" for page in range(1, LINUX_BOOK["page_count"] + 1))
     routes.extend(game["url"] for game in GAMES)
     routes.extend(f"/arcos/{arc.slug}/" for arc in ARCS)
     routes.extend(f"/ler/arco/{arc.slug}/" for arc in ARCS)
@@ -185,8 +203,52 @@ def book_only() -> None:
         sitemap_path.write_text(sitemap, encoding="utf-8")
 
 
+def linux_only() -> None:
+    """Export the textbook while preserving unrelated hand-tuned static pages."""
+    data = write_linux_data()
+    for source in (
+        STATIC_SOURCE / "css" / "linux-book.css",
+        STATIC_SOURCE / "js" / "linux-book" / "art.mjs",
+        STATIC_SOURCE / "js" / "linux-book" / "reader.mjs",
+        STATIC_SOURCE / "js" / "site.js",
+        data,
+    ):
+        destination = DIST_DIR / "static" / "reader" / source.relative_to(STATIC_SOURCE)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, destination)
+    client = Client()
+    write_page(client, LINUX_BOOK["url"])
+    for page in get_linux_pages():
+        write_page(client, f"{LINUX_BOOK['url']}ler/{page.number}/")
+    (DIST_DIR / "catalog.json").write_text(
+        json.dumps(build_catalog(), ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
+    search_path = DIST_DIR / "buscar" / "index.html"
+    search_html = search_path.read_text(encoding="utf-8")
+    if "reader/css/linux-book.css" not in search_html:
+        search_html = search_html.replace(
+            "</head>", '<link rel="stylesheet" href="/static/reader/css/linux-book.css?v=1"></head>', 1
+        )
+    if "reader/js/linux-book/art.mjs" not in search_html:
+        search_html = search_html.replace(
+            "</body>", '<script type="module" src="/static/reader/js/linux-book/art.mjs?v=1"></script></body>', 1
+        )
+    search_path.write_text(search_html, encoding="utf-8")
+    sitemap_path = DIST_DIR / "sitemap.xml"
+    sitemap = sitemap_path.read_text(encoding="utf-8")
+    origin = os.getenv("SITE_ORIGIN", "https://voidwielder.alves-lucas0200.chatgpt.site").rstrip("/")
+    book_urls = [LINUX_BOOK["url"]] + [f"{LINUX_BOOK['url']}ler/{page.number}/" for page in get_linux_pages()]
+    if f"{origin}{LINUX_BOOK['url']}" not in sitemap:
+        sitemap = sitemap.replace(
+            "</urlset>", "".join(f"<url><loc>{origin}{url}</loc></url>" for url in book_urls) + "</urlset>"
+        )
+        sitemap_path.write_text(sitemap, encoding="utf-8")
+
+
 if __name__ == "__main__":
     if "--book-only" in sys.argv:
         book_only()
+    elif "--linux-only" in sys.argv:
+        linux_only()
     else:
         main()

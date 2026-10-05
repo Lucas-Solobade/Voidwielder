@@ -81,6 +81,35 @@ def test_book_catalog_and_reader_deep_links(client):
     assert client.get(reverse("reader:read_book", args=(151,))).status_code == 404
 
 
+def test_linux_textbook_is_in_books_and_has_stable_deep_links(client):
+    catalog = client.get(reverse("reader:search"), {"tipo": "livros"})
+    assert catalog.status_code == 200
+    assert "Linux: do zero ao avançado" in catalog.content.decode()
+    detail = client.get(reverse("reader:linux_detail"))
+    assert detail.status_code == 200
+    assert "554" in detail.content.decode()
+    assert "data-linux-art=\"cover\"" in detail.content.decode()
+    for number in (1, 9, 344, 554):
+        response = client.get(reverse("reader:read_linux", args=(number,)))
+        assert response.status_code == 200
+        assert f'data-page="{number}"' in response.content.decode()
+    assert client.get(reverse("reader:read_linux", args=(555,))).status_code == 404
+
+
+def test_linux_manuscript_has_real_unique_pages_and_every_lesson():
+    from reader.linux_catalog import get_linux_lessons, get_linux_pages
+
+    pages = get_linux_pages()
+    lessons = get_linux_lessons()
+    assert len(pages) == 554
+    assert len(lessons) == 78
+    assert [page.number for page in pages] == list(range(1, 555))
+    assert min(len(page.body.split()) for page in pages) >= 40
+    assert len({page.body for page in pages}) == 554
+    assert [sum(page.lesson_number == lesson.number for page in pages) for lesson in lessons] == [7] * 78
+    assert {page.diagram for page in pages if page.diagram} == {"rede", "boot", "container"}
+
+
 def test_book_pagination_preserves_every_sentence_once():
     from reader.book_catalog import CHAPTER_DIR, _split_chapter, get_book_pages
 

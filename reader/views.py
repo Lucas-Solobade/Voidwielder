@@ -6,6 +6,7 @@ from django.views.decorators.http import require_GET
 from .book_catalog import BOOK, get_book_pages
 from .catalog import ARCS, MANGA, get_arc, get_chapter_for_page
 from .game_catalog import GAMES
+from .linux_catalog import LINUX_BOOK, PARTS, get_linux_lessons, get_linux_pages
 from .study_catalog import STUDY_GUIDE
 
 
@@ -89,6 +90,13 @@ def search(request: HttpRequest) -> HttpResponse:
                 "kind": "Livro", "title": BOOK["title"], "url": BOOK["url"],
                 "detail": f"{BOOK['author']} · {BOOK['genre']} · 150 páginas. {BOOK['detail']}",
                 "book_art": True,
+            })
+        linux_text = f"{LINUX_BOOK['title']} {LINUX_BOOK['detail']} {LINUX_BOOK['topics']}".casefold()
+        if not query or query.casefold() in linux_text:
+            results.append({
+                "kind": "Livro didático", "title": LINUX_BOOK["title"], "url": LINUX_BOOK["url"],
+                "detail": f"13 partes · 78 lições · {LINUX_BOOK['page_count']} páginas. {LINUX_BOOK['detail']}",
+                "linux_art": True,
             })
     if category in {"todos", "hq"}:
         needle = query.casefold()
@@ -186,6 +194,28 @@ def read_book(request: HttpRequest, page: int) -> HttpResponse:
 
 
 @require_GET
+def linux_detail(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/linux_detail.html", {
+        "book": LINUX_BOOK, "parts": list(enumerate(PARTS, start=1)),
+        "lessons": get_linux_lessons(),
+    })
+
+
+@require_GET
+def read_linux(request: HttpRequest, page: int) -> HttpResponse:
+    pages = get_linux_pages()
+    if not 1 <= page <= len(pages):
+        raise Http404("Página não encontrada")
+    return render(request, "reader/linux_read.html", {
+        "book": LINUX_BOOK, "page": pages[page - 1],
+        "next_page": pages[page] if page < len(pages) else None,
+        "previous_number": page - 1 if page > 1 else None,
+        "next_number": page + 1 if page < len(pages) else None,
+        "lessons": get_linux_lessons(),
+    })
+
+
+@require_GET
 def studies(request: HttpRequest) -> HttpResponse:
     return render(request, "reader/studies.html", {"manga": MANGA})
 
@@ -215,6 +245,8 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls.append(request.build_absolute_uri(reverse("reader:playground")))
     urls.append(request.build_absolute_uri(reverse("reader:book_detail")))
     urls.extend(request.build_absolute_uri(reverse("reader:read_book", args=(page,))) for page in range(1, 151))
+    urls.append(request.build_absolute_uri(reverse("reader:linux_detail")))
+    urls.extend(request.build_absolute_uri(reverse("reader:read_linux", args=(page,))) for page in range(1, LINUX_BOOK["page_count"] + 1))
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
     urls.extend(
         request.build_absolute_uri(reverse("reader:read_arc", args=(arc.slug,))) for arc in ARCS

@@ -1,0 +1,47 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}{{ book.title }} · Livros · Voidwielder{% endblock %}
+{% block description %}{{ book.detail }}{% endblock %}
+{% block og_title %}{{ book.title }} · Voidwielder{% endblock %}
+{% block og_description %}{{ book.detail }}{% endblock %}
+{% block og_image %}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/linux-book.css' %}?v=1">{% endblock %}
+{% block content %}
+<article class="linux-detail section-shell">
+  <a class="linux-back" href="{% url 'reader:search' %}?tipo=livros">← Livros</a>
+  <div class="linux-hero">
+    <div class="linux-cover-frame"><canvas data-linux-art="cover" width="540" height="720" role="img" aria-label="Capa ilustrada: um terminal luminoso abre caminhos por um universo de circuitos Linux"></canvas></div>
+    <div class="linux-intro">
+      <p class="eyebrow">Biblioteca de conhecimento · Volume 01</p>
+      <h1>Linux:<br><em>do zero ao avançado</em></h1>
+      <p class="linux-lead">Um sistema inteiro, explicado passo a passo.</p>
+      <p>{{ book.detail }} Comece sem experiência prévia: a primeira prática acontece numa máquina virtual, e cada lição termina com uma verificação.</p>
+      <div class="linux-stats"><span><strong>554</strong> páginas</span><span><strong>78</strong> lições</span><span><strong>13</strong> partes</span></div>
+      <div class="linux-actions"><a class="linux-start" href="{% url 'reader:read_linux' 1 %}">Abrir o livro <span aria-hidden="true">→</span></a><a data-linux-resume hidden href="{% url 'reader:read_linux' 1 %}">Retomar leitura</a></div>
+    </div>
+  </div>
+  <section class="linux-guide" aria-labelledby="linux-guide-title">
+    <div><p class="eyebrow">Um guia de verdade</p><h2 id="linux-guide-title">Aprenda, experimente, explique.</h2></div>
+    <p>O percurso começa com a história de Unix, GNU e Linux e chega a redes, segurança, Bash, kernel, contêineres e desenvolvimento. Os exemplos mostram o que observar, o que pode mudar entre distribuições e como recuperar o laboratório. O texto foi feito para leitura em celular e computador, com páginas individuais e progresso salvo neste navegador.</p>
+  </section>
+  <section class="linux-toc" aria-labelledby="linux-toc-title">
+    <div class="linux-section-head"><p class="eyebrow">Mapa do livro</p><h2 id="linux-toc-title">Escolha uma parte</h2><p>Na primeira leitura, siga a sequência. Depois use este sumário para voltar a qualquer assunto.</p></div>
+    {% regroup lessons by part_number as grouped_lessons %}
+    <div class="linux-parts">
+      {% for group in grouped_lessons %}
+      <details class="linux-part" {% if forloop.first %}open{% endif %}>
+        <summary><span class="linux-part-num">{{ group.grouper|stringformat:"02d" }}</span><span class="linux-part-name">{{ group.list.0.part_title }}<small>6 lições</small></span><span class="linux-part-arrow" aria-hidden="true">⌄</span></summary>
+        <ol>{% for lesson in group.list %}<li><a href="{% url 'reader:read_linux' lesson.start_page %}"><span>{{ lesson.title }}</span><small>p. {{ lesson.start_page }}</small></a></li>{% endfor %}</ol>
+      </details>
+      {% endfor %}
+    </div>
+  </section>
+  <section class="linux-sources" aria-labelledby="linux-sources-title"><h2 id="linux-sources-title">Fontes para continuar aprendendo</h2><p>As ferramentas evoluem. Confira os manuais oficiais da sua distribuição antes de aplicar instruções em um sistema real.</p><ul>
+    <li><a href="https://docs.kernel.org/">Documentação do kernel Linux</a></li>
+    <li><a href="https://www.gnu.org/gnu/gnu-history.en.html">História do projeto GNU</a> e <a href="https://www.gnu.org/software/bash/manual/">manual do Bash</a></li>
+    <li><a href="https://www.debian.org/doc/manuals/debian-handbook/">Debian Handbook</a> e <a href="https://ubuntu.com/desktop/docs/en/latest/">documentação do Ubuntu Desktop</a></li>
+    <li><a href="https://man7.org/linux/man-pages/">Páginas man do Linux</a> e <a href="https://www.freedesktop.org/software/systemd/man/latest/">manuais do systemd</a></li>
+    <li><a href="https://docs.docker.com/engine/security/rootless/">Documentação de contêineres rootless</a></li>
+  </ul></section>
+</article>
+{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/linux-book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/linux-book/reader.mjs' %}?v=1"></script>{% endblock %}

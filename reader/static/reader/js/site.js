@@ -88,6 +88,14 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
             const link = document.createElement('a');
             link.href = result.url;
             if (result.kind === 'Jogo') link.className = 'game-card';
+            if (result.linux_art) {
+              link.className = 'linux-result-card';
+              const frame = document.createElement('span'); frame.className = 'linux-mini-cover';
+              const canvas = document.createElement('canvas'); canvas.width = 540; canvas.height = 720;
+              canvas.dataset.linuxArt = 'cover'; canvas.setAttribute('role', 'img');
+              canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
+              import('/static/reader/js/linux-book/art.mjs').then(({ drawLinuxArt }) => drawLinuxArt(canvas));
+            }
             if (result.cover) {
               link.className = 'series-card';
               const cover = document.createElement('img');
