@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090b16">
+  <meta name="description" content="Simulador visual de escalonamento de CPU com FCFS, SJF e Round Robin.">
+  <title>Escalonador do Vazio · Voidwielder</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%23090b16'/%3E%3Cpath d='M14 19h36v26H14z' fill='none' stroke='%237cf7d4' stroke-width='4'/%3E%3Cpath d='M21 27h13M21 36h22' stroke='%23fbcd5d' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip-link" href="#simulador">Pular para o simulador</a>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Voltar ao início do Voidwielder"><span>V</span> Voidwielder</a>
+    <a class="back" href="/buscar/?tipo=estudos">← Estudos</a>
+  </header>
+
+  <main id="simulador">
+    <section class="intro">
+      <p class="eyebrow">Experimento 01 · Sistemas Operacionais</p>
+      <h1>Escalonador <em>do Vazio</em></h1>
+      <p class="lede">Veja como a CPU decide quem executa primeiro. Ajuste os processos, troque o algoritmo e acompanhe cada unidade de tempo.</p>
+    </section>
+
+    <section class="workspace" aria-label="Simulador de escalonamento">
+      <div class="control-panel">
+        <div class="panel-heading">
+          <div><span class="step">01</span><h2>Fila de processos</h2></div>
+          <button id="resetButton" class="ghost" type="button">Restaurar exemplo</button>
+        </div>
+
+        <div class="process-table" role="table" aria-label="Processos">
+          <div class="table-row table-head" role="row">
+            <span role="columnheader">Processo</span><span role="columnheader">Chegada</span><span role="columnheader">Duração</span><span aria-hidden="true"></span>
+          </div>
+          <div id="processRows"></div>
+        </div>
+        <button id="addButton" class="add" type="button">+ Adicionar processo</button>
+
+        <div class="algorithm-block">
+          <span class="step">02</span>
+          <fieldset>
+            <legend>Escolha o algoritmo</legend>
+            <div class="segmented">
+              <label><input type="radio" name="algorithm" value="fcfs" checked><span>FCFS<small>ordem de chegada</small></span></label>
+              <label><input type="radio" name="algorithm" value="sjf"><span>SJF<small>menor tarefa</small></span></label>
+              <label><input type="radio" name="algorithm" value="rr"><span>Round Robin<small>fatias de tempo</small></span></label>
+            </div>
+          </fieldset>
+          <label id="quantumField" class="quantum" hidden>Quantum <input id="quantumInput" type="number" min="1" max="9" value="2" inputmode="numeric"></label>
+        </div>
+      </div>
+
+      <div class="result-panel" aria-live="polite">
+        <div class="panel-heading result-heading">
+          <div><span class="step">03</span><h2>Linha do tempo</h2></div>
+          <span id="algorithmBadge" class="badge">FCFS</span>
+        </div>
+        <p id="explanation" class="explanation"></p>
+
+        <div class="timeline-wrap" tabindex="0" aria-label="Linha do tempo do processador">
+          <div id="timeline" class="timeline"></div>
+          <div id="ticks" class="ticks"></div>
+        </div>
+
+        <div class="metrics" aria-label="Métricas médias">
+          <div><span>Espera média</span><strong id="averageWait">0</strong><small>unidades</small></div>
+          <div><span>Retorno médio</span><strong id="averageTurnaround">0</strong><small>unidades</small></div>
+          <div><span>Trocas</span><strong id="contextSwitches">0</strong><small>de contexto</small></div>
+        </div>
+
+        <div class="details">
+          <h3>Resultado por processo</h3>
+          <div class="details-scroll">
+            <table>
+              <thead><tr><th>Processo</th><th>Início</th><th>Conclusão</th><th>Espera</th><th>Retorno</th></tr></thead>
+              <tbody id="resultRows"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <aside class="lesson" aria-labelledby="lesson-title">
+      <span class="lesson-mark">?</span>
+      <div><h2 id="lesson-title">Como ler o resultado</h2><p><strong>Espera</strong> é o tempo parado na fila. <strong>Retorno</strong> vai da chegada até a conclusão. No Round Robin, cada processo usa no máximo um quantum antes de dar lugar ao próximo.</p></div>
+    </aside>
+  </main>
+
+  <footer>Uma experiência independente do <strong>Voidwielder</strong>.</footer>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
