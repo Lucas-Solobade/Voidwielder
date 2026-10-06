@@ -20,6 +20,7 @@ urlpatterns = [
     path("estudos/", views.studies, name="studies"),
     path("jogos/pipo-e-o-correio-das-estrelas/", views.game, name="game"),
     path("jogos/mila-e-o-jardim-das-nuvens/", views.garden_game, name="garden_game"),
+    path("jogos/lilo-e-o-festival-das-bolhas/", views.bubble_game, name="bubble_game"),
     path("playground/", views.playground, name="playground"),
     path("robots.txt", views.robots, name="robots"),
     path("sitemap.xml", views.sitemap, name="sitemap"),

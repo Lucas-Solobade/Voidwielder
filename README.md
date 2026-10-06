@@ -1,6 +1,6 @@
 # Voidwielder
 
-Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O catálogo atual inclui a HQ *Homus Bananus: Guerra do Absurdo*, com 96 páginas em quatro arcos, uma trilha de seis semanas de Lógica de Programação e Algoritmos e os jogos *Pipo e o Correio das Estrelas* e *Mila e o Jardim das Nuvens*.
+Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O catálogo atual inclui a HQ *Homus Bananus: Guerra do Absurdo*, com 96 páginas em quatro arcos, uma trilha de seis semanas de Lógica de Programação e Algoritmos e os jogos *Pipo e o Correio das Estrelas*, *Mila e o Jardim das Nuvens* e *Lilo e o Festival das Bolhas*.
 
 As categorias de livros e jogos têm navegação e pesquisa próprias. Novos itens podem ser adicionados ao catálogo sem alterar o menu principal.
 
@@ -20,6 +20,12 @@ Com o servidor iniciado, abra `/jogos/pipo-e-o-correio-das-estrelas/`. O progres
 Aventura infantil de três jardins desenhada com Canvas API. Mila recolhe sementinhas luminosas e acorda flores, sem cronômetro ou vidas. Use as setas ou WASD no teclado; no celular, use os botões de direção ou deslize o dedo no jardim. O progresso fica salvo no navegador atual.
 
 Abra `/jogos/mila-e-o-jardim-das-nuvens/` ou selecione o jogo na categoria Jogos. A lógica das fases está em `reader/static/reader/js/garden/core.mjs` e pode ser verificada com `node tests/garden.test.mjs`.
+
+## Jogo: Lilo e o Festival das Bolhas
+
+Em seis fases, Lilo solta bolhas de luz que brilham em cruz após três batidas. A luz abre nuvens macias e acorda visitantes sonolentos. Recolha as estrelas e alcance o portal; a última fase traz a Rainha Névoa, com escudo alternado e um vento anunciado antes de soprar. A luz apenas devolve Lilo ao início da fase, sem tirar o progresso.
+
+Use setas ou WASD para mover, Espaço para colocar a bolha e Esc para pausar. No celular, há botões de direção e bolha, além de gestos sobre o tabuleiro. Abra `/jogos/lilo-e-o-festival-das-bolhas/`. A lógica pura fica em `reader/static/reader/js/bubbles/core.mjs` e o progresso local desbloqueia fases sem conta.
 
 ## Executar com UV
 

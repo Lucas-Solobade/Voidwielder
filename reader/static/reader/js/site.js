@@ -89,7 +89,7 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
           results.forEach((result) => {
             const link = document.createElement('a');
             link.href = sitePath(result.url);
-            if (result.kind === 'Jogo') link.className = result.garden_art ? 'game-card garden-card' : 'game-card';
+            if (result.kind === 'Jogo') link.className = `game-card${result.garden_art ? ' garden-card' : ''}${result.bubble_art ? ' bubble-card' : ''}`;
             if (result.linux_art) {
               link.className = 'linux-result-card';
               const frame = document.createElement('span'); frame.className = 'linux-mini-cover';

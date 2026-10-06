@@ -22,4 +22,12 @@ GARDEN = {
     "garden_art": True,
 }
 
-GAMES = (GAME, GARDEN, PLAYGROUND)
+BUBBLES = {
+    "title": "Lilo e o Festival das Bolhas",
+    "detail": "Seis fases de bolhas de luz, estrelas e nuvens fofas, com a Rainha Névoa no final.",
+    "topics": "infantil fofo bolhas luz nuvens estrelas labirinto estratégia chefe final",
+    "url": "/jogos/lilo-e-o-festival-das-bolhas/",
+    "bubble_art": True,
+}
+
+GAMES = (GAME, GARDEN, BUBBLES, PLAYGROUND)

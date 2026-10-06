@@ -44,6 +44,20 @@ def test_garden_game_is_listed_and_playable(client):
     assert 'garden/game.mjs' in page.content.decode()
 
 
+def test_bubble_game_is_listed_and_playable(client):
+    url = reverse("reader:bubble_game")
+    catalog = client.get(reverse("reader:search"), {"tipo": "jogos"}).content.decode()
+    assert "Lilo e o Festival das Bolhas" in catalog
+    assert f'href="{url}"' in catalog
+    assert "bubble-card" in catalog
+
+    page = client.get(url)
+    assert page.status_code == 200
+    content = page.content.decode()
+    assert "data-bubble-canvas" in content
+    assert "bubbles/game.mjs" in content
+
+
 def test_playground_is_in_games_and_search(client):
     games = client.get(reverse("reader:search"), {"tipo": "jogos"}).content.decode()
     assert "Laboratório do Vazio" in games

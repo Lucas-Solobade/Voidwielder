@@ -169,6 +169,10 @@ def main() -> None:
     shutil.copytree(
         STATIC_SOURCE, DIST_DIR / "static" / "reader", ignore=shutil.ignore_patterns("*.png")
     )
+    # Standalone experiments share the same public origin and must survive a full rebuild.
+    experiences = BASE_DIR / "experiencias"
+    if experiences.is_dir():
+        shutil.copytree(experiences, DIST_DIR / "experiencias", ignore=shutil.ignore_patterns("*.test.mjs"))
 
     client = Client()
     routes = ["/", "/buscar/", "/estudos/", "/hqs/homus-bananus/"]
