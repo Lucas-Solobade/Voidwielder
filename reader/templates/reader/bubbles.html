@@ -1,31 +1,33 @@
 {% extends 'reader/base.html' %}{% load static %}
 {% block title %}Lilo e o Festival das Bolhas · Jogos · Voidwielder{% endblock %}
-{% block description %}Uma aventura infantil de seis fases: solte bolhas de luz, resgate estrelas e faça amizade com a Rainha Névoa.{% endblock %}
+{% block description %}Uma aventura infantil de seis fases com visitantes espertos, itens surpresa e a Rainha Névoa no castelo.{% endblock %}
 {% block og_title %}Lilo e o Festival das Bolhas · Voidwielder{% endblock %}
-{% block og_description %}Seis fases de luz, nuvens fofas e uma festa no céu.{% endblock %}
+{% block og_description %}Seis fases, itens surpresa, visitantes espertos e uma festa no céu.{% endblock %}
 {% block og_image %}{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/bubbles.css' %}?v=1">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/bubbles.css' %}?v=4">{% endblock %}
 {% block content %}
 <section class="bubble-page" data-bubble-game aria-labelledby="bubble-title">
   <header class="bubble-heading">
     <a href="{% url 'reader:search' %}?tipo=jogos" class="bubble-back">← Voltar aos jogos</a>
     <p class="bubble-kicker">UM NOVO JOGO DO VOIDWIELDER</p>
     <h1 id="bubble-title">Lilo e o <span>Festival das Bolhas</span></h1>
-    <p>Uma estrelinha curiosa, bolhas de luz e nuvens que precisam de carinho. Abra caminhos, resgate estrelas e convide a Rainha Névoa para a festa.</p>
-    <div class="bubble-tags"><span>✦ 6 fases</span><span>☁ Chefe final</span><span>♡ Sem vidas para perder</span><span>⌨ Teclado e toque</span></div>
+    <p>Uma estrelinha curiosa, bolhas de luz e visitantes que se movem pelo céu. Abra caminhos, encontre presentes e convide a Rainha Névoa para a festa.</p>
+    <div class="bubble-tags"><span>✦ 6 fases</span><span>☁ Chefe final</span><span>🎁 Itens surpresa</span><span>⌨ Teclado e toque</span></div>
   </header>
 
   <div class="bubble-shell">
     <div class="bubble-toolbar">
       <strong data-bubble-level>01 / 06 · Praça dos Sorrisos</strong>
-      <span data-bubble-count>✦ 1 estrela · ☁ 1 nuvenzinha</span>
+      <span data-bubble-count>✦ 1 estrela · ☁ 1 visitante</span>
       <span data-bubble-boss>Bolhas de luz disponíveis: ∞</span>
+      <button type="button" data-bubble-menu>☰ Menu do jogo</button>
       <button type="button" data-bubble-sound aria-pressed="true">♫ Som ligado</button>
     </div>
     <div class="bubble-stage">
-      <canvas data-bubble-canvas width="990" height="720" role="img" tabindex="0" aria-label="Jogo do Lilo: use setas para mover, espaço para colocar uma bolha de luz e desvie do brilho"></canvas>
+      <canvas data-bubble-canvas width="990" height="720" role="img" tabindex="0" aria-label="Jogo do Lilo: use setas para mover, espaço para soltar bolhas e Shift para avançar com as asas"></canvas>
       <div class="bubble-overlay" data-bubble-overlay>
         <div class="bubble-dialog">
+          <div class="bubble-opening-art" aria-hidden="true"><span class="opening-orbit orbit-one"></span><span class="opening-orbit orbit-two"></span><span class="opening-star">✦</span><span class="opening-cloud">☁</span><span class="opening-spark spark-one">✧</span><span class="opening-spark spark-two">✧</span></div>
           <span class="bubble-mascot" aria-hidden="true">✦ ☁</span>
           <p class="bubble-dialog-kicker" data-bubble-kicker>UM FESTIVAL FEITO DE LUZ</p>
           <h2 data-bubble-title>Olá! Eu sou o Lilo</h2>
@@ -38,7 +40,8 @@
     <div class="bubble-footer">
       <div class="bubble-guide">
         <p class="bubble-status" data-bubble-status role="status">Lilo espera você.</p>
-        <p>Bolhas brilham depois de <strong>três batidas</strong>, iluminando em cruz. Saia do caminho! Pedras seguram o brilho e nuvens macias desaparecem. Pegue todas as estrelas, acorde as nuvenzinhas e vá ao portal.</p>
+        <p>Bolhas brilham depois de <strong>três batidas</strong>, iluminando em cruz. Visitantes perseguem Lilo, mas desviam de bolhas próximas. Nuvens rosadas podem revelar presentes. Pegue as estrelas, acorde os visitantes e vá ao portal.</p>
+        <p class="bubble-powerups" data-bubble-powerups>Itens surpresa nas nuvens rosadas</p>
         <button type="button" data-bubble-restart class="bubble-restart">↺ Recomeçar fase</button>
       </div>
       <div class="bubble-controls" aria-label="Controles do jogo">
@@ -50,11 +53,12 @@
           <button type="button" data-bubble-direction="ArrowRight" class="right" aria-label="Mover para a direita">→</button>
         </div>
         <button type="button" data-bubble-place class="bubble-place" aria-label="Colocar bolha de luz">✦ Soltar bolha</button>
-        <small>Setas ou WASD · Espaço solta bolha · Esc pausa</small>
+        <button type="button" data-bubble-dash class="bubble-dash" aria-label="Avançar com as asas" disabled>⌁ Avançar com asas</button>
+        <small>Setas ou WASD · Espaço solta bolha · Shift usa asas · Esc abre menu</small>
       </div>
     </div>
   </div>
   <p class="bubble-note">O progresso fica salvo somente neste navegador. Todas as fases desbloqueadas podem ser revisitadas.</p>
 </section>
 {% endblock %}
-{% block extra_scripts %}<script type="module" src="{% static 'reader/js/bubbles/game.mjs' %}?v=1"></script>{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/bubbles/game.mjs' %}?v=3"></script>{% endblock %}

@@ -19,6 +19,7 @@
 .bubble-stage canvas{display:block;width:100%;height:auto;aspect-ratio:990/720;touch-action:none}
 .bubble-stage canvas:focus-visible{outline:4px solid #78518c;outline-offset:-6px}
 .bubble-overlay{position:absolute;inset:0;background:#292849b5;display:grid;place-items:center;padding:.8rem;backdrop-filter:blur(4px)}
+.bubble-overlay{scroll-margin-top:82px}
 .bubble-overlay[hidden],.bubble-choices[hidden]{display:none}
 .bubble-dialog{width:min(560px,100%);max-height:100%;overflow:auto;border:2px solid #fff4e4;border-radius:25px;background:linear-gradient(155deg,#fff9e9,#f5ebff);box-shadow:0 24px 70px #21183a66;color:#352f4d;text-align:center;padding:clamp(.8rem,3vw,1.75rem)}
 .bubble-mascot{font-size:clamp(1.7rem,4vw,2.7rem);line-height:1}
@@ -58,3 +59,31 @@
   .bubble-choices{margin-top:.85rem;padding-top:.8rem;gap:.4rem}
   .bubble-choices button{min-height:38px;font-size:.7rem;padding:.45rem .6rem}
 }
+.bubble-powerups{display:inline-block;border:1px solid #b1e5e2;border-radius:999px;background:#a5e5df20;color:#caf7ec!important;padding:.34rem .7rem;font-weight:850}
+.bubble-dash{font:850 .78rem system-ui;min-height:40px;padding:.45rem .8rem;border:1px solid #d7c6ff;border-radius:10px;background:#decaff;color:#49385f;cursor:pointer;touch-action:manipulation}
+.bubble-dash:disabled{opacity:.5;cursor:not-allowed}
+.bubble-dash:not(:disabled):hover{background:#f3e8ff}
+.bubble-opening-art{display:none;position:relative;width:150px;height:132px;margin:0 auto .5rem;border-radius:50%;background:radial-gradient(circle,#f9eebd75 0 10%,#7864b83d 40%,transparent 72%)}
+.bubble-overlay[data-mode="intro"]{background:radial-gradient(circle at center,#514379d4,#14182ce6 78%)}
+.bubble-overlay[data-mode="intro"] .bubble-dialog{background:linear-gradient(150deg,#fffbed,#f4e8fc)}
+.bubble-overlay[data-mode="intro"] .bubble-opening-art{display:block}
+.bubble-overlay[data-mode="intro"] .bubble-mascot{display:none}
+@media(min-width:641px){.bubble-shell{width:min(100%,calc((100dvh - 160px)*1.375));margin-inline:auto}}
+@media(max-width:640px){.bubble-footer{display:flex;flex-direction:column;align-items:stretch;gap:.9rem}.bubble-controls{order:-1;margin-top:0;padding-bottom:.9rem;border-bottom:1px solid #ffffff2e}.bubble-guide{max-width:none}}
+.opening-orbit{position:absolute;border:1px dashed #9873bb;border-radius:50%;inset:13px 8px}
+.orbit-two{inset:28px 23px;border-color:#e8a8c4;transform:rotate(30deg)}
+.opening-star{position:absolute;left:49px;top:27px;color:#ffd371;font:900 4rem system-ui;text-shadow:0 0 20px #ffe187;animation:bubble-star-rise 3s ease-in-out infinite}
+.opening-cloud{position:absolute;right:9px;bottom:3px;color:#ae9dce;font:900 2.7rem system-ui;animation:bubble-cloud-drift 4s ease-in-out infinite}
+.opening-spark{position:absolute;color:#a5e8dc;font-size:1.25rem;animation:bubble-twinkle 2s ease-in-out infinite}
+.spark-one{left:8px;top:30px}.spark-two{right:4px;top:15px;animation-delay:.8s}
+@keyframes bubble-star-rise{50%{transform:translateY(-8px) scale(1.08)}}
+@keyframes bubble-cloud-drift{50%{transform:translateX(-10px)}}
+@keyframes bubble-twinkle{50%{opacity:.3;transform:scale(.6)}}
+@media(max-width:640px){
+  .bubble-opening-art{width:130px;height:105px}
+  .opening-star{left:41px;top:17px;font-size:3.4rem}
+  .opening-cloud{font-size:2.3rem}
+  .bubble-toolbar button{min-height:35px}
+  .bubble-dash{min-height:44px;font-size:.8rem}
+}
+@media(prefers-reduced-motion:reduce){.opening-star,.opening-cloud,.opening-spark{animation:none}}

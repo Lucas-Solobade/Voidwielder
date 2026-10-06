@@ -23,9 +23,9 @@ Abra `/jogos/mila-e-o-jardim-das-nuvens/` ou selecione o jogo na categoria Jogos
 
 ## Jogo: Lilo e o Festival das Bolhas
 
-Em seis fases, Lilo solta bolhas de luz que brilham em cruz após três batidas. A luz abre nuvens macias e acorda visitantes sonolentos. Recolha as estrelas e alcance o portal; a última fase traz a Rainha Névoa, com escudo alternado e um vento anunciado antes de soprar. A luz apenas devolve Lilo ao início da fase, sem tirar o progresso.
+Em seis fases, Lilo solta bolhas de luz que brilham em cruz após três batidas. A luz abre nuvens macias, revela itens aleatórios e acorda visitantes que perseguem Lilo e desviam de bolhas próximas. Recolha as estrelas e alcance o portal. A Rainha Névoa ocupa quatro casas, anuncia seu Vórtice de Espelhos e expõe o coração entre ataques. A luz apenas devolve Lilo ao início da fase, sem tirar o progresso.
 
-Use setas ou WASD para mover, Espaço para colocar a bolha e Esc para pausar. No celular, há botões de direção e bolha, além de gestos sobre o tabuleiro. Abra `/jogos/lilo-e-o-festival-das-bolhas/`. A lógica pura fica em `reader/static/reader/js/bubbles/core.mjs` e o progresso local desbloqueia fases sem conta.
+Use setas ou WASD para mover, Espaço para colocar a bolha, Shift para avançar com as Asas e Esc para abrir o menu. No celular, há botões de direção, bolha e Asas, além de gestos sobre o tabuleiro. A abertura conta a história de Lilo antes de mostrar o menu de fases. Abra `/jogos/lilo-e-o-festival-das-bolhas/`. A lógica pura fica em `reader/static/reader/js/bubbles/core.mjs` e o progresso local desbloqueia fases sem conta.
 
 ## Executar com UV
 
