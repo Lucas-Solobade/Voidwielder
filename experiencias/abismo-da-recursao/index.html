@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080912">
+  <meta name="description" content="Visualize a pilha de chamadas de algoritmos recursivos, passo a passo.">
+  <title>Abismo da Recursão · Voidwielder</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%23080912'/%3E%3Cpath d='M17 15h30v9H21v9h22v9H25v9h18' fill='none' stroke='%238df7c9' stroke-width='5' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip" href="#laboratorio">Pular para o laboratório</a>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Voltar ao início do Voidwielder"><span>V</span> Voidwielder</a>
+    <a class="return-link" href="/buscar/?tipo=estudos">← Estudos</a>
+  </header>
+
+  <main id="laboratorio">
+    <section class="intro">
+      <p class="eyebrow">Experimento 02 · Algoritmos</p>
+      <h1>Abismo da <em>Recursão</em></h1>
+      <p>Desça pela pilha de chamadas e acompanhe o instante em que cada função encontra seu caso-base e devolve um valor.</p>
+    </section>
+
+    <section class="lab" aria-label="Visualizador de recursão">
+      <aside class="controls">
+        <div class="section-title"><span>01</span><div><small>Prepare o mergulho</small><h2>Algoritmo</h2></div></div>
+        <label class="field">Escolha uma função
+          <select id="algorithm">
+            <option value="factorial">Fatorial</option>
+            <option value="fibonacci">Fibonacci</option>
+            <option value="gcd">Euclides (MDC)</option>
+          </select>
+        </label>
+
+        <div id="singleInput" class="input-group">
+          <label class="field"><span id="numberLabel">Calcular n!</span><input id="numberInput" type="number" min="1" max="8" value="5" inputmode="numeric"></label>
+        </div>
+        <div id="gcdInputs" class="input-group two" hidden>
+          <label class="field">Valor a<input id="gcdA" type="number" min="1" max="999" value="48" inputmode="numeric"></label>
+          <label class="field">Valor b<input id="gcdB" type="number" min="1" max="999" value="18" inputmode="numeric"></label>
+        </div>
+
+        <div class="rule-card">
+          <span class="rule-label">Regra atual</span>
+          <code id="rule"></code>
+          <p id="ruleHelp"></p>
+        </div>
+
+        <div class="legend" aria-label="Legenda">
+          <span><i class="call-dot"></i> chamada</span>
+          <span><i class="base-dot"></i> caso-base</span>
+          <span><i class="return-dot"></i> retorno</span>
+        </div>
+      </aside>
+
+      <section class="stage">
+        <div class="stage-head">
+          <div class="section-title"><span>02</span><div><small>Estado da memória</small><h2>Pilha de chamadas</h2></div></div>
+          <div class="step-counter"><strong id="stepNow">1</strong><span>/</span><span id="stepTotal">1</span></div>
+        </div>
+
+        <div class="depth-scale" aria-hidden="true"><span>TOPO</span><i></i><span>BASE</span></div>
+        <div id="stack" class="stack" aria-live="polite"></div>
+
+        <div class="narrator">
+          <span id="eventKind" class="event-kind">CHAMADA</span>
+          <p id="narration"></p>
+        </div>
+
+        <div class="transport" aria-label="Controles da animação">
+          <button id="previous" type="button" aria-label="Passo anterior">←</button>
+          <button id="play" class="play" type="button" aria-label="Reproduzir">▶ <span>Reproduzir</span></button>
+          <button id="next" type="button" aria-label="Próximo passo">→</button>
+          <label class="speed">Velocidade <input id="speed" type="range" min="350" max="1400" step="150" value="800"></label>
+        </div>
+      </section>
+
+      <aside class="journey">
+        <div class="section-title"><span>03</span><div><small>Mapa da execução</small><h2>Rastro</h2></div></div>
+        <ol id="trace" class="trace"></ol>
+        <div class="result-card"><small>Resultado final</small><strong id="finalResult">—</strong></div>
+      </aside>
+    </section>
+
+    <section class="concept" aria-labelledby="concept-title">
+      <div class="concept-symbol" aria-hidden="true">↳</div>
+      <div><h2 id="concept-title">O segredo é o caso-base</h2><p>Recursão acontece quando uma função resolve um problema chamando uma versão menor de si mesma. Sem uma condição de parada, as chamadas continuam até a pilha estourar.</p></div>
+    </section>
+  </main>
+
+  <footer>Uma experiência independente do <strong>Voidwielder</strong>.</footer>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
