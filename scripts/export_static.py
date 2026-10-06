@@ -2,9 +2,11 @@
 
 import json
 import os
+import re
 import shutil
 import sys
 from pathlib import Path
+from urllib.parse import urlsplit
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR))
@@ -24,8 +26,25 @@ from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
 from reader.python_exercises import EXERCISES  # noqa: E402
 from reader.study_catalog import STUDY_GUIDE  # noqa: E402
 
-DIST_DIR = BASE_DIR / "dist"
+DIST_DIR = Path(os.getenv("STATIC_EXPORT_DIR", BASE_DIR / "dist"))
 STATIC_SOURCE = BASE_DIR / "reader" / "static" / "reader"
+DEFAULT_SITE_ORIGIN = "https://voidwielder.alves-lucas0200.chatgpt.site"
+SITE_ORIGIN = os.getenv("SITE_ORIGIN", DEFAULT_SITE_ORIGIN).rstrip("/")
+SITE_BASE_PATH = urlsplit(SITE_ORIGIN).path.rstrip("/")
+
+
+def prefix_local_urls(html: str) -> str:
+    """Keep root-relative Django URLs inside a GitHub Pages project path."""
+    if not SITE_BASE_PATH:
+        return html
+    return re.sub(
+        r'(?P<attribute>\b(?:href|src|action|value|content|data-[\w-]+))=(?P<quote>["\'])/(?P<path>[^"\']*)',
+        lambda match: (
+            f'{match.group("attribute")}={match.group("quote")}'
+            f'{SITE_BASE_PATH}/{match.group("path")}'
+        ) if not match.group("path").startswith("/") else match.group(0),
+        html,
+    )
 
 
 def write_book_data() -> Path:
@@ -68,11 +87,14 @@ def write_page(client: Client, path: str) -> None:
     response = client.get(path)
     if response.status_code != 200:
         raise RuntimeError(f"Could not export {path}: HTTP {response.status_code}")
-    html = response.content.decode("utf-8").replace(
-        '<html lang="pt-BR">', '<html lang="pt-BR" data-static-export>'
+    html = response.content.decode("utf-8")
+    html = html.replace(f"http://testserver{path}", f"{SITE_ORIGIN}{path}")
+    html = html.replace(DEFAULT_SITE_ORIGIN, SITE_ORIGIN)
+    html = prefix_local_urls(html)
+    html = html.replace(
+        '<html lang="pt-BR">',
+        f'<html lang="pt-BR" data-static-export data-site-base="{SITE_BASE_PATH}">',
     )
-    origin = os.getenv("SITE_ORIGIN", "https://voidwielder.alves-lucas0200.chatgpt.site").rstrip("/")
-    html = html.replace(f"http://testserver{path}", f"{origin}{path}")
     html = "\n".join(line.rstrip() for line in html.splitlines()) + "\n"
     destination = destination_for(path)
     destination.parent.mkdir(parents=True, exist_ok=True)
@@ -171,13 +193,12 @@ def main() -> None:
         json.dumps(build_catalog(), ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
     )
     (DIST_DIR / "robots.txt").write_text(
-        "User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n", encoding="utf-8"
+        f"User-agent: *\nAllow: /\nSitemap: {SITE_ORIGIN}/sitemap.xml\n", encoding="utf-8"
     )
-    origin = os.getenv("SITE_ORIGIN", "https://voidwielder.alves-lucas0200.chatgpt.site").rstrip("/")
     (DIST_DIR / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-        + "".join(f"<url><loc>{origin}{route}</loc></url>" for route in routes)
+        + "".join(f"<url><loc>{SITE_ORIGIN}{route}</loc></url>" for route in routes)
         + "</urlset>",
         encoding="utf-8",
     )

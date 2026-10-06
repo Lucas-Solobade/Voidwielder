@@ -1,6 +1,7 @@
 import { drawLinuxArt } from './art.mjs';
 
-const path = '/livros/linux-do-zero-ao-avancado/ler/';
+const siteBase = document.documentElement.dataset.siteBase || '';
+const path = `${siteBase}/livros/linux-do-zero-ao-avancado/ler/`;
 const storageKey = 'voidwielder-linux-page';
 const resume = document.querySelector('[data-linux-resume]');
 if (resume) {
@@ -60,7 +61,7 @@ if (root) {
     const step = mobile.matches ? 1 : 2;
     prev.hidden = current === 1; prev.href = `${path}${clamp(current - step)}/`;
     const atEnd = current + step > total;
-    next.href = atEnd ? '/livros/linux-do-zero-ao-avancado/' : `${path}${current + step}/`;
+    next.href = atEnd ? `${siteBase}/livros/linux-do-zero-ao-avancado/` : `${path}${current + step}/`;
     next.textContent = atEnd ? 'Voltar ao sumário →' : 'Próxima →';
     try { localStorage.setItem(storageKey, String(current)); } catch { /* Optional progress. */ }
     document.title = `Página ${current} · Linux: do zero ao avançado · Voidwielder`;
@@ -74,7 +75,7 @@ if (root) {
     if (!reduced.matches) await new Promise((resolve) => setTimeout(resolve, 240));
     spread.classList.remove('is-turning-next', 'is-turning-prev'); turning = false;
   }
-  fetch('/static/reader/book/linux/pages.json').then((response) => {
+  fetch(`${siteBase}/static/reader/book/linux/pages.json`).then((response) => {
     if (!response.ok) throw Error('Páginas indisponíveis'); return response.json();
   }).then((data) => {
     if (!Array.isArray(data) || data.length !== total) throw Error('Livro incompleto');

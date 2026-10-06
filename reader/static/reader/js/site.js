@@ -1,4 +1,6 @@
 const menuButton = document.querySelector('[data-menu-button]');
+const siteBase = document.documentElement.dataset.siteBase || '';
+const sitePath = (path) => `${siteBase}${path}`;
 const menu = document.querySelector('[data-menu]');
 const backdrop = document.querySelector('[data-backdrop]');
 const closeButton = document.querySelector('[data-menu-close]');
@@ -64,9 +66,9 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
   form?.addEventListener('submit', (event) => {
     event.preventDefault();
     const params = new URLSearchParams({ q: input?.value.trim() || '', tipo: category });
-    window.location.assign(`/buscar/?${params}`);
+    window.location.assign(sitePath(`/buscar/?${params}`));
   });
-  fetch('/catalog.json')
+  fetch(sitePath('/catalog.json'))
       .then((response) => {
         if (!response.ok) throw new Error('Falha ao carregar catálogo');
         return response.json();
@@ -86,7 +88,7 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
         if (results.length) {
           results.forEach((result) => {
             const link = document.createElement('a');
-            link.href = result.url;
+            link.href = sitePath(result.url);
             if (result.kind === 'Jogo') link.className = 'game-card';
             if (result.linux_art) {
               link.className = 'linux-result-card';
@@ -94,7 +96,7 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
               const canvas = document.createElement('canvas'); canvas.width = 540; canvas.height = 720;
               canvas.dataset.linuxArt = 'cover'; canvas.setAttribute('role', 'img');
               canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
-              import('/static/reader/js/linux-book/art.mjs').then(({ drawLinuxArt }) => drawLinuxArt(canvas));
+              import(sitePath('/static/reader/js/linux-book/art.mjs')).then(({ drawLinuxArt }) => drawLinuxArt(canvas));
             }
             if (result.python_art) {
               link.className = 'python-result-card';
@@ -102,12 +104,12 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
               const canvas = document.createElement('canvas'); canvas.width = 540; canvas.height = 720;
               canvas.dataset.pythonArt = 'cover'; canvas.setAttribute('role', 'img');
               canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
-              import('/static/reader/js/python-book/art.mjs').then(({ drawPythonArt }) => drawPythonArt(canvas));
+              import(sitePath('/static/reader/js/python-book/art.mjs')).then(({ drawPythonArt }) => drawPythonArt(canvas));
             }
             if (result.cover) {
               link.className = 'series-card';
               const cover = document.createElement('img');
-              cover.src = `/static/${result.cover}`;
+              cover.src = sitePath(`/static/${result.cover}`);
               cover.alt = `Capa da HQ ${result.title}`;
               cover.loading = 'lazy';
               cover.width = 1672;

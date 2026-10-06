@@ -62,3 +62,10 @@ o leitor e as páginas ilustradas para `dist/`, usado na hospedagem pública:
 SITE_ORIGIN=https://voidwielder.alves-lucas0200.chatgpt.site \
   uv run python scripts/export_static.py
 ```
+
+O GitHub Pages publica automaticamente a mesma versão estática em
+`https://lucas-solobade.github.io/Voidwielder/` a cada envio para `main`.
+O workflow em `.github/workflows/pages.yml` gera o site com
+`SITE_ORIGIN=https://lucas-solobade.github.io/Voidwielder`, incluindo o
+prefixo `/Voidwielder/` nos links e arquivos estáticos. O código Django
+continua sendo a fonte das páginas; o Pages serve o resultado exportado.

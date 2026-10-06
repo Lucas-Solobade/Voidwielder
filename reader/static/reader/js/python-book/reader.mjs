@@ -1,6 +1,7 @@
 import {drawPythonArt} from './art.mjs';
 
-const bookPath = '/livros/python-do-zero-ao-avancado/';
+const siteBase = document.documentElement.dataset.siteBase || '';
+const bookPath = `${siteBase}/livros/python-do-zero-ao-avancado/`;
 const pagePath = `${bookPath}ler/`;
 const progressKey = 'voidwielder-python-page';
 const resume = document.querySelector('[data-python-resume]');
@@ -192,8 +193,8 @@ if (root) {
   });
 
   Promise.all([
-    fetch('/static/reader/book/python/pages.json').then((response) => { if (!response.ok) throw Error('Páginas indisponíveis'); return response.json(); }),
-    fetch('/static/reader/book/python/exercises.json').then((response) => { if (!response.ok) throw Error('Exercícios indisponíveis'); return response.json(); }),
+    fetch(`${siteBase}/static/reader/book/python/pages.json`).then((response) => { if (!response.ok) throw Error('Páginas indisponíveis'); return response.json(); }),
+    fetch(`${siteBase}/static/reader/book/python/exercises.json`).then((response) => { if (!response.ok) throw Error('Exercícios indisponíveis'); return response.json(); }),
   ]).then(([bookPages, tasks]) => {
     if (bookPages.length !== total || tasks.length !== 39) throw Error('Livro incompleto');
     pages = bookPages; exercises = tasks; render(current);
