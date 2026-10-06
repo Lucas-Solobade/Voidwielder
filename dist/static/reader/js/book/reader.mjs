@@ -2,7 +2,8 @@ import { drawScene } from './art.mjs';
 const root = document.querySelector('[data-book-reader]');
 const resume = document.querySelector('[data-book-resume]');
 const storageKey = 'voidwielder-casa-medidas-page';
-const path = '/livros/a-casa-das-medidas/ler/';
+const siteBase = document.documentElement.dataset.siteBase || '';
+const path = `${siteBase}/livros/a-casa-das-medidas/ler/`;
 if (resume) {
   const saved = Number(localStorage.getItem(storageKey));
   if (saved > 1 && saved <= 150) { resume.hidden = false; resume.href = `${path}${saved}/`; resume.textContent = `Retomar na página ${saved} →`; }
@@ -75,7 +76,7 @@ if (root) {
     if (!reduced.matches) await new Promise((resolve) => setTimeout(resolve, 240));
     spread.classList.remove('is-turning-next', 'is-turning-prev'); turning = false;
   }
-  fetch('/static/reader/book/casa-medidas/pages.json').then((r) => { if (!r.ok) throw Error('pages'); return r.json(); }).then((data) => {
+  fetch(`${siteBase}/static/reader/book/casa-medidas/pages.json`).then((r) => { if (!r.ok) throw Error('pages'); return r.json(); }).then((data) => {
     if (!Array.isArray(data) || data.length !== total) throw Error('pages');
     pages = data; render(current);
     prev?.addEventListener('click', (event) => { event.preventDefault(); turn(current - (mobile.matches ? 1 : 2), 'prev'); });

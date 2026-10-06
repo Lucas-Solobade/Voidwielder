@@ -1,22 +1,24 @@
 
 <!doctype html>
-<html lang="pt-BR" data-static-export>
+<html lang="pt-BR" data-static-export data-site-base="">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0d0d12">
   <meta name="description" content="Explore HQs, livros, jogos e materiais de estudo no catálogo Voidwielder.">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Voidwielder · Catálogo">
+  <meta property="og:title" content="Voidwielder">
   <meta property="og:description" content="Explore HQs, livros, jogos e materiais de estudo.">
+
   <title>Catálogo · Voidwielder</title>
   <link rel="canonical" href="https://voidwielder.alves-lucas0200.chatgpt.site/buscar/">
   <link rel="stylesheet" href="/static/reader/css/site.css?v=11">
-  <link rel="stylesheet" href="/static/reader/css/portal.css?v=11">
   <link rel="stylesheet" href="/static/reader/css/library.css?v=11">
-  <script src="/static/reader/js/site.js?v=11" defer></script>
-  
-<link rel="stylesheet" href="/static/reader/css/book.css?v=1"><link rel="stylesheet" href="/static/reader/css/linux-book.css?v=1"><link rel="stylesheet" href="/static/reader/css/python-book.css?v=1"></head>
+  <link rel="stylesheet" href="/static/reader/css/portal.css?v=12">
+  <link rel="stylesheet" href="/static/reader/css/book.css?v=1"><link rel="stylesheet" href="/static/reader/css/linux-book.css?v=1"><link rel="stylesheet" href="/static/reader/css/python-book.css?v=1">
+  <script src="/static/reader/js/site.js?v=12" defer></script>
+
+</head>
 <body>
   <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
   <header class="site-header">
@@ -56,7 +58,96 @@
     </form>
   </dialog>
 
-  <main id="conteudo"><section class="section-shell search-page"><p class="eyebrow">Catálogo</p><h1 data-category-title>Explore o catálogo</h1><nav class="category-tabs" aria-label="Categorias"><a href="/buscar/" aria-current="page">Tudo</a><a href="/buscar/?tipo=livros">Livros</a><a href="/buscar/?tipo=hq">HQs</a><a href="/buscar/?tipo=jogos">Jogos</a><a href="/buscar/?tipo=estudos">Estudos</a></nav><form class="search-form search-form-page" action="/buscar/" method="get" role="search"><label for="page-search">Termo de pesquisa</label><input type="hidden" name="tipo" value="todos"><div><input id="page-search" name="q" type="search" maxlength="80" value="" placeholder="Título, assunto ou personagem…"><button type="submit">Buscar</button></div></form><div data-static-search-results aria-live="polite"></div></section></main>
+  <main id="conteudo">
+<section class="section-shell search-page" >
+  <p class="eyebrow">Catálogo</p>
+  <h1 data-category-title>Explore o catálogo</h1>
+  <nav class="category-tabs" aria-label="Categorias">
+    <a href="/buscar/" aria-current="page">Tudo</a>
+    <a href="/buscar/?tipo=livros" >Livros</a>
+    <a href="/buscar/?tipo=hq" >HQs</a>
+    <a href="/buscar/?tipo=jogos" >Jogos</a>
+    <a href="/buscar/?tipo=estudos" >Estudos</a>
+  </nav>
+  <form class="search-form search-form-page" action="/buscar/" method="get" role="search">
+    <label for="page-search">Termo de pesquisa</label>
+    <input type="hidden" name="tipo" value="todos">
+    <div><input id="page-search" name="q" type="search" maxlength="80" value="" placeholder="Título, assunto ou personagem…"><button type="submit">Buscar</button></div>
+  </form>
+  <div data-static-search-results aria-live="polite"></div>
+  <div data-django-search-results>
+    <h2>8 resultados</h2>
+    <div class="results">
+
+      <a class="book-card" href="/livros/a-casa-das-medidas/">
+
+        <canvas class="book-cover" data-book-art="cover" width="480" height="720" role="img" aria-label="Capa de A Casa das Medidas"></canvas>
+
+
+        <span class="result-copy"><span>Livro</span><strong>A Casa das Medidas</strong><span class="result-detail">Helena Bastos · Terror psicológico · 150 páginas. Ao medir um prédio condenado, Teresa encontra um corredor maior que a fachada. A planta que deveria explicá-lo leva sua assinatura de vinte e quatro anos antes.</span></span>
+      </a>
+
+      <a class="linux-result-card" href="/livros/linux-do-zero-ao-avancado/">
+
+
+        <span class="linux-mini-cover"><canvas data-linux-art="cover" width="540" height="720" role="img" aria-label="Capa de Linux: do zero ao avançado"></canvas></span>
+
+        <span class="result-copy"><span>Livro didático</span><strong>Linux: do zero ao avançado</strong><span class="result-detail">13 partes · 78 lições · 554 páginas. Um caminho guiado para começar no Linux e avançar até redes, segurança, automação, contêineres e desenvolvimento, com práticas em laboratório.</span></span>
+      </a>
+
+      <a class="python-result-card" href="/livros/python-do-zero-ao-avancado/">
+
+
+
+        <span class="python-mini-cover"><canvas data-python-art="cover" width="540" height="720" role="img" aria-label="Capa de Python: do zero ao avançado"></canvas></span>
+        <span class="result-copy"><span>Livro interativo</span><strong>Python: do zero ao avançado</strong><span class="result-detail">13 partes · 39 lições · 281 páginas · exercícios em Python. Aprenda lógica, algoritmos e Python desde o primeiro programa até POO, bibliotecas, automação, APIs, dados e machine learning, praticando no navegador.</span></span>
+      </a>
+
+      <a class="series-card" href="/hqs/homus-bananus/">
+        <img src="/static/reader/images/covers/main-cover.webp" alt="Capa da HQ Homus Bananus: Guerra do Absurdo" loading="lazy" width="1672" height="941">
+
+
+
+        <span class="result-copy"><span>HQ</span><strong>Homus Bananus: Guerra do Absurdo</strong><span class="result-detail">Mangá brasileiro de comédia e ação sobre Alan, um alienígena fantasiado de banana, seus rivais improváveis e uma conspiração corporativa perigosamente teatral.</span><span class="result-action">Explorar HQ →</span></span>
+      </a>
+
+      <a class="" href="/estudos/">
+
+
+
+
+        <span class="result-copy"><span>Trilha de estudos</span><strong>Lógica de Programação e Algoritmos</strong><span class="result-detail">Roteiro para iniciantes em seis semanas: lógica, Python, decisões, laços, funções, coleções e um projeto de forca.</span></span>
+      </a>
+
+      <a class="game-card" href="/jogos/pipo-e-o-correio-das-estrelas/">
+
+
+
+
+        <span class="result-copy"><span>Jogo</span><strong>Pipo e o Correio das Estrelas</strong><span class="result-detail">Uma aventura de três fases para devolver as cartas brilhantes ao céu.</span></span>
+      </a>
+
+      <a class="game-card garden-card" href="/jogos/mila-e-o-jardim-das-nuvens/">
+
+
+
+
+        <span class="result-copy"><span>Jogo</span><strong>Mila e o Jardim das Nuvens</strong><span class="result-detail">Ajude uma coelhinha a plantar estrelas e acordar flores em três jardins sem pressa.</span></span>
+      </a>
+
+      <a class="game-card" href="/playground/">
+
+
+
+
+        <span class="result-copy"><span>Jogo</span><strong>Laboratório do Vazio</strong><span class="result-detail">Programe uma centelha em três desafios de lógica e crie sua própria constelação.</span></span>
+      </a>
+
+    </div>
+  </div>
+</section>
+</main>
   <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
-<script type="module" src="/static/reader/js/book/art.mjs?v=1"></script><script type="module" src="/static/reader/js/linux-book/art.mjs?v=1"></script><script type="module" src="/static/reader/js/python-book/art.mjs?v=1"></script></body>
+  <script type="module" src="/static/reader/js/book/art.mjs?v=1"></script><script type="module" src="/static/reader/js/linux-book/art.mjs?v=1"></script><script type="module" src="/static/reader/js/python-book/art.mjs?v=1"></script>
+</body>
 </html>

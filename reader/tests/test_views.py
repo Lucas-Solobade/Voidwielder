@@ -31,6 +31,19 @@ def test_game_is_in_catalog_and_has_own_page(client):
     assert "game/main.js" in content
 
 
+def test_garden_game_is_listed_and_playable(client):
+    url = reverse("reader:garden_game")
+    catalog = client.get(reverse("reader:search"), {"tipo": "jogos"}).content.decode()
+    assert 'Mila e o Jardim das Nuvens' in catalog
+    assert f'href="{url}"' in catalog
+    assert 'garden-card' in catalog
+
+    page = client.get(url)
+    assert page.status_code == 200
+    assert 'data-garden-canvas' in page.content.decode()
+    assert 'garden/game.mjs' in page.content.decode()
+
+
 def test_playground_is_in_games_and_search(client):
     games = client.get(reverse("reader:search"), {"tipo": "jogos"}).content.decode()
     assert "Laboratório do Vazio" in games

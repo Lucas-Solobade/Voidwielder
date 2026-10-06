@@ -1,0 +1,116 @@
+
+<!doctype html>
+<html lang="pt-BR" data-static-export data-site-base="">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0d0d12">
+  <meta name="description" content="Brinque com Mila, uma coelhinha que planta sementinhas brilhantes em três jardins nas nuvens. Um jogo infantil sem pressa, com teclado e toque.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Mila e o Jardim das Nuvens · Voidwielder">
+  <meta property="og:description" content="Pegue sementinhas, acorde flores e pinte o céu de carinho.">
+
+  <title>Mila e o Jardim das Nuvens · Jogos · Voidwielder</title>
+  <link rel="canonical" href="https://voidwielder.alves-lucas0200.chatgpt.site/jogos/mila-e-o-jardim-das-nuvens/">
+  <link rel="stylesheet" href="/static/reader/css/site.css?v=11">
+  <link rel="stylesheet" href="/static/reader/css/library.css?v=11">
+  <link rel="stylesheet" href="/static/reader/css/portal.css?v=12">
+  <link rel="stylesheet" href="/static/reader/css/garden.css?v=1">
+  <script src="/static/reader/js/site.js?v=12" defer></script>
+
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Página inicial">
+      <span class="brand-mark" aria-hidden="true">V</span>
+      <span>Voidwielder</span>
+    </a>
+    <div class="header-actions">
+      <button class="icon-button" type="button" data-search-open aria-label="Abrir pesquisa">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg>
+      </button>
+      <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="main-menu">
+        <span class="sr-only">Abrir menu</span><span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="drawer" id="main-menu" data-menu hidden aria-label="Menu principal">
+    <div class="drawer-head"><div><span class="drawer-kicker">Biblioteca</span><strong>Explorar</strong></div><button class="icon-button" type="button" data-menu-close aria-label="Fechar menu">×</button></div>
+    <a class="drawer-home" href="/">Início</a>
+    <p class="drawer-label">Escolha uma área</p>
+    <div class="drawer-categories">
+      <a href="/buscar/?tipo=livros"><span class="drawer-glyph" aria-hidden="true">L</span><span><strong>Livros</strong><small>Leituras disponíveis</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=hq"><span class="drawer-glyph" aria-hidden="true">HQ</span><span><strong>HQs</strong><small>Arcos e capítulos</small></span><span aria-hidden="true">›</span></a>
+      <a href="/buscar/?tipo=jogos"><span class="drawer-glyph" aria-hidden="true">J</span><span><strong>Jogos</strong><small>Projetos e experiências</small></span><span aria-hidden="true">›</span></a>
+      <a href="/estudos/"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilha de programação</small></span><span aria-hidden="true">›</span></a>
+    </div>
+    <a class="drawer-all" href="/buscar/">Pesquisar todo o catálogo</a>
+  </nav>
+  <div class="backdrop" data-backdrop hidden></div>
+
+  <dialog class="search-dialog" data-search-dialog>
+    <form class="search-form" action="/buscar/" method="get" role="search">
+      <label for="global-search">Pesquisar no catálogo</label>
+      <div><input id="global-search" name="q" type="search" maxlength="80" autocomplete="off" placeholder="HQ, livro, jogo ou estudo…"><button type="submit">Buscar</button></div>
+      <button class="dialog-close" type="button" data-search-close>Fechar</button>
+    </form>
+  </dialog>
+
+  <main id="conteudo">
+<section class="garden-page" data-garden-game aria-labelledby="garden-title">
+  <div class="garden-heading">
+    <a class="garden-back" href="/buscar/?tipo=jogos">← Voltar aos jogos</a>
+    <p class="garden-kicker">UM JOGUINHO ORIGINAL · VOIDWIELDER</p>
+    <h1 id="garden-title">Mila e o <span>Jardim das Nuvens</span></h1>
+    <p>Uma coelhinha, sementinhas luminosas e flores sonolentas. Explore três jardins no seu tempo: aqui ninguém perde, todo mundo floresce.</p>
+    <div class="garden-tags"><span>✿ 3 jardins</span><span>♡ Sem tempo limite</span><span>⌨ Teclado e toque</span></div>
+  </div>
+
+  <div class="garden-shell">
+    <div class="garden-toolbar">
+      <div class="garden-level"><small data-garden-number>01 / 03</small><strong data-garden-level>Pradinho de Algodão</strong></div>
+      <div class="garden-stats" aria-live="polite"><span data-garden-flowers>0 / 2 flores</span><span data-garden-seed>Encontre uma sementinha ✦</span></div>
+      <button class="garden-sound" type="button" data-garden-sound aria-pressed="true">♫ Som ligado</button>
+    </div>
+
+    <div class="garden-stage">
+      <canvas data-garden-canvas width="1000" height="680" tabindex="0" role="img" aria-label="Jardim de Mila: use as setas para mover a coelhinha, pegar sementes e plantar flores"></canvas>
+      <div class="garden-overlay" data-garden-overlay>
+        <div class="garden-overlay-card">
+          <span class="garden-mascot" aria-hidden="true">🐰 ✿</span>
+          <p class="garden-overlay-kicker" data-overlay-kicker>UMA AVENTURA SEM PRESSA</p>
+          <h2 data-overlay-title>Um jardim precisa de você!</h2>
+          <p data-overlay-copy>Carregando as sementinhas…</p>
+          <div class="garden-overlay-actions" data-overlay-actions></div>
+          <div class="garden-level-choices" data-level-choices hidden></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="garden-lower">
+      <div class="garden-instructions">
+        <p class="garden-message" data-garden-message role="status">Mila espera você no jardim.</p>
+        <p>Encontre uma <strong>sementinha ✦</strong> e encoste em uma <strong>flor fechada ✿</strong>. Mila leva uma por vez. Lagos e arbustos pedem outro caminho.</p>
+        <button type="button" class="garden-restart" data-garden-restart>↺ Recomeçar esta fase</button>
+      </div>
+      <div class="garden-controls" aria-label="Controles de movimento">
+        <span>CONTROLES</span>
+        <div class="garden-dpad">
+          <button type="button" data-garden-direction="ArrowUp" class="up" aria-label="Mover para cima">↑</button>
+          <button type="button" data-garden-direction="ArrowLeft" class="left" aria-label="Mover para a esquerda">←</button>
+          <button type="button" data-garden-direction="ArrowDown" class="down" aria-label="Mover para baixo">↓</button>
+          <button type="button" data-garden-direction="ArrowRight" class="right" aria-label="Mover para a direita">→</button>
+        </div>
+        <small>Setas ou WASD · No celular, toque ou deslize</small>
+      </div>
+    </div>
+  </div>
+  <p class="garden-footnote">Seu progresso fica somente neste navegador. Você pode repetir qualquer jardim desbloqueado.</p>
+</section>
+</main>
+  <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
+  <script type="module" src="/static/reader/js/garden/game.mjs?v=1"></script>
+</body>
+</html>

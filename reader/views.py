@@ -165,6 +165,7 @@ def search(request: HttpRequest) -> HttpResponse:
                         "title": game_item["title"],
                         "url": game_item["url"],
                         "detail": game_item["detail"],
+                        "garden_art": game_item.get("garden_art", False),
                     }
                 )
     titles = {
@@ -260,6 +261,11 @@ def game(request: HttpRequest) -> HttpResponse:
 
 
 @require_GET
+def garden_game(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/garden.html")
+
+
+@require_GET
 def playground(request: HttpRequest) -> HttpResponse:
     return render(request, "reader/playground.html")
 
@@ -276,6 +282,7 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls.append(request.build_absolute_uri(reverse("reader:hq")))
     urls.append(request.build_absolute_uri(reverse("reader:studies")))
     urls.append(request.build_absolute_uri(reverse("reader:game")))
+    urls.append(request.build_absolute_uri(reverse("reader:garden_game")))
     urls.append(request.build_absolute_uri(reverse("reader:playground")))
     urls.append(request.build_absolute_uri(reverse("reader:book_detail")))
     urls.extend(request.build_absolute_uri(reverse("reader:read_book", args=(page,))) for page in range(1, 151))

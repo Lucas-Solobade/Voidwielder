@@ -1,6 +1,6 @@
 # Voidwielder
 
-Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O catálogo atual inclui a HQ *Homus Bananus: Guerra do Absurdo*, com 96 páginas em quatro arcos, uma trilha de seis semanas de Lógica de Programação e Algoritmos e o jogo *Pipo e o Correio das Estrelas*.
+Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O catálogo atual inclui a HQ *Homus Bananus: Guerra do Absurdo*, com 96 páginas em quatro arcos, uma trilha de seis semanas de Lógica de Programação e Algoritmos e os jogos *Pipo e o Correio das Estrelas* e *Mila e o Jardim das Nuvens*.
 
 As categorias de livros e jogos têm navegação e pesquisa próprias. Novos itens podem ser adicionados ao catálogo sem alterar o menu principal.
 
@@ -14,6 +14,12 @@ Platformer infantil feito com Canvas API, sem imagens ou bibliotecas gráficas e
 - **Arquivos:** `reader/templates/reader/game.html` contém a página; `reader/static/reader/css/game.css` define o layout; `reader/static/reader/js/game/` contém fases, arte procedural e lógica de jogo.
 
 Com o servidor iniciado, abra `/jogos/pipo-e-o-correio-das-estrelas/`. O progresso entre fases fica salvo somente no navegador atual.
+
+## Jogo: Mila e o Jardim das Nuvens
+
+Aventura infantil de três jardins desenhada com Canvas API. Mila recolhe sementinhas luminosas e acorda flores, sem cronômetro ou vidas. Use as setas ou WASD no teclado; no celular, use os botões de direção ou deslize o dedo no jardim. O progresso fica salvo no navegador atual.
+
+Abra `/jogos/mila-e-o-jardim-das-nuvens/` ou selecione o jogo na categoria Jogos. A lógica das fases está em `reader/static/reader/js/garden/core.mjs` e pode ser verificada com `node tests/garden.test.mjs`.
 
 ## Executar com UV
 

@@ -1,4 +1,4 @@
-"""Metadata for the site's original browser game."""
+"""Metadata for the browser games and experiments."""
 
 GAME = {
     "title": "Pipo e o Correio das Estrelas",
@@ -14,4 +14,12 @@ PLAYGROUND = {
     "url": "/playground/",
 }
 
-GAMES = (GAME, PLAYGROUND)
+GARDEN = {
+    "title": "Mila e o Jardim das Nuvens",
+    "detail": "Ajude uma coelhinha a plantar estrelas e acordar flores em três jardins sem pressa.",
+    "topics": "infantil fofo coelhinha jardim flores sementes nuvens quebra-cabeça",
+    "url": "/jogos/mila-e-o-jardim-das-nuvens/",
+    "garden_art": True,
+}
+
+GAMES = (GAME, GARDEN, PLAYGROUND)

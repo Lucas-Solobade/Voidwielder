@@ -25,7 +25,7 @@
     <h2>{{ results|length }} resultado{{ results|length|pluralize }}{% if query %} para “{{ query }}”{% endif %}</h2>
     <div class="results">
       {% for result in results %}
-      <a class="{% if result.cover %}series-card{% elif result.book_art %}book-card{% elif result.linux_art %}linux-result-card{% elif result.python_art %}python-result-card{% elif result.kind == 'Jogo' %}game-card{% endif %}" href="{{ result.url }}">
+      <a class="{% if result.cover %}series-card{% elif result.book_art %}book-card{% elif result.linux_art %}linux-result-card{% elif result.python_art %}python-result-card{% elif result.kind == 'Jogo' %}game-card{% if result.garden_art %} garden-card{% endif %}{% endif %}" href="{{ result.url }}">
         {% if result.cover %}<img src="{% static result.cover %}" alt="Capa da HQ {{ result.title }}" loading="lazy" width="1672" height="941">{% endif %}
         {% if result.book_art %}<canvas class="book-cover" data-book-art="cover" width="480" height="720" role="img" aria-label="Capa de A Casa das Medidas"></canvas>{% endif %}
         {% if result.linux_art %}<span class="linux-mini-cover"><canvas data-linux-art="cover" width="540" height="720" role="img" aria-label="Capa de Linux: do zero ao avançado"></canvas></span>{% endif %}

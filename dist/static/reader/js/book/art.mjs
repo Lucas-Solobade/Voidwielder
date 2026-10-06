@@ -67,7 +67,7 @@ export function drawScene(canvas) {
 }
 
 function decorateSearch() {
-  document.querySelectorAll('[data-static-search-results] a[href="/livros/a-casa-das-medidas/"], [data-django-search-results] a[href="/livros/a-casa-das-medidas/"]').forEach((link) => {
+  document.querySelectorAll('[data-static-search-results] a[href$="/livros/a-casa-das-medidas/"], [data-django-search-results] a[href$="/livros/a-casa-das-medidas/"]').forEach((link) => {
     if (link.querySelector('canvas')) return;
     link.classList.add('book-card');
     const canvas = document.createElement('canvas');
