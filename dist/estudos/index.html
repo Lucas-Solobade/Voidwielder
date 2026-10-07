@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="/static/reader/css/site.css?v=11">
   <link rel="stylesheet" href="/static/reader/css/library.css?v=11">
   <link rel="stylesheet" href="/static/reader/css/portal.css?v=13">
-
+  <link rel="stylesheet" href="/static/reader/css/study-experiences.css?v=1">
   <script src="/static/reader/js/site.js?v=14" defer></script>
 
 </head>
@@ -58,7 +58,8 @@
     </form>
   </dialog>
 
-  <main id="conteudo"><div class="study-page">
+  <main id="conteudo">
+<div class="study-page">
   <header class="study-hero">
     <div class="study-hero-inner">
       <p class="eyebrow">Estudos / Trilha para iniciantes</p>
@@ -176,6 +177,25 @@ else:
     </div>
   </div>
 </div>
+
+<section class="study-experiences" aria-labelledby="experiencias-titulo">
+  <div class="study-experiences-head">
+    <div><p class="eyebrow">Aprenda fazendo</p><h2 id="experiencias-titulo">Experiências interativas</h2></div>
+    <p>Laboratórios independentes para visualizar conceitos que costumam parecer abstratos no papel.</p>
+  </div>
+  <div class="study-experiences-grid">
+    <a class="study-experience-card scheduler-card" href="/experiencias/escalonador-do-vazio/">
+      <span class="experience-number">01</span>
+      <div class="experience-visual" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      <div class="experience-copy"><small>Sistemas Operacionais</small><h3>Escalonador do Vazio</h3><p>Compare FCFS, SJF e Round Robin em uma linha do tempo visual e entenda espera, retorno e trocas de contexto.</p><span class="experience-action">Abrir simulador <b aria-hidden="true">↗</b></span></div>
+    </a>
+    <a class="study-experience-card recursion-card" href="/experiencias/abismo-da-recursao/">
+      <span class="experience-number">02</span>
+      <div class="experience-visual recursion-visual" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      <div class="experience-copy"><small>Algoritmos</small><h3>Abismo da Recursão</h3><p>Acompanhe fatorial, Fibonacci e Euclides passo a passo, observando chamadas, casos-base e retornos na pilha.</p><span class="experience-action">Explorar a pilha <b aria-hidden="true">↗</b></span></div>
+    </a>
+  </div>
+</section>
 </main>
   <footer><p><strong>Voidwielder</strong> · HQs, livros, jogos e estudos em um só lugar.</p></footer>
 

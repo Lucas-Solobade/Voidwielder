@@ -1,7 +1,28 @@
-{% extends 'reader/base.html' %}
+{% extends 'reader/base.html' %}{% load static %}
 {% block title %}Lógica de Programação e Algoritmos · Voidwielder{% endblock %}
 {% block description %}Roteiro de estudos para iniciantes: seis semanas de lógica e Python, com exercícios e projeto final de jogo da forca.{% endblock %}
 {% block og_title %}Lógica de Programação e Algoritmos · Voidwielder{% endblock %}
 {% block og_image %}{% endblock %}
 {% block og_description %}Seis semanas para aprender lógica, Python e construir um jogo da forca.{% endblock %}
-{% block content %}{% include 'reader/study_content.html' %}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/study-experiences.css' %}?v=1">{% endblock %}
+{% block content %}
+{% include 'reader/study_content.html' %}
+<section class="study-experiences" aria-labelledby="experiencias-titulo">
+  <div class="study-experiences-head">
+    <div><p class="eyebrow">Aprenda fazendo</p><h2 id="experiencias-titulo">Experiências interativas</h2></div>
+    <p>Laboratórios independentes para visualizar conceitos que costumam parecer abstratos no papel.</p>
+  </div>
+  <div class="study-experiences-grid">
+    <a class="study-experience-card scheduler-card" href="/experiencias/escalonador-do-vazio/">
+      <span class="experience-number">01</span>
+      <div class="experience-visual" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      <div class="experience-copy"><small>Sistemas Operacionais</small><h3>Escalonador do Vazio</h3><p>Compare FCFS, SJF e Round Robin em uma linha do tempo visual e entenda espera, retorno e trocas de contexto.</p><span class="experience-action">Abrir simulador <b aria-hidden="true">↗</b></span></div>
+    </a>
+    <a class="study-experience-card recursion-card" href="/experiencias/abismo-da-recursao/">
+      <span class="experience-number">02</span>
+      <div class="experience-visual recursion-visual" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      <div class="experience-copy"><small>Algoritmos</small><h3>Abismo da Recursão</h3><p>Acompanhe fatorial, Fibonacci e Euclides passo a passo, observando chamadas, casos-base e retornos na pilha.</p><span class="experience-action">Explorar a pilha <b aria-hidden="true">↗</b></span></div>
+    </a>
+  </div>
+</section>
+{% endblock %}
