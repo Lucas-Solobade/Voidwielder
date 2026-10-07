@@ -4,6 +4,12 @@ Portal responsivo em Django para HQs, livros, jogos e materiais de estudo. O cat
 
 As categorias de livros e jogos têm navegação e pesquisa próprias. Novos itens podem ser adicionados ao catálogo sem alterar o menu principal.
 
+## Livro: Desenvolvimento web
+
+O livro *Desenvolvimento web: do primeiro arquivo à produção* organiza 17 capítulos em três etapas: iniciante, intermediário e avançado. O projeto Tarefas acompanha a leitura, com exemplos de HTML, CSS, JavaScript, API, dados, testes, segurança e publicação. Exercícios trazem respostas recolhidas para conferência. O leitor tem sumário, progresso local, páginas em dupla no computador e uma página por vez no celular, com uma breve animação de virada que respeita a preferência por menos movimento.
+
+O manuscrito fica em `reader/books/web/manuscript.md`; `reader/web_catalog.py` gera páginas estáveis para Django e `scripts/export_static.py` as inclui na versão estática. Abra `/livros/desenvolvimento-web-do-zero-ao-avancado/`.
+
 ## Jogo: Pipo e o Correio das Estrelas
 
 Platformer infantil feito com Canvas API, sem imagens ou bibliotecas gráficas externas. Pipo entrega cartas brilhantes em três fases: **Jardim Lunar**, **Arquipélago de Algodão** e **Observatório do Cochilo**. O chefe final, **Rabugão das Nuvens**, avisa antes de atacar, cansa após as ondas e muda de padrão quando perde energia.

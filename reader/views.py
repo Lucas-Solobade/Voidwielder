@@ -11,6 +11,7 @@ from .python_catalog import PARTS as PYTHON_PARTS
 from .python_catalog import PYTHON_BOOK, get_python_lessons, get_python_pages
 from .python_exercises import EXERCISES
 from .study_catalog import STUDY_GUIDE
+from .web_catalog import WEB_BOOK, get_web_pages, get_web_sections
 
 
 @require_GET
@@ -107,6 +108,13 @@ def search(request: HttpRequest) -> HttpResponse:
                 "kind": "Livro interativo", "title": PYTHON_BOOK["title"], "url": PYTHON_BOOK["url"],
                 "detail": f"13 partes · 39 lições · {PYTHON_BOOK['page_count']} páginas · exercícios em Python. {PYTHON_BOOK['detail']}",
                 "python_art": True,
+            })
+        web_text = f"{WEB_BOOK['title']} {WEB_BOOK['detail']} {WEB_BOOK['topics']}".casefold()
+        if not query or query.casefold() in web_text:
+            results.append({
+                "kind": "Livro didático", "title": WEB_BOOK["title"], "url": WEB_BOOK["url"],
+                "detail": f"3 etapas · 17 capítulos · {WEB_BOOK['page_count']} páginas. {WEB_BOOK['detail']}",
+                "web_art": True,
             })
     if category in {"todos", "hq"}:
         needle = query.casefold()
@@ -252,6 +260,27 @@ def read_python(request: HttpRequest, page: int) -> HttpResponse:
 
 
 @require_GET
+def web_detail(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/web_detail.html", {
+        "book": WEB_BOOK, "sections": get_web_sections(),
+    })
+
+
+@require_GET
+def read_web(request: HttpRequest, page: int) -> HttpResponse:
+    pages = get_web_pages()
+    if not 1 <= page <= len(pages):
+        raise Http404("Página não encontrada")
+    return render(request, "reader/web_read.html", {
+        "book": WEB_BOOK, "page": pages[page - 1],
+        "next_page": pages[page] if page < len(pages) else None,
+        "previous_number": page - 1 if page > 1 else None,
+        "next_number": page + 1 if page < len(pages) else None,
+        "sections": get_web_sections(),
+    })
+
+
+@require_GET
 def studies(request: HttpRequest) -> HttpResponse:
     return render(request, "reader/studies.html", {"manga": MANGA})
 
@@ -297,6 +326,8 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls.extend(request.build_absolute_uri(reverse("reader:read_linux", args=(page,))) for page in range(1, LINUX_BOOK["page_count"] + 1))
     urls.append(request.build_absolute_uri(reverse("reader:python_detail")))
     urls.extend(request.build_absolute_uri(reverse("reader:read_python", args=(page,))) for page in range(1, PYTHON_BOOK["page_count"] + 1))
+    urls.append(request.build_absolute_uri(reverse("reader:web_detail")))
+    urls.extend(request.build_absolute_uri(reverse("reader:read_web", args=(page,))) for page in range(1, WEB_BOOK["page_count"] + 1))
     urls.extend(request.build_absolute_uri(reverse("reader:arc", args=(arc.slug,))) for arc in ARCS)
     urls.extend(
         request.build_absolute_uri(reverse("reader:read_arc", args=(arc.slug,))) for arc in ARCS

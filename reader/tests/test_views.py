@@ -192,6 +192,33 @@ def test_python_manuscript_and_exercise_solutions_are_complete():
             assert result, f"Lição {exercise.lesson}: {label}"
 
 
+def test_web_book_has_complete_curriculum_and_direct_page_links(client):
+    import re
+
+    from reader.web_catalog import MANUSCRIPT, WEB_BOOK, _sections, get_web_pages, get_web_sections
+
+    pages = get_web_pages()
+    sections = get_web_sections()
+    assert len(pages) == WEB_BOOK["page_count"] >= 60
+    assert [section.chapter_number for section in sections if section.chapter_number] == list(range(1, 18))
+    manuscript = "\n".join(page.plain_text for page in pages)
+    original = "\n".join(block.source for _, _, _, blocks in _sections(MANUSCRIPT.read_text(encoding="utf-8")) for block in blocks)
+    assert re.sub(r"\s+", " ", manuscript) == re.sub(r"\s+", " ", original)
+    for topic in ("Use elementos pelo papel", "display: flex", "fetch", "node:http", "WHERE id", "CSRF", "observabilidade"):
+        assert topic.casefold() in manuscript.casefold()
+    assert "Conferir resposta" in "".join(page.body_html for page in pages)
+    assert "&lt;html" in "".join(page.body_html for page in pages)
+
+    catalog = client.get(reverse("reader:search"), {"tipo": "livros"})
+    assert WEB_BOOK["title"] in catalog.content.decode()
+    assert client.get(reverse("reader:web_detail")).status_code == 200
+    for number in (1, 32, WEB_BOOK["page_count"]):
+        response = client.get(reverse("reader:read_web", args=(number,)))
+        assert response.status_code == 200
+        assert f'data-page="{number}"' in response.content.decode()
+    assert client.get(reverse("reader:read_web", args=(WEB_BOOK["page_count"] + 1,))).status_code == 404
+
+
 def test_book_pagination_preserves_every_sentence_once():
     from reader.book_catalog import CHAPTER_DIR, _split_chapter, get_book_pages
 

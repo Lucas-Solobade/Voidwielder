@@ -106,6 +106,14 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
               canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
               import(sitePath('/static/reader/js/python-book/art.mjs')).then(({ drawPythonArt }) => drawPythonArt(canvas));
             }
+            if (result.web_art) {
+              link.className = 'web-result-card';
+              const frame = document.createElement('span'); frame.className = 'web-mini-cover';
+              const canvas = document.createElement('canvas'); canvas.width = 540; canvas.height = 720;
+              canvas.dataset.webArt = 'cover'; canvas.setAttribute('role', 'img');
+              canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
+              import(sitePath('/static/reader/js/web-book/art.mjs')).then(({ drawWebArt }) => drawWebArt(canvas));
+            }
             if (result.cover) {
               link.className = 'series-card';
               const cover = document.createElement('img');

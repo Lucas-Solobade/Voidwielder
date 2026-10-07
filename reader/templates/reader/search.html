@@ -3,7 +3,7 @@
 {% block description %}Explore HQs, livros, jogos e materiais de estudo no catálogo Voidwielder.{% endblock %}
 {% block og_description %}Explore HQs, livros, jogos e materiais de estudo.{% endblock %}
 {% block og_image %}{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/linux-book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/python-book.css' %}?v=1">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/linux-book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/python-book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/web-book.css' %}?v=1">{% endblock %}
 {% block content %}
 <section class="section-shell search-page" {% if category == 'hq' and not query %}data-hq-browse{% endif %}>
   <p class="eyebrow">Catálogo</p>
@@ -25,11 +25,12 @@
     <h2>{{ results|length }} resultado{{ results|length|pluralize }}{% if query %} para “{{ query }}”{% endif %}</h2>
     <div class="results">
       {% for result in results %}
-      <a class="{% if result.cover %}series-card{% elif result.book_art %}book-card{% elif result.linux_art %}linux-result-card{% elif result.python_art %}python-result-card{% elif result.kind == 'Jogo' %}game-card{% if result.garden_art %} garden-card{% endif %}{% if result.bubble_art %} bubble-card{% endif %}{% endif %}" href="{{ result.url }}">
+      <a class="{% if result.cover %}series-card{% elif result.book_art %}book-card{% elif result.linux_art %}linux-result-card{% elif result.python_art %}python-result-card{% elif result.web_art %}web-result-card{% elif result.kind == 'Jogo' %}game-card{% if result.garden_art %} garden-card{% endif %}{% if result.bubble_art %} bubble-card{% endif %}{% endif %}" href="{{ result.url }}">
         {% if result.cover %}<img src="{% static result.cover %}" alt="Capa da HQ {{ result.title }}" loading="lazy" width="1672" height="941">{% endif %}
         {% if result.book_art %}<canvas class="book-cover" data-book-art="cover" width="480" height="720" role="img" aria-label="Capa de A Casa das Medidas"></canvas>{% endif %}
         {% if result.linux_art %}<span class="linux-mini-cover"><canvas data-linux-art="cover" width="540" height="720" role="img" aria-label="Capa de Linux: do zero ao avançado"></canvas></span>{% endif %}
         {% if result.python_art %}<span class="python-mini-cover"><canvas data-python-art="cover" width="540" height="720" role="img" aria-label="Capa de Python: do zero ao avançado"></canvas></span>{% endif %}
+        {% if result.web_art %}<span class="web-mini-cover"><canvas data-web-art="cover" width="540" height="720" role="img" aria-label="Capa de Desenvolvimento web"></canvas></span>{% endif %}
         <span class="result-copy"><span>{{ result.kind }}</span><strong>{{ result.title }}</strong><span class="result-detail">{{ result.detail }}</span>{% if result.cover %}<span class="result-action">Explorar HQ →</span>{% endif %}</span>
       </a>
       {% empty %}
@@ -39,4 +40,4 @@
   </div>
 </section>
 {% endblock %}
-{% block extra_scripts %}<script type="module" src="{% static 'reader/js/book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/linux-book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/python-book/art.mjs' %}?v=1"></script>{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/linux-book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/python-book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/web-book/art.mjs' %}?v=1"></script>{% endblock %}

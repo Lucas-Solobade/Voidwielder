@@ -25,6 +25,7 @@ from reader.linux_catalog import LINUX_BOOK, get_linux_pages  # noqa: E402
 from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
 from reader.python_exercises import EXERCISES  # noqa: E402
 from reader.study_catalog import STUDY_GUIDE  # noqa: E402
+from reader.web_catalog import WEB_BOOK, get_web_pages  # noqa: E402
 
 DIST_DIR = Path(os.getenv("STATIC_EXPORT_DIR", BASE_DIR / "dist"))
 STATIC_SOURCE = BASE_DIR / "reader" / "static" / "reader"
@@ -77,6 +78,16 @@ def write_python_data() -> tuple[Path, Path]:
     return pages, exercises
 
 
+def write_web_data() -> Path:
+    destination = STATIC_SOURCE / "book" / "web" / "pages.json"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        json.dumps([page.as_json() for page in get_web_pages()], ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    return destination
+
+
 def destination_for(path: str) -> Path:
     if path == "/":
         return DIST_DIR / "index.html"
@@ -114,6 +125,10 @@ def build_catalog() -> list[dict[str, str | int]]:
         "category": "livros", "kind": "Livro didático", "title": PYTHON_BOOK["title"],
         "detail": f"13 partes · 39 lições · 39 desafios · {PYTHON_BOOK['page_count']} páginas. {PYTHON_BOOK['detail']}",
         "url": PYTHON_BOOK["url"], "topics": PYTHON_BOOK["topics"], "python_art": True,
+    }, {
+        "category": "livros", "kind": "Livro didático", "title": WEB_BOOK["title"],
+        "detail": f"3 etapas · 17 capítulos · {WEB_BOOK['page_count']} páginas. {WEB_BOOK['detail']}",
+        "url": WEB_BOOK["url"], "topics": WEB_BOOK["topics"], "web_art": True,
     }, {
         "category": "hq",
         "kind": "HQ",
@@ -164,6 +179,7 @@ def main() -> None:
     write_book_data()
     write_linux_data()
     write_python_data()
+    write_web_data()
     shutil.rmtree(DIST_DIR, ignore_errors=True)
     DIST_DIR.mkdir()
     shutil.copytree(
@@ -182,6 +198,8 @@ def main() -> None:
     routes.extend(f"{LINUX_BOOK['url']}ler/{page}/" for page in range(1, LINUX_BOOK["page_count"] + 1))
     routes.append(PYTHON_BOOK["url"])
     routes.extend(f"{PYTHON_BOOK['url']}ler/{page}/" for page in range(1, PYTHON_BOOK["page_count"] + 1))
+    routes.append(WEB_BOOK["url"])
+    routes.extend(f"{WEB_BOOK['url']}ler/{page}/" for page in range(1, WEB_BOOK["page_count"] + 1))
     routes.extend(game["url"] for game in GAMES)
     routes.extend(f"/arcos/{arc.slug}/" for arc in ARCS)
     routes.extend(f"/ler/arco/{arc.slug}/" for arc in ARCS)
