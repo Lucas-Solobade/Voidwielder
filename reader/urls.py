@@ -20,6 +20,7 @@ urlpatterns = [
     path("livros/desenvolvimento-web-do-zero-ao-avancado/", views.web_detail, name="web_detail"),
     path("livros/desenvolvimento-web-do-zero-ao-avancado/ler/<int:page>/", views.read_web, name="read_web"),
     path("estudos/", views.studies, name="studies"),
+    path("estudos/logica-de-programacao-e-algoritmos/", views.study_guide, name="study_guide"),
     path("jogos/pipo-e-o-correio-das-estrelas/", views.game, name="game"),
     path("jogos/mila-e-o-jardim-das-nuvens/", views.garden_game, name="garden_game"),
     path("jogos/lilo-e-o-festival-das-bolhas/", views.bubble_game, name="bubble_game"),

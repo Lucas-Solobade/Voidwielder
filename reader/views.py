@@ -10,7 +10,7 @@ from .linux_catalog import LINUX_BOOK, PARTS, get_linux_lessons, get_linux_pages
 from .python_catalog import PARTS as PYTHON_PARTS
 from .python_catalog import PYTHON_BOOK, get_python_lessons, get_python_pages
 from .python_exercises import EXERCISES
-from .study_catalog import STUDY_GUIDE
+from .study_catalog import STUDY_PROJECTS
 from .web_catalog import WEB_BOOK, get_web_pages, get_web_sections
 
 
@@ -153,16 +153,14 @@ def search(request: HttpRequest) -> HttpResponse:
                             }
                         )
     if category in {"todos", "estudos"}:
-        study_text = f"{STUDY_GUIDE['title']} {STUDY_GUIDE['detail']} {' '.join(STUDY_GUIDE['topics'])}".casefold()
-        if not query or query.casefold() in study_text:
-            results.append(
-                {
-                    "kind": "Trilha de estudos",
-                    "title": STUDY_GUIDE["title"],
-                    "url": reverse("reader:studies"),
-                    "detail": STUDY_GUIDE["detail"],
-                }
-            )
+        for project in STUDY_PROJECTS:
+            study_text = f"{project['title']} {project['detail']} {project['topics']}".casefold()
+            if not query or query.casefold() in study_text:
+                results.append({
+                    "kind": project["kind"], "title": project["title"],
+                    "url": project["url"], "detail": project["detail"],
+                    "study_art": project["image"],
+                })
     if category in {"todos", "jogos"}:
         for game_item in GAMES:
             game_text = f"{game_item['title']} {game_item['detail']} {game_item['topics']}".casefold()
@@ -282,7 +280,12 @@ def read_web(request: HttpRequest, page: int) -> HttpResponse:
 
 @require_GET
 def studies(request: HttpRequest) -> HttpResponse:
-    return render(request, "reader/studies.html", {"manga": MANGA})
+    return render(request, "reader/studies.html", {"manga": MANGA, "projects": STUDY_PROJECTS})
+
+
+@require_GET
+def study_guide(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/study_guide.html", {"manga": MANGA})
 
 
 @require_GET
@@ -316,6 +319,7 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls = [request.build_absolute_uri(reverse("reader:home"))]
     urls.append(request.build_absolute_uri(reverse("reader:hq")))
     urls.append(request.build_absolute_uri(reverse("reader:studies")))
+    urls.append(request.build_absolute_uri(reverse("reader:study_guide")))
     urls.append(request.build_absolute_uri(reverse("reader:game")))
     urls.append(request.build_absolute_uri(reverse("reader:garden_game")))
     urls.append(request.build_absolute_uri(reverse("reader:bubble_game")))

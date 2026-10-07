@@ -1,0 +1,11 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}Lógica de Programação e Algoritmos · Voidwielder{% endblock %}
+{% block description %}Roteiro de estudos para iniciantes: seis semanas de lógica e Python, com exercícios e projeto final de jogo da forca.{% endblock %}
+{% block og_title %}Lógica de Programação e Algoritmos · Voidwielder{% endblock %}
+{% block og_description %}Seis semanas para aprender lógica, Python e construir um jogo da forca.{% endblock %}
+{% block og_image %}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/study-catalog.css' %}?v=1">{% endblock %}
+{% block content %}
+<a class="study-back-link" href="{% url 'reader:studies' %}">← Voltar aos estudos</a>
+{% include 'reader/study_content.html' %}
+{% endblock %}

@@ -114,6 +114,17 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
               canvas.setAttribute('aria-label', `Capa de ${result.title}`); frame.append(canvas); link.append(frame);
               import(sitePath('/static/reader/js/web-book/art.mjs')).then(({ drawWebArt }) => drawWebArt(canvas));
             }
+            if (result.study_art) {
+              link.className = 'study-result-card';
+              const artwork = document.createElement('img');
+              artwork.className = 'study-result-art';
+              artwork.src = sitePath(`/static/${result.study_art}`);
+              artwork.alt = '';
+              artwork.loading = 'lazy';
+              artwork.width = 800;
+              artwork.height = 560;
+              link.append(artwork);
+            }
             if (result.cover) {
               link.className = 'series-card';
               const cover = document.createElement('img');

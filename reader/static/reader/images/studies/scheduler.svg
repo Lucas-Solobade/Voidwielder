@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title">
+  <title id="title">Processos coloridos organizados numa linha do tempo de CPU</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#122638"/><stop offset="1" stop-color="#101320"/></linearGradient><radialGradient id="light"><stop stop-color="#2d967d" stop-opacity=".42"/><stop offset="1" stop-color="#2d967d" stop-opacity="0"/></radialGradient><filter id="shadow"><feDropShadow dy="14" stdDeviation="17" flood-opacity=".4"/></filter></defs>
+  <rect width="800" height="560" fill="url(#bg)"/><circle cx="405" cy="230" r="330" fill="url(#light)"/>
+  <g stroke="#8fe4d1" stroke-opacity=".15" fill="none"><path d="M0 80h800M0 160h800M0 240h800M0 320h800M0 400h800M0 480h800M80 0v560M160 0v560M240 0v560M320 0v560M400 0v560M480 0v560M560 0v560M640 0v560M720 0v560"/></g>
+  <g filter="url(#shadow)"><rect x="110" y="91" width="580" height="378" rx="25" fill="#14212d" stroke="#7ce9cb" stroke-opacity=".45" stroke-width="2"/>
+    <rect x="146" y="128" width="508" height="58" rx="14" fill="#1c3340"/><path d="M165 157h27m17 0h30" stroke="#7ce9cb" stroke-width="7" stroke-linecap="round"/><text x="609" y="164" fill="#7ce9cb" text-anchor="end" font-family="monospace" font-size="17">CPU / 04</text>
+    <g font-family="Arial,sans-serif" font-size="17" font-weight="700"><text x="151" y="244" fill="#ffd77a">P1</text><text x="151" y="310" fill="#93e4d1">P2</text><text x="151" y="376" fill="#bdb0ff">P3</text></g>
+    <path d="M204 249h419M204 315h419M204 381h419" stroke="#819ba0" stroke-opacity=".3" stroke-width="2"/>
+    <rect x="211" y="222" width="142" height="43" rx="9" fill="#ffd76e"/><rect x="452" y="222" width="96" height="43" rx="9" fill="#ffd76e"/>
+    <rect x="358" y="288" width="129" height="43" rx="9" fill="#86e0c6"/><rect x="552" y="288" width="69" height="43" rx="9" fill="#86e0c6"/>
+    <rect x="212" y="354" width="140" height="43" rx="9" fill="#a99bf2"/><rect x="490" y="354" width="132" height="43" rx="9" fill="#a99bf2"/>
+    <path d="M210 416h413" stroke="#9bb2b0" stroke-opacity=".5" stroke-width="2"/><g fill="#b8d7d2" font-family="monospace" font-size="14"><text x="205" y="440">0</text><text x="340" y="440">4</text><text x="476" y="440">8</text><text x="607" y="440">12</text></g>
+  </g><circle cx="687" cy="106" r="5" fill="#ffdc79"/><circle cx="79" cy="401" r="5" fill="#a99bf2"/>
+</svg>

@@ -9,6 +9,31 @@ def test_home_links_to_catalog_and_studies(client):
     assert reverse("reader:studies") in content
 
 
+def test_studies_catalog_opens_each_project_without_showing_the_whole_track(client):
+    from reader.study_catalog import STUDY_PROJECTS
+    from scripts.export_static import build_catalog
+
+    catalog = client.get(reverse("reader:studies"))
+    assert catalog.status_code == 200
+    html = catalog.content.decode()
+    assert "study-catalog-grid" in html
+    assert "study-week-head" not in html
+    for project in STUDY_PROJECTS:
+        assert project["title"] in html
+        assert f'href="{project["url"]}"' in html
+        assert project["image"] in html
+
+    guide = client.get(reverse("reader:study_guide"))
+    assert guide.status_code == 200
+    assert "study-week-head" in guide.content.decode()
+    assert "Voltar aos estudos" in guide.content.decode()
+
+    search = client.get(reverse("reader:search"), {"tipo": "estudos"})
+    assert search.status_code == 200
+    assert search.content.decode().count('class="study-result-card"') == len(STUDY_PROJECTS)
+    assert len([item for item in build_catalog() if item["category"] == "estudos"]) == len(STUDY_PROJECTS)
+
+
 def test_reader_rejects_page_outside_arc(client):
     response = client.get(reverse("reader:read", args=("invasao-desastrada", 18)))
     assert response.status_code == 404

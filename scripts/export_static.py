@@ -24,7 +24,7 @@ from reader.game_catalog import GAMES  # noqa: E402
 from reader.linux_catalog import LINUX_BOOK, get_linux_pages  # noqa: E402
 from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
 from reader.python_exercises import EXERCISES  # noqa: E402
-from reader.study_catalog import STUDY_GUIDE  # noqa: E402
+from reader.study_catalog import STUDY_PROJECTS  # noqa: E402
 from reader.web_catalog import WEB_BOOK, get_web_pages  # noqa: E402
 
 DIST_DIR = Path(os.getenv("STATIC_EXPORT_DIR", BASE_DIR / "dist"))
@@ -158,13 +158,12 @@ def build_catalog() -> list[dict[str, str | int]]:
         for chapter in arc.chapters
     ] + [
         {
-            "category": "estudos",
-            "kind": "Trilha de estudos",
-            "title": STUDY_GUIDE["title"],
-            "detail": STUDY_GUIDE["detail"],
-            "url": "/estudos/",
-            "topics": " ".join(STUDY_GUIDE["topics"]),
+            "category": "estudos", "kind": project["kind"],
+            "title": project["title"], "detail": project["detail"],
+            "url": project["url"], "topics": project["topics"],
+            "study_art": project["image"],
         }
+        for project in STUDY_PROJECTS
     ] + [
         {
             "category": "jogos",
@@ -191,7 +190,7 @@ def main() -> None:
         shutil.copytree(experiences, DIST_DIR / "experiencias", ignore=shutil.ignore_patterns("*.test.mjs"))
 
     client = Client()
-    routes = ["/", "/buscar/", "/estudos/", "/hqs/homus-bananus/"]
+    routes = ["/", "/buscar/", "/estudos/", STUDY_PROJECTS[0]["url"], "/hqs/homus-bananus/"]
     routes.append(BOOK["url"])
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
     routes.append(LINUX_BOOK["url"])

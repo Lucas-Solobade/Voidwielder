@@ -12,3 +12,36 @@ STUDY_GUIDE = {
         "tuplas listas dicionários métodos forca",
     ),
 }
+
+STUDY_PROJECTS = (
+    {
+        "title": STUDY_GUIDE["title"],
+        "kind": "Trilha guiada",
+        "subject": "Programação",
+        "detail": STUDY_GUIDE["detail"],
+        "meta": "6 semanas · Python · projeto final",
+        "url": "/estudos/logica-de-programacao-e-algoritmos/",
+        "image": "reader/images/studies/logic.svg",
+        "topics": " ".join(STUDY_GUIDE["topics"]),
+    },
+    {
+        "title": "Escalonador do Vazio",
+        "kind": "Simulador interativo",
+        "subject": "Sistemas operacionais",
+        "detail": "Compare FCFS, SJF e Round Robin e acompanhe a CPU em uma linha do tempo visual.",
+        "meta": "CPU · algoritmos · tempo de espera",
+        "url": "/experiencias/escalonador-do-vazio/",
+        "image": "reader/images/studies/scheduler.svg",
+        "topics": "processos escalonamento FCFS SJF Round Robin sistemas operacionais",
+    },
+    {
+        "title": "Abismo da Recursão",
+        "kind": "Laboratório interativo",
+        "subject": "Algoritmos",
+        "detail": "Explore fatorial, Fibonacci e Euclides passo a passo, com chamadas e retornos na pilha.",
+        "meta": "Recursão · pilha · casos-base",
+        "url": "/experiencias/abismo-da-recursao/",
+        "image": "reader/images/studies/recursion.svg",
+        "topics": "recursão recursividade fatorial Fibonacci Euclides pilha chamadas caso-base",
+    },
+)

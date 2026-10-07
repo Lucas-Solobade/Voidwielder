@@ -15,8 +15,8 @@
   <link rel="stylesheet" href="/static/reader/css/site.css?v=11">
   <link rel="stylesheet" href="/static/reader/css/library.css?v=11">
   <link rel="stylesheet" href="/static/reader/css/portal.css?v=13">
-  <link rel="stylesheet" href="/static/reader/css/book.css?v=1"><link rel="stylesheet" href="/static/reader/css/linux-book.css?v=1"><link rel="stylesheet" href="/static/reader/css/python-book.css?v=1"><link rel="stylesheet" href="/static/reader/css/web-book.css?v=1">
-  <script src="/static/reader/js/site.js?v=14" defer></script>
+  <link rel="stylesheet" href="/static/reader/css/book.css?v=1"><link rel="stylesheet" href="/static/reader/css/linux-book.css?v=1"><link rel="stylesheet" href="/static/reader/css/python-book.css?v=1"><link rel="stylesheet" href="/static/reader/css/web-book.css?v=1"><link rel="stylesheet" href="/static/reader/css/study-catalog.css?v=1">
+  <script src="/static/reader/js/site.js?v=15" defer></script>
 
 </head>
 <body>
@@ -44,7 +44,7 @@
       <a href="/buscar/?tipo=livros"><span class="drawer-glyph" aria-hidden="true">L</span><span><strong>Livros</strong><small>Leituras disponíveis</small></span><span aria-hidden="true">›</span></a>
       <a href="/buscar/?tipo=hq"><span class="drawer-glyph" aria-hidden="true">HQ</span><span><strong>HQs</strong><small>Arcos e capítulos</small></span><span aria-hidden="true">›</span></a>
       <a href="/buscar/?tipo=jogos"><span class="drawer-glyph" aria-hidden="true">J</span><span><strong>Jogos</strong><small>Projetos e experiências</small></span><span aria-hidden="true">›</span></a>
-      <a href="/estudos/"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilha de programação</small></span><span aria-hidden="true">›</span></a>
+      <a href="/estudos/"><span class="drawer-glyph" aria-hidden="true">E</span><span><strong>Estudos</strong><small>Trilhas e laboratórios</small></span><span aria-hidden="true">›</span></a>
     </div>
     <a class="drawer-all" href="/buscar/">Pesquisar todo o catálogo</a>
   </nav>
@@ -76,12 +76,13 @@
   </form>
   <div data-static-search-results aria-live="polite"></div>
   <div data-django-search-results>
-    <h2>10 resultados</h2>
+    <h2>12 resultados</h2>
     <div class="results">
 
       <a class="book-card" href="/livros/a-casa-das-medidas/">
 
         <canvas class="book-cover" data-book-art="cover" width="480" height="720" role="img" aria-label="Capa de A Casa das Medidas"></canvas>
+
 
 
 
@@ -94,6 +95,7 @@
         <span class="linux-mini-cover"><canvas data-linux-art="cover" width="540" height="720" role="img" aria-label="Capa de Linux: do zero ao avançado"></canvas></span>
 
 
+
         <span class="result-copy"><span>Livro didático</span><strong>Linux: do zero ao avançado</strong><span class="result-detail">13 partes · 78 lições · 554 páginas. Um caminho guiado para começar no Linux e avançar até redes, segurança, automação, contêineres e desenvolvimento, com práticas em laboratório.</span></span>
       </a>
 
@@ -102,6 +104,7 @@
 
 
         <span class="python-mini-cover"><canvas data-python-art="cover" width="540" height="720" role="img" aria-label="Capa de Python: do zero ao avançado"></canvas></span>
+
 
         <span class="result-copy"><span>Livro interativo</span><strong>Python: do zero ao avançado</strong><span class="result-detail">13 partes · 39 lições · 281 páginas · exercícios em Python. Aprenda lógica, algoritmos e Python desde o primeiro programa até POO, bibliotecas, automação, APIs, dados e machine learning, praticando no navegador.</span></span>
       </a>
@@ -112,6 +115,7 @@
 
 
         <span class="web-mini-cover"><canvas data-web-art="cover" width="540" height="720" role="img" aria-label="Capa de Desenvolvimento web"></canvas></span>
+
         <span class="result-copy"><span>Livro didático</span><strong>Desenvolvimento web: do primeiro arquivo à produção</strong><span class="result-detail">3 etapas · 17 capítulos · 67 páginas. HTML, CSS, JavaScript, Git, APIs, bancos de dados, testes, segurança e publicação em um projeto guiado do início ao fim.</span></span>
       </a>
 
@@ -121,19 +125,42 @@
 
 
 
+
         <span class="result-copy"><span>HQ</span><strong>Homus Bananus: Guerra do Absurdo</strong><span class="result-detail">Mangá brasileiro de comédia e ação sobre Alan, um alienígena fantasiado de banana, seus rivais improváveis e uma conspiração corporativa perigosamente teatral.</span><span class="result-action">Explorar HQ →</span></span>
       </a>
 
-      <a class="" href="/estudos/">
+      <a class="study-result-card" href="/estudos/logica-de-programacao-e-algoritmos/">
 
 
 
 
 
-        <span class="result-copy"><span>Trilha de estudos</span><strong>Lógica de Programação e Algoritmos</strong><span class="result-detail">Roteiro para iniciantes em seis semanas: lógica, Python, decisões, laços, funções, coleções e um projeto de forca.</span></span>
+        <img class="study-result-art" src="/static/reader/images/studies/logic.svg" alt="" loading="lazy" width="800" height="560">
+        <span class="result-copy"><span>Trilha guiada</span><strong>Lógica de Programação e Algoritmos</strong><span class="result-detail">Roteiro para iniciantes em seis semanas: lógica, Python, decisões, laços, funções, coleções e um projeto de forca.</span></span>
+      </a>
+
+      <a class="study-result-card" href="/experiencias/escalonador-do-vazio/">
+
+
+
+
+
+        <img class="study-result-art" src="/static/reader/images/studies/scheduler.svg" alt="" loading="lazy" width="800" height="560">
+        <span class="result-copy"><span>Simulador interativo</span><strong>Escalonador do Vazio</strong><span class="result-detail">Compare FCFS, SJF e Round Robin e acompanhe a CPU em uma linha do tempo visual.</span></span>
+      </a>
+
+      <a class="study-result-card" href="/experiencias/abismo-da-recursao/">
+
+
+
+
+
+        <img class="study-result-art" src="/static/reader/images/studies/recursion.svg" alt="" loading="lazy" width="800" height="560">
+        <span class="result-copy"><span>Laboratório interativo</span><strong>Abismo da Recursão</strong><span class="result-detail">Explore fatorial, Fibonacci e Euclides passo a passo, com chamadas e retornos na pilha.</span></span>
       </a>
 
       <a class="game-card" href="/jogos/pipo-e-o-correio-das-estrelas/">
+
 
 
 
@@ -148,6 +175,7 @@
 
 
 
+
         <span class="result-copy"><span>Jogo</span><strong>Mila e o Jardim das Nuvens</strong><span class="result-detail">Ajude uma coelhinha a plantar estrelas e acordar flores em três jardins sem pressa.</span></span>
       </a>
 
@@ -157,10 +185,12 @@
 
 
 
+
         <span class="result-copy"><span>Jogo</span><strong>Lilo e o Festival das Bolhas</strong><span class="result-detail">Seis fases de bolhas de luz, estrelas e nuvens fofas, com a Rainha Névoa no final.</span></span>
       </a>
 
       <a class="game-card" href="/playground/">
+
 
 
 

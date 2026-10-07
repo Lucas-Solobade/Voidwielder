@@ -1,28 +1,33 @@
 {% extends 'reader/base.html' %}{% load static %}
-{% block title %}Lógica de Programação e Algoritmos · Voidwielder{% endblock %}
-{% block description %}Roteiro de estudos para iniciantes: seis semanas de lógica e Python, com exercícios e projeto final de jogo da forca.{% endblock %}
-{% block og_title %}Lógica de Programação e Algoritmos · Voidwielder{% endblock %}
+{% block title %}Estudos · Voidwielder{% endblock %}
+{% block description %}Escolha uma trilha ou experiência interativa para estudar programação, algoritmos e sistemas operacionais.{% endblock %}
+{% block og_title %}Estudos · Voidwielder{% endblock %}
 {% block og_image %}{% endblock %}
-{% block og_description %}Seis semanas para aprender lógica, Python e construir um jogo da forca.{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/study-experiences.css' %}?v=1">{% endblock %}
+{% block og_description %}Trilhas e laboratórios interativos para aprender fazendo.{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/study-catalog.css' %}?v=1">{% endblock %}
 {% block content %}
-{% include 'reader/study_content.html' %}
-<section class="study-experiences" aria-labelledby="experiencias-titulo">
-  <div class="study-experiences-head">
-    <div><p class="eyebrow">Aprenda fazendo</p><h2 id="experiencias-titulo">Experiências interativas</h2></div>
-    <p>Laboratórios independentes para visualizar conceitos que costumam parecer abstratos no papel.</p>
-  </div>
-  <div class="study-experiences-grid">
-    <a class="study-experience-card scheduler-card" href="/experiencias/escalonador-do-vazio/">
-      <span class="experience-number">01</span>
-      <div class="experience-visual" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
-      <div class="experience-copy"><small>Sistemas Operacionais</small><h3>Escalonador do Vazio</h3><p>Compare FCFS, SJF e Round Robin em uma linha do tempo visual e entenda espera, retorno e trocas de contexto.</p><span class="experience-action">Abrir simulador <b aria-hidden="true">↗</b></span></div>
+<section class="study-catalog section-shell" aria-labelledby="study-catalog-title">
+  <header class="study-catalog-head">
+    <div>
+      <p class="eyebrow">Biblioteca / Estudos</p>
+      <h1 id="study-catalog-title">Escolha o que <span>aprender.</span></h1>
+      <p>Trilhas e experiências para praticar no seu ritmo. Abra um projeto para ver as aulas ou interagir com o laboratório.</p>
+    </div>
+    <a class="study-catalog-search" href="{% url 'reader:search' %}?tipo=estudos">Pesquisar estudos <span aria-hidden="true">↗</span></a>
+  </header>
+  <div class="study-catalog-toolbar"><h2>Projetos disponíveis</h2><span>{{ projects|length }} projetos</span></div>
+  <div class="study-catalog-grid">
+    {% for project in projects %}
+    <a class="study-project" href="{{ project.url }}" aria-label="Abrir {{ project.title }}">
+      <span class="study-project-art"><img src="{% static project.image %}" alt="" width="800" height="560" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}"></span>
+      <span class="study-project-body">
+        <span class="study-project-kicker">{{ project.kind }} <span aria-hidden="true">·</span> {{ project.subject }}</span>
+        <strong>{{ project.title }}</strong>
+        <span class="study-project-description">{{ project.detail }}</span>
+        <span class="study-project-foot"><span>{{ project.meta }}</span><b aria-hidden="true">↗</b></span>
+      </span>
     </a>
-    <a class="study-experience-card recursion-card" href="/experiencias/abismo-da-recursao/">
-      <span class="experience-number">02</span>
-      <div class="experience-visual recursion-visual" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
-      <div class="experience-copy"><small>Algoritmos</small><h3>Abismo da Recursão</h3><p>Acompanhe fatorial, Fibonacci e Euclides passo a passo, observando chamadas, casos-base e retornos na pilha.</p><span class="experience-action">Explorar a pilha <b aria-hidden="true">↗</b></span></div>
-    </a>
+    {% endfor %}
   </div>
 </section>
 {% endblock %}
