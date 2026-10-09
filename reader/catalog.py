@@ -216,6 +216,13 @@ MANGA = {
     "total_pages": ARCS[-1].end_page,
 }
 
+HQ_EXTRAS = {
+    "title": "Arquivos do Absurdo",
+    "description": "Os segredos do Podador, a anatomia de Alan e as histórias por trás dos personagens.",
+    "topics": "Podador réplica robótica ECO-01 Mônica Pig holograma Alan Homus Bananus anatomia Johnny Calcinha Rayan Elen Super Elen Isaac fãs Nox",
+    "url": "/hqs/homus-bananus/extras/",
+}
+
 
 def get_arc(slug: str) -> Arc | None:
     return next((arc for arc in ARCS if arc.slug == slug), None)

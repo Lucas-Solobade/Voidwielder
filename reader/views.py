@@ -4,7 +4,7 @@ from django.urls import reverse
 from django.views.decorators.http import require_GET
 
 from .book_catalog import BOOK, get_book_pages
-from .catalog import ARCS, MANGA, get_arc, get_chapter_for_page
+from .catalog import ARCS, HQ_EXTRAS, MANGA, get_arc, get_chapter_for_page
 from .game_catalog import GAMES
 from .linux_catalog import LINUX_BOOK, PARTS, get_linux_lessons, get_linux_pages
 from .python_catalog import PARTS as PYTHON_PARTS
@@ -22,6 +22,11 @@ def home(request: HttpRequest) -> HttpResponse:
 @require_GET
 def hq_detail(request: HttpRequest) -> HttpResponse:
     return render(request, "reader/hq_detail.html", {"manga": MANGA, "arcs": ARCS})
+
+
+@require_GET
+def hq_extras(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/hq_extras.html", {"manga": MANGA, "extras": HQ_EXTRAS})
 
 
 @require_GET
@@ -129,6 +134,14 @@ def search(request: HttpRequest) -> HttpResponse:
                     "cover": MANGA["cover"],
                 }
             )
+        extras_text = f"{HQ_EXTRAS['title']} {HQ_EXTRAS['description']} {HQ_EXTRAS['topics']}".casefold()
+        if query and needle in extras_text:
+            results.append({
+                "kind": "Extras da HQ",
+                "title": HQ_EXTRAS["title"],
+                "url": reverse("reader:hq_extras"),
+                "detail": HQ_EXTRAS["description"],
+            })
         if query:
             for arc in ARCS:
                 arc_text = f"{arc.title} {arc.description}".casefold()
@@ -318,6 +331,7 @@ def robots(_: HttpRequest) -> HttpResponse:
 def sitemap(request: HttpRequest) -> HttpResponse:
     urls = [request.build_absolute_uri(reverse("reader:home"))]
     urls.append(request.build_absolute_uri(reverse("reader:hq")))
+    urls.append(request.build_absolute_uri(reverse("reader:hq_extras")))
     urls.append(request.build_absolute_uri(reverse("reader:studies")))
     urls.append(request.build_absolute_uri(reverse("reader:study_guide")))
     urls.append(request.build_absolute_uri(reverse("reader:game")))

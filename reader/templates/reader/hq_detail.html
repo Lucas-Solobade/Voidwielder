@@ -3,6 +3,7 @@
 {% block description %}{{ manga.description }}{% endblock %}
 {% block og_title %}{{ manga.title }}{% endblock %}
 {% block og_description %}{{ manga.description }}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/hq-extras.css' %}?v=1">{% endblock %}
 {% block content %}
 <section class="hero hq-hero" aria-labelledby="hq-title">
   <img src="{% static manga.cover %}" alt="Capa da HQ Homus Bananus: Guerra do Absurdo" fetchpriority="high" width="1672" height="941">
@@ -15,6 +16,10 @@
     <a class="primary-button" href="#arcos">Explorar os arcos <span aria-hidden="true">↓</span></a>
   </div>
 </section>
+<nav class="hq-section-tabs lore-shell hq-tabs-wrap" aria-label="Explorar a HQ">
+  <a href="#arcos" aria-current="page">Arcos da HQ</a>
+  <a href="{% url 'reader:hq_extras' %}">Extras e lore</a>
+</nav>
 <section class="section-shell hq-arcs" id="arcos" aria-labelledby="arcos-title">
   <div class="section-heading"><div><p class="eyebrow">A história continua</p><h2 id="arcos-title">Arcos da HQ</h2></div><span>{{ manga.total_pages }} páginas</span></div>
   <div class="arc-grid">

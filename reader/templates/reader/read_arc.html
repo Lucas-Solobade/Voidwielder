@@ -1,12 +1,13 @@
 {% extends 'reader/base.html' %}{% load static %}
 {% block title %}{{ arc.title }} · Leitura contínua · Voidwielder{% endblock %}
 {% block description %}Leia {{ arc.title }} como um livro contínuo, da página {{ arc.start_page }} à {{ arc.end_page }}.{% endblock %}
+{% block extra_styles %}{% if arc.slug == 'ultima-poda' %}<link rel="stylesheet" href="{% static 'reader/css/hq-extras.css' %}?v=1">{% endif %}{% endblock %}
 {% block content %}
 <div class="arc-book">
   <header class="book-header"><a href="{% url 'reader:arc' arc.slug %}">← Voltar ao arco</a><p class="eyebrow">Leitura contínua · páginas {{ arc.start_page }}–{{ arc.end_page }}</p><h1>{{ arc.title }}</h1><p>{{ arc.description }}</p></header>
   {% for page in pages %}
     {% ifchanged page.chapter.number %}<h2 class="book-chapter" id="capitulo-{{ page.chapter.number }}">Capítulo {{ page.chapter.number }} · {{ page.chapter.title }}</h2>{% endifchanged %}
     <figure class="book-page"><img src="{% static page.filename %}" alt="Página {{ page.number }} do capítulo {{ page.chapter.title }}" loading="{% if forloop.counter0 < 2 %}eager{% else %}lazy{% endif %}"><figcaption>Página {{ page.number }}</figcaption></figure>
-  {% endfor %}
+  {% endfor %}{% if arc.slug == 'ultima-poda' %}<a class="lore-reader-link" href="{% url 'reader:hq_extras' %}">Ler os extras e a lore do arco →</a>{% endif %}
 </div>
 {% endblock %}

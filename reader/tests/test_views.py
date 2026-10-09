@@ -115,6 +115,21 @@ def test_arc_book_reader_has_all_pages(client):
     assert "story-page" not in content
 
 
+def test_hq_extras_are_reachable_from_catalog_and_final_arc(client):
+    extras_url = reverse("reader:hq_extras")
+    hq = client.get(reverse("reader:hq")).content.decode()
+    arc = client.get(reverse("reader:arc", args=("ultima-poda",))).content.decode()
+    extras = client.get(extras_url)
+
+    assert f'href="{extras_url}"' in hq
+    assert f'href="{extras_url}"' in arc
+    assert extras.status_code == 200
+    content = extras.content.decode()
+    for detail in ("ECO-01", "Rayan", "Super Elen", "holograma", "guia-visual"):
+        assert detail.casefold() in content.casefold()
+    assert reverse("reader:read", args=("ultima-poda", 94)) in content
+
+
 def test_book_catalog_and_reader_deep_links(client):
     catalog = client.get(reverse("reader:search"), {"tipo": "livros"})
     assert catalog.status_code == 200

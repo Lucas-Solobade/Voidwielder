@@ -19,7 +19,7 @@ django.setup()
 from django.test import Client  # noqa: E402
 
 from reader.book_catalog import BOOK, get_book_pages  # noqa: E402
-from reader.catalog import ARCS, MANGA  # noqa: E402
+from reader.catalog import ARCS, HQ_EXTRAS, MANGA  # noqa: E402
 from reader.game_catalog import GAMES  # noqa: E402
 from reader.linux_catalog import LINUX_BOOK, get_linux_pages  # noqa: E402
 from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
@@ -136,6 +136,10 @@ def build_catalog() -> list[dict[str, str | int]]:
         "detail": MANGA["description"],
         "url": "/hqs/homus-bananus/",
         "cover": MANGA["cover"],
+    }, {
+        "category": "hq", "kind": "Extras da HQ", "title": HQ_EXTRAS["title"],
+        "detail": HQ_EXTRAS["description"], "url": HQ_EXTRAS["url"],
+        "topics": HQ_EXTRAS["topics"],
     }] + [
         {
             "category": "hq",
@@ -190,7 +194,7 @@ def main() -> None:
         shutil.copytree(experiences, DIST_DIR / "experiencias", ignore=shutil.ignore_patterns("*.test.mjs"))
 
     client = Client()
-    routes = ["/", "/buscar/", "/estudos/", STUDY_PROJECTS[0]["url"], "/hqs/homus-bananus/"]
+    routes = ["/", "/buscar/", "/estudos/", STUDY_PROJECTS[0]["url"], "/hqs/homus-bananus/", HQ_EXTRAS["url"]]
     routes.append(BOOK["url"])
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
     routes.append(LINUX_BOOK["url"])
