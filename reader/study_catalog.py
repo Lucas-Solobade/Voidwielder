@@ -44,4 +44,14 @@ STUDY_PROJECTS = (
         "image": "reader/images/studies/recursion.svg",
         "topics": "recursão recursividade fatorial Fibonacci Euclides pilha chamadas caso-base",
     },
+    {
+        "title": "Labirinto da Memória",
+        "kind": "Simulador interativo",
+        "subject": "Sistemas operacionais",
+        "detail": "Compare FIFO, LRU e Ótimo e acompanhe acertos, faltas e substituições nos quadros da memória.",
+        "meta": "Memória virtual · páginas · FIFO · LRU",
+        "url": "/experiencias/labirinto-da-memoria/",
+        "image": "reader/images/studies/memory.svg",
+        "topics": "memória virtual paginação substituição de páginas FIFO LRU ótimo faltas de página quadros",
+    },
 )

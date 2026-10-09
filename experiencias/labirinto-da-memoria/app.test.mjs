@@ -1,0 +1,15 @@
+import assert from "node:assert/strict";
+import{readFile}from"node:fs/promises";
+const source=await readFile(new URL("./app.js",import.meta.url),"utf8");
+const{parseReferences,simulate}=await import(`data:text/javascript;base64,${Buffer.from(source).toString("base64")}`);
+const refs=parseReferences("7,0,1,2,0,3,0,4,2,3,0,3,2");
+assert.deepEqual(refs,[7,0,1,2,0,3,0,4,2,3,0,3,2]);
+assert.throws(()=>parseReferences("7, página, 2"));
+const fifo=simulate(refs,3,"fifo"),lru=simulate(refs,3,"lru"),optimal=simulate(refs,3,"optimal");
+assert.equal(fifo.at(-1).faults,10);
+assert.equal(lru.at(-1).faults,9);
+assert.equal(optimal.at(-1).faults,7);
+assert.equal(fifo.length,refs.length);
+assert.deepEqual(fifo[0].frames,[7,null,null]);
+assert.equal(fifo[4].hit,true);
+console.log("Labirinto da Memória: parser, FIFO, LRU e Ótimo validados.");
