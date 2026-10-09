@@ -3,7 +3,7 @@
 {% block description %}{{ manga.description }}{% endblock %}
 {% block og_title %}{{ manga.title }}{% endblock %}
 {% block og_description %}{{ manga.description }}{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/hq-extras.css' %}?v=1">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/hq-layout.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/hq-extras.css' %}?v=1">{% endblock %}
 {% block content %}
 <section class="hero hq-hero" aria-labelledby="hq-title">
   <img src="{% static manga.cover %}" alt="Capa da HQ Homus Bananus: Guerra do Absurdo" fetchpriority="high" width="1672" height="941">
