@@ -22,7 +22,7 @@ from reader.book_catalog import BOOK, get_book_pages  # noqa: E402
 from reader.catalog import ARCS, HQ_EXTRAS, MANGA  # noqa: E402
 from reader.game_catalog import GAMES  # noqa: E402
 from reader.linux_catalog import LINUX_BOOK, get_linux_pages  # noqa: E402
-from reader.medieval_catalog import ARC_URL as MEDIEVAL_ARC_URL  # noqa: E402
+from reader.medieval_catalog import ARCS as MEDIEVAL_ARCS  # noqa: E402
 from reader.medieval_catalog import PAGES as MEDIEVAL_PAGES  # noqa: E402
 from reader.medieval_catalog import SERIES_URL as MEDIEVAL_SERIES_URL  # noqa: E402
 from reader.medieval_catalog import STORY as MEDIEVAL_STORY  # noqa: E402
@@ -207,7 +207,8 @@ def main() -> None:
         shutil.copytree(experiences, DIST_DIR / "experiencias", ignore=shutil.ignore_patterns("*.test.mjs"))
 
     client = Client()
-    routes = ["/", "/buscar/", "/estudos/", STUDY_PROJECTS[0]["url"], "/hqs/homus-bananus/", HQ_EXTRAS["url"], MEDIEVAL_SERIES_URL, MEDIEVAL_ARC_URL]
+    routes = ["/", "/buscar/", "/estudos/", STUDY_PROJECTS[0]["url"], "/hqs/homus-bananus/", HQ_EXTRAS["url"], MEDIEVAL_SERIES_URL]
+    routes.extend(arc["url"] for arc in MEDIEVAL_ARCS)
     routes.extend(medieval_page_url(page["number"]) for page in MEDIEVAL_PAGES)
     routes.append(BOOK["url"])
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
@@ -298,7 +299,7 @@ def medieval_only() -> None:
         shutil.copy2(source, destination)
 
     client = Client()
-    routes = [MEDIEVAL_SERIES_URL, MEDIEVAL_ARC_URL]
+    routes = [MEDIEVAL_SERIES_URL, *(arc["url"] for arc in MEDIEVAL_ARCS)]
     routes.extend(medieval_page_url(page["number"]) for page in MEDIEVAL_PAGES)
     for route in routes:
         write_page(client, route)

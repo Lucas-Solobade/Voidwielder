@@ -10,6 +10,7 @@ urlpatterns = [
     path("hqs/homus-bananus/extras/", views.hq_extras, name="hq_extras"),
     path("hqs/estradas-do-crepusculo/", views.medieval_detail, name="medieval_detail"),
     path("hqs/estradas-do-crepusculo/arcos/o-ferro-que-escuta/", views.medieval_arc, name="medieval_arc"),
+    path("hqs/estradas-do-crepusculo/arcos/a-casa-das-quatro-luas/", views.medieval_arc, {"arc_slug": "a-casa-das-quatro-luas"}, name="medieval_arc2"),
     path("hqs/estradas-do-crepusculo/ler/<int:page>/", views.medieval_read, name="medieval_read"),
     path("arcos/<slug:arc_slug>/", views.arc_detail, name="arc"),
     path("ler/arco/<slug:arc_slug>/", views.read_arc, name="read_arc"),

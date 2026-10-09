@@ -5,7 +5,8 @@
     "ilyan": "reader/medieval/references/ilyan-sheet.png",
     "ensemble": "reader/medieval/references/ensemble-sheet.png",
     "travelers": "reader/medieval/references/travelers-sheet.png",
-    "runa": "reader/medieval/references/runa-sheet.png"
+    "runa": "reader/medieval/references/runa-sheet.png",
+    "school_cast": "reader/medieval/references/school-cast-sheet.png"
   },
   "characters": {
     "ilyan": {
@@ -32,21 +33,21 @@
     "nima": {
       "name": "Nima",
       "age": 26,
-      "role": "gnoma adulta inventora e amiga de Ilyan",
+      "role": "gnoma adulta inventora de Pedra-Mansa, amiga e mentora prática de Ilyan há oito anos; ajudou Bram com mecanismos da forja",
       "fixed_appearance": "Gnoma ADULTA de cerca de noventa centímetros, cabelos ruivos acobreados em bob cacheado, sardas, orelhas grandes e pontudas, olhos verde-avelã e sorriso vivo. Seu tamanho não indica infância.",
       "fixed_clothing": "Gorro verde-musgo, óculos mecânicos de latão na testa, colete azul-petróleo, camisa creme e cinturão de ferramentas."
     },
     "avel": {
       "name": "Mestra Avel",
       "age": 55,
-      "role": "mestra da Casa das Quatro Luas",
+      "role": "professora de cartografia e ritmos da Casa das Quatro Luas; lidera inspeções de estradas",
       "fixed_appearance": "Humana madura de pele castanho-escura, olhos escuros, tranças brancas prateadas presas em coque alto, expressão serena e firme.",
       "fixed_clothing": "Túnica e manto azul-meia-noite bordados discretamente com fases da lua em prata; um único pingente crescente."
     },
     "sere": {
       "name": "Sere",
       "age": 19,
-      "role": "arqueira élfica e batedora da caravana",
+      "role": "arqueira élfica, batedora das inspeções e jovem instrutora auxiliar de defesa e segurança de campo da Casa",
       "fixed_appearance": "Elfa adulta jovem de pele castanho-escura, olhos âmbar, orelhas finas pontudas e cabelos branco-prateados em UMA trança grossa longa sobre o ombro.",
       "fixed_clothing": "Capa verde-floresta com capuz, roupas de viagem em couro castanho e arco recurvo de freixo."
     },
@@ -70,17 +71,61 @@
     "runa": {
       "name": "Runa",
       "age": 17,
-      "role": "futura colega de Ilyan na Casa das Quatro Luas; aparecerá somente após o fim do arco 1",
+      "role": "estudante de tintas cartográficas vinda do vilarejo Vale do Junco; entra na Casa no dia 5",
       "fixed_appearance": "Jovem humana de pele clara fria, rosto oval, olhos escuros amendoados, sobrancelhas escuras marcadas, nariz reto, lábios cheios, cabelo preto muito longo e LISO com franja reta até as sobrancelhas; pequeno piercing prateado no septo; tatuagem floral escura no braço esquerdo e faixas de tinta no antebraço esquerdo. Manter estes traços em toda aparição.",
       "fixed_clothing": "Na escola usa roupa medieval prática em ameixa escuro e carvão, com bordados discretos. Sem bolsa moderna, roupa contemporânea ou bastão.",
       "future_relationship": "No arco escolar, percebe que Ilyan é bonito e ensaia um flerte breve; ele, absorvido pela busca da mãe e pelo treino, não corresponde, e ela interpreta a distração como arrogância. Confiança e afeto só crescem gradualmente. Ela não aparece nas páginas 1–25."
+    },
+    "caio": {
+      "name": "Caio", "age": 18,
+      "role": "estudante da Guarda do Limiar; rival criterioso, desconfiado de privilégios depois que o irmão perdeu uma bolsa",
+      "fixed_appearance": "Humano magro e atlético de pele castanha quente, olhos castanhos, sobrancelhas retas espessas e cabelo curto castanho-avermelhado arrumado.",
+      "fixed_clothing": "Túnica azul-petróleo da Guarda, correia de couro no ombro, botas escuras."
+    },
+    "tovo": {
+      "name": "Tovo", "age": 18,
+      "role": "estudante meio-orc bem-humorado, bolsista com turnos na cozinha; sua trapalhada não apaga a competência prática",
+      "fixed_appearance": "Alto e largo, pele verde-sálvia, pequenas presas inferiores, cabelo castanho curto muito cacheado, olhos castanhos gentis.",
+      "fixed_clothing": "Túnica escolar azul e avental âmbar de cozinha quando trabalha."
+    },
+    "ordelia": {
+      "name": "Ordelia", "age": 61,
+      "role": "registradora da escola e guardiã dos livros de acesso",
+      "fixed_appearance": "Humana de pele oliva, olhos castanhos atentos e cabelo cinza-ferro em uma trança baixa.",
+      "fixed_clothing": "Vestido medieval vinho e molho de chaves de latão na cintura."
+    },
+    "teren": {
+      "name": "Teren", "age": 49,
+      "role": "mestre da forja leste e instrutor de metal da Guarda",
+      "fixed_appearance": "Humano de pele castanho-escura, cabeça raspada, barba grisalha quadrada e cicatriz de queimadura no antebraço de cobre.",
+      "fixed_clothing": "Avental escuro de couro sobre camisa de trabalho."
+    },
+    "beren": {
+      "name": "Beren", "age": 58,
+      "role": "pedreiro licenciado chamado para examinar a fundação do anexo",
+      "fixed_appearance": "Humano de pele castanha clara, cabelo cinza curto, barba cinza espessa e órtese de metal no joelho ESQUERDO.",
+      "fixed_clothing": "Roupas de trabalho cor de arenito, cinturão de ferramentas."
     }
   },
   "places": {
     "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
     "pedra-mansa": "Vilarejo natal de Ilyan; forja de Bram, mercado, praça da Primeira Chuva e taberna Javali de Mel.",
     "valecobre": "Cidade regional que abriga a Casa das Quatro Luas, escola de magos e estudiosos, alcançada por estrada comum a partir do vilarejo.",
-    "casa-das-quatro-luas": "Escola em Valecobre. Além dos estudos de magia, mantém oficinas de metal, cartografia e a Guarda do Limiar. O portão comum e a antiga porta dos agrimensores são acessos distintos."
+    "casa-das-quatro-luas": "Escola em Valecobre. Além dos estudos de magia, mantém oficinas de metal, cartografia e a Guarda do Limiar. O portão comum e a antiga porta dos agrimensores são acessos distintos.",
+    "vale-do-junco": "Vilarejo natal de Runa, ao norte de Valecobre, conhecido por moinhos de tinta e cheias sazonais."
+  },
+  "school_map": {
+    "portao-sul": "Entrada COMUM no sul; o anexo antigo fica FORA do muro oeste. Entre eles há caminhada pelo lado de fora do muro, nunca passagem mágica.",
+    "patio-central": "Piscina refletora circular no centro. Quatro caminhos de calcário. Portão ao sul, refeitório ao norte, pátio de treino a leste, biblioteca ao norte/nordeste e ala de dormitórios a oeste.",
+    "secretaria": "Logo após o portão sul, balcão voltado ao leste, três livros de registro, lamparinas de cobre, molho de chaves de Ordelia.",
+    "dormitorio-cedro": "Ala oeste, quarto simples de Ilyan com uma cama estreita, baú de cedro e janela ao norte. Espada de treino guardada ao lado do baú à noite.",
+    "sala-ritmos": "Sala dos Quatro Ritmos: porta OESTE, janelas altas NORTE, lousa de ardósia LESTE e duas fileiras de bancos. Avel ensina aqui.",
+    "patio-treino": "Pátio leste: círculo de giz no centro, alvos de arco atrás da cerca NORTE, suporte de equipamentos ao SUL e saída segura no portão sul.",
+    "forja-leste": "Tijolo vermelho, três bigornas alinhadas NORTE-SUL, forno na parede LESTE, tanque d'água no lado OESTE. Teren administra turnos.",
+    "refeitorio": "Ao norte do pátio central: longas mesas de carvalho orientadas LESTE-OESTE e mural das quatro luas na parede OESTE.",
+    "biblioteca-galeria": "Galeria superior: escada em espiral NORDESTE, gabinetes públicos de mapas ao SUL e arquivo restrito com porta gradeada a OESTE. Ordelia guarda a chave.",
+    "anexo-agrimensores": "Vestíbulo de pedra dentro da porta física sem sombra; atril com livro de campo, armários empoeirados; quatro espelhos de cobre permanecem do lado de fora.",
+    "anexo-exterior": "Fora do muro oeste, base do anexo com tampa de manutenção do canal; só pedreiro licenciado pode abrir alvenaria. A porta de carvalho permanece trancada nas vistorias."
   },
   "magic_rules": [
     "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
@@ -91,7 +136,10 @@
     "Ilyan vai à escola por causa da carta de Mira e da porta, mantendo seu objetivo de ser guerreiro. A Guarda do Limiar também ensina defesa e metal; ele não se torna mago por destino.",
     "A porta sem sombra é física: quatro espelhos de cobre lançam luz sobre seus quatro lados. Não é um portal nem teletransporte. O quarto espelho estava emperrado.",
     "O guardião de pedra e bronze do anexo é uma proteção mecânica. Uma roda gasta aciona o alarme durante o reparo; o grupo o imobiliza sem destruir e o mecanismo se recolhe ao alinhar o espelho.",
-    "Lúmen permanece junto aos juncos em Pedra-Mansa depois da página 12. Sem ele, o ferro-eco da espada de Ilyan não brilha nas páginas 13–25."
+    "Lúmen permanece junto aos juncos em Pedra-Mansa depois da página 12. Sem ele, o ferro-eco da espada de Ilyan não brilha nas páginas 13–25.",
+    "A matrícula de Ilyan é provisória por quatorze dias: trabalho na oficina paga cama e refeições; só depois de avaliações pode ocupar vaga plena na Guarda.",
+    "O anexo e sua porta não teleportam. Da fundação exterior ao pátio central caminha-se contornando o muro oeste e entrando pelo portão sul.",
+    "O arquivo oeste é restrito; Ordelia só abre a gaveta da drenagem após autorização escrita de Avel. A saída de campo exige Sere e um pedreiro licenciado para abrir alvenaria."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
@@ -101,10 +149,19 @@
     "Dia 3, manhã e meio-dia: páginas 13–15 — estrada comum, verso da carta, bifurcação e ponte danificada.",
     "Dia 3, tarde e noite: páginas 16–19 — reparo da ponte, travessia e acampamento após o atraso.",
     "Dia 4, manhã e meio-dia: páginas 20–22 — chegada a Valecobre e desvio externo para o anexo dos agrimensores.",
-    "Dia 4, tarde: páginas 23–25 — quatro espelhos, guardião mecânico e descoberta da porta sem sombra; o grupo não a atravessa no arco 1."
+    "Dia 4, tarde: páginas 23–25 — quatro espelhos, guardião mecânico e descoberta da porta sem sombra; o grupo não a atravessa no arco 1.",
+    "Dia 4, fim da tarde/noite: páginas 26–31 — porta física abre para vestíbulo, livro mutilado, grupo caminha ao portão sul, registro e alojamento.",
+    "Dia 5: páginas 32–42 — Nima volta escoltada a Pedra-Mansa, Ilyan matricula-se provisoriamente, Runa chega de Vale do Junco, primeiras aulas e turnos.",
+    "Dia 6: páginas 43–49 — custo da bolsa, ritmos, cópias públicas no arquivo, a data corrige a hipótese de Ilyan.",
+    "Dia 7: páginas 50–54 — equipe mede a piscina, pedra cede, medida falha e Ilyan cumpre o turno da forja antes de refazer a vistoria.",
+    "Dia 8: páginas 55–59 — nova medição, mal-entendido entre Ilyan e Runa, permissão formal para o arquivo.",
+    "Dia 9: páginas 60–65 — assinatura de Mira, conversa com Avel, raiz da rivalidade de Caio, carta confirma chegada de Nima à vila.",
+    "Dia 10: páginas 66–72 — inspeção externa guiada por Sere, canal oco localizado mas não aberto por alunos, relatório conjunto.",
+    "Dia 11: páginas 73–78 — Beren abre e fecha tampa autorizada, desvio da água é confirmado, aula e prova preliminar de guarda.",
+    "Dia 12, manhã: páginas 79–80 — falta índice recente da pesquisa de Mira; grupo identifica linha sob colina norte; arco 2 continua."
   ],
   "comic_layout_rules": [
-    "As páginas 1–25 existentes ficam intactas. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
+    "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
     "Toda fala de personagem deve ter balão legível com cauda apontando ao personagem correto. A narração pode usar caixa própria sem balão. Planejar espaço livre na arte antes de posicionar texto.",
     "Preservar a fisionomia registrada em canon.json e nas fichas visuais, a geografia de cada cena, o tempo e a continuidade de objetos entre quadros."
   ]
