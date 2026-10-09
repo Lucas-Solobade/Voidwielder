@@ -11,7 +11,7 @@ DESTINATION = ROOT / "reader" / "static" / "reader" / "images" / "medieval"
 
 def build() -> None:
     DESTINATION.mkdir(parents=True, exist_ok=True)
-    for name in ("cover", *(f"page-{number:02}" for number in range(1, 13))):
+    for name in (f"page-{number:02}" for number in range(13, 26)):
         source = SOURCE / f"{name}.png"
         if not source.is_file():
             raise FileNotFoundError(f"Arte aprovada ausente: {source}")

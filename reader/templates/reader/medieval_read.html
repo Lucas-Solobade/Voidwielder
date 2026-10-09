@@ -2,16 +2,25 @@
 {% block title %}Página {{ page.number }} · {{ arc.title }} · Voidwielder{% endblock %}
 {% block description %}{{ page.title }} — página {{ page.number }} de {{ story.title }}.{% endblock %}
 {% block og_image %}<meta property="og:image" content="{% static page_art %}">{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=1">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=2">{% endblock %}
 {% block content %}
 <div class="twilight-reader" data-medieval-reader>
   <div class="twilight-reader-head"><nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_arc' %}">{{ arc.title }}</a></nav><span class="twilight-reader-count">{{ page.number|stringformat:'02d' }} / {{ last_page|stringformat:'02d' }}</span></div>
   <header class="twilight-page-title"><div><p class="twilight-kicker">{{ page.time }} · Página {{ page.number }}</p><h1>{{ page.title }}</h1></div><a href="{% url 'reader:medieval_arc' %}" class="twilight-list-link">Todas as páginas <span aria-hidden="true">↗</span></a></header>
   <div class="twilight-page-progress" role="progressbar" aria-label="Leitura do arco" aria-valuenow="{{ page.number }}" aria-valuemin="1" aria-valuemax="{{ last_page }}"><span style="width:{% widthratio page.number last_page 100 %}%"></span></div>
   <article class="twilight-comic" aria-label="{{ page.title }}">
-    {% for panel in page.panels %}<figure class="twilight-panel twilight-panel-{{ forloop.counter }}"><div class="twilight-panel-art"><img src="{% static page_art %}" alt="{{ panel.scene }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %} width="1024" height="1536"></div><figcaption>{% for line in panel.lines %}<p><strong>{{ line.speaker }}</strong><span>{{ line.text }}</span></p>{% endfor %}</figcaption></figure>{% endfor %}
+    {% for panel in page.panels %}
+      {% if page.number > 12 %}
+        <figure class="twilight-panel twilight-panel-{{ forloop.counter }} twilight-panel-new{% if panel.lines.0.balloon %} twilight-panel-dialogue{% endif %}">
+          {% if panel.lines.0.balloon %}<div class="twilight-balloon-strip">{% for line in panel.lines %}{% if line.balloon %}<p class="twilight-speech" style="--bubble-x:{{ line.balloon.x }}%;--bubble-w:{{ line.balloon.w }}%" data-target-x="{{ line.balloon.target_x }}" data-target-y="{{ line.balloon.target_y }}"><strong>{{ line.speaker }}</strong><span>{{ line.text }}</span></p>{% endif %}{% endfor %}</div>{% endif %}
+          <div class="twilight-panel-art"><img src="{% static page_art %}" alt="{{ panel.scene }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %} width="1024" height="1536"></div>
+          {% if not panel.lines.0.balloon %}<figcaption class="twilight-narration">{% for line in panel.lines %}<p>{{ line.text }}</p>{% endfor %}</figcaption>{% endif %}
+          {% if panel.lines.0.balloon %}<svg class="twilight-balloon-tails" aria-hidden="true"></svg>{% endif %}
+        </figure>
+      {% else %}<figure class="twilight-panel twilight-panel-{{ forloop.counter }}"><div class="twilight-panel-art"><img src="{% static page_art %}" alt="{{ panel.scene }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %} width="1024" height="1536"></div><figcaption>{% for line in panel.lines %}<p><strong>{{ line.speaker }}</strong><span>{{ line.text }}</span></p>{% endfor %}</figcaption></figure>{% endif %}
+    {% endfor %}
   </article>
-  <nav class="twilight-reader-nav" aria-label="Navegar nas páginas"><div>{% if previous_url %}<a href="{{ previous_url }}" rel="prev"><span aria-hidden="true">←</span> Página anterior</a>{% else %}<span class="twilight-nav-disabled">Início do arco</span>{% endif %}</div><span>Página {{ page.number }} de {{ last_page }}</span><div>{% if next_url %}<a href="{{ next_url }}" rel="next">Próxima página <span aria-hidden="true">→</span></a>{% else %}<a href="{{ arc_url }}">Continuará <span aria-hidden="true">↗</span></a>{% endif %}</div></nav>
+  <nav class="twilight-reader-nav" aria-label="Navegar nas páginas"><div>{% if previous_url %}<a href="{{ previous_url }}" rel="prev"><span aria-hidden="true">←</span> Página anterior</a>{% else %}<span class="twilight-nav-disabled">Início do arco</span>{% endif %}</div><span>Página {{ page.number }} de {{ last_page }}</span><div>{% if next_url %}<a href="{{ next_url }}" rel="next">Próxima página <span aria-hidden="true">→</span></a>{% else %}<a href="{{ arc_url }}">Fim do arco <span aria-hidden="true">↗</span></a>{% endif %}</div></nav>
 </div>
 {% endblock %}
-{% block extra_scripts %}<script src="{% static 'reader/js/medieval-reader.js' %}?v=1" defer></script>{% endblock %}
+{% block extra_scripts %}<script src="{% static 'reader/js/medieval-reader.js' %}?v=2" defer></script>{% endblock %}

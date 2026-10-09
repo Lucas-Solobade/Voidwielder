@@ -8,12 +8,16 @@
     "number": 1,
     "title": "O Ferro que Escuta",
     "slug": "o-ferro-que-escuta",
-    "description": "Uma vila, uma espada sem fio e a primeira pista para uma estrada esquecida.",
-    "status": "Em andamento",
+    "description": "Da forja de Pedra-Mansa à porta sem sombra da Casa das Quatro Luas: a primeira estrada de Ilyan e seus companheiros.",
+    "status": "Concluído",
     "chapters": [
       {"title": "Pedra-Mansa", "start": 1, "end": 4},
       {"title": "Os Visitantes da Ponte", "start": 5, "end": 8},
-      {"title": "O Caminho no Reflexo", "start": 9, "end": 12}
+      {"title": "O Caminho no Reflexo", "start": 9, "end": 12},
+      {"title": "O Caminho de Valecobre", "start": 13, "end": 15},
+      {"title": "A Ponte e a Noite", "start": 16, "end": 19},
+      {"title": "A Casa das Quatro Luas", "start": 20, "end": 22},
+      {"title": "O Limiar sem Sombra", "start": 23, "end": 25}
     ]
   },
   "pages": [
@@ -147,6 +151,764 @@
         {"scene": "Ilyan, Nima, Sere e Avel encontram Bram e o lúmen na ponte ao amanhecer.", "lines": [{"speaker": "Bram", "text": "Leve amigos. Uma espada sem fio não resolve tudo."}, {"speaker": "Ilyan", "text": "Ainda bem que tenho três."}]},
         {"scene": "O lúmen se aproxima da água; o reflexo indica Valecobre como rumo, enquanto a ponte real permanece normal.", "lines": [{"speaker": "Ilyan", "text": "O reflexo aponta para Valecobre."}, {"speaker": "Avel", "text": "Lá procuraremos a porta sem sombra."}]},
         {"scene": "O grupo parte pela estrada comum rumo à escola de magos; Bram acena, o lúmen retorna aos juncos.", "lines": [{"speaker": "Narração", "text": "A estrada não os levou para longe num instante. Deu a eles um motivo para caminhar. Continua..."}]}
+      ]
+    },
+    {
+      "number": 13,
+      "title": "O ofício e a estrada",
+      "time": "Dia 3 · manhã",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "A estrada comum deixa a ponte de Pedra-Mansa para trás; os quatro seguem a pé.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Vou à escola por causa da carta de mãe. Mas ainda quero ser guerreiro.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 48,
+                "target_x": 30,
+                "target_y": 25
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan e Avel caminham junto ao marco do vale; a espada curta está apagada.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "A Casa também forma guardiões e artesãos. Proteger um caminho exige mais que magia.",
+              "balloon": {
+                "x": 49,
+                "y": 5,
+                "w": 44,
+                "target_x": 66,
+                "target_y": 23
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Sere guia o grupo; Nima confere um pequeno compasso de latão.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "E exige achar o caminho antes de consertá-lo. Deixe isso comigo.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 46,
+                "target_x": 42,
+                "target_y": 28
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "O verso da carta",
+      "time": "Dia 3 · fim da manhã",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Ilyan abre a mesma carta de Mira, agora pelo verso, durante uma pausa na estrada.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "No verso... quatro sinais e a marca que mãe usava nos mapas.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 49,
+                "target_x": 30,
+                "target_y": 24
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Nima aproxima uma lente dos sinais de terra, água, brasa e ar desenhados a tinta.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "Não é feitiço escrito. É uma ordem para alinhar alguma coisa.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 76,
+                "target_y": 34
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Sere observa um velho marco de agrimensura à beira da estrada.",
+          "lines": [
+            {
+              "speaker": "Sere",
+              "text": "A marca está nesta pedra. A rota passa por aqui.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 46,
+                "target_x": 21,
+                "target_y": 31
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Duas trilhas",
+      "time": "Dia 3 · meio-dia",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Na bifurcação do vale, a chuva apagou a placa de madeira.",
+          "lines": [
+            {
+              "speaker": "Narração",
+              "text": "A primeira escolha parecia pequena. A placa, encharcada, não ajudava."
+            }
+          ]
+        },
+        {
+          "scene": "Sere se ajoelha junto a sulcos de carroça e a um marco com o símbolo de Mira.",
+          "lines": [
+            {
+              "speaker": "Sere",
+              "text": "Carroças da cidade passaram ontem pela trilha baixa. O marco confirma.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 55,
+                "target_y": 28
+              }
+            }
+          ]
+        },
+        {
+          "scene": "O grupo toma a trilha baixa; adiante surge um riacho e uma ponte de madeira avariada.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "Valecobre fica além do riacho. Não temos outro desvio curto.",
+              "balloon": {
+                "x": 5,
+                "y": 5,
+                "w": 52,
+                "target_x": 7,
+                "target_y": 23
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "A ponte ferida",
+      "time": "Dia 3 · início da tarde",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "A pequena ponte sobre o riacho perdeu tábuas e um pino de ferro; a água corre abaixo.",
+          "lines": [
+            {
+              "speaker": "Narração",
+              "text": "A chuva da madrugada levara as tábuas e soltado o apoio central."
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan mede a peça solta, sem atravessar a ponte.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "O apoio está inteiro. Falta travá-lo e prender duas tábuas novas.",
+              "balloon": {
+                "x": 45,
+                "y": 5,
+                "w": 49,
+                "target_x": 57,
+                "target_y": 26
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Nima abre o cinturão de ferramentas; Sere procura madeira caída na margem.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "Tenho ferramentas e uma chapa. Madeira, por favor. Sem correr riscos.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 23,
+                "target_y": 27
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Quatro mãos, um caminho",
+      "time": "Dia 3 · tarde",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Sere traz duas tábuas de uma cerca abandonada à margem; nenhuma árvore viva é cortada.",
+          "lines": [
+            {
+              "speaker": "Sere",
+              "text": "Duas tábuas secas. Vou amarrá-las antes de você pisar.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 70,
+                "target_y": 24
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan molda a chapa de Nima com martelo portátil contra uma pedra, formando um pino.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Na forja eu aprenderia com fogo. Aqui, o jeito é martelo e paciência.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 27,
+                "target_y": 23
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Avel firma a terra da cabeceira com magia discreta enquanto Nima instala o pino.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "Eu seguro a margem. Vocês consertam o que minhas mãos não alcançam.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 18,
+                "target_y": 27
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "A travessia",
+      "time": "Dia 3 · fim da tarde",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Sere testa a ponte reparada com corda presa à margem; a madeira permanece firme.",
+          "lines": [
+            {
+              "speaker": "Sere",
+              "text": "Ela aguenta. Um de cada vez, com a corda.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 69,
+                "target_y": 23
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Nima atravessa primeiro; Ilyan segura a corda do lado de origem.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "O meu tamanho finalmente ajuda. Acho que vou emoldurar este momento.",
+              "balloon": {
+                "x": 25,
+                "y": 5,
+                "w": 50,
+                "target_x": 49,
+                "target_y": 23
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan cruza por último e solta a corda apenas ao alcançar os amigos.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Meu pai diria que isso foi treino de guarda. Eu concordaria.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 25,
+                "target_y": 25
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Fogo baixo",
+      "time": "Dia 3 · anoitecer",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "O grupo monta acampamento numa clareira depois da ponte; o céu escurece gradualmente.",
+          "lines": [
+            {
+              "speaker": "Narração",
+              "text": "A travessia custou a tarde. Valecobre teria de esperar o amanhecer."
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan observa a carta junto ao fogo pequeno; Sere mantém a vigia.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Mãe desenhava caminhos para as pessoas voltarem. Nunca para fugir.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 26,
+                "target_y": 24
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Avel guarda a carta num invólucro seco e aponta as luzes distantes da cidade.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "Então vamos descobrir por que ela marcou uma porta fora dos mapas.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 55,
+                "target_y": 27
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Valecobre",
+      "time": "Dia 4 · manhã",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "À luz da manhã seguinte, o grupo avista Valecobre, cidade medieval de telhados de cobre e muralhas.",
+          "lines": [
+            {
+              "speaker": "Narração",
+              "text": "No dia seguinte, Valecobre surgiu entre os telhados de cobre e a névoa."
+            }
+          ]
+        },
+        {
+          "scene": "Avel apresenta seu selo de mestra no posto da cidade; um guarda anônimo só observa, não fala.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "Viemos da inspeção de Pedra-Mansa. Seguiremos à Casa das Quatro Luas.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 69,
+                "target_y": 23
+              }
+            }
+          ]
+        },
+        {
+          "scene": "O grupo caminha por rua de mercado em direção à escola que se vê na colina.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "É maior do que pensei. E tem uma muralha de treino.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 18,
+                "target_y": 24
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Além dos feitiços",
+      "time": "Dia 4 · fim da manhã",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Do lado de fora do portão principal, Ilyan vê estudantes distantes praticando guarda e forja em pátio interno.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Achei que só ensinassem magia. Aqueles jovens treinam com escudos.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 49,
+                "target_x": 30,
+                "target_y": 24
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Avel indica oficinas e torres pelo portão sem fazer o grupo entrar.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "A Guarda do Limiar estuda defesa, metal e rotas. Seu sonho cabe aqui.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 64,
+                "target_y": 25
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Nima compara o símbolo de Mira na carta com um marco que aponta a uma via lateral externa.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "Mas a carta aponta para a estrada lateral. A porta não é a entrada comum.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 50,
+                "target_x": 18,
+                "target_y": 28
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "A estrada lateral",
+      "time": "Dia 4 · meio-dia",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Os quatro contornam o lado de fora da muralha da escola por uma via de pedra antiga.",
+          "lines": [
+            {
+              "speaker": "Sere",
+              "text": "Os marcos continuam. Ninguém entrou por um atalho secreto.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 48,
+                "target_x": 39,
+                "target_y": 27
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Avel olha um anexo de agrimensores abandonado junto ao muro externo.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "Conheço o portão da escola. Mira pesquisava esta oficina antiga sem me contar tudo.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 65,
+                "target_y": 27
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan encontra no batente do anexo um desenho de quatro refletores em torno de uma porta.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Quatro sinais da carta. Quatro espelhos no pátio adiante.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 49,
+                "target_x": 28,
+                "target_y": 25
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "As quatro luzes",
+      "time": "Dia 4 · início da tarde",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Pátio externo do anexo: três espelhos de cobre refletem luz sobre arco de pedra; o quarto está torto e a porta ainda lança sombra.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "Três espelhos iluminam o arco. O quarto está emperrado.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 44,
+                "target_y": 73
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Sere avista engrenagem enferrujada e fio de aviso ligados ao espelho danificado.",
+          "lines": [
+            {
+              "speaker": "Sere",
+              "text": "Se forçarmos a porta, aquele fio acorda o guardião.",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 55,
+                "target_y": 31
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan mostra a guarda de cobre da espada e compara a medida do pino ausente.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Não vou desmontar a espada. Há um pino reserva na bolsa de Nima.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 48,
+                "target_x": 26,
+                "target_y": 25
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "O guardião do limiar",
+      "time": "Dia 4 · tarde",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Nima instala o pino reserva, mas a roda gasta vibra e aciona um guardião mecânico de pedra e bronze no pátio.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "A roda está torta! O alarme disparou sem tocarmos na porta!",
+              "balloon": {
+                "x": 48,
+                "y": 5,
+                "w": 45,
+                "target_x": 67,
+                "target_y": 46
+              }
+            }
+          ]
+        },
+        {
+          "scene": "O guardião avança para proteger o mecanismo; Ilyan bloqueia sem ferir, Sere prende um braço com corda.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Eu seguro o braço. Nima, alinhe o espelho!",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 29,
+                "target_y": 25
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Avel estabiliza o chão sob o guardião; Nima ajusta a roda com a peça de reposição.",
+          "lines": [
+            {
+              "speaker": "Avel",
+              "text": "Não destruam o guardião. Ele apenas cumpre sua tarefa.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 48,
+                "target_x": 18,
+                "target_y": 28
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "A porta que não lança sombra",
+      "time": "Dia 4 · fim da tarde",
+      "cast": [
+        "ilyan",
+        "nima",
+        "avel",
+        "sere"
+      ],
+      "panels": [
+        {
+          "scene": "Com a roda alinhada, o guardião mecânico se recolhe e o quarto espelho gira para a luz.",
+          "lines": [
+            {
+              "speaker": "Nima",
+              "text": "Pronto! Sem força bruta. Bem... só um pouco de martelo.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 42,
+                "target_y": 53
+              }
+            }
+          ]
+        },
+        {
+          "scene": "Quatro reflexos iluminam o arco de todos os lados e apagam a sombra da porta física, ainda fechada.",
+          "lines": [
+            {
+              "speaker": "Narração",
+              "text": "A luz dos quatro espelhos alcançou todos os lados. Pela primeira vez, a porta não lançou sombra."
+            }
+          ]
+        },
+        {
+          "scene": "Ilyan e amigos param diante da porta sem sombra; no batente há a marca cartográfica de Mira. Ninguém a atravessa.",
+          "lines": [
+            {
+              "speaker": "Ilyan",
+              "text": "Mãe esteve aqui. Encontramos a porta.",
+              "balloon": {
+                "x": 7,
+                "y": 5,
+                "w": 47,
+                "target_x": 25,
+                "target_y": 38
+              }
+            }
+          ]
+        }
       ]
     }
   ]

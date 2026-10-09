@@ -22,10 +22,10 @@
     <p>Em Pedra-Mansa, magia e ofício vivem lado a lado. Ilyan tem dezessete anos, ajuda o pai na forja e sonha em ser guerreiro. Uma visita da escola de magos e um antigo segredo da ponte vão dar a esse sonho uma direção inesperada.</p>
   </section>
   <section class="twilight-arc" id="arco" aria-labelledby="arc-title">
-    <div class="twilight-heading"><div><p class="twilight-kicker">A história começa aqui</p><h2 id="arc-title">Arcos da HQ</h2></div><span>01 arco · 12 páginas disponíveis</span></div>
+    <div class="twilight-heading"><div><p class="twilight-kicker">A história começa aqui</p><h2 id="arc-title">Arcos da HQ</h2></div><span>01 arco · {{ story.pages|length }} páginas disponíveis</span></div>
     <a class="twilight-arc-card" href="{% url 'reader:medieval_arc' %}">
       <div class="twilight-arc-art"><img src="{% static story.cover %}" alt="Arte do primeiro arco de As Estradas do Crepúsculo" loading="lazy" width="1536" height="1024"><span>Arco 01</span></div>
-      <div class="twilight-arc-copy"><span class="twilight-status">Em andamento</span><h3>{{ story.arc.title }}</h3><p>{{ story.arc.description }}</p><span class="twilight-arc-link">Explorar páginas <span aria-hidden="true">→</span></span></div>
+      <div class="twilight-arc-copy"><span class="twilight-status">{{ story.arc.status }}</span><h3>{{ story.arc.title }}</h3><p>{{ story.arc.description }}</p><span class="twilight-arc-link">Explorar páginas <span aria-hidden="true">→</span></span></div>
     </a>
   </section>
   <section class="twilight-world" aria-labelledby="world-title"><p class="twilight-kicker">Gente, magia e caminhos</p><h2 id="world-title">Um mundo que ainda está se revelando</h2><div class="twilight-world-grid"><div><span aria-hidden="true">⚒</span><h3>Pedra-Mansa</h3><p>Um vilarejo de pedra e madeira, mercado movimentado, forja acesa e uma ponte mais antiga do que parece.</p></div><div><span aria-hidden="true">✧</span><h3>Casa das Quatro Luas</h3><p>Em Valecobre, magos estudam terra, água, brasa e ar. Aprender a escutar é a primeira lição.</p></div><div><span aria-hidden="true">⌁</span><h3>As velhas rotas</h3><p>Alguns caminhos só mostram suas pistas quando a luz, o ferro e a água se encontram.</p></div></div></section>

@@ -3,7 +3,9 @@
   "visual_style": "HQ 2D pintada à mão; cobre, índigo, musgo e marfim; fantasia medieval luminosa. Nunca redesenhar a identidade facial entre páginas.",
   "references": {
     "ilyan": "reader/medieval/references/ilyan-sheet.png",
-    "ensemble": "reader/medieval/references/ensemble-sheet.png"
+    "ensemble": "reader/medieval/references/ensemble-sheet.png",
+    "travelers": "reader/medieval/references/travelers-sheet.png",
+    "runa": "reader/medieval/references/runa-sheet.png"
   },
   "characters": {
     "ilyan": {
@@ -12,7 +14,13 @@
       "role": "aprendiz de ferreiro que sonha em ser guerreiro",
       "fixed_appearance": "Adolescente humano esguio e atlético, pele oliva clara e quente, rosto oval alongado, testa alta, olhos amendoados castanho-escuros, sobrancelhas escuras espessas, nariz estreito e reto, cabelo preto muito longo e ondulado com risca central até abaixo dos ombros. Sem barba, bigode ou sombra de barba nesta fase.",
       "fixed_clothing": "Túnica de linho cinza-carvão, colete índigo gasto sem mangas, cinto castanho, calças escuras e botas práticas. Do fim da página 4 em diante carrega espada curta de treino sem fio, guarda simples de cobre e cabo escuro; sem joias, runas ou armadura.",
-      "never": ["barba ou bigode no primeiro arco", "cabelo curto ou liso", "mudança de cor dos olhos", "rosto infantil ou de homem maduro", "espada reluzente antes da página 10"]
+      "never": [
+        "barba ou bigode no primeiro arco",
+        "cabelo curto ou liso",
+        "mudança de cor dos olhos",
+        "rosto infantil ou de homem maduro",
+        "espada reluzente antes da página 10"
+      ]
     },
     "bram": {
       "name": "Bram",
@@ -58,24 +66,46 @@
       "name": "Mira",
       "role": "cartógrafa e mãe de Ilyan, desaparecida dois invernos antes da página 1",
       "appearance_status": "Não aparece visualmente nas páginas 1–12. Criar ficha visual antes da primeira aparição em arte; não inventar rosto numa lembrança ou reflexo."
+    },
+    "runa": {
+      "name": "Runa",
+      "age": 17,
+      "role": "futura colega de Ilyan na Casa das Quatro Luas; aparecerá somente após o fim do arco 1",
+      "fixed_appearance": "Jovem humana de pele clara fria, rosto oval, olhos escuros amendoados, sobrancelhas escuras marcadas, nariz reto, lábios cheios, cabelo preto muito longo e LISO com franja reta até as sobrancelhas; pequeno piercing prateado no septo; tatuagem floral escura no braço esquerdo e faixas de tinta no antebraço esquerdo. Manter estes traços em toda aparição.",
+      "fixed_clothing": "Na escola usa roupa medieval prática em ameixa escuro e carvão, com bordados discretos. Sem bolsa moderna, roupa contemporânea ou bastão.",
+      "future_relationship": "No arco escolar, percebe que Ilyan é bonito e ensaia um flerte breve; ele, absorvido pela busca da mãe e pelo treino, não corresponde, e ela interpreta a distração como arrogância. Confiança e afeto só crescem gradualmente. Ela não aparece nas páginas 1–25."
     }
   },
   "places": {
     "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
     "pedra-mansa": "Vilarejo natal de Ilyan; forja de Bram, mercado, praça da Primeira Chuva e taberna Javali de Mel.",
-    "valecobre": "Cidade regional que abriga a Casa das Quatro Luas, escola de magos e estudiosos, alcançada por estrada comum a partir do vilarejo."
+    "valecobre": "Cidade regional que abriga a Casa das Quatro Luas, escola de magos e estudiosos, alcançada por estrada comum a partir do vilarejo.",
+    "casa-das-quatro-luas": "Escola em Valecobre. Além dos estudos de magia, mantém oficinas de metal, cartografia e a Guarda do Limiar. O portão comum e a antiga porta dos agrimensores são acessos distintos."
   },
   "magic_rules": [
     "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
     "Ferro-eco é metal reaproveitado de pontes antigas. Ele ressoa quando um lúmen se aproxima. A espada de treino de Ilyan contém ferro da velha ponte porque Bram o reutilizou; não é um artefato escolhido.",
     "O lúmen faz a rota antiga aparecer no REFLEXO da água. O reflexo indica uma direção e pistas; não transporta pessoas nem abre um portal físico nestas páginas.",
     "Avel chega com uma caravana de inspeção sazonal antes do Festival da Primeira Chuva. A investigação da ponte e o aparecimento do lúmen explicam sua permanência.",
-    "Mira desapareceu dois invernos antes. Bram não escondeu o desaparecimento, apenas guardou a carta que ela lhe pediu para entregar se o ferro cantasse."
+    "Mira desapareceu dois invernos antes. Bram não escondeu o desaparecimento, apenas guardou a carta que ela lhe pediu para entregar se o ferro cantasse.",
+    "Ilyan vai à escola por causa da carta de Mira e da porta, mantendo seu objetivo de ser guerreiro. A Guarda do Limiar também ensina defesa e metal; ele não se torna mago por destino.",
+    "A porta sem sombra é física: quatro espelhos de cobre lançam luz sobre seus quatro lados. Não é um portal nem teletransporte. O quarto espelho estava emperrado.",
+    "O guardião de pedra e bronze do anexo é uma proteção mecânica. Uma roda gasta aciona o alarme durante o reparo; o grupo o imobiliza sem destruir e o mecanismo se recolhe ao alinhar o espelho.",
+    "Lúmen permanece junto aos juncos em Pedra-Mansa depois da página 12. Sem ele, o ferro-eco da espada de Ilyan não brilha nas páginas 13–25."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
     "Dia 1, tarde e noite: páginas 5–8 — caravana, Sere, ferro-eco e conversa na taberna.",
     "Dia 2, tarde e noite: páginas 9–11 — Festival da Primeira Chuva, resgate do lúmen, ressonância e carta de Mira.",
-    "Dia 3, amanhecer: página 12 — grupo parte pela estrada comum para Valecobre; o arco permanece em andamento."
+    "Dia 3, amanhecer: página 12 — grupo parte pela estrada comum para Valecobre; o arco permanece em andamento.",
+    "Dia 3, manhã e meio-dia: páginas 13–15 — estrada comum, verso da carta, bifurcação e ponte danificada.",
+    "Dia 3, tarde e noite: páginas 16–19 — reparo da ponte, travessia e acampamento após o atraso.",
+    "Dia 4, manhã e meio-dia: páginas 20–22 — chegada a Valecobre e desvio externo para o anexo dos agrimensores.",
+    "Dia 4, tarde: páginas 23–25 — quatro espelhos, guardião mecânico e descoberta da porta sem sombra; o grupo não a atravessa no arco 1."
+  ],
+  "comic_layout_rules": [
+    "As páginas 1–25 existentes ficam intactas. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
+    "Toda fala de personagem deve ter balão legível com cauda apontando ao personagem correto. A narração pode usar caixa própria sem balão. Planejar espaço livre na arte antes de posicionar texto.",
+    "Preservar a fisionomia registrada em canon.json e nas fichas visuais, a geografia de cada cena, o tempo e a continuidade de objetos entre quadros."
   ]
 }
