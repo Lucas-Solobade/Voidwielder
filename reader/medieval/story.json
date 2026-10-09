@@ -1,0 +1,153 @@
+{
+  "title": "As Estradas do Crepúsculo",
+  "slug": "estradas-do-crepusculo",
+  "tagline": "Toda estrada começa com alguém que decide escutar.",
+  "description": "Ilyan, filho de um ferreiro de Pedra-Mansa, sonha em empunhar uma espada. Quando uma criatura antiga desperta o metal da ponte, o caminho para a escola de magos revela uma pergunta que sua mãe deixou sem resposta.",
+  "cover": "reader/images/medieval/cover.webp",
+  "arc": {
+    "number": 1,
+    "title": "O Ferro que Escuta",
+    "slug": "o-ferro-que-escuta",
+    "description": "Uma vila, uma espada sem fio e a primeira pista para uma estrada esquecida.",
+    "status": "Em andamento",
+    "chapters": [
+      {"title": "Pedra-Mansa", "start": 1, "end": 4},
+      {"title": "Os Visitantes da Ponte", "start": 5, "end": 8},
+      {"title": "O Caminho no Reflexo", "start": 9, "end": 12}
+    ]
+  },
+  "pages": [
+    {
+      "number": 1,
+      "title": "O vale acorda",
+      "time": "Dia 1 · amanhecer",
+      "cast": ["ilyan", "bram"],
+      "panels": [
+        {"scene": "Pedra-Mansa, a ponte e o vale ao nascer do sol.", "lines": [{"speaker": "Narração", "text": "Em Eiravena, até os caminhos tinham estações. Pedra-Mansa acordava sempre primeiro."}]},
+        {"scene": "Bram trabalha na forja enquanto Ilyan leva carvão.", "lines": [{"speaker": "Bram", "text": "Mais carvão, Ilyan. O ferro não espera sonhadores."}, {"speaker": "Ilyan", "text": "Então ele me conhece bem."}]},
+        {"scene": "Ilyan contempla a estrada com a espada de madeira.", "lines": [{"speaker": "Ilyan", "text": "Um dia eu vou seguir aquela estrada como guerreiro."}, {"speaker": "Bram", "text": "Depois das ferraduras de hoje."}]}
+      ]
+    },
+    {
+      "number": 2,
+      "title": "O primeiro golpe",
+      "time": "Dia 1 · manhã",
+      "cast": ["ilyan", "bram", "nima"],
+      "panels": [
+        {"scene": "Ilyan treina com espada de madeira no campo úmido e cai na relva; Nima assiste.", "lines": [{"speaker": "Nima", "text": "Seu inimigo mais perigoso ainda é a grama molhada."}]},
+        {"scene": "Bram ensina uma postura defensiva no pátio da forja.", "lines": [{"speaker": "Bram", "text": "Olhe primeiro para quem precisa de proteção. Depois para a espada."}]},
+        {"scene": "Ilyan larga a espada para ajudar uma moradora com maçãs caídas.", "lines": [{"speaker": "Ilyan", "text": "Isso contou como treino?"}, {"speaker": "Bram", "text": "Foi seu melhor movimento."}]}
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Uma vila, muitos povos",
+      "time": "Dia 1 · fim da manhã",
+      "cast": ["ilyan", "bram", "nima", "gorun"],
+      "panels": [
+        {"scene": "Mercado de Pedra-Mansa com humanos, gnomos, orcs e fadas.", "lines": [{"speaker": "Narração", "text": "Na feira, sotaques, tamanhos e feitiços dividiam a mesma mesa."}]},
+        {"scene": "Nima mostra a Ilyan um pequeno dragão mecânico de sua autoria.", "lines": [{"speaker": "Nima", "text": "Ele ainda não cospe fogo. Só fumaça de canela."}, {"speaker": "Ilyan", "text": "Já é mais educado que muitos dragões."}]},
+        {"scene": "Gorun recebe os amigos para comer; uma pequena fada pousa perto.", "lines": [{"speaker": "Gorun", "text": "Guerreiro ou inventor, ninguém parte de barriga vazia."}]}
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Ferro sem fio",
+      "time": "Dia 1 · meio-dia",
+      "cast": ["ilyan", "bram", "nima"],
+      "panels": [
+        {"scene": "Ilyan repete a guarda que Bram ensinou, no pátio da forja.", "lines": [{"speaker": "Bram", "text": "Pés firmes. Um guerreiro não é quem bate primeiro."}]},
+        {"scene": "Uma roda de carroça se solta; Ilyan impede que atinja Nima, e Bram segura o carro.", "lines": [{"speaker": "Ilyan", "text": "Nima, atrás de mim!"}, {"speaker": "Nima", "text": "Eu ia dizer a mesma coisa da roda!"}]},
+        {"scene": "Bram entrega a Ilyan uma espada curta e cega com guarda de cobre.", "lines": [{"speaker": "Bram", "text": "Fiz com ferro que sobrou da velha ponte. É para treinar, não ferir."}, {"speaker": "Ilyan", "text": "Prometo merecê-la."}]}
+      ]
+    },
+    {
+      "number": 5,
+      "title": "A caravana azul",
+      "time": "Dia 1 · tarde",
+      "cast": ["ilyan", "bram", "nima", "avel", "sere"],
+      "panels": [
+        {"scene": "Uma caravana pequena com bandeiras lunares cruza a ponte.", "lines": [{"speaker": "Narração", "text": "Antes do Festival da Primeira Chuva, a escola de magos revisava as pontes do vale."}]},
+        {"scene": "Mestra Avel cumprimenta Bram; Sere vigia os cavalos.", "lines": [{"speaker": "Avel", "text": "Bram. Viemos medir a ponte antes do festival."}, {"speaker": "Bram", "text": "A forja e a vila estão abertas."}]},
+        {"scene": "Nima provoca Ilyan enquanto ele observa Avel examinar as pedras.", "lines": [{"speaker": "Nima", "text": "Você queria uma espada. Eles trouxeram perguntas."}, {"speaker": "Ilyan", "text": "Talvez as duas coisas andem juntas."}]}
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Uma flecha não discute",
+      "time": "Dia 1 · fim da tarde",
+      "cast": ["ilyan", "sere", "nima"],
+      "panels": [
+        {"scene": "Sere demonstra tiro com arco em alvo de palha na praça do festival.", "lines": [{"speaker": "Nima", "text": "Ela parece conversar com o vento."}]},
+        {"scene": "Ilyan tenta o arco de treino, erra e baixa os ombros.", "lines": [{"speaker": "Sere", "text": "Você está lutando contra o arco. Respire com ele."}, {"speaker": "Ilyan", "text": "Ele começou a discussão."}]},
+        {"scene": "Com a orientação de Sere, a flecha de Ilyan atinge a borda do alvo; ambos riem.", "lines": [{"speaker": "Sere", "text": "A borda também conta. Na próxima, tentamos o centro."}]}
+      ]
+    },
+    {
+      "number": 7,
+      "title": "O metal da ponte",
+      "time": "Dia 1 · anoitecer",
+      "cast": ["ilyan", "bram", "nima", "avel"],
+      "panels": [
+        {"scene": "Nima encontra limalhas diferentes em um rebite antigo da ponte.", "lines": [{"speaker": "Nima", "text": "Este ferro tem veios de cobre. Parece que guarda música."}]},
+        {"scene": "Avel observa as limalhas na forja; Bram mostra a espada curta sem brilho.", "lines": [{"speaker": "Avel", "text": "Ferro-eco. Ele só ressoa perto de um lúmen, criatura das velhas rotas."}, {"speaker": "Bram", "text": "Usei rebites iguais na espada de treino."}]},
+        {"scene": "Ilyan segura a espada apagada e olha a ponte pela janela.", "lines": [{"speaker": "Ilyan", "text": "Então por que ela nunca cantou?"}, {"speaker": "Avel", "text": "Talvez o lúmen ainda não tenha voltado."}]}
+      ]
+    },
+    {
+      "number": 8,
+      "title": "O Javali de Mel",
+      "time": "Dia 1 · noite",
+      "cast": ["ilyan", "bram", "nima", "avel", "sere", "gorun"],
+      "panels": [
+        {"scene": "Taberna Javali de Mel aquecida por velas; povos diversos ouvem um contador de histórias.", "lines": [{"speaker": "Narração", "text": "Na taberna, as estradas velhas ainda viviam nas histórias."}]},
+        {"scene": "Avel conversa com Ilyan, Nima e Sere diante de um mapa das estações.", "lines": [{"speaker": "Avel", "text": "Na Casa das Quatro Luas aprendemos terra, água, brasa e ar. Escutar vem antes de mover."}]},
+        {"scene": "Gorun apaga uma vela, e o reflexo do rio se vê pela janela.", "lines": [{"speaker": "Gorun", "text": "E uma estrada que ninguém vê?"}, {"speaker": "Avel", "text": "Pode estar esperando que alguém olhe do jeito certo."}]}
+      ]
+    },
+    {
+      "number": 9,
+      "title": "O visitante do festival",
+      "time": "Dia 2 · tarde",
+      "cast": ["ilyan", "bram", "nima", "sere", "lumen"],
+      "panels": [
+        {"scene": "Festival da Primeira Chuva; um pequeno lúmen sai dos juncos assustado pelo barulho da praça.", "lines": [{"speaker": "Nima", "text": "Avel tinha razão. É um lúmen!"}]},
+        {"scene": "Uma armação de lanternas se solta; Ilyan protege o animal, Sere fixa a corda com flecha, Bram segura a viga.", "lines": [{"speaker": "Ilyan", "text": "Sere, a corda! Pai, a viga!"}, {"speaker": "Sere", "text": "Já vi."}]},
+        {"scene": "A estrutura fica segura; o pequeno cervo de galhadas de cristal respira aliviado entre os amigos.", "lines": [{"speaker": "Bram", "text": "Ninguém se feriu."}, {"speaker": "Ilyan", "text": "Nem ele. Isso basta."}]}
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Quando o ferro canta",
+      "time": "Dia 2 · fim da tarde",
+      "cast": ["ilyan", "bram", "avel", "nima", "sere", "lumen"],
+      "panels": [
+        {"scene": "Perto do lúmen, a espada curta de Ilyan emite uma luz azul discreta nos veios do metal.", "lines": [{"speaker": "Ilyan", "text": "A espada... está cantando."}, {"speaker": "Nima", "text": "Finalmente algo mais desafinado que você."}]},
+        {"scene": "Ilyan, Bram, Avel, Nima e Sere observam na água sob a ponte reflexos de uma rota antiga como linhas de luz; a ponte real não muda.", "lines": [{"speaker": "Avel", "text": "O reflexo mostra um rumo. Não é portal, nem atalho."}]},
+        {"scene": "Avel toca a guarda de cobre, enquanto Ilyan observa o lúmen ao lado.", "lines": [{"speaker": "Avel", "text": "Não foi você quem o ferro escolheu. Bram usou metal da ponte; o lúmen o despertou."}, {"speaker": "Ilyan", "text": "Ótimo. Eu já tinha afazeres demais."}]}
+      ]
+    },
+    {
+      "number": 11,
+      "title": "A carta de Mira",
+      "time": "Dia 2 · noite",
+      "cast": ["ilyan", "bram"],
+      "panels": [
+        {"scene": "Bram retira de uma caixa sob a bigorna uma carta dobrada e selada; Ilyan aguarda.", "lines": [{"speaker": "Bram", "text": "Mira deixou isto antes de desaparecer, dois invernos atrás. Pediu que eu esperasse o ferro cantar."}]},
+        {"scene": "Ilyan lê a carta de sua mãe à luz da forja; nenhuma imagem de Mira aparece.", "lines": [{"speaker": "Carta de Mira", "text": "Quando o ferro cantar, não siga sozinho. Vá à Casa das Quatro Luas. Procure a porta que não lança sombra."}]},
+        {"scene": "Pai e filho se encaram junto à espada sem fio, com a estrada escura pela janela.", "lines": [{"speaker": "Ilyan", "text": "Você sabia e não me contou?"}, {"speaker": "Bram", "text": "Eu sabia da carta. Não sabia se a ponte responderia. Tive medo. Desculpe."}]}
+      ]
+    },
+    {
+      "number": 12,
+      "title": "A primeira estrada",
+      "time": "Dia 3 · amanhecer",
+      "cast": ["ilyan", "bram", "nima", "avel", "sere", "lumen"],
+      "panels": [
+        {"scene": "Ilyan, Nima, Sere e Avel encontram Bram e o lúmen na ponte ao amanhecer.", "lines": [{"speaker": "Bram", "text": "Leve amigos. Uma espada sem fio não resolve tudo."}, {"speaker": "Ilyan", "text": "Ainda bem que tenho três."}]},
+        {"scene": "O lúmen se aproxima da água; o reflexo indica Valecobre como rumo, enquanto a ponte real permanece normal.", "lines": [{"speaker": "Ilyan", "text": "O reflexo aponta para Valecobre."}, {"speaker": "Avel", "text": "Lá procuraremos a porta sem sombra."}]},
+        {"scene": "O grupo parte pela estrada comum rumo à escola de magos; Bram acena, o lúmen retorna aos juncos.", "lines": [{"speaker": "Narração", "text": "A estrada não os levou para longe num instante. Deu a eles um motivo para caminhar. Continua..."}]}
+      ]
+    }
+  ]
+}

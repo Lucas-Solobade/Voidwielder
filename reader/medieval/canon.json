@@ -1,0 +1,81 @@
+{
+  "series": "As Estradas do Crepúsculo",
+  "visual_style": "HQ 2D pintada à mão; cobre, índigo, musgo e marfim; fantasia medieval luminosa. Nunca redesenhar a identidade facial entre páginas.",
+  "references": {
+    "ilyan": "reader/medieval/references/ilyan-sheet.png",
+    "ensemble": "reader/medieval/references/ensemble-sheet.png"
+  },
+  "characters": {
+    "ilyan": {
+      "name": "Ilyan",
+      "age": 17,
+      "role": "aprendiz de ferreiro que sonha em ser guerreiro",
+      "fixed_appearance": "Adolescente humano esguio e atlético, pele oliva clara e quente, rosto oval alongado, testa alta, olhos amendoados castanho-escuros, sobrancelhas escuras espessas, nariz estreito e reto, cabelo preto muito longo e ondulado com risca central até abaixo dos ombros. Sem barba, bigode ou sombra de barba nesta fase.",
+      "fixed_clothing": "Túnica de linho cinza-carvão, colete índigo gasto sem mangas, cinto castanho, calças escuras e botas práticas. Do fim da página 4 em diante carrega espada curta de treino sem fio, guarda simples de cobre e cabo escuro; sem joias, runas ou armadura.",
+      "never": ["barba ou bigode no primeiro arco", "cabelo curto ou liso", "mudança de cor dos olhos", "rosto infantil ou de homem maduro", "espada reluzente antes da página 10"]
+    },
+    "bram": {
+      "name": "Bram",
+      "age": 47,
+      "role": "ferreiro de Pedra-Mansa e pai de Ilyan",
+      "fixed_appearance": "Humano largo e forte de pele castanha quente, cabelo escuro comprido preso baixo com fios grisalhos nas têmporas, barba curta grisalha, pequena cicatriz diagonal na sobrancelha direita.",
+      "fixed_clothing": "Camisa creme de mangas enroladas, avental pesado de couro carvão, braceletes de trabalho e botas gastas."
+    },
+    "nima": {
+      "name": "Nima",
+      "age": 26,
+      "role": "gnoma adulta inventora e amiga de Ilyan",
+      "fixed_appearance": "Gnoma ADULTA de cerca de noventa centímetros, cabelos ruivos acobreados em bob cacheado, sardas, orelhas grandes e pontudas, olhos verde-avelã e sorriso vivo. Seu tamanho não indica infância.",
+      "fixed_clothing": "Gorro verde-musgo, óculos mecânicos de latão na testa, colete azul-petróleo, camisa creme e cinturão de ferramentas."
+    },
+    "avel": {
+      "name": "Mestra Avel",
+      "age": 55,
+      "role": "mestra da Casa das Quatro Luas",
+      "fixed_appearance": "Humana madura de pele castanho-escura, olhos escuros, tranças brancas prateadas presas em coque alto, expressão serena e firme.",
+      "fixed_clothing": "Túnica e manto azul-meia-noite bordados discretamente com fases da lua em prata; um único pingente crescente."
+    },
+    "sere": {
+      "name": "Sere",
+      "age": 19,
+      "role": "arqueira élfica e batedora da caravana",
+      "fixed_appearance": "Elfa adulta jovem de pele castanho-escura, olhos âmbar, orelhas finas pontudas e cabelos branco-prateados em UMA trança grossa longa sobre o ombro.",
+      "fixed_clothing": "Capa verde-floresta com capuz, roupas de viagem em couro castanho e arco recurvo de freixo."
+    },
+    "gorun": {
+      "name": "Gorun",
+      "age": 43,
+      "role": "comerciante orc do mercado de Pedra-Mansa",
+      "fixed_appearance": "Orc adulto de pele verde-musgo, presas inferiores pequenas, barba castanha trançada, expressão amistosa.",
+      "fixed_clothing": "Lenço amarelo-ocre e roupas de mercador de tecido grosso."
+    },
+    "lumen": {
+      "name": "Lúmen",
+      "role": "criatura antiga da estrada velada",
+      "fixed_appearance": "Pequeno cervo mágico do tamanho de um cão, pelagem dourada iridescente, olhos âmbar e galhadas translúcidas azul-cristal. Não fala nem se transforma em humano."
+    },
+    "mira": {
+      "name": "Mira",
+      "role": "cartógrafa e mãe de Ilyan, desaparecida dois invernos antes da página 1",
+      "appearance_status": "Não aparece visualmente nas páginas 1–12. Criar ficha visual antes da primeira aparição em arte; não inventar rosto numa lembrança ou reflexo."
+    }
+  },
+  "places": {
+    "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
+    "pedra-mansa": "Vilarejo natal de Ilyan; forja de Bram, mercado, praça da Primeira Chuva e taberna Javali de Mel.",
+    "valecobre": "Cidade regional que abriga a Casa das Quatro Luas, escola de magos e estudiosos, alcançada por estrada comum a partir do vilarejo."
+  },
+  "magic_rules": [
+    "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
+    "Ferro-eco é metal reaproveitado de pontes antigas. Ele ressoa quando um lúmen se aproxima. A espada de treino de Ilyan contém ferro da velha ponte porque Bram o reutilizou; não é um artefato escolhido.",
+    "O lúmen faz a rota antiga aparecer no REFLEXO da água. O reflexo indica uma direção e pistas; não transporta pessoas nem abre um portal físico nestas páginas.",
+    "Avel chega com uma caravana de inspeção sazonal antes do Festival da Primeira Chuva. A investigação da ponte e o aparecimento do lúmen explicam sua permanência.",
+    "Mira desapareceu dois invernos antes. Bram não escondeu o desaparecimento, apenas guardou a carta que ela lhe pediu para entregar se o ferro cantasse."
+  ],
+  "timeline": [
+    "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
+    "Dia 1, tarde e noite: páginas 5–8 — caravana, Sere, ferro-eco e conversa na taberna.",
+    "Dia 2, tarde e noite: páginas 9–11 — Festival da Primeira Chuva, resgate do lúmen, ressonância e carta de Mira.",
+    "Dia 3, amanhecer: página 12 — grupo parte pela estrada comum para Valecobre; o arco permanece em andamento."
+  ]
+}

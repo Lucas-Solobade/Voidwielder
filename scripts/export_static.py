@@ -22,6 +22,11 @@ from reader.book_catalog import BOOK, get_book_pages  # noqa: E402
 from reader.catalog import ARCS, HQ_EXTRAS, MANGA  # noqa: E402
 from reader.game_catalog import GAMES  # noqa: E402
 from reader.linux_catalog import LINUX_BOOK, get_linux_pages  # noqa: E402
+from reader.medieval_catalog import ARC_URL as MEDIEVAL_ARC_URL  # noqa: E402
+from reader.medieval_catalog import PAGES as MEDIEVAL_PAGES  # noqa: E402
+from reader.medieval_catalog import SERIES_URL as MEDIEVAL_SERIES_URL  # noqa: E402
+from reader.medieval_catalog import STORY as MEDIEVAL_STORY  # noqa: E402
+from reader.medieval_catalog import page_url as medieval_page_url  # noqa: E402
 from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
 from reader.python_exercises import EXERCISES  # noqa: E402
 from reader.study_catalog import STUDY_PROJECTS  # noqa: E402
@@ -132,6 +137,14 @@ def build_catalog() -> list[dict[str, str | int]]:
     }, {
         "category": "hq",
         "kind": "HQ",
+        "title": MEDIEVAL_STORY["title"],
+        "detail": MEDIEVAL_STORY["description"],
+        "url": MEDIEVAL_SERIES_URL,
+        "cover": MEDIEVAL_STORY["cover"],
+        "topics": "fantasia medieval guerreiros magia arqueiros escola de magos gnomos elfos fadas orcs",
+    }, {
+        "category": "hq",
+        "kind": "HQ",
         "title": MANGA["title"],
         "detail": MANGA["description"],
         "url": "/hqs/homus-bananus/",
@@ -194,7 +207,8 @@ def main() -> None:
         shutil.copytree(experiences, DIST_DIR / "experiencias", ignore=shutil.ignore_patterns("*.test.mjs"))
 
     client = Client()
-    routes = ["/", "/buscar/", "/estudos/", STUDY_PROJECTS[0]["url"], "/hqs/homus-bananus/", HQ_EXTRAS["url"]]
+    routes = ["/", "/buscar/", "/estudos/", STUDY_PROJECTS[0]["url"], "/hqs/homus-bananus/", HQ_EXTRAS["url"], MEDIEVAL_SERIES_URL, MEDIEVAL_ARC_URL]
+    routes.extend(medieval_page_url(page["number"]) for page in MEDIEVAL_PAGES)
     routes.append(BOOK["url"])
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
     routes.append(LINUX_BOOK["url"])
@@ -265,6 +279,41 @@ def book_only() -> None:
     book_urls = [BOOK["url"]] + [f"{BOOK['url']}ler/{page.number}/" for page in get_book_pages()]
     if f"{origin}{BOOK['url']}" not in sitemap:
         sitemap = sitemap.replace("</urlset>", "".join(f"<url><loc>{origin}{url}</loc></url>" for url in book_urls) + "</urlset>")
+        sitemap_path.write_text(sitemap, encoding="utf-8")
+
+
+def medieval_only() -> None:
+    """Add the new comic to an existing export without rebuilding other sections."""
+    image_dir = STATIC_SOURCE / "images" / "medieval"
+    if not (DIST_DIR / "index.html").is_file():
+        raise RuntimeError("An existing static export is required")
+    for source in (
+        STATIC_SOURCE / "css" / "medieval.css",
+        STATIC_SOURCE / "js" / "medieval-reader.js",
+        STATIC_SOURCE / "js" / "site.js",
+        *image_dir.glob("*.webp"),
+    ):
+        destination = DIST_DIR / "static" / "reader" / source.relative_to(STATIC_SOURCE)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, destination)
+
+    client = Client()
+    routes = [MEDIEVAL_SERIES_URL, MEDIEVAL_ARC_URL]
+    routes.extend(medieval_page_url(page["number"]) for page in MEDIEVAL_PAGES)
+    for route in routes:
+        write_page(client, route)
+    write_page(client, "/buscar/")
+    (DIST_DIR / "catalog.json").write_text(
+        json.dumps(build_catalog(), ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
+    sitemap_path = DIST_DIR / "sitemap.xml"
+    sitemap = sitemap_path.read_text(encoding="utf-8")
+    new_entries = [route for route in routes if f"{SITE_ORIGIN}{route}" not in sitemap]
+    if new_entries:
+        sitemap = sitemap.replace(
+            "</urlset>",
+            "".join(f"<url><loc>{SITE_ORIGIN}{route}</loc></url>" for route in new_entries) + "</urlset>",
+        )
         sitemap_path.write_text(sitemap, encoding="utf-8")
 
 
@@ -348,7 +397,9 @@ def python_only() -> None:
 
 
 if __name__ == "__main__":
-    if "--book-only" in sys.argv:
+    if "--medieval-only" in sys.argv:
+        medieval_only()
+    elif "--book-only" in sys.argv:
         book_only()
     elif "--linux-only" in sys.argv:
         linux_only()

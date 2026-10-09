@@ -77,7 +77,7 @@ if (document.documentElement.hasAttribute('data-static-export') && staticSearch)
         const needle = query.toLocaleLowerCase('pt-BR');
         const results = records.filter((record) => (
           (category === 'todos' || record.category === category)
-          && (query || !['Arco', 'Capítulo'].includes(record.kind))
+          && (query || !['Arco', 'Capítulo', 'Extras da HQ'].includes(record.kind))
           && `${record.title} ${record.detail} ${record.topics || ''} ${record.number || ''}`.toLocaleLowerCase('pt-BR').includes(needle)
         ));
         const heading = document.createElement('h2');

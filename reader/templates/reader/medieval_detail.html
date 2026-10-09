@@ -1,0 +1,33 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}{{ story.title }} · Voidwielder{% endblock %}
+{% block description %}{{ story.description }}{% endblock %}
+{% block og_title %}{{ story.title }}{% endblock %}
+{% block og_description %}{{ story.description }}{% endblock %}
+{% block og_image %}<meta property="og:image" content="{% static story.cover %}">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=1">{% endblock %}
+{% block content %}
+<section class="twilight-hero" aria-labelledby="twilight-title">
+  <img class="twilight-hero-art" src="{% static story.cover %}" alt="Ilyan diante da ponte de Pedra-Mansa e das terras de Eiravena" fetchpriority="high" width="1536" height="1024">
+  <div class="twilight-hero-copy">
+    <nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><span>{{ story.title }}</span></nav>
+    <p class="twilight-kicker">Uma nova HQ de fantasia medieval</p>
+    <h1 id="twilight-title">As Estradas <em>do Crepúsculo</em></h1>
+    <p>{{ story.description }}</p>
+    <div class="twilight-actions"><a class="twilight-button" href="{% url 'reader:medieval_read' 1 %}">Começar a ler <span aria-hidden="true">→</span></a><a class="twilight-secondary" href="#arco">Conhecer o arco ↓</a></div>
+  </div>
+</section>
+<div class="twilight-content">
+  <section class="twilight-intro" aria-labelledby="intro-title">
+    <div><span class="twilight-ornament" aria-hidden="true">✦</span><p class="twilight-kicker">Bem-vindo a Eiravena</p><h2 id="intro-title">Toda estrada começa em algum lugar.</h2></div>
+    <p>Em Pedra-Mansa, magia e ofício vivem lado a lado. Ilyan tem dezessete anos, ajuda o pai na forja e sonha em ser guerreiro. Uma visita da escola de magos e um antigo segredo da ponte vão dar a esse sonho uma direção inesperada.</p>
+  </section>
+  <section class="twilight-arc" id="arco" aria-labelledby="arc-title">
+    <div class="twilight-heading"><div><p class="twilight-kicker">A história começa aqui</p><h2 id="arc-title">Arcos da HQ</h2></div><span>01 arco · 12 páginas disponíveis</span></div>
+    <a class="twilight-arc-card" href="{% url 'reader:medieval_arc' %}">
+      <div class="twilight-arc-art"><img src="{% static story.cover %}" alt="Arte do primeiro arco de As Estradas do Crepúsculo" loading="lazy" width="1536" height="1024"><span>Arco 01</span></div>
+      <div class="twilight-arc-copy"><span class="twilight-status">Em andamento</span><h3>{{ story.arc.title }}</h3><p>{{ story.arc.description }}</p><span class="twilight-arc-link">Explorar páginas <span aria-hidden="true">→</span></span></div>
+    </a>
+  </section>
+  <section class="twilight-world" aria-labelledby="world-title"><p class="twilight-kicker">Gente, magia e caminhos</p><h2 id="world-title">Um mundo que ainda está se revelando</h2><div class="twilight-world-grid"><div><span aria-hidden="true">⚒</span><h3>Pedra-Mansa</h3><p>Um vilarejo de pedra e madeira, mercado movimentado, forja acesa e uma ponte mais antiga do que parece.</p></div><div><span aria-hidden="true">✧</span><h3>Casa das Quatro Luas</h3><p>Em Valecobre, magos estudam terra, água, brasa e ar. Aprender a escutar é a primeira lição.</p></div><div><span aria-hidden="true">⌁</span><h3>As velhas rotas</h3><p>Alguns caminhos só mostram suas pistas quando a luz, o ferro e a água se encontram.</p></div></div></section>
+</div>
+{% endblock %}

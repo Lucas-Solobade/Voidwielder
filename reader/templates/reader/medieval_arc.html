@@ -1,0 +1,12 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}{{ arc.title }} · {{ story.title }}{% endblock %}
+{% block description %}{{ arc.description }}{% endblock %}
+{% block og_image %}<meta property="og:image" content="{% static story.cover %}">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=1">{% endblock %}
+{% block content %}
+<section class="twilight-subhero"><img src="{% static story.cover %}" alt="Paisagem de Eiravena com Ilyan e seus companheiros" fetchpriority="high" width="1536" height="1024"><div class="twilight-subhero-copy"><nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><span>Arco 1</span></nav><p class="twilight-kicker">Arco 01 · {{ arc.status }}</p><h1>{{ arc.title }}</h1><p>{{ arc.description }}</p><a class="twilight-button" href="{% url 'reader:medieval_read' 1 %}">Ler desde o início <span aria-hidden="true">→</span></a></div></section>
+<div class="twilight-content twilight-arc-content"><div class="twilight-heading"><div><p class="twilight-kicker">A primeira parte da jornada</p><h2>Escolha uma página</h2></div><span>12 páginas · a aventura continua</span></div>
+  {% for chapter in arc.chapters %}<section class="twilight-chapter" aria-labelledby="chapter-{{ forloop.counter }}"><div class="twilight-chapter-head"><span class="twilight-chapter-number">{{ forloop.counter|stringformat:'02d' }}</span><h3 id="chapter-{{ forloop.counter }}">{{ chapter.title }}</h3><span>p. {{ chapter.start }}–{{ chapter.end }}</span></div><div class="twilight-page-grid">{% for page in pages %}{% if page.number >= chapter.start and page.number <= chapter.end %}<a href="{% url 'reader:medieval_read' page.number %}" class="twilight-page-card"><div class="twilight-page-thumb"><img src="{% static page.art %}" alt="Arte da página {{ page.number }}: {{ page.title }}" loading="lazy" width="1024" height="1536"></div><span>Página {{ page.number|stringformat:'02d' }}</span><strong>{{ page.title }}</strong><small>{{ page.time }}</small></a>{% endif %}{% endfor %}</div></section>{% endfor %}
+  <p class="twilight-continue">Este arco continua após a página 12. Novas páginas poderão seguir o mesmo cânone visual e narrativo.</p>
+</div>
+{% endblock %}

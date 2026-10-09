@@ -7,6 +7,14 @@ from .book_catalog import BOOK, get_book_pages
 from .catalog import ARCS, HQ_EXTRAS, MANGA, get_arc, get_chapter_for_page
 from .game_catalog import GAMES
 from .linux_catalog import LINUX_BOOK, PARTS, get_linux_lessons, get_linux_pages
+from .medieval_catalog import ARC_URL as MEDIEVAL_ARC_URL
+from .medieval_catalog import CANON as MEDIEVAL_CANON
+from .medieval_catalog import PAGES as MEDIEVAL_PAGES
+from .medieval_catalog import PAGES_BY_NUMBER as MEDIEVAL_PAGES_BY_NUMBER
+from .medieval_catalog import SERIES_URL as MEDIEVAL_SERIES_URL
+from .medieval_catalog import STORY as MEDIEVAL_STORY
+from .medieval_catalog import page_art as medieval_page_art
+from .medieval_catalog import page_url as medieval_page_url
 from .python_catalog import PARTS as PYTHON_PARTS
 from .python_catalog import PYTHON_BOOK, get_python_lessons, get_python_pages
 from .python_exercises import EXERCISES
@@ -27,6 +35,38 @@ def hq_detail(request: HttpRequest) -> HttpResponse:
 @require_GET
 def hq_extras(request: HttpRequest) -> HttpResponse:
     return render(request, "reader/hq_extras.html", {"manga": MANGA, "extras": HQ_EXTRAS})
+
+
+@require_GET
+def medieval_detail(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/medieval_detail.html", {
+        "story": MEDIEVAL_STORY, "canon": MEDIEVAL_CANON,
+        "series_url": MEDIEVAL_SERIES_URL, "arc_url": MEDIEVAL_ARC_URL,
+    })
+
+
+@require_GET
+def medieval_arc(request: HttpRequest) -> HttpResponse:
+    return render(request, "reader/medieval_arc.html", {
+        "story": MEDIEVAL_STORY, "arc": MEDIEVAL_STORY["arc"],
+        "pages": MEDIEVAL_PAGES, "series_url": MEDIEVAL_SERIES_URL,
+    })
+
+
+@require_GET
+def medieval_read(request: HttpRequest, page: int) -> HttpResponse:
+    story_page = MEDIEVAL_PAGES_BY_NUMBER.get(page)
+    if story_page is None:
+        raise Http404("Página não encontrada")
+    last_page = MEDIEVAL_PAGES[-1]["number"]
+    return render(request, "reader/medieval_read.html", {
+        "story": MEDIEVAL_STORY, "arc": MEDIEVAL_STORY["arc"],
+        "page": story_page, "page_art": medieval_page_art(page),
+        "arc_url": MEDIEVAL_ARC_URL,
+        "previous_url": medieval_page_url(page - 1) if page > 1 else None,
+        "next_url": medieval_page_url(page + 1) if page < last_page else None,
+        "last_page": last_page,
+    })
 
 
 @require_GET
@@ -123,6 +163,18 @@ def search(request: HttpRequest) -> HttpResponse:
             })
     if category in {"todos", "hq"}:
         needle = query.casefold()
+        medieval_text = (
+            f"{MEDIEVAL_STORY['title']} {MEDIEVAL_STORY['tagline']} "
+            f"{MEDIEVAL_STORY['description']} {MEDIEVAL_STORY['arc']['title']} "
+            "fantasia medieval guerreiros magia arqueiros escola de magos gnomos elfos fadas orcs"
+        ).casefold()
+        if not query or needle in medieval_text:
+            results.append({
+                "kind": "HQ", "title": MEDIEVAL_STORY["title"],
+                "url": MEDIEVAL_SERIES_URL,
+                "detail": MEDIEVAL_STORY["description"],
+                "cover": MEDIEVAL_STORY["cover"],
+            })
         manga_text = f"{MANGA['title']} {MANGA['description']} {MANGA['tagline']}".casefold()
         if not query or needle in manga_text:
             results.append(
@@ -330,6 +382,9 @@ def robots(_: HttpRequest) -> HttpResponse:
 @require_GET
 def sitemap(request: HttpRequest) -> HttpResponse:
     urls = [request.build_absolute_uri(reverse("reader:home"))]
+    urls.append(request.build_absolute_uri(MEDIEVAL_SERIES_URL))
+    urls.append(request.build_absolute_uri(MEDIEVAL_ARC_URL))
+    urls.extend(request.build_absolute_uri(medieval_page_url(page["number"])) for page in MEDIEVAL_PAGES)
     urls.append(request.build_absolute_uri(reverse("reader:hq")))
     urls.append(request.build_absolute_uri(reverse("reader:hq_extras")))
     urls.append(request.build_absolute_uri(reverse("reader:studies")))
