@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090b13">
+  <meta name="description" content="Simulador visual de substituição de páginas com FIFO, LRU e algoritmo Ótimo.">
+  <title>Labirinto da Memória · Voidwielder</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%23090b13'/%3E%3Cpath d='M15 16h34v32H15zM15 27h34M15 38h34M27 16v32M39 16v32' fill='none' stroke='%238ff5d0' stroke-width='3'/%3E%3Cpath d='M28 28h10v9H28z' fill='%23ffd36a'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip" href="#simulador">Pular para o simulador</a>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Página inicial do Voidwielder"><span>V</span> Voidwielder</a>
+    <a class="back" href="/estudos/">← Estudos</a>
+  </header>
+
+  <main id="simulador">
+    <section class="intro">
+      <p class="eyebrow">Experimento 03 · Sistemas Operacionais</p>
+      <h1>Labirinto da <em>Memória</em></h1>
+      <p>Acompanhe as páginas entrando e saindo da memória. Compare estratégias e descubra por que a mesma sequência pode produzir resultados tão diferentes.</p>
+    </section>
+
+    <section class="workspace" aria-label="Simulador de substituição de páginas">
+      <aside class="controls">
+        <div class="section-title"><span>01</span><div><small>Configuração</small><h2>Referências</h2></div></div>
+        <label class="field">Sequência de páginas
+          <textarea id="references" rows="4" spellcheck="false" maxlength="80">7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2</textarea>
+          <small>Use números separados por vírgula.</small>
+        </label>
+        <label class="field compact">Quantidade de quadros
+          <input id="frameCount" type="number" min="2" max="6" value="3" inputmode="numeric">
+        </label>
+
+        <fieldset>
+          <legend>Algoritmo</legend>
+          <div class="algorithms">
+            <label><input type="radio" name="algorithm" value="fifo" checked><span><b>FIFO</b><small>o mais antigo sai</small></span></label>
+            <label><input type="radio" name="algorithm" value="lru"><span><b>LRU</b><small>o menos recente sai</small></span></label>
+            <label><input type="radio" name="algorithm" value="optimal"><span><b>Ótimo</b><small>o uso mais distante sai</small></span></label>
+          </div>
+        </fieldset>
+
+        <div class="concept-card">
+          <span>IDEIA-CHAVE</span>
+          <p id="algorithmHelp"></p>
+        </div>
+      </aside>
+
+      <section class="stage">
+        <div class="stage-head">
+          <div class="section-title"><span>02</span><div><small>Execução</small><h2>Quadros da memória</h2></div></div>
+          <span id="algorithmBadge" class="badge">FIFO</span>
+        </div>
+
+        <div class="current-reference">
+          <span>Referência atual</span>
+          <strong id="currentPage">7</strong>
+          <div><b id="eventLabel">FALTA</b><small id="eventDetail"></small></div>
+        </div>
+
+        <div id="memoryFrames" class="memory-frames" aria-live="polite"></div>
+
+        <div class="transport" aria-label="Controles da simulação">
+          <button id="previous" type="button" aria-label="Passo anterior">←</button>
+          <button id="play" class="play" type="button" aria-label="Reproduzir">▶ <span>Reproduzir</span></button>
+          <button id="next" type="button" aria-label="Próximo passo">→</button>
+          <span class="counter"><b id="stepNow">1</b> / <span id="stepTotal">13</span></span>
+        </div>
+      </section>
+
+      <aside class="metrics-panel">
+        <div class="section-title"><span>03</span><div><small>Resultado parcial</small><h2>Métricas</h2></div></div>
+        <div class="metrics">
+          <div class="hit-metric"><span>Acertos</span><strong id="hits">0</strong><small>página já presente</small></div>
+          <div class="fault-metric"><span>Faltas</span><strong id="faults">1</strong><small>página carregada</small></div>
+          <div><span>Taxa de falta</span><strong id="faultRate">100%</strong><small>até este passo</small></div>
+        </div>
+        <div class="legend"><span><i class="hit-dot"></i> Acerto</span><span><i class="fault-dot"></i> Falta</span><span><i class="replace-dot"></i> Substituição</span></div>
+      </aside>
+    </section>
+
+    <section class="history" aria-labelledby="historyTitle">
+      <div class="history-head"><div><p class="eyebrow">Mapa completo</p><h2 id="historyTitle">Histórico da execução</h2></div><p>Leia cada coluna de cima para baixo. O marcador inferior mostra se houve acerto ou falta.</p></div>
+      <div class="history-scroll" tabindex="0"><div id="historyGrid" class="history-grid"></div></div>
+    </section>
+
+    <aside class="lesson"><span>?</span><div><h2>O que é uma falta de página?</h2><p>É quando a página solicitada não está em nenhum quadro da memória. O sistema precisa carregá-la; se todos os quadros estiverem ocupados, o algoritmo escolhe qual página será removida.</p></div></aside>
+  </main>
+
+  <footer>Uma experiência independente do <strong>Voidwielder</strong>.</footer>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
