@@ -47,6 +47,20 @@
         const deltaY = targetY - startY;
         const distance = Math.hypot(deltaX, deltaY);
         if (distance < 3) return;
+        if (balloon.dataset.balloonKind === 'thought') {
+          // A short chain of dots distinguishes inner thought from spoken words.
+          [9, 20, 32].forEach((step, index) => {
+            const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+            dot.setAttribute('cx', startX + deltaX / distance * Math.min(step, distance));
+            dot.setAttribute('cy', startY + deltaY / distance * Math.min(step, distance));
+            dot.setAttribute('r', 5 - index);
+            dot.setAttribute('fill', '#fffdf6');
+            dot.setAttribute('stroke', '#1a232a');
+            dot.setAttribute('stroke-width', '2');
+            svg.append(dot);
+          });
+          return;
+        }
         const length = Math.min(distance, clamp(artBox.width * .035, 18, 34));
         const tipX = startX + deltaX / distance * length;
         const tipY = startY + deltaY / distance * length;

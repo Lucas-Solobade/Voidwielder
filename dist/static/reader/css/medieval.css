@@ -60,3 +60,12 @@
 @media(max-width:820px){.twilight-arc-list .twilight-arc-card:nth-child(even){grid-template-columns:1fr}.twilight-arc-list .twilight-arc-card:nth-child(even) .twilight-arc-art{order:0}}
 .twilight-scroll-hint{display:none}
 @media(max-width:600px){.twilight-page-stage{min-width:600px}.twilight-panel-new .twilight-speech{margin:0;width:var(--bubble-w);padding:6px 9px;font-size:.76rem;border-radius:14px}.twilight-page-speech{font-size:.88rem}.twilight-scroll-hint{display:block;color:#c6b79d;font-size:.82rem;margin:12px 0 9px}}
+
+/* Lettering follows the emotion while every balloon stays inside its assigned art. */
+.twilight-panel-new .twilight-speech--shout,.twilight-page-speech.twilight-speech--shout{border:3px solid #1a232a;border-radius:6px 15px 5px 14px;padding:8px 12px;background:#fff9e7;box-shadow:4px 4px 0 #d5a04a}
+.twilight-speech--shout::before{content:"";position:absolute;right:-11px;top:-12px;width:21px;height:21px;background:#ffdb76;clip-path:polygon(50% 0,63% 35%,100% 20%,75% 53%,100% 75%,62% 70%,50% 100%,37% 69%,0 80%,25% 50%,0 20%,38% 34%)}
+.twilight-speech--shout span{font-weight:800}
+.twilight-panel-new .twilight-speech--thought,.twilight-page-speech.twilight-speech--thought{border-radius:42% 38% 44% 40% / 40% 45% 40% 46%;padding:12px 17px}
+.twilight-panel-new .twilight-speech--whisper,.twilight-page-speech.twilight-speech--whisper{border-style:dashed;box-shadow:none}
+.twilight-speech--whisper span{font-style:italic}
+@media(max-width:600px){.twilight-panel.twilight-panel-new.twilight-panel-dialogue{overflow-x:auto;overflow-y:hidden}.twilight-panel-new.twilight-panel-dialogue .twilight-panel-art{width:680px;min-width:680px}}
