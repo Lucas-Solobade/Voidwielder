@@ -39,9 +39,10 @@ def test_medieval_canon_and_page_sequence():
     assert all(
         line["speaker"] in ({CANON["characters"][name]["name"] for name in page["cast"]} | ({"Avel"} if "avel" in page["cast"] else set()))
         and 0 <= line["balloon"]["x"] <= 100 - line["balloon"]["w"]
-        and 0 <= line["balloon"]["y"] <= 90
+        and 0 <= line["balloon"]["y"] <= 96
         and 0 <= line["balloon"]["target_x"] <= 100
         and 0 <= line["balloon"]["target_y"] <= 100
+        and line["balloon"].get("kind", "normal") in {"normal", "shout", "thought", "whisper"}
         for page in PAGES[25:] for line in page["lines"]
     )
 

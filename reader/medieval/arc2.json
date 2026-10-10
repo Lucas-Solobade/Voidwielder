@@ -79,8 +79,8 @@
           "speaker": "Avel",
           "text": "O segredo era entrar sem acordar o guardião de novo.",
           "balloon": {
-            "x": 55,
-            "y": 64,
+            "x": 3,
+            "y": 78,
             "w": 39,
             "target_x": 73,
             "target_y": 74
@@ -191,7 +191,7 @@
           "text": "E minhas pernas já sabem a distância.",
           "balloon": {
             "x": 5,
-            "y": 57,
+            "y": 60,
             "w": 39,
             "target_x": 25,
             "target_y": 53
@@ -300,7 +300,7 @@
           "text": "Bram vai querer saber cada passo. Vou contar os seus mais tolos primeiro.",
           "balloon": {
             "x": 2,
-            "y": 17,
+            "y": 4,
             "w": 39,
             "target_x": 27,
             "target_y": 29
@@ -421,7 +421,7 @@
           "text": "Acho que já sei quem é o rapaz da espada sem fio.",
           "balloon": {
             "x": 5,
-            "y": 15,
+            "y": 4,
             "w": 39,
             "target_x": 27,
             "target_y": 28
@@ -592,9 +592,9 @@
           "speaker": "Tovo",
           "text": "Eu sou Tovo. Amortecedor oficial dos heróis apressados.",
           "balloon": {
-            "x": 34,
-            "y": 2,
-            "w": 40,
+            "x": 32,
+            "y": 26,
+            "w": 42,
             "target_x": 56,
             "target_y": 12
           }
@@ -604,7 +604,7 @@
           "text": "Perdeu a porta. Esse era o exercício.",
           "balloon": {
             "x": 57,
-            "y": 56,
+            "y": 72,
             "w": 39,
             "target_x": 75,
             "target_y": 67
@@ -799,9 +799,9 @@
           "speaker": "Avel",
           "text": "A magia segue atenção, não vontade de impressionar.",
           "balloon": {
-            "x": 57,
-            "y": 2,
-            "w": 39,
+            "x": 55,
+            "y": 26,
+            "w": 41,
             "target_x": 75,
             "target_y": 16
           }
@@ -822,7 +822,7 @@
           "text": "A minha nem saiu do lugar.",
           "balloon": {
             "x": 2,
-            "y": 72,
+            "y": 85,
             "w": 39,
             "target_x": 23,
             "target_y": 75
@@ -848,7 +848,7 @@
           "text": "Não é mapa da porta. É medida da água que passa sob ela.",
           "balloon": {
             "x": 2,
-            "y": 13,
+            "y": 3,
             "w": 39,
             "target_x": 21,
             "target_y": 31
@@ -992,7 +992,7 @@
           "text": "Ótimo. Agora temos uma pergunta melhor.",
           "balloon": {
             "x": 59,
-            "y": 81,
+            "y": 91,
             "w": 38,
             "target_x": 83,
             "target_y": 71
@@ -1068,7 +1068,7 @@
           "text": "Quem discorda de uma medida deve medi-la junto.",
           "balloon": {
             "x": 57,
-            "y": 2,
+            "y": 26,
             "w": 40,
             "target_x": 78,
             "target_y": 17
@@ -1079,7 +1079,7 @@
           "text": "Trabalho em grupo não torna um erro verdadeiro.",
           "balloon": {
             "x": 2,
-            "y": 39,
+            "y": 57,
             "w": 39,
             "target_x": 27,
             "target_y": 50
@@ -1090,7 +1090,7 @@
           "text": "Mas divide o peso do equipamento.",
           "balloon": {
             "x": 56,
-            "y": 67,
+            "y": 88,
             "w": 39,
             "target_x": 51,
             "target_y": 50
@@ -1116,8 +1116,8 @@
           "speaker": "Runa",
           "text": "Um palmo a mais que no mapa.",
           "balloon": {
-            "x": 30,
-            "y": 2,
+            "x": 2,
+            "y": 3,
             "w": 39,
             "target_x": 43,
             "target_y": 20
@@ -1128,7 +1128,7 @@
           "text": "Anotado como diferença, não como mistério.",
           "balloon": {
             "x": 2,
-            "y": 66,
+            "y": 83,
             "w": 39,
             "target_x": 20,
             "target_y": 77
@@ -1139,7 +1139,7 @@
           "text": "A beirada está solta. Venham por aqui.",
           "balloon": {
             "x": 58,
-            "y": 82,
+            "y": 88,
             "w": 39,
             "target_x": 79,
             "target_y": 77
@@ -1165,11 +1165,12 @@
           "speaker": "Tovo",
           "text": "Meu peso descobriu o defeito!",
           "balloon": {
-            "x": 44,
+            "x": 2,
             "y": 3,
-            "w": 34,
+            "w": 36,
             "target_x": 61,
-            "target_y": 20
+            "target_y": 20,
+            "kind": "shout"
           }
         },
         {
@@ -1215,7 +1216,7 @@
           "text": "Um mapa honesto mostra até onde vocês não sabem.",
           "balloon": {
             "x": 59,
-            "y": 3,
+            "y": 30,
             "w": 38,
             "target_x": 76,
             "target_y": 20
@@ -1309,10 +1310,11 @@
           "text": "Essa marca... já estava no verso da carta.",
           "balloon": {
             "x": 56,
-            "y": 78,
+            "y": 80,
             "w": 39,
             "target_x": 74,
-            "target_y": 80
+            "target_y": 80,
+            "kind": "thought"
           }
         },
         {
@@ -1320,7 +1322,7 @@
           "text": "Era para ser uma conversa.",
           "balloon": {
             "x": 2,
-            "y": 74,
+            "y": 89,
             "w": 40,
             "target_x": 21,
             "target_y": 56
@@ -1405,7 +1407,7 @@
           "speaker": "Tovo",
           "text": "Meu pé foi um instrumento científico caro.",
           "balloon": {
-            "x": 35,
+            "x": 62,
             "y": 3,
             "w": 30,
             "target_x": 56,
@@ -1616,7 +1618,7 @@
           "text": "Eu conheci o trabalho de Mira. Nunca soube para onde partiu.",
           "balloon": {
             "x": 59,
-            "y": 3,
+            "y": 31,
             "w": 39,
             "target_x": 79,
             "target_y": 22
@@ -1797,8 +1799,8 @@
           "speaker": "Avel",
           "text": "O traçado termina sob o anexo. Não entraremos nas galerias hoje.",
           "balloon": {
-            "x": 60,
-            "y": 3,
+            "x": 57,
+            "y": 31,
             "w": 37,
             "target_x": 80,
             "target_y": 20
@@ -1867,10 +1869,11 @@
           "text": "Não vou pedir.",
           "balloon": {
             "x": 2,
-            "y": 83,
+            "y": 92,
             "w": 39,
             "target_x": 24,
-            "target_y": 76
+            "target_y": 76,
+            "kind": "whisper"
           }
         }
       ]
@@ -1933,7 +1936,7 @@
           "text": "Três passos faltando. Contei duas vezes.",
           "balloon": {
             "x": 58,
-            "y": 3,
+            "y": 22,
             "w": 39,
             "target_x": 77,
             "target_y": 13
@@ -1944,7 +1947,7 @@
           "text": "O pigmento segue a água, não o desenho.",
           "balloon": {
             "x": 58,
-            "y": 38,
+            "y": 56,
             "w": 39,
             "target_x": 78,
             "target_y": 46
@@ -1994,7 +1997,7 @@
           "text": "Marquem e recuem. Não abriremos uma parede sem engenheiro.",
           "balloon": {
             "x": 58,
-            "y": 62,
+            "y": 83,
             "w": 39,
             "target_x": 80,
             "target_y": 75
@@ -2072,7 +2075,7 @@
           "text": "Aqui está também o erro da primeira medida.",
           "balloon": {
             "x": 35,
-            "y": 3,
+            "y": 1,
             "w": 35,
             "target_x": 55,
             "target_y": 20
@@ -2271,7 +2274,7 @@
           "text": "Em Vale do Junco, isso seria uma enchente.",
           "balloon": {
             "x": 62,
-            "y": 57,
+            "y": 86,
             "w": 35,
             "target_x": 80,
             "target_y": 70
@@ -2358,7 +2361,7 @@
           "text": "Prometo consultar o pedreiro primeiro.",
           "balloon": {
             "x": 55,
-            "y": 65,
+            "y": 82,
             "w": 41,
             "target_x": 73,
             "target_y": 73
@@ -2369,7 +2372,7 @@
           "text": "Isso é crescimento moral. Sirvam mais pão.",
           "balloon": {
             "x": 59,
-            "y": 88,
+            "y": 91,
             "w": 38,
             "target_x": 85,
             "target_y": 26

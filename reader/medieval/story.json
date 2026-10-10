@@ -171,8 +171,8 @@
               "speaker": "Ilyan",
               "text": "Vou à escola por causa da carta de mãe. Mas ainda quero ser guerreiro.",
               "balloon": {
-                "x": 7,
-                "y": 5,
+                "x": 3,
+                "y": 76,
                 "w": 48,
                 "target_x": 30,
                 "target_y": 25
@@ -187,8 +187,8 @@
               "speaker": "Avel",
               "text": "A Casa também forma guardiões e artesãos. Proteger um caminho exige mais que magia.",
               "balloon": {
-                "x": 49,
-                "y": 5,
+                "x": 52,
+                "y": 75,
                 "w": 44,
                 "target_x": 66,
                 "target_y": 23
@@ -203,8 +203,8 @@
               "speaker": "Nima",
               "text": "E exige achar o caminho antes de consertá-lo. Deixe isso comigo.",
               "balloon": {
-                "x": 7,
-                "y": 5,
+                "x": 2,
+                "y": 76,
                 "w": 46,
                 "target_x": 42,
                 "target_y": 28
@@ -232,8 +232,8 @@
               "speaker": "Ilyan",
               "text": "No verso... quatro sinais e a marca que mãe usava nos mapas.",
               "balloon": {
-                "x": 7,
-                "y": 5,
+                "x": 3,
+                "y": 76,
                 "w": 49,
                 "target_x": 30,
                 "target_y": 24
@@ -248,9 +248,9 @@
               "speaker": "Nima",
               "text": "Não é feitiço escrito. É uma ordem para alinhar alguma coisa.",
               "balloon": {
-                "x": 48,
-                "y": 5,
-                "w": 45,
+                "x": 2,
+                "y": 2,
+                "w": 44,
                 "target_x": 76,
                 "target_y": 34
               }
@@ -264,8 +264,8 @@
               "speaker": "Sere",
               "text": "A marca está nesta pedra. A rota passa por aqui.",
               "balloon": {
-                "x": 7,
-                "y": 5,
+                "x": 2,
+                "y": 76,
                 "w": 46,
                 "target_x": 21,
                 "target_y": 31
@@ -401,8 +401,8 @@
               "speaker": "Sere",
               "text": "Duas tábuas secas. Vou amarrá-las antes de você pisar.",
               "balloon": {
-                "x": 48,
-                "y": 5,
+                "x": 2,
+                "y": 2,
                 "w": 45,
                 "target_x": 70,
                 "target_y": 24
@@ -417,9 +417,9 @@
               "speaker": "Ilyan",
               "text": "Na forja eu aprenderia com fogo. Aqui, o jeito é martelo e paciência.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 47,
+                "x": 55,
+                "y": 2,
+                "w": 42,
                 "target_x": 27,
                 "target_y": 23
               }
@@ -433,8 +433,8 @@
               "speaker": "Avel",
               "text": "Eu seguro a margem. Vocês consertam o que minhas mãos não alcançam.",
               "balloon": {
-                "x": 7,
-                "y": 5,
+                "x": 2,
+                "y": 75,
                 "w": 47,
                 "target_x": 18,
                 "target_y": 27
@@ -462,8 +462,8 @@
               "speaker": "Sere",
               "text": "Ela aguenta. Um de cada vez, com a corda.",
               "balloon": {
-                "x": 48,
-                "y": 5,
+                "x": 2,
+                "y": 2,
                 "w": 45,
                 "target_x": 69,
                 "target_y": 23
@@ -494,9 +494,9 @@
               "speaker": "Ilyan",
               "text": "Meu pai diria que isso foi treino de guarda. Eu concordaria.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 47,
+                "x": 53,
+                "y": 2,
+                "w": 43,
                 "target_x": 25,
                 "target_y": 25
               }
@@ -586,8 +586,8 @@
               "speaker": "Avel",
               "text": "Viemos da inspeção de Pedra-Mansa. Seguiremos à Casa das Quatro Luas.",
               "balloon": {
-                "x": 48,
-                "y": 5,
+                "x": 2,
+                "y": 2,
                 "w": 45,
                 "target_x": 69,
                 "target_y": 23
@@ -602,8 +602,8 @@
               "speaker": "Ilyan",
               "text": "É maior do que pensei. E tem uma muralha de treino.",
               "balloon": {
-                "x": 7,
-                "y": 5,
+                "x": 2,
+                "y": 2,
                 "w": 47,
                 "target_x": 18,
                 "target_y": 24
@@ -631,9 +631,9 @@
               "speaker": "Ilyan",
               "text": "Achei que só ensinassem magia. Aqueles jovens treinam com escudos.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 49,
+                "x": 49,
+                "y": 2,
+                "w": 47,
                 "target_x": 30,
                 "target_y": 24
               }
@@ -647,9 +647,9 @@
               "speaker": "Avel",
               "text": "A Guarda do Limiar estuda defesa, metal e rotas. Seu sonho cabe aqui.",
               "balloon": {
-                "x": 48,
-                "y": 5,
-                "w": 45,
+                "x": 51,
+                "y": 2,
+                "w": 44,
                 "target_x": 64,
                 "target_y": 25
               }
@@ -692,9 +692,9 @@
               "speaker": "Sere",
               "text": "Os marcos continuam. Ninguém entrou por um atalho secreto.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 48,
+                "x": 50,
+                "y": 2,
+                "w": 44,
                 "target_x": 39,
                 "target_y": 27
               }
@@ -708,9 +708,9 @@
               "speaker": "Avel",
               "text": "Conheço o portão da escola. Mira pesquisava esta oficina antiga sem me contar tudo.",
               "balloon": {
-                "x": 48,
-                "y": 5,
-                "w": 45,
+                "x": 50,
+                "y": 2,
+                "w": 44,
                 "target_x": 65,
                 "target_y": 27
               }
@@ -724,9 +724,9 @@
               "speaker": "Ilyan",
               "text": "Quatro sinais da carta. Quatro espelhos no pátio adiante.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 49,
+                "x": 54,
+                "y": 2,
+                "w": 42,
                 "target_x": 28,
                 "target_y": 25
               }
@@ -769,8 +769,8 @@
               "speaker": "Sere",
               "text": "Se forçarmos a porta, aquele fio acorda o guardião.",
               "balloon": {
-                "x": 48,
-                "y": 5,
+                "x": 2,
+                "y": 2,
                 "w": 45,
                 "target_x": 55,
                 "target_y": 31
@@ -785,9 +785,9 @@
               "speaker": "Ilyan",
               "text": "Não vou desmontar a espada. Há um pino reserva na bolsa de Nima.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 48,
+                "x": 54,
+                "y": 2,
+                "w": 42,
                 "target_x": 26,
                 "target_y": 25
               }
@@ -818,7 +818,8 @@
                 "y": 5,
                 "w": 45,
                 "target_x": 67,
-                "target_y": 46
+                "target_y": 46,
+                "kind": "shout"
               }
             }
           ]
@@ -830,11 +831,12 @@
               "speaker": "Ilyan",
               "text": "Eu seguro o braço. Nima, alinhe o espelho!",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 47,
+                "x": 50,
+                "y": 75,
+                "w": 46,
                 "target_x": 29,
-                "target_y": 25
+                "target_y": 25,
+                "kind": "shout"
               }
             }
           ]
@@ -846,8 +848,8 @@
               "speaker": "Avel",
               "text": "Não destruam o guardião. Ele apenas cumpre sua tarefa.",
               "balloon": {
-                "x": 7,
-                "y": 5,
+                "x": 2,
+                "y": 75,
                 "w": 48,
                 "target_x": 18,
                 "target_y": 28
@@ -875,11 +877,12 @@
               "speaker": "Nima",
               "text": "Pronto! Sem força bruta. Bem... só um pouco de martelo.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 47,
+                "x": 3,
+                "y": 75,
+                "w": 44,
                 "target_x": 42,
-                "target_y": 53
+                "target_y": 53,
+                "kind": "shout"
               }
             }
           ]
