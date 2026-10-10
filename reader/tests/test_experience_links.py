@@ -1,7 +1,6 @@
 import re
 from pathlib import Path
 
-
 EXPERIENCES_DIR = Path(__file__).resolve().parents[2] / "experiencias"
 ROOT_RELATIVE_URL = re.compile(r'\b(?:href|src|action)=["\']/[^/]')
 

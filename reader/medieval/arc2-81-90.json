@@ -1,0 +1,515 @@
+{
+  "pages": [
+    {
+      "number": 81,
+      "title": "Antes da colina",
+      "time": "Dia 12 · fim da manhã",
+      "place": "biblioteca-galeria",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "runa",
+        "avel",
+        "ordelia"
+      ],
+      "scene": "Immediately after page 80 in unchanged upper public library gallery. Ordelia seals the west archive drawer with the absent index recorded; Avel keeps the north-hill survey map on the public table. No one leaves for the hill yet. Runa asks to learn how to measure living water without damaging evidence.",
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "Sem índice, ninguém toca a colina. Primeiro, aprendam a medir.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 42,
+            "target_x": 70,
+            "target_y": 13
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Oru pode nos ensinar a ouvir a água sem mexer no canal.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 72
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então vamos à aula. A pista espera mais uma manhã.",
+          "balloon": {
+            "x": 55,
+            "y": 83,
+            "w": 41,
+            "target_x": 70,
+            "target_y": 72
+          }
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "title": "O caminho da aula",
+      "time": "Dia 12 · meio-dia",
+      "place": "patio-central",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa",
+        "caio",
+        "tovo"
+      ],
+      "scene": "Clear sequential walk from the library's northeast staircase through the unchanged central courtyard with its circular reflecting pool toward the new Elemental Classroom northeast of the courtyard, south door. Caio and Tovo join the pair on the limestone path; Tovo still wears the apron from his just-finished kitchen shift and removes it before class. No teleportation. The four-crescent school banners remain consistent.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Dizem que Oru dá nota até para o jeito de respirar.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Seu último suspiro apagou três braseiros.",
+          "balloon": {
+            "x": 55,
+            "y": 25,
+            "w": 41,
+            "target_x": 60,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Venha, Ilyan. O chão só morde quem não o escuta.",
+          "balloon": {
+            "x": 55,
+            "y": 84,
+            "w": 41,
+            "target_x": 70,
+            "target_y": 75
+          }
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "title": "Mestre Oru",
+      "time": "Dia 12 · início da tarde",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "oru",
+        "ilyan",
+        "runa",
+        "caio",
+        "tovo"
+      ],
+      "scene": "First introduction of adult gnome Master Oru, matching oru-sheet. Establish fixed classroom geography: south door behind students, tall north windows, square four-stone practice table center, water trough east, sand box west, shielded brazier north. Students stand around the central table, teacher demonstrates only a finger-width of existing water moving into a shallow bowl.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Não criamos água nem brasa. Guiamos o que já existe.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 74,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E quando o ritmo falha?",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 24,
+            "target_y": 53
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Interrompemos antes que o teto aprenda a nadar.",
+          "balloon": {
+            "x": 55,
+            "y": 84,
+            "w": 41,
+            "target_x": 73,
+            "target_y": 75
+          }
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "title": "A água de Runa",
+      "time": "Dia 12 · início da tarde",
+      "place": "sala-elementos",
+      "layout": "vertical",
+      "cast": [
+        "oru",
+        "runa",
+        "ilyan",
+        "caio",
+        "tovo"
+      ],
+      "scene": "Same classroom geography. Runa confidently guides a narrow ribbon of EXISTING water from the east trough around the central four-stone table and back without touching the north shielded brazier. Her ink-stained left forearm and tattoo, straight fringe, very long straight black hair and septum ring remain visible. Ilyan watches with growing admiration, not sudden infatuation; Oru observes her control.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Água ao redor da brasa. Sem perder uma gota.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Três respirações... e ela volta à calha.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 62,
+            "target_y": 47
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Ela percebeu a curva antes da água.",
+          "balloon": {
+            "x": 55,
+            "y": 84,
+            "w": 41,
+            "target_x": 24,
+            "target_y": 74,
+            "kind": "thought"
+          }
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "title": "O calor da forja",
+      "time": "Dia 12 · início da tarde",
+      "place": "sala-elementos",
+      "layout": "triptych",
+      "cast": [
+        "oru",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Same classroom. Ilyan attempts to direct the heat of ONE ember from the shielded north brazier toward a clay practice tile, overforces it, and a tiny spark jumps. Oru immediately covers it with sand from the west box. No injury or major fire. Runa coaches breathing without doing the exercise for him. Ilyan's blunt training sword remains sheathed and dark.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Pare. Na forja, você vence o fogo com ferro. Aqui, escute primeiro.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 14,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu quis segurar a brasa à força.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 54,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Respire comigo. O pulso dela não é seu inimigo.",
+          "balloon": {
+            "x": 55,
+            "y": 84,
+            "w": 41,
+            "target_x": 23,
+            "target_y": 75
+          }
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "title": "Um vale de areia",
+      "time": "Dia 12 · tarde",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "oru",
+        "runa",
+        "ilyan",
+        "caio",
+        "tovo"
+      ],
+      "scene": "Same central four-stone table now bears a miniature physical model built from sand and measured existing water. Runa traces the channel under the north hill, Caio supports a bank with clay, Tovo keeps a level staff steady and Ilyan marks the safe path. Flow turns toward the lower homes in the model. This is a hypothesis requiring real measurement, not proof or a magical vision.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Se esta inclinação for real, a água corre para as casas baixas.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 41,
+            "target_x": 23,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "O mapa antigo não mostra essa curva.",
+          "balloon": {
+            "x": 55,
+            "y": 28,
+            "w": 41,
+            "target_x": 57,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "É hipótese. Levem medidas a Avel, não certezas.",
+          "balloon": {
+            "x": 3,
+            "y": 84,
+            "w": 41,
+            "target_x": 80,
+            "target_y": 75
+          }
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "title": "Permissão com limites",
+      "time": "Dia 12 · fim da tarde",
+      "place": "sala-ritmos",
+      "layout": "duo",
+      "cast": [
+        "avel",
+        "oru",
+        "ilyan",
+        "runa",
+        "caio"
+      ],
+      "scene": "Group walks into unchanged Four Rhythms classroom with WEST door, high NORTH windows, slate board EAST and two bench rows. On the board Avel compares their measured sand-model hypothesis with the corrected drainage map. She signs a written permit for an EXTERIOR north-hill surface survey at dawn, led by Sere with Oru. No masonry opening authorized. Ilyan chooses the safety of lower homes over his personal search.",
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "Amanhã, Sere e Oru acompanham vocês. Só a superfície.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Se as casas correm risco, avisamos antes de buscar respostas sobre Mira.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 24,
+            "target_y": 50
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vou marcar o fluxo sem alterar as pedras.",
+          "balloon": {
+            "x": 55,
+            "y": 84,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 76
+          }
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "title": "Pão e provocações",
+      "time": "Dia 12 · noite",
+      "place": "refeitorio",
+      "layout": "vertical",
+      "cast": [
+        "ilyan",
+        "runa",
+        "tovo",
+        "caio"
+      ],
+      "scene": "Unchanged refectory: long east-west oak tables and four-moon mural on WEST wall. At dinner Runa offers Ilyan a piece of spiced bread from Vale do Junco after a day of shared work; he admits genuine admiration for her elemental control. She flirts lightly, he blushes but makes no promise or romantic declaration. Tovo and Caio remain at the same table, with warm humor rather than sudden intimacy.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você me olhou a aula toda. Era o feitiço ou eu?",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 33,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A precisão. E... quem teve paciência para ensiná-la.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 63,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Boa resposta. Quase.",
+          "balloon": {
+            "x": 3,
+            "y": 83,
+            "w": 41,
+            "target_x": 24,
+            "target_y": 72
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "E o meu pão? Ninguém admira?",
+          "balloon": {
+            "x": 55,
+            "y": 83,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 72
+          }
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "title": "A faixa segura",
+      "time": "Dia 13 · alvorada",
+      "place": "colina-norte",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa",
+        "caio",
+        "tovo",
+        "sere",
+        "oru"
+      ],
+      "scene": "Sequential morning walk from central courtyard along north limestone path beyond the library to the outside north hill. Sere supervises and drives safe boundary stakes; Oru checks conditions. Runa guides only a thread of existing runoff to reveal its surface path; Ilyan holds rope, Caio records measurements, Tovo carries level staff. The old metal inspection hatch below stakes is CLOSED and nobody steps past stakes. Lower houses of Valecobre visible downhill.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Até as estacas. Ninguém pisa além da linha.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 24,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A água reaparece sob aquela pedra.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 58,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Registrem. A tampa permanece fechada.",
+          "balloon": {
+            "x": 55,
+            "y": 84,
+            "w": 41,
+            "target_x": 27,
+            "target_y": 73
+          }
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "title": "Alguém moveu a água",
+      "time": "Dia 13 · manhã",
+      "place": "colina-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "caio",
+        "sere",
+        "oru"
+      ],
+      "scene": "At SAME safe north-hill stakes and still-closed metal inspection hatch, Caio spots a recently replaced school wax seal and fresh tool marks on an old fitting; no culprit shown or accused. Runa's harmless surface trace reveals the larger runoff direction changing independently NOW behind the shut grate, toward lower houses; Ilyan hears the mechanical movement and steadies the rope. Sere orders a written report and warning to Avel before any opening. End on the active threat, arc remains open.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "O lacre é novo. Alguém veio aqui há pouco.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 41,
+            "target_x": 47,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A água mudou de rumo. Está indo para as casas!",
+          "balloon": {
+            "x": 55,
+            "y": 28,
+            "w": 41,
+            "target_x": 27,
+            "target_y": 15,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Nada de abrir. Caio, registre. Ilyan, avise Avel agora.",
+          "balloon": {
+            "x": 55,
+            "y": 83,
+            "w": 41,
+            "target_x": 79,
+            "target_y": 16,
+            "kind": "shout"
+          }
+        }
+      ]
+    }
+  ]
+}

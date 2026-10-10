@@ -2,11 +2,37 @@
 {% block title %}{{ arc.title }} · {{ story.title }}{% endblock %}
 {% block description %}{{ arc.description }}{% endblock %}
 {% block og_image %}<meta property="og:image" content="{% static arc.art %}">{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=4">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=6">{% endblock %}
 {% block content %}
-<section class="twilight-subhero"><img src="{% static arc.art %}" alt="Arte do arco {{ arc.number }} de As Estradas do Crepúsculo" fetchpriority="high" width="1024" height="1536"><div class="twilight-subhero-copy"><nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><span>Arco {{ arc.number }}</span></nav><p class="twilight-kicker">Arco {{ arc.number|stringformat:'02d' }} · {{ arc.status }}</p><h1>{{ arc.title }}</h1><p>{{ arc.description }}</p><a class="twilight-button" href="{% url 'reader:medieval_read' arc.start %}">Ler desde o início <span aria-hidden="true">→</span></a></div></section>
-<div class="twilight-content twilight-arc-content"><div class="twilight-heading"><div><p class="twilight-kicker">{{ arc.status }}</p><h2>Escolha uma página</h2></div><span>{{ pages|length }} páginas disponíveis</span></div>
-  {% for chapter in arc.chapters %}<section class="twilight-chapter" aria-labelledby="chapter-{{ forloop.counter }}"><div class="twilight-chapter-head"><span class="twilight-chapter-number">{{ forloop.counter|stringformat:'02d' }}</span><h3 id="chapter-{{ forloop.counter }}">{{ chapter.title }}</h3><span>p. {{ chapter.start }}–{{ chapter.end }}</span></div><div class="twilight-page-grid">{% for page in pages %}{% if page.number >= chapter.start and page.number <= chapter.end %}<a href="{% url 'reader:medieval_read' page.number %}" class="twilight-page-card"><div class="twilight-page-thumb"><img src="{% static page.art %}" alt="Arte da página {{ page.number }}: {{ page.title }}" loading="lazy" width="1024" height="1536"></div><span>Página {{ page.number|stringformat:'02d' }}</span><strong>{{ page.title }}</strong><small>{{ page.time }}</small></a>{% endif %}{% endfor %}</div></section>{% endfor %}
+<section class="twilight-subhero">
+  <img src="{% static arc.art %}" alt="Arte do arco {{ arc.number }} de As Estradas do Crepúsculo" fetchpriority="high" width="1024" height="1536">
+  <div class="twilight-subhero-copy">
+    <nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><span>Arco {{ arc.number }}</span></nav>
+    <p class="twilight-kicker">Arco {{ arc.number|stringformat:'02d' }} · {{ arc.status }}</p>
+    <h1>{{ arc.title }}</h1><p>{{ arc.description }}</p>
+    <a class="twilight-button" href="{% url 'reader:medieval_read' arc.start %}">Ler desde o início <span aria-hidden="true">→</span></a>
+  </div>
+</section>
+<div class="twilight-content twilight-arc-content" data-episode-browser>
+  <div class="twilight-heading"><div><p class="twilight-kicker">{{ arc.status }}</p><h2>Explore os episódios</h2></div><span>{{ episodes|length }} episódios · {{ pages|length }} páginas</span></div>
+  <div class="twilight-episode-picker">
+    <button class="twilight-rail-arrow" type="button" data-scroll-rail="episodes" data-direction="-1" aria-label="Episódios anteriores">←</button>
+    <nav class="twilight-episode-rail" data-rail="episodes" aria-label="Episódios do arco">
+      {% for episode in episodes %}<a href="#episode-{{ episode.number }}" class="twilight-episode-card{% if forloop.first %} is-active{% endif %}" data-episode-tab aria-controls="episode-{{ episode.number }}"{% if forloop.first %} aria-current="true"{% endif %}>
+        <img src="{% static episode.cover %}" alt="" loading="lazy" width="1024" height="1536">
+        <span class="twilight-episode-copy"><small>Episódio {{ episode.number|stringformat:'02d' }}</small><strong>{{ episode.title }}</strong><span>Páginas {{ episode.start }}–{{ episode.end }}</span></span>
+      </a>{% endfor %}
+    </nav>
+    <button class="twilight-rail-arrow" type="button" data-scroll-rail="episodes" data-direction="1" aria-label="Próximos episódios">→</button>
+  </div>
+  {% for episode in episodes %}<section class="twilight-episode-panel" id="episode-{{ episode.number }}" data-episode-panel aria-labelledby="episode-heading-{{ episode.number }}">
+    <div class="twilight-episode-panel-head"><div><p class="twilight-kicker">Episódio {{ episode.number|stringformat:'02d' }} · Páginas {{ episode.start }}–{{ episode.end }}</p><h3 id="episode-heading-{{ episode.number }}">{{ episode.title }}</h3></div><a href="{% url 'reader:medieval_read' episode.start %}">Ler episódio <span aria-hidden="true">→</span></a></div>
+    <div class="twilight-page-rail" data-rail="pages">
+      {% for page in episode.pages %}<a href="{% url 'reader:medieval_read' page.number %}" class="twilight-page-card"><div class="twilight-page-thumb"><img src="{% static page.art %}" alt="" loading="lazy" width="1024" height="1536"></div><span>Página {{ page.number|stringformat:'02d' }}</span><strong>{{ page.title }}</strong><small>{{ page.time }}</small></a>{% endfor %}
+    </div>
+    <div class="twilight-page-rail-controls"><button type="button" data-scroll-pages="-1" aria-label="Páginas anteriores do episódio {{ episode.number }}">←</button><button type="button" data-scroll-pages="1" aria-label="Próximas páginas do episódio {{ episode.number }}">→</button></div>
+  </section>{% endfor %}
   {% if arc.number == 1 %}<p class="twilight-continue">O primeiro arco termina diante da porta que não lança sombra. <a href="{% url 'reader:medieval_arc2' %}">Continue na Casa das Quatro Luas →</a></p>{% endif %}
 </div>
 {% endblock %}
+{% block extra_scripts %}<script src="{% static 'reader/js/medieval-arc.js' %}?v=1" defer></script>{% endblock %}

@@ -6,9 +6,18 @@ from pathlib import Path
 STORY_DIR = Path(__file__).with_name("medieval")
 STORY = json.loads((STORY_DIR / "story.json").read_text(encoding="utf-8"))
 ARC_TWO = json.loads((STORY_DIR / "arc2.json").read_text(encoding="utf-8"))
+ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-81-90.json").read_text(encoding="utf-8"))["pages"])
+ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-91-134.json").read_text(encoding="utf-8"))["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
+
+
+def page_art(number: int) -> str:
+    extension = "svg" if number >= 133 else "webp"
+    return f"reader/images/medieval/page-{number:02}.{extension}"
+
+
 PAGES = tuple(
-    {**page, "art": f"reader/images/medieval/page-{page['number']:02}.webp"}
+    {**page, "art": page_art(page["number"])}
     for page in [*STORY["pages"], *ARC_TWO["pages"]]
 )
 PAGES_BY_NUMBER = {page["number"]: page for page in PAGES}
@@ -27,7 +36,3 @@ def get_arc_for_page(number: int) -> dict | None:
 
 def page_url(number: int) -> str:
     return f"{SERIES_URL}ler/{number}/"
-
-
-def page_art(number: int) -> str:
-    return f"reader/images/medieval/page-{number:02}.webp"

@@ -52,10 +52,14 @@ def medieval_arc(request: HttpRequest, arc_slug: str = "o-ferro-que-escuta") -> 
     arc = next((item for item in MEDIEVAL_ARCS if item["slug"] == arc_slug), None)
     if arc is None:
         raise Http404("Arco não encontrado")
+    pages = [page for page in MEDIEVAL_PAGES if arc["start"] <= page["number"] <= arc["end"]]
+    episodes = []
+    for number, chapter in enumerate(arc["chapters"], start=1):
+        episode_pages = [page for page in pages if chapter["start"] <= page["number"] <= chapter["end"]]
+        episodes.append({**chapter, "number": number, "pages": episode_pages, "cover": episode_pages[0]["art"]})
     return render(request, "reader/medieval_arc.html", {
-        "story": MEDIEVAL_STORY, "arc": arc,
-        "pages": [page for page in MEDIEVAL_PAGES if arc["start"] <= page["number"] <= arc["end"]],
-        "series_url": MEDIEVAL_SERIES_URL,
+        "story": MEDIEVAL_STORY, "arc": arc, "pages": pages,
+        "episodes": episodes, "series_url": MEDIEVAL_SERIES_URL,
     })
 
 
@@ -66,10 +70,14 @@ def medieval_read(request: HttpRequest, page: int) -> HttpResponse:
         raise Http404("Página não encontrada")
     last_page = MEDIEVAL_PAGES[-1]["number"]
     arc = medieval_get_arc_for_page(page)
+    episode_number = next(
+        number for number, chapter in enumerate(arc["chapters"], start=1)
+        if chapter["start"] <= page <= chapter["end"]
+    )
     return render(request, "reader/medieval_read.html", {
         "story": MEDIEVAL_STORY, "arc": arc,
         "page": story_page, "page_art": medieval_page_art(page),
-        "arc_url": arc["url"],
+        "arc_url": f"{arc['url']}#episode-{episode_number}",
         "previous_url": medieval_page_url(page - 1) if page > 1 else None,
         "next_url": medieval_page_url(page + 1) if page < last_page else None,
         "last_page": last_page,

@@ -33,6 +33,34 @@
 @media(max-width:600px){.twilight-hero{min-height:620px}.twilight-hero-art{object-position:54% center}.twilight-hero-copy,.twilight-subhero-copy{width:calc(100% - 36px)}.twilight-hero h1{font-size:clamp(3.2rem,14vw,5.1rem)}.twilight-subhero{min-height:490px}.twilight-subhero h1{font-size:clamp(3rem,13vw,4.8rem)}.twilight-content{width:calc(100% - 32px);padding:54px 0 75px}.twilight-heading{align-items:start;flex-direction:column;gap:9px}.twilight-heading>span{white-space:normal}.twilight-intro{padding-bottom:54px}.twilight-arc{padding-top:56px}.twilight-world{padding-top:68px}.twilight-world-grid{grid-template-columns:1fr}.twilight-chapter-head{flex-wrap:wrap;gap:6px 12px}.twilight-chapter-head>span:last-child{width:100%;margin-left:0}.twilight-page-grid{gap:11px}.twilight-page-card>span,.twilight-page-card>strong,.twilight-page-card>small{margin-left:11px;margin-right:11px}.twilight-page-card>strong{font-size:1rem}.twilight-reader{width:calc(100% - 20px);padding-top:20px}.twilight-reader-head{align-items:end}.twilight-reader-head .twilight-breadcrumb{font-size:.73rem}.twilight-page-title{align-items:start;flex-direction:column}.twilight-comic{padding:5px}.twilight-panel{aspect-ratio:auto;overflow:visible;background:#18252d;margin-bottom:12px}.twilight-panel-art{position:relative;aspect-ratio:2/1}.twilight-panel figcaption{position:static;padding:10px;display:block;background:#19252d}.twilight-panel figcaption p,.twilight-panel figcaption p:only-child{display:flex;max-width:none;font-size:.87rem;padding:8px 10px;margin-bottom:7px}.twilight-panel figcaption p:last-child{margin-bottom:0}.twilight-reader-nav{grid-template-columns:1fr 1fr}.twilight-reader-nav>span{display:none}.twilight-reader-nav a{font-size:.82rem;padding:10px}.twilight-list-link{font-size:.78rem}}
 @media(prefers-reduced-motion:reduce){.twilight-button,.twilight-arc-card,.twilight-page-card{transition:none}}
 
+/* Episode browser: one horizontal story shelf, then a horizontal page strip. */
+.twilight-episode-picker{display:grid;grid-template-columns:42px minmax(0,1fr) 42px;align-items:center;gap:12px;margin:31px 0 37px}
+.twilight-episode-rail,.twilight-page-rail{display:grid;grid-auto-flow:column;overflow-x:auto;overscroll-behavior-inline:contain;scroll-snap-type:x mandatory;scrollbar-width:thin;scrollbar-color:#a98048 #19252c}
+.twilight-episode-rail{grid-auto-columns:clamp(215px,25%,295px);gap:15px;padding:3px 3px 15px}
+.twilight-episode-card{position:relative;display:block;isolation:isolate;min-height:188px;overflow:hidden;border:1px solid var(--twilight-line);border-radius:12px;color:#fff;text-decoration:none;background:#19252c;scroll-snap-align:start;transition:transform .2s,border-color .2s}
+.twilight-episode-card::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(8,18,27,.98) 4%,rgba(8,18,27,.42) 78%)}
+.twilight-episode-card img{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center 30%;opacity:.85}
+.twilight-episode-card:hover,.twilight-episode-card:focus-visible,.twilight-episode-card.is-active{border-color:var(--twilight-gold);transform:translateY(-2px)}
+.twilight-episode-card.is-active{box-shadow:inset 0 0 0 2px var(--twilight-gold)}
+.twilight-episode-copy{position:absolute;inset:auto 17px 16px;display:grid;gap:5px;text-shadow:0 2px 7px #000}
+.twilight-episode-copy small{font-size:.72rem;font-weight:850;letter-spacing:.12em;text-transform:uppercase;color:var(--twilight-gold)}
+.twilight-episode-copy strong{font:700 1.2rem/1.18 Georgia,serif}
+.twilight-episode-copy>span{font-size:.8rem;color:#e4d8c8}
+.twilight-rail-arrow,.twilight-page-rail-controls button{width:42px;height:42px;border:1px solid var(--twilight-line);border-radius:50%;background:#17232b;color:var(--twilight-cream);font:700 1.2rem/1 Arial,sans-serif;cursor:pointer}
+.twilight-rail-arrow:hover,.twilight-page-rail-controls button:hover{border-color:var(--twilight-gold);color:var(--twilight-gold)}
+.twilight-episode-panel{border-top:1px solid var(--twilight-line);padding-top:27px;margin-bottom:55px;scroll-margin-top:80px}
+.twilight-episode-panel[hidden]{display:none}
+.twilight-episode-panel-head{display:flex;align-items:end;justify-content:space-between;gap:18px;margin-bottom:19px}
+.twilight-episode-panel-head h3{font:700 clamp(1.8rem,3vw,2.55rem)/1.1 Georgia,serif;margin:5px 0 0}
+.twilight-episode-panel-head>a{color:var(--twilight-gold);font-weight:800;text-decoration:none;white-space:nowrap}
+.twilight-episode-panel-head>a:hover{text-decoration:underline}
+.twilight-page-rail{grid-auto-columns:clamp(170px,19%,225px);gap:14px;padding:4px 3px 16px}
+.twilight-page-rail .twilight-page-card{scroll-snap-align:start;min-height:290px}
+.twilight-page-rail .twilight-page-thumb{aspect-ratio:4/3}
+.twilight-page-rail-controls{display:flex;justify-content:flex-end;gap:9px;margin-top:11px}
+@media(max-width:600px){.twilight-episode-picker{grid-template-columns:minmax(0,1fr);margin-top:22px}.twilight-episode-rail{grid-auto-columns:min(70vw,255px);gap:10px}.twilight-episode-card{min-height:167px}.twilight-rail-arrow{display:none}.twilight-episode-panel-head{align-items:start;flex-direction:column}.twilight-page-rail{grid-auto-columns:min(46vw,190px);gap:10px}.twilight-page-rail .twilight-page-card{min-height:260px}.twilight-page-rail-controls button{width:38px;height:38px}}
+@media(prefers-reduced-motion:reduce){.twilight-episode-card{transition:none}.twilight-episode-rail,.twilight-page-rail{scroll-behavior:auto}}
+
 /* Pages 13 onward use a true, speaker-anchored balloon layer. Earlier pages keep their original layout. */
 .twilight-panel.twilight-panel-new{aspect-ratio:auto;overflow:visible;background:#1b2730}
 .twilight-panel-new .twilight-panel-art{position:relative;aspect-ratio:2/1;overflow:hidden}

@@ -1,0 +1,1677 @@
+{
+  "pages": [
+    {
+      "number": 91,
+      "title": "O recado corre",
+      "time": "Dia 13 manhã",
+      "place": "colina-norte",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "sere",
+        "runa",
+        "caio",
+        "oru",
+        "tovo"
+      ],
+      "scene": "Ilyan leaves safe stakes with Caio's written report; runs south along limestone path to school. Sere asks Tovo, who has joined on path, to carry warning to lower wardens; others remain behind rope.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Leve a Avel. Eu aviso as casas baixas.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 41,
+            "target_x": 49,
+            "target_y": 13
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou pela biblioteca. Ninguém abre a tampa.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 55,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "title": "A mesa de Avel",
+      "time": "Dia 13 manhã",
+      "place": "sala-ritmos",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "avel",
+        "caio"
+      ],
+      "scene": "Ilyan arrives through west door of Four Rhythms room; hands report to Avel by east slate board; Caio joins after recording measures, no teleport.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A água virou sozinha. E o lacre foi trocado.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 41,
+            "target_x": 23,
+            "target_y": 22
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Então isolamos a área e chamamos Beren.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 78,
+            "target_y": 22
+          }
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "title": "As casas baixas",
+      "time": "Dia 13 manhã",
+      "place": "valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "tovo"
+      ],
+      "scene": "Sere and Tovo descend north-hill path to lower Valecobre district, warn residents door by door, no flood yet; begin moving vulnerable supplies uphill.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Subam por precaução. A água ainda não chegou.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 41,
+            "target_x": 64,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Eu levo os sacos. A senhora leva a criança.",
+          "balloon": {
+            "x": 55,
+            "y": 25,
+            "w": 41,
+            "target_x": 38,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "title": "O pedreiro licenciado",
+      "time": "Dia 13 manhã",
+      "place": "colina-norte",
+      "layout": "triptych",
+      "cast": [
+        "beren",
+        "sere",
+        "oru",
+        "caio",
+        "runa",
+        "ilyan",
+        "tovo"
+      ],
+      "scene": "Beren walks to safe stakes with authorized permit, checks rope and supports, studies closed hatch; Sere keeps everyone behind safe line. Ilyan has returned from Avel with the safety order; Sere and Tovo have returned after their first lower-neighborhood warning, while Tovo will continue carrying supplies.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Primeiro calço a tampa. Depois, e só depois, rompo o lacre.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 30,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "A pressão do canal está aumentando.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 72,
+            "target_y": 55
+          }
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "title": "O lacre se parte",
+      "time": "Dia 13 meio-dia",
+      "place": "colina-norte",
+      "layout": "vertical",
+      "cast": [
+        "beren",
+        "sere",
+        "oru",
+        "runa",
+        "caio",
+        "ilyan",
+        "caio"
+      ],
+      "scene": "After Beren sets braces and all withdraw behind stakes, he opens hatch with licensed iron lever while Sere anchors rope; sight of shallow service chamber, no one enters. Ilyan and Caio remain behind the safety rope.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Calços firmes. Vou erguer só um palmo.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 41,
+            "target_x": 75,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Todos atrás da corda. Sem exceção.",
+          "balloon": {
+            "x": 55,
+            "y": 25,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 75
+          }
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "title": "A cunha recente",
+      "time": "Dia 13 meio-dia",
+      "place": "colina-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "beren",
+        "oru",
+        "runa",
+        "caio"
+      ],
+      "scene": "Beren sees new brass wedge jamming old water gate inside service chamber; Oru points to contrasting oxidation; no culprit shown.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Esta cunha é nova. A comporta é antiga.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 74,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Por isso o fluxo dobrou para baixo.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 19,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "title": "Peça sob guarda",
+      "time": "Dia 13 meio-dia",
+      "place": "colina-norte",
+      "layout": "duo",
+      "cast": [
+        "beren",
+        "caio",
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Beren removes wedge with tongs under bracing, bags and seals it in front of Caio who logs chain of custody; Ilyan returns from Avel with signed emergency diversion permit.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Cunha retirada e lacrada. Eu assino como testemunha.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 44,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Avel autorizou só o desvio de emergência.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 73,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "title": "A marca da forja",
+      "time": "Dia 13 meio-dia",
+      "place": "colina-norte",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "beren",
+        "oru"
+      ],
+      "scene": "Ilyan recognizes shape of school east-forge inventory notch on bagged wedge but explicitly says common mark does not identify maker. Beren keeps evidence.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Parece marca da forja leste. Muitos usam essa ferramenta.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 20,
+            "target_y": 10
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "Então vamos conferir o livro, sem acusar ninguém.",
+          "balloon": {
+            "x": 55,
+            "y": 17,
+            "w": 41,
+            "target_x": 64,
+            "target_y": 57
+          }
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "title": "A trava de reserva",
+      "time": "Dia 13 tarde",
+      "place": "colina-norte",
+      "layout": "diagonal",
+      "cast": [
+        "beren",
+        "oru",
+        "runa",
+        "caio",
+        "ilyan"
+      ],
+      "scene": "Beren operates old manual emergency overflow from outside hatch; Caio records positions; Oru guides only spoonful existing water to test outlet, no mass spell. Beren may delegate physical assistance to students but retains control of the main valve.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Abrirei o alívio pelo braço externo.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 47,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Só testaremos o rumo com esta pequena porção.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 30,
+            "target_y": 50
+          }
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "title": "Juntos na margem",
+      "time": "Dia 13 tarde",
+      "place": "colina-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "caio",
+        "beren"
+      ],
+      "scene": "Emergency arm sticks; Ilyan uses forge leverage to seat handle, Caio braces wooden support, Runa reads minor water trace to tell Beren safe direction. No student turns main valve without Beren. Ilyan applies leverage only on the external auxiliary arm under Beren's direct instruction; Beren alone authorizes the main release.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A esquerda drena para a vala vazia.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 22,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Caio, segura o apoio. Beren, a alavanca está livre.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 50,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "title": "A curva certa",
+      "time": "Dia 13 tarde",
+      "place": "colina-norte",
+      "layout": "splash",
+      "cast": [
+        "oru",
+        "runa",
+        "beren",
+        "ilyan"
+      ],
+      "scene": "Adult Beren turns main overflow handle, redirecting water to uninhabited stone spillway; Oru guides tiny preexisting flow at edge; Runa confirms lower-house channel drops. Oru may turn the small testing wheel while Beren controls the main diversion.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Desvio aberto. A calha de baixo deve baixar.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 41,
+            "target_x": 16,
+            "target_y": 11
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Está baixando. Desta vez a conta fecha.",
+          "balloon": {
+            "x": 55,
+            "y": 23,
+            "w": 41,
+            "target_x": 65,
+            "target_y": 57
+          }
+        }
+      ]
+    },
+    {
+      "number": 102,
+      "title": "O bairro respira",
+      "time": "Dia 13 tarde",
+      "place": "valecobre",
+      "layout": "duo",
+      "cast": [
+        "sere",
+        "tovo",
+        "caio"
+      ],
+      "scene": "Sere and Tovo observe lower neighborhood safe, one mill floor damp but people unharmed; Caio arrives with measured update via path. No invented catastrophe.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Molhou o moinho. As casas ficaram secas.",
+          "balloon": {
+            "x": 3,
+            "y": 77,
+            "w": 41,
+            "target_x": 54,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Mantenham a rota livre até a vistoria terminar.",
+          "balloon": {
+            "x": 55,
+            "y": 77,
+            "w": 41,
+            "target_x": 19,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "title": "Fechar sem esquecer",
+      "time": "Dia 13 tarde",
+      "place": "colina-norte",
+      "layout": "triptych",
+      "cast": [
+        "beren",
+        "avel",
+        "oru",
+        "ilyan"
+      ],
+      "scene": "Avel and Beren inspect stabilized gate, Beren recloses hatch with new numbered seal; Avel records unresolved cause and orders monitoring.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Tampa fechada. Selo novo: trinta e sete.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 19,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Salvamos as casas. Não sabemos quem pôs a cunha.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 48,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "title": "Relatório público",
+      "time": "Dia 13 fim da tarde",
+      "place": "biblioteca-galeria",
+      "layout": "vertical",
+      "cast": [
+        "avel",
+        "ordelia",
+        "caio",
+        "ilyan"
+      ],
+      "scene": "After uphill walk, Avel puts signed incident report in public southern cabinet; Ordelia compares missing index history without assuming connection, Caio files measures.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A cópia pública fica aqui. O índice ausente segue em auditoria.",
+          "balloon": {
+            "x": 3,
+            "y": 84,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "E esta ocorrência também. Sem atalhos.",
+          "balloon": {
+            "x": 55,
+            "y": 84,
+            "w": 41,
+            "target_x": 56,
+            "target_y": 14
+          }
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "title": "Uma linha incompleta",
+      "time": "Dia 13 fim da tarde",
+      "place": "biblioteca-galeria",
+      "layout": "asymmetric",
+      "cast": [
+        "ordelia",
+        "caio",
+        "ilyan"
+      ],
+      "scene": "Ordelia shows public tool-loan ledger entry for generic brass wedge with smudged date and no borrower; Caio is frustrated but respects restricted archive.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Nem nome, nem data legível.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 51,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "E ninguém inventará um culpado para preencher a linha.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 21,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "title": "Turno na forja",
+      "time": "Dia 13 noite",
+      "place": "forja-leste",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "teren",
+        "tovo"
+      ],
+      "scene": "Ilyan fulfills scheduled forge duty in east workshop after safety incident; Tovo brings food from his kitchen shift, informal friendship. Wedge evidence remains sealed elsewhere.",
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "O trabalho de hoje ainda conta para sua matrícula.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 79,
+            "target_y": 49
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "E este pão conta para sua sobrevivência.",
+          "balloon": {
+            "x": 55,
+            "y": 17,
+            "w": 41,
+            "target_x": 48,
+            "target_y": 53
+          }
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "title": "A cheia do Junco",
+      "time": "Dia 13 noite",
+      "place": "refeitorio",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan",
+        "tovo",
+        "caio"
+      ],
+      "scene": "Same west moon mural and east-west tables. Runa explains past seasonal flood in Vale do Junco, why she fears bad drainage; Ilyan listens without solving it.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Quando a água sobe no Junco, primeiro some o som dos moinhos.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 41,
+            "target_x": 19,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu não sabia. Por isso você viu a curva antes de nós.",
+          "balloon": {
+            "x": 55,
+            "y": 25,
+            "w": 41,
+            "target_x": 46,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "title": "O peso de Mira",
+      "time": "Dia 13 noite",
+      "place": "refeitorio",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "At quieter end of same table after Tovo and Caio leave by the north aisle, Ilyan tells Runa he wants to understand his mother's disappearance without ignoring present danger; she listens.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Procuro Mira. Mas hoje as casas vinham primeiro.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 41,
+            "target_x": 28,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ela teria entendido isso, eu acho.",
+          "balloon": {
+            "x": 55,
+            "y": 25,
+            "w": 41,
+            "target_x": 62,
+            "target_y": 14
+          }
+        }
+      ]
+    },
+    {
+      "number": 109,
+      "title": "Uma promessa pequena",
+      "time": "Dia 13 noite",
+      "place": "patio-central",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "They walk together from refectory south across moonlit circular pool toward separate dormitory paths. Runa light teasing, Ilyan responds sincerely; they part before dorms.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Amanhã você pode me olhar sem uma enchente como desculpa.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 66,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Posso tentar. Não prometo ser discreto.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 28,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "title": "A peça sob a lamparina",
+      "time": "Dia 14 manhã",
+      "place": "forja-leste",
+      "layout": "triptych",
+      "cast": [
+        "teren",
+        "ilyan",
+        "caio"
+      ],
+      "scene": "At east forge, Teren retrieves sealed bag through official transfer by Caio, examines brass wedge and school notch with magnifier, does not break seal before authorization.",
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "A marca indica o lote, não a mão que moldou.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 79,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Vou conferir quantas peças saíram deste lote.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 49,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "title": "Ferro de ponte",
+      "time": "Dia 14 manhã",
+      "place": "forja-leste",
+      "layout": "asymmetric",
+      "cast": [
+        "teren",
+        "ilyan",
+        "caio"
+      ],
+      "scene": "Teren obtains authorized wedge examination, uses file to expose tiny inlay of recycled bridge iron inside brass. Ilyan's plain sword remains dark absent Lumen.",
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "Há ferro de ponte aqui dentro. Não é uma peça comum.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 20,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Minha espada tem esse metal. Mas isso não prova ligação.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 57,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "title": "O livro de ferramentas",
+      "time": "Dia 14 manhã",
+      "place": "secretaria",
+      "layout": "duo",
+      "cast": [
+        "ordelia",
+        "caio",
+        "ilyan"
+      ],
+      "scene": "Ordelia shows signed public loan ledger to Caio and Ilyan at east-facing desk: wedge lot recorded for north relay maintenance, borrower field copied badly. No restricted intrusion.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A encomenda diz torre norte. O nome foi copiado errado.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 41,
+            "target_x": 22,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Então seguimos a peça, não o boato.",
+          "balloon": {
+            "x": 55,
+            "y": 28,
+            "w": 41,
+            "target_x": 55,
+            "target_y": 15
+          }
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "title": "Equipe autorizada",
+      "time": "Dia 14 meio-dia",
+      "place": "sala-ritmos",
+      "layout": "splash",
+      "cast": [
+        "avel",
+        "sere",
+        "ilyan",
+        "runa",
+        "caio",
+        "tovo"
+      ],
+      "scene": "Avel at east board forms supervised team to compare maps of hill and old north relay, with Sere safety lead; no immediate unauthorized journey.",
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "Estudo de rota, não caça a suspeitos.",
+          "balloon": {
+            "x": 3,
+            "y": 78,
+            "w": 41,
+            "target_x": 74,
+            "target_y": 22
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Ninguém entra na torre sem Beren e licença.",
+          "balloon": {
+            "x": 55,
+            "y": 78,
+            "w": 41,
+            "target_x": 15,
+            "target_y": 19
+          }
+        }
+      ]
+    },
+    {
+      "number": 114,
+      "title": "Quatro ritmos",
+      "time": "Dia 14 tarde",
+      "place": "sala-elementos",
+      "layout": "triptych",
+      "cast": [
+        "oru",
+        "runa",
+        "ilyan",
+        "caio",
+        "tovo"
+      ],
+      "scene": "Oru teaches with same room layout: four existing elements at center table, Runa flawlessly controls tiny water ring around sand, Ilyan observes breathing.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Controle é ouvir o limite de cada coisa.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 24,
+            "target_y": 44
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A água volta à calha sem tocar a chama.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 55,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 115,
+      "title": "O pulso do ferro",
+      "time": "Dia 14 tarde",
+      "place": "sala-elementos",
+      "layout": "duo",
+      "cast": [
+        "oru",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Under Oru's supervision Ilyan guides already warm air near brazier, does not create flame. Runa watches proudly, no romance declaration.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Eu estava empurrando. Agora sinto o ar voltar.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 27,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Você escutou. Isso já é outra batalha.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 116,
+      "title": "A ponte de Caio",
+      "time": "Dia 14 tarde",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "caio",
+        "tovo",
+        "oru",
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Caio accurately braces little clay bank, Tovo accidentally nudges sand but catches water bowl and improves outlet. Both contribute, friendly comedy.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Minha margem aguentou!",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 28,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "E a minha trapalhada achou a saída d'água.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 55,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 117,
+      "title": "Dupla de medição",
+      "time": "Dia 14 tarde",
+      "place": "sala-elementos",
+      "layout": "diagonal",
+      "cast": [
+        "runa",
+        "ilyan",
+        "oru"
+      ],
+      "scene": "Runa and Ilyan compare measured water line to old map at central four-stone table. Their banter shows mutual respect; teacher Oru present in background.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você lê terreno como lê metal: pelas marcas.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 19,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E você lê tudo antes de eu achar a pergunta.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 118,
+      "title": "Correio comum",
+      "time": "Dia 14 fim da tarde",
+      "place": "secretaria",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "ordelia"
+      ],
+      "scene": "At secretary desk, ordinary messenger leaves letter from Nima in Pedra-Mansa addressed to Ilyan; Ordelia hands it across counter. No portal or magic communication.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Carta de Pedra-Mansa. Veio pela estrada.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 41,
+            "target_x": 22,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Nima prometeu olhar as anotações da forja.",
+          "balloon": {
+            "x": 55,
+            "y": 28,
+            "w": 41,
+            "target_x": 79,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 119,
+      "title": "O sinal de Mira",
+      "time": "Dia 14 fim da tarde",
+      "place": "patio-central",
+      "layout": "triptych",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "By circular pool, Ilyan opens Nima's letter: Mira once drew a four-notch service mark beneath old bridge, no image of Mira herself. Runa compares sketch to memory of map.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Nima achou este sinal nas notas da ponte.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Quatro entalhes... como no desenho do relé norte.",
+          "balloon": {
+            "x": 55,
+            "y": 25,
+            "w": 41,
+            "target_x": 72,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 120,
+      "title": "Cópia permitida",
+      "time": "Dia 14 fim da tarde",
+      "place": "biblioteca-galeria",
+      "layout": "asymmetric",
+      "cast": [
+        "ordelia",
+        "ilyan",
+        "runa",
+        "caio"
+      ],
+      "scene": "Group climbs NE spiral stair to public map cabinet; Ordelia gives permitted copy of Mira survey, not missing original index; compare four-notch sign.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Esta cópia era pública. O original continua desaparecido.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 41,
+            "target_x": 18,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "O sinal aponta para a torre, além da colina.",
+          "balloon": {
+            "x": 55,
+            "y": 28,
+            "w": 41,
+            "target_x": 84,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 121,
+      "title": "A segunda margem",
+      "time": "Dia 14 fim da tarde",
+      "place": "biblioteca-galeria",
+      "layout": "splash",
+      "cast": [
+        "runa",
+        "ilyan",
+        "caio",
+        "ordelia"
+      ],
+      "scene": "They unfold maps on public table; line from hill to north relay and further toward Vale do Junco, Runa sees her village connected. This is map hypothesis.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Se a linha continua, o Junco também depende do relé.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 41,
+            "target_x": 20,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Precisamos medir antes de avisar como certeza.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 41,
+            "target_x": 48,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 122,
+      "title": "A torre ao longe",
+      "time": "Dia 14 crepúsculo",
+      "place": "colina-norte",
+      "layout": "vertical",
+      "cast": [
+        "sere",
+        "avel",
+        "ilyan",
+        "runa",
+        "caio"
+      ],
+      "scene": "Supervised surface walk north from known stakes to view old north relay tower at end of limestone path; no entry. Sere notes west door and east wheel, sky clouding.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Porta a oeste. Roda a leste. Hoje só observamos.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 41,
+            "target_x": 27,
+            "target_y": 49
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Amanhã pedirei licença municipal.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 76
+          }
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "title": "Chuva sobre Valecobre",
+      "time": "Dia 14 noite",
+      "place": "refeitorio",
+      "layout": "asymmetric",
+      "cast": [
+        "tovo",
+        "caio",
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Rain begins outside unchanged refectory; Tovo checks food for lower shelter, Caio studies measurement book, Runa/Ilyan know stakes rising. No instant flood.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "A cozinha pode mandar sopa ao bairro baixo.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 41,
+            "target_x": 23,
+            "target_y": 51
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Vou revisar as alturas antes de dormir.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 72,
+            "target_y": 50
+          }
+        }
+      ]
+    },
+    {
+      "number": 124,
+      "title": "Esperar também é agir",
+      "time": "Dia 15 manhã",
+      "place": "sala-ritmos",
+      "layout": "duo",
+      "cast": [
+        "avel",
+        "sere",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "At unchanged Four Rhythms room, Avel awaits municipal permission despite drizzle. Sere organizes ropes and shelters; Ilyan impatient, Runa cautions.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A torre está lá enquanto esperamos um selo.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 41,
+            "target_x": 49,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E entrar sem apoio pode piorar a água.",
+          "balloon": {
+            "x": 55,
+            "y": 25,
+            "w": 41,
+            "target_x": 22,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 125,
+      "title": "O ofício de Beren",
+      "time": "Dia 15 manhã",
+      "place": "colina-norte",
+      "layout": "triptych",
+      "cast": [
+        "beren",
+        "sere",
+        "oru"
+      ],
+      "scene": "Beren travels north beyond previous hill stakes to sealed west door of relay tower, visually surveys external masonry but does not enter, notes new repaired joint.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A argamassa deste batente é recente.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 53,
+            "target_y": 50
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Isso também entra no pedido, não na fechadura.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 23,
+            "target_y": 74
+          }
+        }
+      ]
+    },
+    {
+      "number": 126,
+      "title": "O selo da cidade",
+      "time": "Dia 15 meio-dia",
+      "place": "secretaria",
+      "layout": "duo",
+      "cast": [
+        "avel",
+        "ordelia",
+        "beren"
+      ],
+      "scene": "Municipal courier arrives through south gate to east-facing secretary desk with written permit; Ordelia logs it; Avel and Beren check conditions. Courier anonymous background only.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Licença recebida: inspeção da caixa, sem quebrar o reservatório.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 24,
+            "target_y": 20
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Sere guia. Beren abre. Os alunos registram.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 67,
+            "target_y": 20
+          }
+        }
+      ]
+    },
+    {
+      "number": 127,
+      "title": "Antes da subida",
+      "time": "Dia 15 meio-dia",
+      "place": "refeitorio",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "tovo",
+        "caio"
+      ],
+      "scene": "Dry interval at same refectory. Ilyan checks rope knot; Runa offers him last spiced roll and mild flirt; Tovo gently teases; no romantic commitment.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Se errar o nó, posso corrigir. Se acertar, talvez também.",
+          "balloon": {
+            "x": 3,
+            "y": 16,
+            "w": 41,
+            "target_x": 57,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então vou pedir que confira duas vezes.",
+          "balloon": {
+            "x": 55,
+            "y": 16,
+            "w": 41,
+            "target_x": 84,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 128,
+      "title": "Pelo caminho norte",
+      "time": "Dia 15 tarde",
+      "place": "colina-norte",
+      "layout": "splash",
+      "cast": [
+        "avel",
+        "sere",
+        "beren",
+        "oru",
+        "ilyan",
+        "runa",
+        "caio",
+        "tovo"
+      ],
+      "scene": "Entire supervised team walks in order along limestone path from academy past closed hill hatch to north relay tower; drizzle, no teleportation; Tovo holds supplies.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Mesma ordem até a torre. Olhos no chão molhado.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 50
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "E sopa guardada para a volta, se o céu permitir.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 66,
+            "target_y": 50
+          }
+        }
+      ]
+    },
+    {
+      "number": 129,
+      "title": "A caixa do relé",
+      "time": "Dia 15 tarde",
+      "place": "torre-rele",
+      "layout": "asymmetric",
+      "cast": [
+        "beren",
+        "avel",
+        "sere",
+        "oru",
+        "ilyan",
+        "runa",
+        "caio"
+      ],
+      "scene": "With municipal permit, Beren unlocks west service door and opens protective grill in single stone chamber; east low waterwheel visible through slit, old relay box intact.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Grade liberada. Ninguém toca a roda.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 13
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Desenhem a posição antes de qualquer teste.",
+          "balloon": {
+            "x": 55,
+            "y": 17,
+            "w": 41,
+            "target_x": 22,
+            "target_y": 54
+          }
+        }
+      ]
+    },
+    {
+      "number": 130,
+      "title": "O desenho antigo",
+      "time": "Dia 15 tarde",
+      "place": "torre-rele",
+      "layout": "triptych",
+      "cast": [
+        "avel",
+        "ilyan",
+        "runa",
+        "caio"
+      ],
+      "scene": "Avel reads archival duplicate carried in case (Ordelia need not be present), compares relay gears to copied Mira note; old four-notch warning, two winters old. Do not show Mira face.",
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "Mira registrou a mesma folga há dois invernos.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 52,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então ela conhecia a falha antes de sumir.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 131,
+      "title": "Peso da água",
+      "time": "Dia 15 tarde",
+      "place": "torre-rele",
+      "layout": "vertical",
+      "cast": [
+        "beren",
+        "oru",
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Beren demonstrates how high water load can self-reset old relay; Oru checks flow with tiny amount preexisting water; recent wedge still deliberate physical addition, authorship unknown.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A pressão pode mover a roda sozinha. A cunha não entrou sozinha.",
+          "balloon": {
+            "x": 3,
+            "y": 67,
+            "w": 41,
+            "target_x": 72,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Duas causas. Ainda não sabemos quem ou por quê.",
+          "balloon": {
+            "x": 3,
+            "y": 83,
+            "w": 41,
+            "target_x": 19,
+            "target_y": 20
+          }
+        }
+      ]
+    },
+    {
+      "number": 132,
+      "title": "A cópia falha",
+      "time": "Dia 15 tarde",
+      "place": "torre-rele",
+      "layout": "duo",
+      "cast": [
+        "caio",
+        "avel",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Caio spots discrepancy between current gear position and public copy of Mira's sketch; maybe subsequent repair. Avel cautions about missing index, records measurement.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "O segundo entalhe mudou desde o desenho.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 41,
+            "target_x": 20,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Registrem a diferença. Não preencham o vazio com suspeitas.",
+          "balloon": {
+            "x": 55,
+            "y": 26,
+            "w": 41,
+            "target_x": 62,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 133,
+      "title": "Dois vales",
+      "time": "Dia 15 fim da tarde",
+      "place": "torre-rele",
+      "layout": "splash",
+      "cast": [
+        "runa",
+        "ilyan",
+        "sere",
+        "avel"
+      ],
+      "scene": "Establishing view of the tower and both valleys; inside, Runa fears for home and Ilyan offers help measuring. Their bond grows without an abrupt romance.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Se falhar outra vez, o meu vale pode ouvir a água primeiro.",
+          "balloon": {
+            "x": 3,
+            "y": 34,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 64
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então iremos com os seus números. Eu confio neles.",
+          "balloon": {
+            "x": 55,
+            "y": 34,
+            "w": 41,
+            "target_x": 74,
+            "target_y": 64
+          }
+        }
+      ]
+    },
+    {
+      "number": 134,
+      "title": "A mensagem do Junco",
+      "time": "Dia 15 fim da tarde",
+      "place": "torre-rele",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan",
+        "avel",
+        "sere",
+        "caio",
+        "beren"
+      ],
+      "scene": "An ordinary courier reaches the west door on the established north path, off-panel. Beren receives a sealed letter from Vale do Junco and passes it to Runa inside the tower. She reads the report of reddish metal filings at the mill canal, which is not proof of a shared cause. Avel orders cross-valley measurement; the arc remains open.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O moinho do Junco encontrou limalha vermelha na água.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 53
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Levantaremos os dois canais. A pergunta cresceu.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 53
+          }
+        }
+      ]
+    }
+  ]
+}

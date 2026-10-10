@@ -6,7 +6,8 @@
     "ensemble": "reader/medieval/references/ensemble-sheet.png",
     "travelers": "reader/medieval/references/travelers-sheet.png",
     "runa": "reader/medieval/references/runa-sheet.png",
-    "school_cast": "reader/medieval/references/school-cast-sheet.png"
+    "school_cast": "reader/medieval/references/school-cast-sheet.png",
+    "oru": "reader/medieval/references/oru-sheet.png"
   },
   "characters": {
     "ilyan": {
@@ -105,6 +106,12 @@
       "role": "pedreiro licenciado chamado para examinar a fundação do anexo",
       "fixed_appearance": "Humano de pele castanha clara, cabelo cinza curto, barba cinza espessa e órtese de metal no joelho ESQUERDO.",
       "fixed_clothing": "Roupas de trabalho cor de arenito, cinturão de ferramentas."
+    },
+    "oru": {
+      "name": "Oru", "age": 68,
+      "role": "mestre gnomo de magia elemental da Casa das Quatro Luas; exige observação, segurança e humildade antes de qualquer prática de campo",
+      "fixed_appearance": "Gnomo ADULTO de cerca de um metro, corpo compacto, pele castanho-quente, olhos âmbar, orelhas pontudas, calva no alto com cabelos prateados curtos nas laterais, barba prateada espessa terminando numa única trança, óculos redondos de cobre e pequena cicatriz de queimadura no dorso da mão direita.",
+      "fixed_clothing": "Casaco de ensino verde-musgo com bordado de cobre, túnica creme, cordão bordô na cintura, botas de couro e quatro pedras lisas dos ritmos presas ao cinto."
     }
   },
   "places": {
@@ -115,6 +122,7 @@
     "vale-do-junco": "Vilarejo natal de Runa, ao norte de Valecobre, conhecido por moinhos de tinta e cheias sazonais."
   },
   "school_map": {
+    "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
     "portao-sul": "Entrada COMUM no sul; o anexo antigo fica FORA do muro oeste. Entre eles há caminhada pelo lado de fora do muro, nunca passagem mágica.",
     "patio-central": "Piscina refletora circular no centro. Quatro caminhos de calcário. Portão ao sul, refeitório ao norte, pátio de treino a leste, biblioteca ao norte/nordeste e ala de dormitórios a oeste.",
     "secretaria": "Logo após o portão sul, balcão voltado ao leste, três livros de registro, lamparinas de cobre, molho de chaves de Ordelia.",
@@ -125,7 +133,10 @@
     "refeitorio": "Ao norte do pátio central: longas mesas de carvalho orientadas LESTE-OESTE e mural das quatro luas na parede OESTE.",
     "biblioteca-galeria": "Galeria superior: escada em espiral NORDESTE, gabinetes públicos de mapas ao SUL e arquivo restrito com porta gradeada a OESTE. Ordelia guarda a chave.",
     "anexo-agrimensores": "Vestíbulo de pedra dentro da porta física sem sombra; atril com livro de campo, armários empoeirados; quatro espelhos de cobre permanecem do lado de fora.",
-    "anexo-exterior": "Fora do muro oeste, base do anexo com tampa de manutenção do canal; só pedreiro licenciado pode abrir alvenaria. A porta de carvalho permanece trancada nas vistorias."
+    "anexo-exterior": "Fora do muro oeste, base do anexo com tampa de manutenção do canal; só pedreiro licenciado pode abrir alvenaria. A porta de carvalho permanece trancada nas vistorias.",
+    "sala-elementos": "Térreo a nordeste do pátio central, entre o refeitório e o caminho do pátio de treino. Porta SUL, janelas altas NORTE, mesa quadrada de quatro pedras no centro, calha rasa de água na parede LESTE, caixa de areia a OESTE e braseiro protegido ao NORTE. Oru ensina aqui; nenhum aluno maneja chama sem a proteção de areia.",
+    "colina-norte": "Subida exterior ao norte da biblioteca, alcançada por caminho de calcário a partir do pátio central. Estacas de medição marcam a faixa segura; abaixo delas há antiga tampa de inspeção de metal, que permanece fechada nas páginas 89–90. Casas baixas de Valecobre ficam além da base da colina.",
+    "torre-rele": "Torre de medição ao norte da colina, alcançada por trilha de calcário fora do muro. Porta oeste, escada interna em espiral e janela superior voltada para os canais de Valecobre e Vale do Junco. A entrada fica fechada até a licença municipal da página 126; Beren inspeciona alvenaria e Sere mantém a linha segura."
   },
   "magic_rules": [
     "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
@@ -139,7 +150,11 @@
     "Lúmen permanece junto aos juncos em Pedra-Mansa depois da página 12. Sem ele, o ferro-eco da espada de Ilyan não brilha nas páginas 13–25.",
     "A matrícula de Ilyan é provisória por quatorze dias: trabalho na oficina paga cama e refeições; só depois de avaliações pode ocupar vaga plena na Guarda.",
     "O anexo e sua porta não teleportam. Da fundação exterior ao pátio central caminha-se contornando o muro oeste e entrando pelo portão sul.",
-    "O arquivo oeste é restrito; Ordelia só abre a gaveta da drenagem após autorização escrita de Avel. A saída de campo exige Sere e um pedreiro licenciado para abrir alvenaria."
+    "O arquivo oeste é restrito; Ordelia só abre a gaveta da drenagem após autorização escrita de Avel. A saída de campo exige Sere e um pedreiro licenciado para abrir alvenaria.",
+    "Magia elemental não cria matéria ou energia do nada: aprendizes guiam pequenas quantidades de terra, água, brasa ou ar já presentes. Oru interrompe exercícios inseguros; aula não substitui autorização para investigar ou abrir estruturas.",
+    "A pista sob a colina norte autoriza apenas levantamento externo nas páginas 89–90, com Sere e Oru. A tampa de inspeção fica fechada. A ausência do índice de Mira segue em auditoria, sem culpado identificado.",
+    "Beren abre a tampa apenas com licença e supervisão de Sere nas páginas 95–101; alunos registram sem tocar na alvenaria. A peça em forma de cunha encontrada ali é guardada com recibo, sem prova de autoria.",
+    "A torre de medição só é aberta após a licença municipal; uma nota copiada de Mira tem dois invernos, mas a cunha atual é posterior. A mensagem do Vale do Junco na página 134 é aviso, não solução do mistério."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
@@ -158,7 +173,13 @@
     "Dia 9: páginas 60–65 — assinatura de Mira, conversa com Avel, raiz da rivalidade de Caio, carta confirma chegada de Nima à vila.",
     "Dia 10: páginas 66–72 — inspeção externa guiada por Sere, canal oco localizado mas não aberto por alunos, relatório conjunto.",
     "Dia 11: páginas 73–78 — Beren abre e fecha tampa autorizada, desvio da água é confirmado, aula e prova preliminar de guarda.",
-    "Dia 12, manhã: páginas 79–80 — falta índice recente da pesquisa de Mira; grupo identifica linha sob colina norte; arco 2 continua."
+    "Dia 12, manhã: páginas 79–80 — falta índice recente da pesquisa de Mira; grupo identifica linha sob colina norte; arco 2 continua.",
+    "Dia 12, fim da manhã e tarde: páginas 81–87 — Avel proíbe intervenção na colina; grupo vai à aula elemental de Oru, aprende a controlar e a medir, elabora uma hipótese de drenagem e obtém autorização para vistoria externa no dia seguinte.",
+    "Dia 12, noite: página 88 — refeição no refeitório; Ilyan reconhece a competência de Runa e os dois ensaiam um flerte leve, sem compromisso súbito.",
+    "Dia 13, alvorada: páginas 89–90 — Sere e Oru acompanham medição externa na colina; a tampa continua fechada; vestígios recentes e mudança de fluxo apontam uma intervenção atual, ainda sem autor identificado.",
+    "Dia 13: páginas 91–104 — relatório a Avel, aviso às casas baixas, Beren abre sob licença a tampa, o grupo registra cunha e desvio, alívio controlado da água, lacre e relato público.",
+    "Dia 14: páginas 105–122 — conferência de livros, turnos da forja, reconciliação gradual, aula elemental de Oru, Runa demonstra domínio de água e terra, carta de Nima e hipótese da torre de medição.",
+    "Dia 15: páginas 123–134 — chuva, espera da licença municipal, vistoria de Beren, abertura autorizada da torre, nota antiga de Mira, diferença entre marcas e chegada de uma mensagem comum do Vale do Junco. O arco permanece em andamento."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

@@ -5,8 +5,8 @@
 {% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=5">{% endblock %}
 {% block content %}
 <div class="twilight-reader" data-medieval-reader>
-  <div class="twilight-reader-head"><nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><a href="{{ arc.url }}">{{ arc.title }}</a></nav><span class="twilight-reader-count">{{ page.number|stringformat:'02d' }} / {{ last_page|stringformat:'02d' }}</span></div>
-  <header class="twilight-page-title"><div><p class="twilight-kicker">{{ page.time }} · Página {{ page.number }}</p><h1>{{ page.title }}</h1></div><a href="{{ arc.url }}" class="twilight-list-link">Todas as páginas <span aria-hidden="true">↗</span></a></header>
+  <div class="twilight-reader-head"><nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><a href="{{ arc_url }}">{{ arc.title }}</a></nav><span class="twilight-reader-count">{{ page.number|stringformat:'02d' }} / {{ last_page|stringformat:'02d' }}</span></div>
+  <header class="twilight-page-title"><div><p class="twilight-kicker">{{ page.time }} · Página {{ page.number }}</p><h1>{{ page.title }}</h1></div><a href="{{ arc_url }}" class="twilight-list-link">Episódio e páginas <span aria-hidden="true">↗</span></a></header>
   <div class="twilight-page-progress" role="progressbar" aria-label="Leitura da HQ" aria-valuenow="{{ page.number }}" aria-valuemin="1" aria-valuemax="{{ last_page }}"><span style="width:{% widthratio page.number last_page 100 %}%"></span></div>
   <article class="twilight-comic" aria-label="{{ page.title }}">
     {% if page.number > 12 and page.number <= 25 %}<p class="twilight-scroll-hint">Deslize cada quadro para ler toda a arte e os balões <span aria-hidden="true">→</span></p>{% endif %}
