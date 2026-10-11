@@ -4,7 +4,7 @@
     "title": "A Casa das Quatro Luas",
     "slug": "a-casa-das-quatro-luas",
     "description": "Ilyan entra na escola como aprendiz da Guarda do Limiar. A rotina de aulas, ofícios e novas alianças torna mais difícil — e mais urgente — entender o caminho deixado por Mira.",
-    "status": "Em andamento",
+    "status": "Concluído",
     "start": 26,
     "chapters": [
       {
@@ -81,6 +81,21 @@
         "title": "Correio de três dias",
         "start": 135,
         "end": 149
+      },
+      {
+        "title": "A medida que falta",
+        "start": 150,
+        "end": 158
+      },
+      {
+        "title": "O índice e a rival",
+        "start": 159,
+        "end": 165
+      },
+      {
+        "title": "A casa que se abre",
+        "start": 166,
+        "end": 171
       }
     ]
   },

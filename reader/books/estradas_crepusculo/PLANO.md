@@ -2,9 +2,9 @@
 
 ## Contrato editorial
 
-Romance de fantasia medieval ilustrado, planejado para **956 páginas de leitura real** em 48 capítulos. Os capítulos 1–47 ocupam vinte páginas cada; o capítulo 48 ocupa dezesseis. A contagem é meta de manuscrito, nunca autorização para repetir texto ou adicionar páginas vazias. O leitor do site só deve anunciar a contagem efetivamente redigida e revisada. A HQ já publicada, páginas 1–134, é a continuidade de partida; depois disso, o livro se torna a fonte de verdade para novos arcos da HQ.
+Romance de fantasia medieval ilustrado, planejado para **956 páginas de leitura real** em 48 capítulos. Os capítulos 1–47 ocupam vinte páginas cada; o capítulo 48 ocupa dezesseis. A contagem é meta de manuscrito, nunca autorização para repetir texto ou adicionar páginas vazias. O leitor do site só deve anunciar a contagem efetivamente redigida e revisada. A HQ, agora publicada até a página 171, adapta o arco 2 concluído no capítulo 20; daqui em diante, o livro se torna a fonte de verdade para novos arcos da HQ.
 
-O romance inicia-se em Pedra-Mansa no dia 1 e preserva os acontecimentos, deslocamentos, custos, permissões e relações do roteiro atual até o aviso do Vale do Junco, no dia 15. Uma adaptação em prosa pode ampliar a interioridade e os intervalos dessas cenas, mas não antecipa revelações nem muda quem estava presente. O arquivo `reader/medieval/canon.json` e as fichas visuais nele referidas fixam a aparência dos personagens existentes.
+O romance inicia-se em Pedra-Mansa no dia 1 e preserva os acontecimentos, deslocamentos, custos, permissões e relações da HQ até a chegada ao Vale do Junco no dia 18. O **arco 2, A Casa das Quatro Luas, termina no capítulo 20**: a escola abre seu arquivo, aplica consequências às infrações, reconhece o trabalho de Runa e admite Ilyan para o restante do período. A responsabilidade pelo canal e o paradeiro de Mira permanecem questões do arco seguinte. Uma adaptação em prosa pode ampliar a interioridade e os intervalos dessas cenas, mas não antecipa revelações nem muda quem estava presente. O arquivo `reader/medieval/canon.json` e as fichas visuais nele referidas fixam a aparência dos personagens existentes.
 
 Ilyan e Runa começam com 17 anos. O primeiro beijo acontece depois de ambos completarem 18 anos, em momento claramente datado. Qualquer intimidade posterior envolve adultos, escolha mútua e consequência emocional; o texto permanece literário e evita transformar a trama inteira em romance. Nima é gnoma adulta, amiga e mentora prática de Ilyan desde a infância dele. Ela **não** era apaixonada por ele quando criança. A distância e o crescimento dos dois alteram a forma como ela lê o afeto, e sua confissão ocorre apenas depois da maioridade de Ilyan. Ele não lhe deve reciprocidade. Runa não é objeto de disputa ou prêmio.
 
@@ -66,14 +66,14 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 17. **Três versões de uma ponte** — Sere e Caio confrontam registros militares e civis; a reputação do irmão de Caio ganha nuance. Ilyan pede desculpas por ter usado rivalidade como atalho.
 18. **A prova que faltava** — Líria sabota uma amostra de Runa e é descoberta por método, não flagrante milagroso. Ela responde a uma comissão; Maelor usa a crise para desviar atenção do índice.
 
-### Parte IV — A margem de Junco (capítulos 19–24, páginas 361–480)
+### Parte IV — A margem sem nome (capítulos 19–24, páginas 361–480)
 
-19. **Licença de estrada** — A escola aprova expedição limitada. Equipamento, carta de rota, guarda, pedreiro e provisões são mostrados.
-20. **O povo das balsas** — Adra exige que a investigação inclua perdas orcs. A equipe aprende que um mapa pode apagar moradores sem falsificar uma linha.
-21. **Fadas de águas rasas** — Pacto com Ysra exige reparar uma comporta antes de obter passagem. Seres feéricos têm calendário, limites e objetivos próprios.
-22. **Pedra-Mansa outra vez** — Retorno à vila, confronto com a mudança de Ilyan e com a ausência de Mira. Nima percebe ciúme ao ouvir de Runa, mas ainda não o declara.
+19. **O nome no pino** — Eda autentica o contrato de manutenção de Junco sem declarar culpado; a chuva revela uma falha de drenagem da própria escola. Professores e alunos salvam o acervo com medição, ferramentas, baldes e magia limitada.
+20. **A casa que se abre** — A comissão sanciona Líria e concede a Runa uma vaga de ensaio; a escola contesta a tentativa de fechar o índice. Adra nomeia margens apagadas do mapa e Ilyan obtém a vaga regular. **Aqui termina o arco 2**, sem solucionar Mira ou os canais.
+21. **Fadas de águas rasas** — Início do arco 3. O aviso da várzea exige emissários aceitos por Ysra e medição pública antes de passagem; nenhuma fada oferece acesso gratuito.
+22. **Pedra-Mansa outra vez** — Uma viagem autorizada permite reencontro com Bram e Nima, com deslocamento e custos mostrados. A ausência de Mira continua afetando a família.
 23. **Cartas que não chegam juntas** — Uma carta de Ilyan responde à antiga enquanto outra de Nima já partiu; a defasagem causa mal-entendido plausível, não telepatia.
-24. **A barragem de inverno** — A equipe salva famílias antes de perseguir o culpado. Indícios apontam a uma infraestrutura antiga vendida como segura por Maelor.
+24. **A barragem de inverno** — Equipe, barqueiros e moradores salvam famílias antes de perseguir responsabilidade. A infraestrutura vendida como segura sob a administração de Maelor passa por auditoria verificável.
 
 ### Parte V — A idade das escolhas (capítulos 25–30, páginas 481–600)
 
@@ -113,7 +113,7 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 
 ## Direção das gravuras em Canvas
 
-Preto de nanquim, cinzas de hachura e papel marfim. **No máximo uma gravura principal por capítulo**, centralizada, completa e sem corte. As seis gravuras já produzidas abrem os capítulos 1–6; capítulos novos podem ser publicados em prosa antes de receberem sua única gravura. O livro é centrado na leitura e não terá recortes, ampliações de detalhe nem imagens adicionais por cena. Rostos recorrentes derivam das fichas de `canon.json`; traços fixos nunca variam por semente aleatória. Mira permanece sem retrato até a ficha visual existir. As artes acompanham a prosa e jamais substituem páginas de texto.
+Preto de nanquim, cinzas de hachura e papel marfim. **Exatamente uma gravura principal por capítulo publicado**, centralizada, completa e sem corte. As vinte gravuras dos capítulos 1–20 abrem suas respectivas partes de leitura. O livro é centrado na leitura e não terá recortes, ampliações de detalhe nem imagens adicionais por cena. Rostos recorrentes derivam das fichas de `canon.json`; traços fixos nunca variam por semente aleatória. Mira permanece sem retrato até a ficha visual existir. As artes acompanham a prosa e jamais substituem páginas de texto.
 
 ## Referências de pesquisa (não fontes de trama)
 

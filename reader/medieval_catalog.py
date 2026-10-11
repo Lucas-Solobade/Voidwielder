@@ -9,6 +9,7 @@ ARC_TWO = json.loads((STORY_DIR / "arc2.json").read_text(encoding="utf-8"))
 ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-81-90.json").read_text(encoding="utf-8"))["pages"])
 ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-91-134.json").read_text(encoding="utf-8"))["pages"])
 ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-135-149.json").read_text(encoding="utf-8"))["pages"])
+ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-150-171.json").read_text(encoding="utf-8"))["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

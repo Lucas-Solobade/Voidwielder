@@ -1,0 +1,803 @@
+{
+  "pages": [
+    {
+      "number": 150,
+      "title": "Duas marcas",
+      "time": "Dia 18 · tarde",
+      "place": "vale-do-junco",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "eda",
+        "ilyan"
+      ],
+      "scene": "Direct continuation at Vale do Junco mill. Surveyor Eda sets a new wooden gauge exactly beside the old worn stone mark. Runa compares her sealed family pigment samples with dark grains from water; Ilyan only visually checks iron fitting. Stilt houses and dye vats behind. No cause announced.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Os grãos escuros não são da tinta da minha família.",
+          "balloon": {
+            "x": 3,
+            "y": 8,
+            "w": 30,
+            "target_x": 16,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "A escala nova fica ao lado da antiga. Não vamos fingir que são iguais.",
+          "balloon": {
+            "x": 67,
+            "y": 8,
+            "w": 30,
+            "target_x": 83,
+            "target_y": 31
+          }
+        }
+      ]
+    },
+    {
+      "number": 151,
+      "title": "O pino frio",
+      "time": "Dia 18 · fim da tarde",
+      "place": "vale-do-junco",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "eda"
+      ],
+      "scene": "At same mill Ilyan sees a recent cold-worked iron pin in service arm, without pulling it out. The mill keeper gives a dated maintenance receipt to Eda; Eda makes an attested copy and leaves original with keeper. Two unequal panels with mill and close detail of pin and paper, never duplicate people within a panel.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Foi batido a frio. Sei como; ainda não sei por quem.",
+          "balloon": {
+            "x": 3,
+            "y": 8,
+            "w": 30,
+            "target_x": 17,
+            "target_y": 33
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "A via original fica com o moinho. Levarei a cópia assinada.",
+          "balloon": {
+            "x": 67,
+            "y": 8,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 33
+          }
+        }
+      ]
+    },
+    {
+      "number": 152,
+      "title": "Antes da água",
+      "time": "Dia 18 · entardecer",
+      "place": "vale-do-junco",
+      "layout": "wide",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "scene": "Canal water approaches lower depot but homes on stilts are not yet in danger. Sere directs neighbors to move flour sacks before evening rise; Runa reassures children by low stair. Specific clear evacuation route. Dramatic wide establishing panel and small inset of wet gauge. No miraculous magic.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Podem andar. Levem só o que cabe nos braços.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 28,
+            "target_x": 17,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Primeiro o depósito baixo. As casas ainda estão fora da linha.",
+          "balloon": {
+            "x": 35,
+            "y": 2,
+            "w": 30,
+            "target_x": 52,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 153,
+      "title": "Uma porta travada",
+      "time": "Dia 18 · noite",
+      "place": "vale-do-junco",
+      "layout": "vertical",
+      "cast": [
+        "ilyan",
+        "runa",
+        "sere"
+      ],
+      "scene": "While neighbors move sacks, Ilyan uses the keeper's wooden wedge to secure depot service door and writes down its position. Runa shields dry pigments; Sere supervises from bank. Water recedes. One tall panel plus a detail of wood wedge, no extra hands or character clones.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A água baixou. Agora podemos medir o que mudou.",
+          "balloon": {
+            "x": 3,
+            "y": 8,
+            "w": 30,
+            "target_x": 16,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Calço de madeira no batente. Registrem onde ficou.",
+          "balloon": {
+            "x": 67,
+            "y": 8,
+            "w": 30,
+            "target_x": 84,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 154,
+      "title": "O preço da escolha",
+      "time": "Dia 18 · noite",
+      "place": "vale-do-junco",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "After emergency, in modest mill inn at Vale do Junco, Ilyan writes time of final gauge reading in notebook by oil lamp. Runa sits nearby, talking quietly. Both seventeen, no kiss. Window looks onto canal. One large scene and small notebook detail.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não prometo que será fácil. Mas seu trabalho precisa ser avaliado.",
+          "balloon": {
+            "x": 3,
+            "y": 10,
+            "w": 30,
+            "target_x": 19,
+            "target_y": 42
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A prova aconteceu sem mim. Talvez eu perca a cama na Casa.",
+          "balloon": {
+            "x": 67,
+            "y": 10,
+            "w": 30,
+            "target_x": 79,
+            "target_y": 42
+          }
+        }
+      ]
+    },
+    {
+      "number": 155,
+      "title": "Estrada de volta",
+      "time": "Dia 20 · manhã",
+      "place": "estrada-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "ilyan",
+        "runa",
+        "eda"
+      ],
+      "scene": "The same four travelers return on ordinary road after rain slows them; Sere marks a washed-out path before travelers use it. Distant Valecobre school under gray morning sky. Eda carries sealed copies, Ilyan tools, Runa samples. Four people exactly, no red-haired Nima.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Avisamos no próximo posto. Ninguém usa essa borda.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 30,
+            "target_x": 34,
+            "target_y": 23
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Perdemos tempo. Pelo menos ninguém cairá aqui.",
+          "balloon": {
+            "x": 40,
+            "y": 2,
+            "w": 30,
+            "target_x": 43,
+            "target_y": 23
+          }
+        }
+      ]
+    },
+    {
+      "number": 156,
+      "title": "Quarto emprestado",
+      "time": "Dia 20 · noite",
+      "place": "secretaria",
+      "layout": "duo",
+      "cast": [
+        "ordelia",
+        "ilyan"
+      ],
+      "scene": "School registry with EAST-facing counter, exactly THREE ledgers and copper lamps. Ordelia checks signed field permit, incomplete forge hours and Ilyan's missed guard exam. He listens, weary; has not automatically passed. Tiny inset shows his borrowed dormitory key.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Serviço de campo conta. A prova ausente continua ausente.",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 20,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então farei outra. Não quero um favor sem registro.",
+          "balloon": {
+            "x": 67,
+            "y": 9,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 157,
+      "title": "Duas tranças",
+      "time": "Dia 21 · tarde",
+      "place": "patio-treino",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "liria",
+        "sere"
+      ],
+      "scene": "In fixed east training yard, Ilyan completes equivalent guard evacuation drill under Sere, then at the registry corridor notices arriving student Líria Voss for the first time. Líria fixed: 18, olive-copper skin, gray-green eyes, hooked nose, dark-brown hair in exactly two tight braids, short chin scar, gray coat red stitching, brass-chained notebook. No rivalry enacted yet. Three varied unequal panels, no duplicates within panel.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Guarda suficiente. A técnica da lâmina ainda precisa de trabalho.",
+          "balloon": {
+            "x": 66,
+            "y": 2,
+            "w": 31,
+            "target_x": 73,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Sou Líria Voss. Onde registro a transferência?",
+          "balloon": {
+            "x": 67,
+            "y": 61,
+            "w": 30,
+            "target_x": 85,
+            "target_y": 88
+          }
+        }
+      ]
+    },
+    {
+      "number": 158,
+      "title": "A outra margem",
+      "time": "Dia 21 · tarde",
+      "place": "sala-elementos",
+      "layout": "vertical",
+      "cast": [
+        "runa",
+        "liria",
+        "oru"
+      ],
+      "scene": "First Oru class with Líria: adult gnome teacher compact with bald crown, silver beard in one braid, copper glasses, moss coat; fixed room central tables, west tray of sand, east water trough, north windows. Líria guides existing loose earth to support a miniature bank; Runa shows water would then flood a tiny downstream garden. Do not depict matter creation. Characters lower half, sky/high windows free above.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A terra segura a margem.",
+          "balloon": {
+            "x": 34,
+            "y": 6,
+            "w": 29,
+            "target_x": 42,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E manda a água para este jardim. Precisamos incluí-lo.",
+          "balloon": {
+            "x": 68,
+            "y": 6,
+            "w": 29,
+            "target_x": 88,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 159,
+      "title": "O círculo dos rumos",
+      "time": "Dia 35 · manhã",
+      "place": "patio-central",
+      "layout": "wide",
+      "cast": [
+        "oru",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Two weeks later seasonal council in fixed school courtyard with circular pool and four limestone paths. Representatives of elf, gnome, orc and human riverside communities as distinct tiny groups. One very small leaf-winged fairy perched on pool arch, not a human model. Oru addresses assembled listeners; Ilyan and Runa among them. Wide establishing comic scene with small inset of uncolored center circle.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Centro não é um quinto feitiço. É escutar quem vive a jusante.",
+          "balloon": {
+            "x": 66,
+            "y": 7,
+            "w": 31,
+            "target_x": 84,
+            "target_y": 33
+          }
+        }
+      ]
+    },
+    {
+      "number": 160,
+      "title": "A ficha ausente",
+      "time": "Dia 36 · tarde",
+      "place": "biblioteca-galeria",
+      "layout": "duo",
+      "cast": [
+        "ordelia",
+        "avel",
+        "ilyan"
+      ],
+      "scene": "Upper library gallery with WEST barred archive, SOUTH map cabinets, NORTHEAST spiral stair. Ordelia shows Ilyan and Avel old canal pages rebound under wrong index, one Mira survey sheet missing. A square copper maintenance receipt is nearby, name not legible in art. No portrait of Mira.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "O índice foi refeito. A ficha de Mira continua faltando.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 30,
+            "target_x": 20,
+            "target_y": 40
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então esta seta é pista, não resposta.",
+          "balloon": {
+            "x": 67,
+            "y": 7,
+            "w": 30,
+            "target_x": 80,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 161,
+      "title": "Uma ordem educada",
+      "time": "Dia 37 · manhã",
+      "place": "secretaria",
+      "layout": "asymmetric",
+      "cast": [
+        "maelor",
+        "ordelia"
+      ],
+      "scene": "Registry EAST counter THREE ledgers and copper lamps. Maelor Venn arrives as municipal inspector, human male 52 low and slender, pale olive, short WHITE hair with V-shaped receding hairline, blue-gray eyes, rigid three fingers left hand, dark green coat and square copper ring. Ordelia older olive woman iron-gray LOW braid and maroon gown. Maelor asks about relays without knowing the new index find. Polite tension, no villain caricature.",
+      "lines": [
+        {
+          "speaker": "Maelor",
+          "text": "O relé já foi encerrado? Meu gabinete precisa do registro.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 30,
+            "target_x": 14,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "O original fica aqui. Receberá cópia datada.",
+          "balloon": {
+            "x": 36,
+            "y": 2,
+            "w": 30,
+            "target_x": 56,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 162,
+      "title": "Três versões",
+      "time": "Dia 37 · tarde",
+      "place": "estrada-norte",
+      "layout": "triptych",
+      "cast": [
+        "sere",
+        "caio",
+        "ilyan"
+      ],
+      "scene": "Inspection at Ponte das Garças: three genuine maps differ in dates and intended users. Sere elf dark skin ONE white braid shows safe high footpath; Caio tan youth SHORT auburn hair teal guard tunic worries for brother Darel's old guard map; Ilyan long wavy black hair indigo vest listens. Stone bridge and water clearly visible. Three UNEQUAL panels not three equal horizontal stripes.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Meu irmão desenhou a rota da Guarda. Falta o caminho de pedestres.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 30,
+            "target_x": 8,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Há um bilhete no posto. Vamos conferi-lo antes de julgar.",
+          "balloon": {
+            "x": 36,
+            "y": 7,
+            "w": 30,
+            "target_x": 61,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 163,
+      "title": "O frasco escuro",
+      "time": "Dia 38 · manhã",
+      "place": "sala-elementos",
+      "layout": "duo",
+      "cast": [
+        "runa",
+        "liria",
+        "oru"
+      ],
+      "scene": "In fixed elemental classroom Runa's sealed control water sample inexplicably dark on exam day. Runa asks to suspend comparison; Oru checks seals; Líria at a DISTANCE with two tight braids and chained notebook, concerned. No accusation yet. Detail panel of two different sediment samples. No extra duplicates.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Seu controle escureceu? Vamos suspender a comparação.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 30,
+            "target_x": 15,
+            "target_y": 37
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Mudou. Não vou usá-lo como prova.",
+          "balloon": {
+            "x": 67,
+            "y": 7,
+            "w": 30,
+            "target_x": 87,
+            "target_y": 37
+          }
+        }
+      ]
+    },
+    {
+      "number": 164,
+      "title": "A confissão",
+      "time": "Dia 38 · tarde",
+      "place": "sala-elementos",
+      "layout": "vertical",
+      "cast": [
+        "liria",
+        "runa",
+        "ordelia"
+      ],
+      "scene": "Líria, fixed two braids chin scar gray/red coat and chained notebook, admits at a table that she opened Runa's control without permission. Runa fixed long STRAIGHT black hair blunt bangs silver septum floral tattoo LEFT ARM, cold hurt expression, not forgiving automatically. Ordelia logs statement. Dramatic vertical panel and small insets of wax seal and written record. No other people.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Abri o frasco. Não avisei quando vi a cor mudar.",
+          "balloon": {
+            "x": 3,
+            "y": 61,
+            "w": 30,
+            "target_x": 8,
+            "target_y": 92
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Repita isso para Ordelia. Não altere a história depois.",
+          "balloon": {
+            "x": 67,
+            "y": 61,
+            "w": 30,
+            "target_x": 94,
+            "target_y": 92
+          }
+        }
+      ]
+    },
+    {
+      "number": 165,
+      "title": "A prova refeita",
+      "time": "Dia 45 · tarde",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "oru",
+        "ilyan"
+      ],
+      "scene": "One week later Runa repeats element project using separately sealed spare control in fixed classroom. Oru observes; Ilyan watches from doorway, clean-shaven with very long WAVY black hair. Runa guides only existing water in a thin channel, visibly tense but precise. One large panel and two small details, no duplicate individuals in same panel.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Esta margem de erro é maior. Ainda é a medida honesta.",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 30,
+            "target_x": 17,
+            "target_y": 38
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "O método segue válido. A comissão decidirá a vaga.",
+          "balloon": {
+            "x": 36,
+            "y": 2,
+            "w": 30,
+            "target_x": 85,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 166,
+      "title": "A grelha",
+      "time": "Dia 46 · tarde",
+      "place": "biblioteca-galeria",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "teren",
+        "runa",
+        "caio"
+      ],
+      "scene": "Heavy rain, water seeps upward through library WEST drain grate. Teren dark-skinned bald gray square beard supervises Ilyan testing iron grate carefully. Runa directs existing water into buckets; Caio leads students away with books. Fixed library geography: WEST barred archive, SOUTH map cabinets, NORTHEAST staircase. No water magically vanishes, no faces covered by art inserts.",
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "Mede a tensão antes de abrir.",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 30,
+            "target_x": 46,
+            "target_y": 21
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Baldes para a piscina. Não para as casas da rua.",
+          "balloon": {
+            "x": 67,
+            "y": 27,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 167,
+      "title": "Responsabilidade",
+      "time": "Dia 47 · manhã",
+      "place": "secretaria",
+      "layout": "duo",
+      "cast": [
+        "liria",
+        "runa",
+        "ordelia"
+      ],
+      "scene": "School academic committee in ordinary room near registry. Líria receives documented suspension from advanced study after confession but retains public classes; Runa is awarded provisional advanced trial with third-party sealed samples. Ordelia records. Distinct same characters, no instant friendship or celebration over rival.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Líria perde este ciclo. O projeto da aldeia segue com equipe independente.",
+          "balloon": {
+            "x": 2,
+            "y": 0,
+            "w": 29,
+          "target_x": 41,
+          "target_y": 18
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Aceito a vaga. Quero ensinar como se invalida uma amostra.",
+          "balloon": {
+            "x": 68,
+            "y": 0,
+            "w": 29,
+          "target_x": 91,
+          "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 168,
+      "title": "Livros abertos",
+      "time": "Dia 47 · tarde",
+      "place": "secretaria",
+      "layout": "asymmetric",
+      "cast": [
+        "maelor",
+        "ordelia",
+        "eda"
+      ],
+      "scene": "Maelor, same 52 short white V-hair olive face dark-green coat copper square ring and three stiff left fingers, formally seeks restriction of old index at EAST registry counter with exactly THREE ledgers. Ordelia refuses blanket closure but redacts vulnerable valve details. Eda municipal surveyor curly short dark hair teal cloak witnesses. Lawful procedural scene, not physical battle.",
+      "lines": [
+        {
+          "speaker": "Maelor",
+          "text": "Mapas de comportas em uso não podem circular sem revisão.",
+          "balloon": {
+            "x": 31,
+            "y": 2,
+            "w": 25,
+            "target_x": 17,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Os detalhes de risco terão controle. Datas e responsáveis, não.",
+          "balloon": {
+            "x": 67,
+            "y": 31,
+            "w": 30,
+            "target_x": 70,
+            "target_y": 54
+          }
+        }
+      ]
+    },
+    {
+      "number": 169,
+      "title": "A margem apagada",
+      "time": "Dia 48 · tarde",
+      "place": "refeitorio",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "avel",
+        "runa"
+      ],
+      "scene": "Public survey meeting at north refectory with E-W oak tables and FOUR moon mural on WEST wall. Adra orc cartographer age31 slate-green skin TWO subtle lower tusks, black braids with shells, scar binding two right-hand fingers, deep blue travel mantle, places missing river landing sites on map. Avel dark-skinned silver braids HIGH bun navy robe; Runa watches. School and river communities visible only as tiny silhouettes. No face cover area top.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Se o mapa não marca nossas balsas, a obra nos apaga sem tocar em tinta.",
+          "balloon": {
+            "x": 68,
+            "y": 2,
+            "w": 29,
+            "target_x": 75,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "Sua correção entra com autoria e custo de reparo.",
+          "balloon": {
+            "x": 19,
+            "y": 2,
+            "w": 30,
+            "target_x": 41,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 170,
+      "title": "O caminho protegido",
+      "time": "Dia 49 · manhã",
+      "place": "patio-treino",
+      "layout": "triptych",
+      "cast": [
+        "ilyan",
+        "sere",
+        "caio"
+      ],
+      "scene": "Fixed east training yard with center chalk circle, targets behind north fence and equipment rack south. Ilyan, 17 clean shaven long WAVY black hair indigo vest, performs guard drill with BLUNT short sword, protects safe exit rather than chasing opponent. Sere dark elf ONE white braid green cloak assesses; Caio short auburn-haired guard waits at edge, not the opponent. Three unequal dynamic panels and open upper space.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Você perdeu a lâmina por um instante. Manteve o caminho seguro.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 30,
+            "target_x": 16,
+            "target_y": 23
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Foi o caminho que eu precisava defender.",
+          "balloon": {
+            "x": 38,
+            "y": 28,
+            "w": 30,
+            "target_x": 57,
+            "target_y": 23
+          }
+        }
+      ]
+    },
+    {
+      "number": 171,
+      "title": "Além dos muros",
+      "time": "Dia 49 · entardecer",
+      "place": "patio-central",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Final arc two sunset in fixed school courtyard circular reflecting pool, four limestone paths, north refectory, south gate. Ilyan has permanent study card in hand, Runa her annotated Junco notebook. They stand together as friends becoming closer, no kiss, both 17, consistent faces. Beyond south wall visible ordinary road toward unnamed river margin. One elegant cinematic panel with small map detail inset and clear top sky for two compact later balloons; no text baked.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Fiquei na Casa. Ainda não encontrei minha mãe.",
+          "balloon": {
+            "x": 3,
+            "y": 15,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 43
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então seguimos medindo. Uma estrada de cada vez.",
+          "balloon": {
+            "x": 67,
+            "y": 15,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 47
+          }
+        }
+      ]
+    }
+  ]
+}

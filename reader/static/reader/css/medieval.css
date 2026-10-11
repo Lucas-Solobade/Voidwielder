@@ -89,6 +89,8 @@
 .twilight-scroll-hint{display:none}
 @media(max-width:600px){.twilight-page-stage{min-width:600px}.twilight-panel-new .twilight-speech{margin:0;width:var(--bubble-w);padding:6px 9px;font-size:.76rem;border-radius:14px}.twilight-page-speech{font-size:.88rem}.twilight-scroll-hint{display:block;color:#c6b79d;font-size:.82rem;margin:12px 0 9px}}
 
+@media(max-width:600px){.twilight-page-stage--wide{min-width:760px}}
+
 /* Lettering follows the emotion while every balloon stays inside its assigned art. */
 .twilight-panel-new .twilight-speech--shout,.twilight-page-speech.twilight-speech--shout{border:3px solid #1a232a;border-radius:6px 15px 5px 14px;padding:8px 12px;background:#fff9e7;box-shadow:4px 4px 0 #d5a04a}
 .twilight-speech--shout::before{content:"";position:absolute;right:-11px;top:-12px;width:21px;height:21px;background:#ffdb76;clip-path:polygon(50% 0,63% 35%,100% 20%,75% 53%,100% 75%,62% 70%,50% 100%,37% 69%,0 80%,25% 50%,0 20%,38% 34%)}

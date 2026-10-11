@@ -13,12 +13,12 @@
   <div class="book-stage" data-book-stage><div class="book-spread" data-book-spread>
     <section class="book-sheet book-sheet-left" data-sheet-left aria-label="Página {{ page.number }}"><div class="book-sheet-inner" data-page-content="left">
       {% if page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ page.chapter_number|stringformat:"02d" }}</span><h1>{{ page.chapter_title }}</h1>{% endif %}
-      {% if page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ page.illustration }}" width="600" height="190" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ page.chapter_number }}"></canvas>{% endif %}
+      {% if page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ page.illustration }}" width="600" height="200" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ page.chapter_number }}"></canvas>{% endif %}
       {% for paragraph in page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}
       {% if not next_page %}<p class="book-endmark">{% if book.complete %}FIM{% else %}FIM DA PARTE DISPONÍVEL · CONTINUA{% endif %}</p>{% endif %}<span class="book-page-number">{{ page.number }}</span>
     </div></section>
     <section class="book-sheet book-sheet-right" data-sheet-right {% if not next_page %}hidden{% endif %} aria-label="Página {% if next_page %}{{ next_page.number }}{% endif %}"><div class="book-sheet-inner" data-page-content="right">
-      {% if next_page %}{% if next_page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ next_page.chapter_number|stringformat:"02d" }}</span><h1>{{ next_page.chapter_title }}</h1>{% endif %}{% if next_page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ next_page.illustration }}" width="600" height="190" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ next_page.chapter_number }}"></canvas>{% endif %}{% for paragraph in next_page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}<span class="book-page-number">{{ next_page.number }}</span>{% endif %}
+      {% if next_page %}{% if next_page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ next_page.chapter_number|stringformat:"02d" }}</span><h1>{{ next_page.chapter_title }}</h1>{% endif %}{% if next_page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ next_page.illustration }}" width="600" height="200" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ next_page.chapter_number }}"></canvas>{% endif %}{% for paragraph in next_page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}<span class="book-page-number">{{ next_page.number }}</span>{% endif %}
     </div></section>
   </div></div>
   <nav class="book-controls section-shell" aria-label="Navegação do livro">

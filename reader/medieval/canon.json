@@ -118,6 +118,24 @@
       "role": "mestre gnomo de magia elemental da Casa das Quatro Luas; exige observação, segurança e humildade antes de qualquer prática de campo",
       "fixed_appearance": "Gnomo ADULTO de cerca de um metro, corpo compacto, pele castanho-quente, olhos âmbar, orelhas pontudas, calva no alto com cabelos prateados curtos nas laterais, barba prateada espessa terminando numa única trança, óculos redondos de cobre e pequena cicatriz de queimadura no dorso da mão direita.",
       "fixed_clothing": "Casaco de ensino verde-musgo com bordado de cobre, túnica creme, cordão bordô na cintura, botas de couro e quatro pedras lisas dos ritmos presas ao cinto."
+    },
+    "liria": {
+      "name": "Líria", "age": 18,
+      "role": "aprendiz de magia de terra transferida da Escola dos Diques; rival acadêmica de Runa",
+      "fixed_appearance": "Humana de pele cobre-oliva, olhos cinza-esverdeados, nariz adunco, cabelo castanho-escuro em DUAS tranças apertadas e cicatriz curta no queixo. Não alterar as tranças, cicatriz ou idade entre cenas.",
+      "fixed_clothing": "Casaco cinza de estudante com costura vermelha; caderno preso por corrente de latão."
+    },
+    "maelor": {
+      "name": "Maelor", "age": 52,
+      "role": "inspetor de canais de Valecobre; antagonista institucional, ainda não condenado",
+      "fixed_appearance": "Humano baixo e delgado de pele oliva pálida, olhos azul-acinzentados, cabelos BRANCOS CURTOS com entrada em V, três dedos rígidos na mão esquerda. Nunca surge como velho de cabelo longo ou guerreiro.",
+      "fixed_clothing": "Casaco verde-escuro de inspetor e anel quadrado de cobre."
+    },
+    "adra": {
+      "name": "Adra", "age": 31,
+      "role": "orc cartógrafa e capitã das balsas do sal",
+      "fixed_appearance": "Orc adulta de pele verde-ardósia, duas presas inferiores discretas, tranças negras presas com conchas e mão direita com dois dedos unidos por cicatriz.",
+      "fixed_clothing": "Manto de viagem de capitã de balsa em azul profundo e couro gasto, mapas enrolados no cinto."
     }
   },
   "places": {
