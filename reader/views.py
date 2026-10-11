@@ -16,6 +16,7 @@ from .medieval_catalog import STORY as MEDIEVAL_STORY
 from .medieval_catalog import get_arc_for_page as medieval_get_arc_for_page
 from .medieval_catalog import page_art as medieval_page_art
 from .medieval_catalog import page_url as medieval_page_url
+from .novel_catalog import NOVEL, get_novel_pages
 from .python_catalog import PARTS as PYTHON_PARTS
 from .python_catalog import PYTHON_BOOK, get_python_lessons, get_python_pages
 from .python_exercises import EXERCISES
@@ -155,6 +156,13 @@ def search(request: HttpRequest) -> HttpResponse:
                 "detail": f"{BOOK['author']} · {BOOK['genre']} · 150 páginas. {BOOK['detail']}",
                 "book_art": True,
             })
+        novel_text = f"{NOVEL['title']} {NOVEL['subtitle']} {NOVEL['genre']} {NOVEL['detail']} {NOVEL['topics']}".casefold()
+        if not query or query.casefold() in novel_text:
+            results.append({
+                "kind": "Romance em produção", "title": NOVEL["title"], "url": NOVEL["url"],
+                "detail": f"{NOVEL['chapter_count']} capítulos · {NOVEL['page_count']} páginas escritas · gravuras em preto e branco. {NOVEL['detail']}",
+                "novel_art": True,
+            })
         linux_text = f"{LINUX_BOOK['title']} {LINUX_BOOK['detail']} {LINUX_BOOK['topics']}".casefold()
         if not query or query.casefold() in linux_text:
             results.append({
@@ -292,6 +300,30 @@ def read_book(request: HttpRequest, page: int) -> HttpResponse:
 
 
 @require_GET
+def novel_detail(request: HttpRequest) -> HttpResponse:
+    pages = get_novel_pages()
+    return render(request, "reader/novel_detail.html", {
+        "book": NOVEL,
+        "illustration_count": sum(page.illustration is not None for page in pages),
+    })
+
+
+@require_GET
+def read_novel(request: HttpRequest, page: int) -> HttpResponse:
+    pages = get_novel_pages()
+    if not 1 <= page <= len(pages):
+        raise Http404("Página não encontrada")
+    return render(request, "reader/novel_read.html", {
+        "book": NOVEL,
+        "page": pages[page - 1],
+        "next_page": pages[page] if page < len(pages) else None,
+        "previous_number": page - 1 if page > 1 else None,
+        "next_number": page + 1 if page < len(pages) else None,
+        "chapter_starts": [item for item in pages if item.chapter_start],
+    })
+
+
+@require_GET
 def linux_detail(request: HttpRequest) -> HttpResponse:
     return render(request, "reader/linux_detail.html", {
         "book": LINUX_BOOK, "parts": list(enumerate(PARTS, start=1)),
@@ -410,6 +442,8 @@ def sitemap(request: HttpRequest) -> HttpResponse:
     urls.append(request.build_absolute_uri(reverse("reader:playground")))
     urls.append(request.build_absolute_uri(reverse("reader:book_detail")))
     urls.extend(request.build_absolute_uri(reverse("reader:read_book", args=(page,))) for page in range(1, 151))
+    urls.append(request.build_absolute_uri(reverse("reader:novel_detail")))
+    urls.extend(request.build_absolute_uri(reverse("reader:read_novel", args=(page,))) for page in range(1, NOVEL["page_count"] + 1))
     urls.append(request.build_absolute_uri(reverse("reader:linux_detail")))
     urls.extend(request.build_absolute_uri(reverse("reader:read_linux", args=(page,))) for page in range(1, LINUX_BOOK["page_count"] + 1))
     urls.append(request.build_absolute_uri(reverse("reader:python_detail")))

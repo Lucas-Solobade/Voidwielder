@@ -1,0 +1,27 @@
+{% extends 'reader/base.html' %}{% load static %}
+{% block title %}{{ book.title }} · Livros · Voidwielder{% endblock %}
+{% block description %}{{ book.detail }}{% endblock %}
+{% block og_title %}{{ book.title }} · Voidwielder{% endblock %}
+{% block og_description %}{{ book.detail }}{% endblock %}
+{% block og_image %}{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/novel.css' %}?v=2">{% endblock %}
+{% block content %}
+<article class="book-detail novel-detail section-shell">
+  <a class="book-back" href="{% url 'reader:search' %}?tipo=livros">← Livros</a>
+  <div class="book-detail-grid">
+    <div class="book-cover-wrap"><canvas class="book-cover" data-novel-art="cover" width="480" height="720" role="img" aria-label="Capa ilustrada em preto e branco de As Estradas do Crepúsculo"></canvas></div>
+    <div class="book-detail-copy">
+      <p class="eyebrow">Romance original · Fantasia medieval</p>
+      <h1>{{ book.title }}</h1>
+      <p class="book-byline">{{ book.subtitle }}</p>
+      <p class="book-deck">Uma espada sem fio. Uma mãe desaparecida. Uma porta que só existe quando quatro espelhos fazem a luz chegar de todos os lados.</p>
+      <p>{{ book.detail }} A história acompanha a HQ desde Pedra-Mansa e servirá de referência para os próximos arcos.</p>
+      <div class="book-facts"><span>Romance em andamento</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
+      {% if not book.complete %}<p class="novel-progress-note">Romance em produção. A meta editorial é de {{ book.target_pages }} páginas; a leitura abaixo contém apenas as páginas já escritas e revisadas.</p>{% endif %}
+      <a class="book-primary" href="{% url 'reader:read_novel' 1 %}">Começar a ler <span aria-hidden="true">→</span></a>
+      <a class="book-resume" data-novel-resume hidden href="{% url 'reader:read_novel' 1 %}">Retomar leitura</a>
+    </div>
+  </div>
+</article>
+{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=1"></script>{% endblock %}

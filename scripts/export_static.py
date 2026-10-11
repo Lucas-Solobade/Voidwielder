@@ -27,6 +27,7 @@ from reader.medieval_catalog import PAGES as MEDIEVAL_PAGES  # noqa: E402
 from reader.medieval_catalog import SERIES_URL as MEDIEVAL_SERIES_URL  # noqa: E402
 from reader.medieval_catalog import STORY as MEDIEVAL_STORY  # noqa: E402
 from reader.medieval_catalog import page_url as medieval_page_url  # noqa: E402
+from reader.novel_catalog import NOVEL, get_novel_pages  # noqa: E402
 from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
 from reader.python_exercises import EXERCISES  # noqa: E402
 from reader.study_catalog import STUDY_PROJECTS  # noqa: E402
@@ -58,6 +59,16 @@ def write_book_data() -> Path:
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(
         json.dumps([page.as_json() for page in get_book_pages()], ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    return destination
+
+
+def write_novel_data() -> Path:
+    destination = STATIC_SOURCE / "book" / "estradas-crepusculo" / "pages.json"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        json.dumps([page.as_json() for page in get_novel_pages()], ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
     return destination
@@ -122,6 +133,10 @@ def build_catalog() -> list[dict[str, str | int]]:
         "category": "livros", "kind": "Livro", "title": BOOK["title"],
         "detail": f"{BOOK['author']} · {BOOK['genre']} · 150 páginas. {BOOK['detail']}",
         "url": BOOK["url"], "topics": BOOK["topics"], "book_art": True,
+    }, {
+        "category": "livros", "kind": "Romance em produção", "title": NOVEL["title"],
+        "detail": f"{NOVEL['chapter_count']} capítulos · {NOVEL['page_count']} páginas escritas · gravuras em preto e branco. {NOVEL['detail']}",
+        "url": NOVEL["url"], "topics": NOVEL["topics"], "novel_art": True,
     }, {
         "category": "livros", "kind": "Livro didático", "title": LINUX_BOOK["title"],
         "detail": f"13 partes · 78 lições · {LINUX_BOOK['page_count']} páginas. {LINUX_BOOK['detail']}",
@@ -193,6 +208,7 @@ def build_catalog() -> list[dict[str, str | int]]:
 
 def main() -> None:
     write_book_data()
+    write_novel_data()
     write_linux_data()
     write_python_data()
     write_web_data()
@@ -200,6 +216,12 @@ def main() -> None:
     DIST_DIR.mkdir()
     shutil.copytree(
         STATIC_SOURCE, DIST_DIR / "static" / "reader", ignore=shutil.ignore_patterns("*.png")
+    )
+    # The novel's ink plates are used by Canvas and intentionally shipped.
+    shutil.copytree(
+        STATIC_SOURCE / "images" / "novel",
+        DIST_DIR / "static" / "reader" / "images" / "novel",
+        dirs_exist_ok=True,
     )
     # Standalone experiments share the same public origin and must survive a full rebuild.
     experiences = BASE_DIR / "experiencias"
@@ -212,6 +234,8 @@ def main() -> None:
     routes.extend(medieval_page_url(page["number"]) for page in MEDIEVAL_PAGES)
     routes.append(BOOK["url"])
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
+    routes.append(NOVEL["url"])
+    routes.extend(f"{NOVEL['url']}ler/{page}/" for page in range(1, NOVEL["page_count"] + 1))
     routes.append(LINUX_BOOK["url"])
     routes.extend(f"{LINUX_BOOK['url']}ler/{page}/" for page in range(1, LINUX_BOOK["page_count"] + 1))
     routes.append(PYTHON_BOOK["url"])
