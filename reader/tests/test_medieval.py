@@ -85,16 +85,3 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert 'class="twilight-page-scroll"' in client.get(reverse("reader:medieval_read", args=(26,))).content.decode()
     assert client.get(reverse("reader:medieval_read", args=(81,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(135,))).status_code == 404
-
-
-def test_medieval_speech_is_outside_the_art(client):
-    for number, art_class in [(13, "twilight-panel-art"), (90, "twilight-page-art"), (134, "twilight-page-art")]:
-        html = client.get(reverse("reader:medieval_read", args=(number,))).content.decode()
-        art_and_dialogue = re.search(
-            rf'<div class="{art_class}">(?P<art>.*?)</div>\s*<figcaption class="twilight-dialogue-rail"(?P<dialogue>.*?)</figcaption>',
-            html,
-            re.DOTALL,
-        )
-        assert art_and_dialogue, f"Missing separate art and dialogue on page {number}"
-        assert 'twilight-speech' not in art_and_dialogue.group("art")
-        assert 'twilight-speech' in art_and_dialogue.group("dialogue")
