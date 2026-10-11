@@ -1654,21 +1654,21 @@
           "text": "O moinho do Junco encontrou limalha vermelha na água.",
           "balloon": {
             "x": 3,
-            "y": 3,
-            "w": 41,
-            "target_x": 25,
-            "target_y": 53
+            "y": 59,
+            "w": 40,
+            "target_x": 31,
+            "target_y": 55
           }
         },
         {
           "speaker": "Avel",
           "text": "Levantaremos os dois canais. A pergunta cresceu.",
           "balloon": {
-            "x": 55,
-            "y": 3,
-            "w": 41,
-            "target_x": 76,
-            "target_y": 53
+            "x": 56,
+            "y": 60,
+            "w": 40,
+            "target_x": 85,
+            "target_y": 56
           }
         }
       ]

@@ -7,7 +7,7 @@ from reader.medieval_catalog import ARCS, CANON, PAGES, STORY, page_art
 
 
 def test_medieval_canon_and_page_sequence():
-    assert [page["number"] for page in PAGES] == list(range(1, 135))
+    assert [page["number"] for page in PAGES] == list(range(1, 150))
     assert all(len(page["panels"]) == 3 for page in PAGES[:25])
     assert len({page["layout"] for page in PAGES[25:]}) >= 5
     assert all(set(page["cast"]) <= set(CANON["characters"]) for page in PAGES)
@@ -27,7 +27,7 @@ def test_medieval_canon_and_page_sequence():
     assert [int(re.search(r"Dia (\d+)", page["time"]).group(1)) for page in PAGES[25:]] == sorted(
         int(re.search(r"Dia (\d+)", page["time"]).group(1)) for page in PAGES[25:]
     )
-    assert [number for chapter in ARCS[1]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(26, 135))
+    assert [number for chapter in ARCS[1]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(26, 150))
     assert "runa" not in PAGES[33]["cast"]
     assert "runa" in PAGES[34]["cast"]
     assert all(
@@ -68,11 +68,11 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert STORY["arc"]["title"] in detail.content.decode()
     assert ARCS[1]["title"] in detail.content.decode()
     assert arc.content.decode().count('class="twilight-page-card"') == 25
-    assert arc2.content.decode().count('class="twilight-page-card"') == 109
+    assert arc2.content.decode().count('class="twilight-page-card"') == 124
     assert arc2.content.decode().count('data-episode-tab') == len(ARCS[1]["chapters"])
 
     first = client.get(reverse("reader:medieval_read", args=(1,)))
-    last = client.get(reverse("reader:medieval_read", args=(134,)))
+    last = client.get(reverse("reader:medieval_read", args=(149,)))
     assert first.status_code == last.status_code == 200
     assert first.content.decode().count('class="twilight-panel twilight-panel-') == 3
     assert 'rel="next"' in first.content.decode()
@@ -84,4 +84,4 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert 'rel="next"' in transition
     assert 'class="twilight-page-scroll"' in client.get(reverse("reader:medieval_read", args=(26,))).content.decode()
     assert client.get(reverse("reader:medieval_read", args=(81,))).status_code == 200
-    assert client.get(reverse("reader:medieval_read", args=(135,))).status_code == 404
+    assert client.get(reverse("reader:medieval_read", args=(150,))).status_code == 404

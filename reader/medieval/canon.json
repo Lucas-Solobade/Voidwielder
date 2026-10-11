@@ -107,6 +107,12 @@
       "fixed_appearance": "Humano de pele castanha clara, cabelo cinza curto, barba cinza espessa e órtese de metal no joelho ESQUERDO.",
       "fixed_clothing": "Roupas de trabalho cor de arenito, cinturão de ferramentas."
     },
+    "eda": {
+      "name": "Eda", "age": 38,
+      "role": "agente municipal de medição enviada com salvo-conduto limitado à equipe do Junco",
+      "fixed_appearance": "Humana de pele castanha quente, rosto oval de feições firmes, olhos castanhos e cabelo castanho-escuro curto cacheado, preso para trás quando molhado pela chuva.",
+      "fixed_clothing": "Capa de viagem azul-petróleo sobre roupa de agrimensora e bastão de escala de madeira. Não usa uniforme da Guarda nem assume autoridade sobre Sere."
+    },
     "oru": {
       "name": "Oru", "age": 68,
       "role": "mestre gnomo de magia elemental da Casa das Quatro Luas; exige observação, segurança e humildade antes de qualquer prática de campo",
@@ -136,7 +142,9 @@
     "anexo-exterior": "Fora do muro oeste, base do anexo com tampa de manutenção do canal; só pedreiro licenciado pode abrir alvenaria. A porta de carvalho permanece trancada nas vistorias.",
     "sala-elementos": "Térreo a nordeste do pátio central, entre o refeitório e o caminho do pátio de treino. Porta SUL, janelas altas NORTE, mesa quadrada de quatro pedras no centro, calha rasa de água na parede LESTE, caixa de areia a OESTE e braseiro protegido ao NORTE. Oru ensina aqui; nenhum aluno maneja chama sem a proteção de areia.",
     "colina-norte": "Subida exterior ao norte da biblioteca, alcançada por caminho de calcário a partir do pátio central. Estacas de medição marcam a faixa segura; abaixo delas há antiga tampa de inspeção de metal, que permanece fechada nas páginas 89–90. Casas baixas de Valecobre ficam além da base da colina.",
-    "torre-rele": "Torre de medição ao norte da colina, alcançada por trilha de calcário fora do muro. Porta oeste, escada interna em espiral e janela superior voltada para os canais de Valecobre e Vale do Junco. A entrada fica fechada até a licença municipal da página 126; Beren inspeciona alvenaria e Sere mantém a linha segura."
+    "torre-rele": "Torre de medição ao norte da colina, alcançada por trilha de calcário fora do muro. Porta oeste, escada interna em espiral e janela superior voltada para os canais de Valecobre e Vale do Junco. A entrada fica fechada até a licença municipal da página 126; Beren inspeciona alvenaria e Sere mantém a linha segura.",
+    "estrada-norte": "Estrada pública ao norte de Valecobre; primeira parada junto às carroças de fibra de junco, segunda parada no mercado de beira de via, depois passagem alta de pedra em torno da margem enlameada. Nenhum atalho mágico liga a escola ao vilarejo.",
+    "vale-do-junco": "Vilarejo natal de Runa após a estrada norte; casas sobre estacas, tanques de pigmento e moinho junto ao canal. Marca de nível antiga fica perto da junta; só o responsável local pode autorizar abertura da comporta."
   },
   "magic_rules": [
     "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
@@ -155,7 +163,9 @@
     "A pista sob a colina norte autoriza apenas levantamento externo nas páginas 89–90, com Sere e Oru. A tampa de inspeção fica fechada. A ausência do índice de Mira segue em auditoria, sem culpado identificado.",
     "Nima volta a Pedra-Mansa na página 32. Nas artes das páginas 90–91, quem examina a tampa e registra medidas é Caio, humano adulto de cabelo castanho-avermelhado curto, sem gorro nem óculos mecânicos. Nima só se comunica depois por cartas comuns.",
     "Beren abre a tampa apenas com licença e supervisão de Sere nas páginas 95–101; alunos registram sem tocar na alvenaria. A peça em forma de cunha encontrada ali é guardada com recibo, sem prova de autoria.",
-    "A torre de medição só é aberta após a licença municipal; uma nota copiada de Mira tem dois invernos, mas a cunha atual é posterior. A mensagem do Vale do Junco na página 134 é aviso, não solução do mistério."
+    "A torre de medição só é aberta após a licença municipal; uma nota copiada de Mira tem dois invernos, mas a cunha atual é posterior. A mensagem do Vale do Junco na página 134 é aviso, não solução do mistério.",
+    "A carta física de Junco foi selada no dia 12 e chegou no dia 15. O aviso antecede a retirada da cunha de Valecobre no dia 13; sem comparação de amostras, ninguém afirma uma origem comum. A segunda folha chega no dia 16 por correio comum.",
+    "Ilyan escolhe viajar como auxiliar autorizado ao Junco, sabendo que faltará à avaliação provisória da Guarda no dia 18. Sere lidera; a agente municipal mede; ninguém abre a comporta sem licença local. Nima permanece em Pedra-Mansa e recebe notícias só por carta comum."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
@@ -180,11 +190,14 @@
     "Dia 13, alvorada: páginas 89–90 — Sere e Oru acompanham medição externa na colina; a tampa continua fechada; vestígios recentes e mudança de fluxo apontam uma intervenção atual, ainda sem autor identificado.",
     "Dia 13: páginas 91–104 — relatório a Avel, aviso às casas baixas, Beren abre sob licença a tampa, o grupo registra cunha e desvio, alívio controlado da água, lacre e relato público.",
     "Dia 14: páginas 105–122 — conferência de livros, turnos da forja, reconciliação gradual, aula elemental de Oru, Runa demonstra domínio de água e terra, carta de Nima e hipótese da torre de medição.",
-    "Dia 15: páginas 123–134 — chuva, espera da licença municipal, vistoria de Beren, abertura autorizada da torre, nota antiga de Mira, diferença entre marcas e chegada de uma mensagem comum do Vale do Junco. O arco permanece em andamento."
+    "Dia 15: páginas 123–134 — chuva, espera da licença municipal, vistoria de Beren, abertura autorizada da torre, nota antiga de Mira, diferença entre marcas e chegada de uma mensagem comum do Vale do Junco. O arco permanece em andamento.",
+    "Dias 15–16: páginas 135–144 — registro da carta do Junco, segunda folha, amostras, conflito com a prova do dia 18, permissão limitada e carta de Ilyan a Nima.",
+    "Dias 17–18: páginas 145–149 — equipe de quatro parte pelo portão sul, distingue testemunhos de hipóteses, atravessa a estrada pública e chega ao canal de Junco para medir. Mistério e arco 2 continuam."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
     "Toda fala de personagem deve ter balão legível com cauda apontando ao personagem correto. A narração pode usar caixa própria sem balão. Planejar espaço livre na arte antes de posicionar texto.",
-    "Preservar a fisionomia registrada em canon.json e nas fichas visuais, a geografia de cada cena, o tempo e a continuidade de objetos entre quadros."
+    "Preservar a fisionomia registrada em canon.json e nas fichas visuais, a geografia de cada cena, o tempo e a continuidade de objetos entre quadros.",
+    "Jamais sobrepor balões a olhos, boca, rosto ou expressão de qualquer personagem. Conferir cada página renderizada em desktop e celular; a cauda precisa indicar a pessoa que diz a fala."
   ]
 }

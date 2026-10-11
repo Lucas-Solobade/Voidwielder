@@ -8,11 +8,12 @@ STORY = json.loads((STORY_DIR / "story.json").read_text(encoding="utf-8"))
 ARC_TWO = json.loads((STORY_DIR / "arc2.json").read_text(encoding="utf-8"))
 ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-81-90.json").read_text(encoding="utf-8"))["pages"])
 ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-91-134.json").read_text(encoding="utf-8"))["pages"])
+ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-135-149.json").read_text(encoding="utf-8"))["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
 def page_art(number: int) -> str:
-    extension = "svg" if number >= 133 else "webp"
+    extension = "svg" if 133 <= number <= 134 else "webp"
     return f"reader/images/medieval/page-{number:02}.{extension}"
 
 

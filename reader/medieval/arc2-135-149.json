@@ -1,0 +1,539 @@
+{
+  "pages": [
+    {
+      "number": 135,
+      "title": "O selo do moinho",
+      "time": "Dia 15 fim da tarde",
+      "place": "torre-rele",
+      "layout": "duo",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Still inside the licensed north relay tower. Runa holds the real paper courier letter from Vale do Junco in her hands; Ilyan listens. They decide to take the dated message to Ordelia, without assuming the red filings prove sabotage.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Reconheço o selo. Veio do moinho da minha família.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 27,
+            "target_x": 32,
+            "target_y": 43
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vamos conferir a data antes de dar nome a essa limalha.",
+          "balloon": {
+            "x": 74,
+            "y": 41,
+            "w": 23,
+            "target_x": 76,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 136,
+      "title": "Três dias de estrada",
+      "time": "Dia 15 noite",
+      "place": "secretaria",
+      "layout": "duo",
+      "cast": [
+        "runa",
+        "ordelia"
+      ],
+      "scene": "From the relay tower they return by the limestone path through the south gate. At her east-facing registry counter Ordelia compares the courier seal with her ledger: the letter was sealed on day 12 and arrived on day 15. Runa holds the same paper letter.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Selada no dia doze. Foram três dias de correio.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 27,
+            "target_x": 36,
+            "target_y": 42
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então o aviso precede a cunha retirada ontem.",
+          "balloon": {
+            "x": 71,
+            "y": 3,
+            "w": 26,
+            "target_x": 75,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 137,
+      "title": "A ordem dos fatos",
+      "time": "Dia 15 noite",
+      "place": "secretaria",
+      "layout": "asymmetric",
+      "cast": [
+        "avel",
+        "ilyan"
+      ],
+      "scene": "At the registry ledger Avel separates the day-12 Junco report from Beren's removal of a new wedge on day 13 at Valecobre. Ilyan copies both dates onto a survey map. Temporal order rules out a hasty causal claim but identifies no culprit.",
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "A cunha retirada ontem não causou o aviso do dia doze.",
+          "balloon": {
+            "x": 68,
+            "y": 39,
+            "w": 29,
+            "target_x": 73,
+            "target_y": 33
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou marcar cada data. Ainda podem ser problemas distintos.",
+          "balloon": {
+            "x": 2,
+            "y": 27,
+            "w": 31,
+            "target_x": 30,
+            "target_y": 21
+          }
+        }
+      ]
+    },
+    {
+      "number": 138,
+      "title": "A segunda folha",
+      "time": "Dia 16 manhã",
+      "place": "secretaria",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "scene": "A second ordinary courier sheet, dispatched before the first arrived, reaches the registry next morning. Sere reads that the Junco canal rose for hours then receded; no one was hurt, but grain was moved to high storage. Runa studies the mill marks on the report.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "A água subiu e recuou. Ninguém se feriu.",
+          "balloon": {
+            "x": 36,
+            "y": 2,
+            "w": 27,
+            "target_x": 26,
+            "target_y": 37
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Moveram os sacos para o alto. Precisam das medidas.",
+          "balloon": {
+            "x": 70,
+            "y": 2,
+            "w": 27,
+            "target_x": 76,
+            "target_y": 32
+          }
+        }
+      ]
+    },
+    {
+      "number": 139,
+      "title": "As cores da água",
+      "time": "Dia 16 tarde",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "In the Elements classroom Runa prepares existing pigment and iron samples from her family's dated notebooks, without magic creating matter. Ilyan carries half the wooden sample box while she keeps the other half. Their practical trust deepens; the reddish filings remain unidentified.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Pode ser ferro, tinta ou resíduo de oficina. Ainda não sei.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 23,
+            "target_x": 34,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Fico com metade da caixa. Você leva a outra.",
+          "balloon": {
+            "x": 68,
+            "y": 30,
+            "w": 29,
+            "target_x": 70,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 140,
+      "title": "A data da prova",
+      "time": "Dia 16 tarde",
+      "place": "secretaria",
+      "layout": "vertical",
+      "cast": [
+        "ordelia",
+        "ilyan"
+      ],
+      "scene": "Ordelia shows Ilyan the registry calendar. His provisional Guard evaluation is on day 18, the day the approved field party could arrive at Junco. Missing it will be recorded, not automatically excused.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Sua prova é no dia dezoito. A equipe chegaria ao Junco nesse dia.",
+          "balloon": {
+            "x": 3,
+            "y": 8,
+            "w": 29,
+            "target_x": 33,
+            "target_y": 42
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Se eu for, a falta será minha. Entendi.",
+          "balloon": {
+            "x": 69,
+            "y": 8,
+            "w": 28,
+            "target_x": 72,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 141,
+      "title": "O pino de Junco",
+      "time": "Dia 16 fim da tarde",
+      "place": "forja-leste",
+      "layout": "vertical",
+      "cast": [
+        "beren",
+        "ilyan"
+      ],
+      "scene": "At the school's east forge, Beren shows a drawing of the cold-worked auxiliary mill latch. Beren could inspect it but his LEFT braced knee makes the muddy journey slow; Teren must remain at the school's forge. Ilyan can assist in identifying deformation, not command or remove the latch.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "O pino exige olho de forja. Meu joelho atrasaria a viagem.",
+          "balloon": {
+            "x": 70,
+            "y": 2,
+            "w": 27,
+            "target_x": 72,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Posso examiná-lo sem abrir a trava.",
+          "balloon": {
+            "x": 2,
+            "y": 31,
+            "w": 28,
+            "target_x": 42,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 142,
+      "title": "Auxiliar, não comandante",
+      "time": "Dia 16 fim da tarde",
+      "place": "portao-sul",
+      "layout": "duo",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "At the ordinary south gate Sere gives Ilyan a limited written permit. The city authorizes measurement and exchange of reports only. He may assist with metal inspection, record every tool and obey evacuation orders; opening any mill mechanism requires local permission.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Vai como auxiliar. Nada se abre sem licença local.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 28,
+            "target_x": 27,
+            "target_y": 44
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Anotarei cada toque. E voltarei à primeira ordem.",
+          "balloon": {
+            "x": 70,
+            "y": 3,
+            "w": 27,
+            "target_x": 69,
+            "target_y": 45
+          }
+        }
+      ]
+    },
+    {
+      "number": 143,
+      "title": "A escolha de Ilyan",
+      "time": "Dia 16 noite",
+      "place": "patio-central",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Beside the courtyard's circular reflecting pool Ilyan admits to Runa that joining the field party means missing the Guard evaluation and risking his provisional bed. Runa does not ask him to sacrifice it for her. He makes his own choice; neither treats the filings as proved sabotage.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não quero que perca a vaga por minha causa.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 29,
+            "target_x": 25,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A decisão é minha. E ainda podemos estar errados.",
+          "balloon": {
+            "x": 54,
+            "y": 11,
+            "w": 29,
+            "target_x": 44,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 144,
+      "title": "Carta para a estrada",
+      "time": "Dia 16 noite",
+      "place": "dormitorio-cedro",
+      "layout": "duo",
+      "cast": [
+        "ilyan"
+      ],
+      "scene": "Alone in his Cedar dorm room Ilyan writes a physical letter to Nima in Pedra-Mansa, asking her to inform his father Bram of the limited field journey. He states clearly that Junco's filings and Valecobre's wedge may be unrelated. Nima remains at home and appears only as the letter's addressee, never in the room.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Nima, parto amanhã como auxiliar. Avise meu pai.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 31,
+            "target_x": 37,
+            "target_y": 40,
+            "kind": "thought"
+          }
+        }
+      ]
+    },
+    {
+      "number": 145,
+      "title": "Quatro na estrada",
+      "time": "Dia 17 manhã",
+      "place": "portao-sul",
+      "layout": "wide",
+      "cast": [
+        "sere",
+        "runa",
+        "ilyan",
+        "eda"
+      ],
+      "scene": "At the common south gate Sere, Runa, Ilyan and one unnamed adult city surveyor depart on foot with provisions for two nights and a limited safe-conduct. Avel stays to coordinate the north relay; Caio and Oru remain to measure Valecobre. Runa points out the ordinary public road to her village on a map.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Quatro viajantes. Duas noites de provisões. Não nos separaremos.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 31,
+            "target_x": 26,
+            "target_y": 21
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A estrada passa pela estalagem antes dos moinhos.",
+          "balloon": {
+            "x": 37,
+            "y": 2,
+            "w": 30,
+            "target_x": 44,
+            "target_y": 22
+          }
+        }
+      ]
+    },
+    {
+      "number": 146,
+      "title": "Fibras do Junco",
+      "time": "Dia 17 tarde",
+      "place": "estrada-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "scene": "At the first roadside stop a passing elven family takes reed fibers from Junco toward Valecobre. Runa recognizes their trade, but they left before the latest canal rise. Sere records their travel hour; no one invents facts they could not have seen.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Partiram antes da cheia. Não viram o nível de hoje.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 30,
+            "target_x": 26,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Conhecem o junco, não a água desta manhã.",
+          "balloon": {
+            "x": 40,
+            "y": 2,
+            "w": 30,
+            "target_x": 44,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 147,
+      "title": "Uma hipótese à beira da via",
+      "time": "Dia 17 anoitecer",
+      "place": "estrada-norte",
+      "layout": "vertical",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "At a public roadside market an orc vendor reports that Junco's water rose and suspects an upstream gate. Sere records the vendor's time and place as testimony, not a proved cause. Ilyan watches the ordinary road and the rain approaching.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Comporta a montante é hipótese. Registrei onde ela viu a água.",
+          "balloon": {
+            "x": 3,
+            "y": 20,
+            "w": 30,
+            "target_x": 26,
+            "target_y": 47
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "As explicações mudam mais depressa que a estrada.",
+          "balloon": {
+            "x": 38,
+            "y": 14,
+            "w": 30,
+            "target_x": 55,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 148,
+      "title": "Passagem de pedra",
+      "time": "Dia 18 manhã",
+      "place": "estrada-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "runa",
+        "ilyan",
+        "eda"
+      ],
+      "scene": "After an overnight stop the four travelers continue through rain on day 18. A muddy low section is unstable; Sere leads the party by a safe higher stone path rather than risk the bank. Runa keeps her dry pigment samples, Ilyan carries the tool case, and the surveyor follows. The school and Junco are separate places reached on foot.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "A margem baixa cedeu. Subimos pela pedra.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 28,
+            "target_x": 85,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Depois daquela curva já vemos o vale.",
+          "balloon": {
+            "x": 24,
+            "y": 2,
+            "w": 28,
+            "target_x": 52,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 149,
+      "title": "A marca antiga",
+      "time": "Dia 18 tarde",
+      "place": "vale-do-junco",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "sere",
+        "ilyan",
+        "eda"
+      ],
+      "scene": "The four travelers reach Vale do Junco by its public road. Runa recognizes stilted houses, dye tanks and mills. The local canal keeper urgently requests a measurement before the evening water rises. Sere presents the limited safe-conduct; the city surveyor sets a new scale next to the old mark while Ilyan only visually checks its iron fitting. The cause of the dark grains remains unknown; the arc continues.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O moinho ainda trabalha. Mas a água já toca a marca antiga.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 30,
+            "target_x": 17,
+            "target_y": 23
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Medimos primeiro. Ninguém toca na comporta.",
+          "balloon": {
+            "x": 33,
+            "y": 2,
+            "w": 29,
+            "target_x": 36,
+            "target_y": 26
+          }
+        }
+      ]
+    }
+  ]
+}
