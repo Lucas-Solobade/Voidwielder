@@ -19,7 +19,7 @@
           "text": "Sem índice, ninguém toca a colina. Primeiro, aprendam a medir.",
           "balloon": {
             "x": 3,
-            "y": 26,
+            "y": 3,
             "w": 42,
             "target_x": 70,
             "target_y": 13
@@ -30,7 +30,7 @@
           "text": "Oru pode nos ensinar a ouvir a água sem mexer no canal.",
           "balloon": {
             "x": 55,
-            "y": 26,
+            "y": 40,
             "w": 41,
             "target_x": 25,
             "target_y": 72
@@ -190,7 +190,7 @@
           "text": "Ela percebeu a curva antes da água.",
           "balloon": {
             "x": 55,
-            "y": 84,
+            "y": 91,
             "w": 41,
             "target_x": 24,
             "target_y": 74,
@@ -240,7 +240,7 @@
           "text": "Respire comigo. O pulso dela não é seu inimigo.",
           "balloon": {
             "x": 55,
-            "y": 84,
+            "y": 89,
             "w": 41,
             "target_x": 23,
             "target_y": 75
@@ -268,7 +268,7 @@
           "text": "Se esta inclinação for real, a água corre para as casas baixas.",
           "balloon": {
             "x": 3,
-            "y": 28,
+            "y": 37,
             "w": 41,
             "target_x": 23,
             "target_y": 16
@@ -279,7 +279,7 @@
           "text": "O mapa antigo não mostra essa curva.",
           "balloon": {
             "x": 55,
-            "y": 28,
+            "y": 45,
             "w": 41,
             "target_x": 57,
             "target_y": 15
@@ -317,33 +317,33 @@
           "speaker": "Avel",
           "text": "Amanhã, Sere e Oru acompanham vocês. Só a superfície.",
           "balloon": {
-            "x": 3,
-            "y": 27,
+            "x": 45,
+            "y": 4,
             "w": 41,
-            "target_x": 76,
-            "target_y": 17
+            "target_x": 64,
+            "target_y": 24
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Se as casas correm risco, avisamos antes de buscar respostas sobre Mira.",
           "balloon": {
-            "x": 55,
-            "y": 27,
+            "x": 3,
+            "y": 15,
             "w": 41,
-            "target_x": 24,
-            "target_y": 50
+            "target_x": 20,
+            "target_y": 33
           }
         },
         {
           "speaker": "Runa",
           "text": "Vou marcar o fluxo sem alterar as pedras.",
           "balloon": {
-            "x": 55,
-            "y": 84,
-            "w": 41,
-            "target_x": 76,
-            "target_y": 76
+            "x": 56,
+            "y": 92,
+            "w": 40,
+            "target_x": 85,
+            "target_y": 78
           }
         }
       ]
@@ -367,10 +367,10 @@
           "text": "Você me olhou a aula toda. Era o feitiço ou eu?",
           "balloon": {
             "x": 3,
-            "y": 27,
+            "y": 3,
             "w": 41,
-            "target_x": 33,
-            "target_y": 17
+            "target_x": 39,
+            "target_y": 26
           }
         },
         {
@@ -378,10 +378,10 @@
           "text": "A precisão. E... quem teve paciência para ensiná-la.",
           "balloon": {
             "x": 55,
-            "y": 27,
+            "y": 3,
             "w": 41,
-            "target_x": 63,
-            "target_y": 17
+            "target_x": 60,
+            "target_y": 27
           }
         },
         {
@@ -389,21 +389,21 @@
           "text": "Boa resposta. Quase.",
           "balloon": {
             "x": 3,
-            "y": 83,
-            "w": 41,
-            "target_x": 24,
-            "target_y": 72
+            "y": 91,
+            "w": 36,
+            "target_x": 21,
+            "target_y": 69
           }
         },
         {
           "speaker": "Tovo",
           "text": "E o meu pão? Ninguém admira?",
           "balloon": {
-            "x": 55,
-            "y": 83,
-            "w": 41,
-            "target_x": 77,
-            "target_y": 72
+            "x": 60,
+            "y": 91,
+            "w": 36,
+            "target_x": 85,
+            "target_y": 71
           }
         }
       ]
@@ -440,7 +440,7 @@
           "text": "A água reaparece sob aquela pedra.",
           "balloon": {
             "x": 55,
-            "y": 27,
+            "y": 40,
             "w": 41,
             "target_x": 58,
             "target_y": 17

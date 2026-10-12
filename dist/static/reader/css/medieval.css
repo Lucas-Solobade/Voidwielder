@@ -99,3 +99,13 @@
 .twilight-panel-new .twilight-speech--whisper,.twilight-page-speech.twilight-speech--whisper{border-style:dashed;box-shadow:none}
 .twilight-speech--whisper span{font-style:italic}
 @media(max-width:600px){.twilight-panel.twilight-panel-new.twilight-panel-dialogue{overflow-x:auto;overflow-y:hidden}.twilight-panel-new.twilight-panel-dialogue .twilight-panel-art{width:680px;min-width:680px}}
+
+/* Scale lettering with its drawing so a narrow viewport cannot grow a balloon
+   into a face. The scrollable canvas keeps the scaled type readable. */
+.twilight-page-stage{container-type:inline-size;min-width:760px}
+.twilight-page-speech{font-size:1.952cqw;padding:1.089cqw 1.634cqw;border-width:.218cqw;border-radius:1.961cqw 1.961cqw 1.743cqw 1.743cqw}
+.twilight-page-speech.twilight-speech--thought{padding:1.307cqw 1.852cqw}
+.twilight-page-speech.twilight-speech--shout{padding:.871cqw 1.307cqw;border-width:.327cqw}
+.twilight-panel-new .twilight-panel-art{container-type:inline-size}
+.twilight-panel-new .twilight-speech{font-size:1.708cqw;padding:.871cqw 1.307cqw;border-width:.218cqw}
+.twilight-panel-new .twilight-speech--thought{padding:1.307cqw 1.852cqw}

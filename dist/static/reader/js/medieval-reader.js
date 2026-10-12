@@ -61,19 +61,21 @@
           });
           return;
         }
-        const length = Number(panel.dataset.pageNumber) >= 150
-          ? Math.max(0, distance - Math.min(10, distance * .08))
-          : Math.min(distance, clamp(artBox.width * .035, 18, 34));
+        const length = Math.min(distance, clamp(artBox.width * .035, 18, 34));
         const tipX = startX + deltaX / distance * length;
         const tipY = startY + deltaY / distance * length;
         // A broad base narrows into one clean tip beside the speaker.  The
         // earlier near-parallel edges read as a vertical bar on tall pages.
-        const sideX = -deltaY / distance * 10;
-        const sideY = deltaX / distance * 10;
-        const bendX = startX + deltaX * .32;
-        const bendY = startY + deltaY * .32;
+        const halfBase = 6;
+        const sideX = -deltaY / distance * halfBase;
+        const sideY = deltaX / distance * halfBase;
+        // Control points must follow the rendered tail, not the distant target.
+        // Otherwise a short pointer loops across the artwork before returning.
+        const bendX = startX + (tipX - startX) * .55;
+        const bendY = startY + (tipY - startY) * .55;
+        const bendWidth = .45;
         const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-        path.setAttribute('d', `M ${startX - sideX} ${startY - sideY} Q ${bendX - sideX * .35} ${bendY - sideY * .35} ${tipX} ${tipY} Q ${bendX + sideX * .35} ${bendY + sideY * .35} ${startX + sideX} ${startY + sideY} Z`);
+        path.setAttribute('d', `M ${startX - sideX} ${startY - sideY} Q ${bendX - sideX * bendWidth} ${bendY - sideY * bendWidth} ${tipX} ${tipY} Q ${bendX + sideX * bendWidth} ${bendY + sideY * bendWidth} ${startX + sideX} ${startY + sideY} Z`);
         path.setAttribute('fill', '#fffdf6');
         path.setAttribute('stroke', '#1a232a');
         path.setAttribute('stroke-width', '2');

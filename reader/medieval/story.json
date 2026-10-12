@@ -372,9 +372,9 @@
               "speaker": "Nima",
               "text": "Tenho ferramentas e uma chapa. Madeira, por favor. Sem correr riscos.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 47,
+                "x": 3,
+                "y": 1,
+                "w": 46,
                 "target_x": 23,
                 "target_y": 27
               }
@@ -462,9 +462,9 @@
               "speaker": "Sere",
               "text": "Ela aguenta. Um de cada vez, com a corda.",
               "balloon": {
-                "x": 2,
-                "y": 2,
-                "w": 45,
+                "x": 55,
+                "y": 1,
+                "w": 42,
                 "target_x": 69,
                 "target_y": 23
               }
@@ -478,9 +478,9 @@
               "speaker": "Nima",
               "text": "O meu tamanho finalmente ajuda. Acho que vou emoldurar este momento.",
               "balloon": {
-                "x": 25,
-                "y": 5,
-                "w": 50,
+                "x": 3,
+                "y": 57,
+                "w": 45,
                 "target_x": 49,
                 "target_y": 23
               }
@@ -494,9 +494,9 @@
               "speaker": "Ilyan",
               "text": "Meu pai diria que isso foi treino de guarda. Eu concordaria.",
               "balloon": {
-                "x": 53,
-                "y": 2,
-                "w": 43,
+                "x": 41,
+                "y": 1,
+                "w": 35,
                 "target_x": 25,
                 "target_y": 25
               }
@@ -548,9 +548,9 @@
               "speaker": "Avel",
               "text": "Então vamos descobrir por que ela marcou uma porta fora dos mapas.",
               "balloon": {
-                "x": 48,
-                "y": 5,
-                "w": 45,
+                "x": 57,
+                "y": 1,
+                "w": 40,
                 "target_x": 55,
                 "target_y": 27
               }
@@ -586,8 +586,8 @@
               "speaker": "Avel",
               "text": "Viemos da inspeção de Pedra-Mansa. Seguiremos à Casa das Quatro Luas.",
               "balloon": {
-                "x": 2,
-                "y": 2,
+                "x": 3,
+                "y": 78,
                 "w": 45,
                 "target_x": 69,
                 "target_y": 23
@@ -602,9 +602,9 @@
               "speaker": "Ilyan",
               "text": "É maior do que pensei. E tem uma muralha de treino.",
               "balloon": {
-                "x": 2,
-                "y": 2,
-                "w": 47,
+                "x": 3,
+                "y": 61,
+                "w": 44,
                 "target_x": 18,
                 "target_y": 24
               }
@@ -647,9 +647,9 @@
               "speaker": "Avel",
               "text": "A Guarda do Limiar estuda defesa, metal e rotas. Seu sonho cabe aqui.",
               "balloon": {
-                "x": 51,
-                "y": 2,
-                "w": 44,
+                "x": 50,
+                "y": 65,
+                "w": 43,
                 "target_x": 64,
                 "target_y": 25
               }
@@ -663,9 +663,9 @@
               "speaker": "Nima",
               "text": "Mas a carta aponta para a estrada lateral. A porta não é a entrada comum.",
               "balloon": {
-                "x": 7,
-                "y": 5,
-                "w": 50,
+                "x": 55,
+                "y": 55,
+                "w": 41,
                 "target_x": 18,
                 "target_y": 28
               }
@@ -769,9 +769,9 @@
               "speaker": "Sere",
               "text": "Se forçarmos a porta, aquele fio acorda o guardião.",
               "balloon": {
-                "x": 2,
-                "y": 2,
-                "w": 45,
+                "x": 53,
+                "y": 1,
+                "w": 43,
                 "target_x": 55,
                 "target_y": 31
               }

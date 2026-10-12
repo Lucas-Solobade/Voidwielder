@@ -29,7 +29,7 @@
           "text": "A escala nova fica ao lado da antiga. Não vamos fingir que são iguais.",
           "balloon": {
             "x": 67,
-            "y": 8,
+            "y": 1,
             "w": 30,
             "target_x": 83,
             "target_y": 31
@@ -274,7 +274,7 @@
           "text": "Guarda suficiente. A técnica da lâmina ainda precisa de trabalho.",
           "balloon": {
             "x": 66,
-            "y": 2,
+            "y": 1,
             "w": 31,
             "target_x": 73,
             "target_y": 28
@@ -484,7 +484,7 @@
           "text": "Seu controle escureceu? Vamos suspender a comparação.",
           "balloon": {
             "x": 3,
-            "y": 7,
+            "y": 1,
             "w": 30,
             "target_x": 15,
             "target_y": 37
@@ -495,7 +495,7 @@
           "text": "Mudou. Não vou usá-lo como prova.",
           "balloon": {
             "x": 67,
-            "y": 7,
+            "y": 1,
             "w": 30,
             "target_x": 87,
             "target_y": 37
@@ -635,8 +635,8 @@
             "x": 2,
             "y": 0,
             "w": 29,
-          "target_x": 41,
-          "target_y": 18
+            "target_x": 41,
+            "target_y": 18
           }
         },
         {
@@ -646,8 +646,8 @@
             "x": 68,
             "y": 0,
             "w": 29,
-          "target_x": 91,
-          "target_y": 18
+            "target_x": 91,
+            "target_y": 18
           }
         }
       ]
@@ -670,7 +670,7 @@
           "text": "Mapas de comportas em uso não podem circular sem revisão.",
           "balloon": {
             "x": 31,
-            "y": 2,
+            "y": 18,
             "w": 25,
             "target_x": 17,
             "target_y": 36

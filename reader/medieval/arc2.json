@@ -361,7 +361,7 @@
           "text": "Conta também que consegui chegar. E volta quando puder.",
           "balloon": {
             "x": 2,
-            "y": 62,
+            "y": 91,
             "w": 42,
             "target_x": 40,
             "target_y": 73
@@ -509,7 +509,7 @@
           "text": "Uma rota é hipótese. Primeiro descrevam o terreno, depois a magia.",
           "balloon": {
             "x": 55,
-            "y": 18,
+            "y": 23,
             "w": 39,
             "target_x": 75,
             "target_y": 10
@@ -530,7 +530,7 @@
           "speaker": "Ilyan",
           "text": "Principalmente quem chegou ontem.",
           "balloon": {
-            "x": 36,
+            "x": 39,
             "y": 84,
             "w": 36,
             "target_x": 45,
@@ -727,7 +727,7 @@
           "text": "Esse traço não é decoração. É uma escala de travessia.",
           "balloon": {
             "x": 3,
-            "y": 60,
+            "y": 48,
             "w": 39,
             "target_x": 22,
             "target_y": 70
@@ -1288,7 +1288,7 @@
           "text": "Eu volto depois da forja para preparar a corda.",
           "balloon": {
             "x": 26,
-            "y": 84,
+            "y": 89,
             "w": 42,
             "target_x": 40,
             "target_y": 71
@@ -1313,7 +1313,7 @@
           "text": "Uma peça torta machuca alguém. Descanse antes de medir outra.",
           "balloon": {
             "x": 56,
-            "y": 3,
+            "y": 1,
             "w": 40,
             "target_x": 74,
             "target_y": 19
@@ -1458,7 +1458,7 @@
           "text": "Meu pé foi um instrumento científico caro.",
           "balloon": {
             "x": 62,
-            "y": 3,
+            "y": 1,
             "w": 30,
             "target_x": 56,
             "target_y": 17
@@ -1764,7 +1764,7 @@
           "text": "Agora você viu a porta.",
           "balloon": {
             "x": 2,
-            "y": 3,
+            "y": 1,
             "w": 30,
             "target_x": 13,
             "target_y": 18
@@ -2224,7 +2224,7 @@
           "text": "E alguém removeu a curva das cópias posteriores.",
           "balloon": {
             "x": 2,
-            "y": 84,
+            "y": 89,
             "w": 39,
             "target_x": 15,
             "target_y": 72
@@ -2350,7 +2350,7 @@
           "speaker": "Sere",
           "text": "Prova preliminar concluída. Ainda falta a avaliação final.",
           "balloon": {
-            "x": 2,
+            "x": 42,
             "y": 3,
             "w": 37,
             "target_x": 12,
@@ -2373,7 +2373,7 @@
           "text": "Por pouco. Eu caprichei no golpe.",
           "balloon": {
             "x": 2,
-            "y": 84,
+            "y": 90,
             "w": 39,
             "target_x": 18,
             "target_y": 73

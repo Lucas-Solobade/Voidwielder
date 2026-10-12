@@ -20,9 +20,9 @@
           "speaker": "Sere",
           "text": "Leve a Avel. Eu aviso as casas baixas.",
           "balloon": {
-            "x": 3,
-            "y": 3,
-            "w": 41,
+            "x": 55,
+            "y": 16,
+            "w": 38,
             "target_x": 49,
             "target_y": 13
           }
@@ -32,7 +32,7 @@
           "text": "Vou pela biblioteca. Ninguém abre a tampa.",
           "balloon": {
             "x": 55,
-            "y": 3,
+            "y": 62,
             "w": 41,
             "target_x": 55,
             "target_y": 43
@@ -146,7 +146,7 @@
           "text": "A pressão do canal está aumentando.",
           "balloon": {
             "x": 55,
-            "y": 27,
+            "y": 35,
             "w": 41,
             "target_x": 72,
             "target_y": 55
@@ -176,7 +176,7 @@
           "text": "Calços firmes. Vou erguer só um palmo.",
           "balloon": {
             "x": 3,
-            "y": 25,
+            "y": 35,
             "w": 41,
             "target_x": 75,
             "target_y": 15
@@ -213,10 +213,10 @@
           "speaker": "Beren",
           "text": "Esta cunha é nova. A comporta é antiga.",
           "balloon": {
-            "x": 3,
-            "y": 27,
-            "w": 41,
-            "target_x": 74,
+            "x": 53,
+            "y": 1,
+            "w": 43,
+            "target_x": 66,
             "target_y": 16
           }
         },
@@ -224,11 +224,11 @@
           "speaker": "Runa",
           "text": "Por isso o fluxo dobrou para baixo.",
           "balloon": {
-            "x": 55,
-            "y": 27,
-            "w": 41,
-            "target_x": 19,
-            "target_y": 15
+            "x": 2,
+            "y": 8,
+            "w": 18,
+            "target_x": 40,
+            "target_y": 11
           }
         }
       ]
@@ -252,18 +252,19 @@
           "text": "Cunha retirada e lacrada. Eu assino como testemunha.",
           "balloon": {
             "x": 3,
-            "y": 27,
+            "y": 37,
             "w": 41,
             "target_x": 44,
             "target_y": 18
-          }
+          },
+          "off_panel": true
         },
         {
           "speaker": "Ilyan",
           "text": "Avel autorizou só o desvio de emergência.",
           "balloon": {
             "x": 55,
-            "y": 27,
+            "y": 37,
             "w": 41,
             "target_x": 73,
             "target_y": 18
@@ -403,8 +404,8 @@
           "speaker": "Beren",
           "text": "Desvio aberto. A calha de baixo deve baixar.",
           "balloon": {
-            "x": 3,
-            "y": 23,
+            "x": 55,
+            "y": 17,
             "w": 41,
             "target_x": 16,
             "target_y": 11
@@ -415,10 +416,10 @@
           "text": "Está baixando. Desta vez a conta fecha.",
           "balloon": {
             "x": 55,
-            "y": 23,
+            "y": 66,
             "w": 41,
-            "target_x": 65,
-            "target_y": 57
+            "target_x": 20,
+            "target_y": 70
           }
         }
       ]
@@ -517,7 +518,7 @@
           "text": "A cópia pública fica aqui. O índice ausente segue em auditoria.",
           "balloon": {
             "x": 3,
-            "y": 84,
+            "y": 91,
             "w": 41,
             "target_x": 77,
             "target_y": 14
@@ -591,7 +592,7 @@
           "text": "O trabalho de hoje ainda conta para sua matrícula.",
           "balloon": {
             "x": 55,
-            "y": 3,
+            "y": 1,
             "w": 41,
             "target_x": 79,
             "target_y": 49
@@ -629,7 +630,7 @@
           "text": "Quando a água sobe no Junco, primeiro some o som dos moinhos.",
           "balloon": {
             "x": 3,
-            "y": 25,
+            "y": 40,
             "w": 41,
             "target_x": 19,
             "target_y": 16
@@ -665,7 +666,7 @@
           "text": "Procuro Mira. Mas hoje as casas vinham primeiro.",
           "balloon": {
             "x": 3,
-            "y": 25,
+            "y": 43,
             "w": 41,
             "target_x": 28,
             "target_y": 14
@@ -676,7 +677,7 @@
           "text": "Ela teria entendido isso, eu acho.",
           "balloon": {
             "x": 55,
-            "y": 25,
+            "y": 43,
             "w": 41,
             "target_x": 62,
             "target_y": 14
@@ -748,8 +749,8 @@
           "speaker": "Caio",
           "text": "Vou conferir quantas peças saíram deste lote.",
           "balloon": {
-            "x": 55,
-            "y": 26,
+            "x": 3,
+            "y": 53,
             "w": 41,
             "target_x": 49,
             "target_y": 15
@@ -775,7 +776,7 @@
           "text": "Há ferro de ponte aqui dentro. Não é uma peça comum.",
           "balloon": {
             "x": 3,
-            "y": 26,
+            "y": 43,
             "w": 41,
             "target_x": 20,
             "target_y": 15
@@ -786,7 +787,7 @@
           "text": "Minha espada tem esse metal. Mas isso não prova ligação.",
           "balloon": {
             "x": 55,
-            "y": 26,
+            "y": 43,
             "w": 41,
             "target_x": 57,
             "target_y": 15
@@ -1004,7 +1005,7 @@
           "text": "Você lê terreno como lê metal: pelas marcas.",
           "balloon": {
             "x": 3,
-            "y": 26,
+            "y": 45,
             "w": 41,
             "target_x": 19,
             "target_y": 18
@@ -1015,7 +1016,7 @@
           "text": "E você lê tudo antes de eu achar a pergunta.",
           "balloon": {
             "x": 55,
-            "y": 26,
+            "y": 45,
             "w": 41,
             "target_x": 76,
             "target_y": 17
@@ -1125,7 +1126,7 @@
           "text": "O sinal aponta para a torre, além da colina.",
           "balloon": {
             "x": 55,
-            "y": 28,
+            "y": 37,
             "w": 41,
             "target_x": 84,
             "target_y": 16
@@ -1420,22 +1421,22 @@
           "speaker": "Sere",
           "text": "Mesma ordem até a torre. Olhos no chão molhado.",
           "balloon": {
-            "x": 3,
-            "y": 3,
-            "w": 41,
-            "target_x": 25,
-            "target_y": 50
+            "x": 28,
+            "y": 1,
+            "w": 35,
+            "target_x": 23,
+            "target_y": 9
           }
         },
         {
           "speaker": "Tovo",
           "text": "E sopa guardada para a volta, se o céu permitir.",
           "balloon": {
-            "x": 55,
-            "y": 3,
-            "w": 41,
-            "target_x": 66,
-            "target_y": 50
+            "x": 66,
+            "y": 2,
+            "w": 31,
+            "target_x": 71,
+            "target_y": 10
           }
         }
       ]
@@ -1461,22 +1462,22 @@
           "speaker": "Beren",
           "text": "Grade liberada. Ninguém toca a roda.",
           "balloon": {
-            "x": 55,
-            "y": 3,
-            "w": 41,
-            "target_x": 25,
-            "target_y": 13
+            "x": 3,
+            "y": 14,
+            "w": 42,
+            "target_x": 36,
+            "target_y": 7
           }
         },
         {
           "speaker": "Avel",
           "text": "Desenhem a posição antes de qualquer teste.",
           "balloon": {
-            "x": 55,
-            "y": 17,
-            "w": 41,
-            "target_x": 22,
-            "target_y": 54
+            "x": 23,
+            "y": 45,
+            "w": 18,
+            "target_x": 18,
+            "target_y": 49
           }
         }
       ]
@@ -1575,9 +1576,9 @@
           "speaker": "Caio",
           "text": "O segundo entalhe mudou desde o desenho.",
           "balloon": {
-            "x": 3,
-            "y": 26,
-            "w": 41,
+            "x": 62,
+            "y": 44,
+            "w": 35,
             "target_x": 20,
             "target_y": 16
           }
@@ -1587,10 +1588,10 @@
           "text": "Registrem a diferença. Não preencham o vazio com suspeitas.",
           "balloon": {
             "x": 55,
-            "y": 26,
+            "y": 92,
             "w": 41,
             "target_x": 62,
-            "target_y": 16
+            "target_y": 78
           }
         }
       ]
