@@ -7,7 +7,7 @@ from reader.medieval_catalog import ARCS, CANON, PAGES, STORY, page_art
 
 
 def test_medieval_canon_and_page_sequence():
-    assert [page["number"] for page in PAGES] == list(range(1, 179))
+    assert [page["number"] for page in PAGES] == list(range(1, 190))
     assert all(len(page["panels"]) == 3 for page in PAGES[:25])
     assert len({page["layout"] for page in PAGES[25:]}) >= 5
     assert all(set(page["cast"]) <= set(CANON["characters"]) for page in PAGES)
@@ -26,14 +26,17 @@ def test_medieval_canon_and_page_sequence():
     assert "vestibule" in PAGES[25]["scene"].lower()
     assert "cart" in PAGES[31]["scene"].lower()
     assert all("nima" not in page["cast"] for page in PAGES[32:])
-    assert all(page["place"] in CANON["school_map"] for page in PAGES[25:])
+    assert all(page["place"] in (CANON["school_map"] | CANON["places"]) for page in PAGES[25:])
     assert [int(re.search(r"Dia (\d+)", page["time"]).group(1)) for page in PAGES[25:]] == sorted(
         int(re.search(r"Dia (\d+)", page["time"]).group(1)) for page in PAGES[25:]
     )
     assert [number for chapter in ARCS[1]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(26, 172))
-    assert [number for chapter in ARCS[2]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(172, 179))
+    assert [number for chapter in ARCS[2]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(172, 190))
     assert all("nima" not in page["cast"] for page in PAGES[171:])
-    assert "Dia 50" in PAGES[171]["time"] and "Dia 51" in PAGES[-1]["time"]
+    assert "Dia 50" in PAGES[171]["time"] and "Dia 52" in PAGES[-1]["time"]
+    assert PAGES[178]["title"] == "A licença tem limites"
+    assert PAGES[188]["title"] == "A armadilha fica"
+    assert "cervo-de-casca" in CANON["creatures"]
     assert "runa" not in PAGES[33]["cast"]
     assert "runa" in PAGES[34]["cast"]
     assert all(
@@ -77,11 +80,11 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert ARCS[1]["title"] in detail.content.decode()
     assert arc.content.decode().count('class="twilight-page-card"') == 25
     assert arc2.content.decode().count('class="twilight-page-card"') == 146
-    assert arc3.content.decode().count('class="twilight-page-card"') == 7
+    assert arc3.content.decode().count('class="twilight-page-card"') == 18
     assert arc2.content.decode().count('data-episode-tab') == len(ARCS[1]["chapters"])
 
     first = client.get(reverse("reader:medieval_read", args=(1,)))
-    last = client.get(reverse("reader:medieval_read", args=(178,)))
+    last = client.get(reverse("reader:medieval_read", args=(189,)))
     assert first.status_code == last.status_code == 200
     assert first.content.decode().count('class="twilight-panel twilight-panel-') == 3
     assert 'rel="next"' in first.content.decode()
@@ -94,4 +97,5 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert 'class="twilight-page-scroll"' in client.get(reverse("reader:medieval_read", args=(26,))).content.decode()
     assert client.get(reverse("reader:medieval_read", args=(81,))).status_code == 200
     assert 'rel="next"' in client.get(reverse("reader:medieval_read", args=(171,))).content.decode()
-    assert client.get(reverse("reader:medieval_read", args=(179,))).status_code == 404
+    assert 'rel="next"' in client.get(reverse("reader:medieval_read", args=(178,))).content.decode()
+    assert client.get(reverse("reader:medieval_read", args=(190,))).status_code == 404

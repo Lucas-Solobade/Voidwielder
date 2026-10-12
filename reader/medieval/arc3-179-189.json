@@ -1,0 +1,147 @@
+{
+  "pages": [
+    {
+      "number": 179,
+      "title": "A licença tem limites",
+      "time": "Dia 51 · entardecer",
+      "place": "secretaria",
+      "layout": "vertical",
+      "cast": ["eda", "sere"],
+      "scene": "At the school registry after the map comparison, Eda delivers a signed municipal field permit returned by an ordinary courier after the council reviewed her testimony. It names Sere as field leader and allows the school party to survey the public river road, salt ferry landing and marked community footpath. It does not authorize digging, entering the sanctuary beyond its boundary stone, or opening old structures. Sere accepts responsibility. Three ledgers remain on the east-facing counter, copper lamps fixed in place.",
+      "lines": [
+        {"speaker": "Eda", "text": "Saiu a licença. Margem e trilha marcada; nada de escavar.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 24, "target_y": 30}},
+        {"speaker": "Sere", "text": "Eu respondo pelo grupo e pelos limites.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 77, "target_y": 30}}
+      ]
+    },
+    {
+      "number": 180,
+      "title": "O que cada um leva",
+      "time": "Dia 51 · noite",
+      "place": "patio-treino",
+      "layout": "asymmetric",
+      "cast": ["sere", "runa", "ilyan"],
+      "scene": "On the fixed east training yard Sere briefs Ilyan and Runa before dawn. Chalk circle center, archery targets behind the north fence and equipment rack south. Ilyan carries the non-sharp training sword and the measuring case whose bracket he made, Runa takes the two public maps and her field notebook; Sere has her ash bow. They prepare for observation and self-defense, not a raid or a magical shortcut. The school's west archive stays locked.",
+      "lines": [
+        {"speaker": "Sere", "text": "Ilyan protege a rota. Runa registra a água. Eu conduzo.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 22, "target_y": 29}},
+        {"speaker": "Runa", "text": "Levo os dois mapas. Nenhum vale mais que a voz de lá.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 78, "target_y": 30}}
+      ]
+    },
+    {
+      "number": 181,
+      "title": "Pelo portão de todos",
+      "time": "Dia 52 · alvorada",
+      "place": "portao-sul",
+      "layout": "wide",
+      "cast": ["ilyan", "runa", "sere"],
+      "scene": "At sunrise Sere leads the party out through the ordinary SOUTH school gate onto the public road. Ilyan and Runa walk together carrying the packed measurement case and rolled community map. No cart, portal, teleportation, hidden door, or instant change of location. The school remains behind them. Their relationship is warm but still tentative; they do not kiss or make a sudden declaration.",
+      "lines": [
+        {"speaker": "Ilyan", "text": "A linha de Mira acaba antes do rio.", "balloon": {"x": 3, "y": 2, "w": 29, "target_x": 34, "target_y": 21}},
+        {"speaker": "Runa", "text": "Então seguimos o mapa de quem mora depois dele.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 60, "target_y": 25}}
+      ]
+    },
+    {
+      "number": 182,
+      "title": "A estrada do rio",
+      "time": "Dia 52 · manhã",
+      "place": "estrada-rio-sal",
+      "layout": "splash",
+      "cast": ["sere", "ilyan"],
+      "scene": "After several hours ON FOOT on the public south-west river road, Sere and Ilyan follow cart ruts beside a broad watercourse. Runa walks ahead outside this close frame carrying the maps. The route curves through willow shade and ordinary farm plots before the ferry; the salt landing is visible far downstream, not reached yet. Sere teaches that mapped paths have owners and local rules. This is a genuine travel beat, not a jump from school to village.",
+      "lines": [
+        {"speaker": "Sere", "text": "O mapa mostra o chão. Não diz de quem é a passagem.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 35, "target_y": 38}},
+        {"speaker": "Ilyan", "text": "Perguntarei antes de entrar.", "balloon": {"x": 67, "y": 2, "w": 28, "target_x": 60, "target_y": 36}}
+      ]
+    },
+    {
+      "number": 183,
+      "title": "A balsa do sal",
+      "time": "Dia 52 · fim da manhã",
+      "place": "atracadouro-do-sal",
+      "layout": "duo",
+      "cast": ["adra", "sere"],
+      "scene": "The walkers reach the east-bank SALT FERRY LANDING by the same public road. Adra, back among her own ferry crew after taking the request downstream on day 50, meets Sere at a real moored wooden ferry with rope, oars and cargo. Orc ferrymen are background villagers, not duplicate Adras. Sere shows the signed field permit; Adra holds her community council's invitation. They agree to cross only at low current. Ilyan and Runa are nearby with the measuring case but outside this dialogue panel.",
+      "lines": [
+        {"speaker": "Adra", "text": "A corrente baixou. Minha tripulação pode levar vocês.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 24, "target_y": 31}},
+        {"speaker": "Sere", "text": "Trouxe a licença. Ficaremos na trilha aceita.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 77, "target_y": 31}}
+      ]
+    },
+    {
+      "number": 184,
+      "title": "Luzes que não são setas",
+      "time": "Dia 52 · meio-dia",
+      "place": "balsa-do-sal",
+      "layout": "vertical",
+      "cast": ["runa", "adra"],
+      "scene": "During the physical ferry crossing, Runa and Adra stand aboard the same wooden vessel while crew row and tend the rope. Ilyan and Sere ride elsewhere on board, not duplicated in the frame. Small wild river lumens glimmer among reeds on the far bank. Runa recognizes their kinship to the one near Pedra-Mansa, but Adra warns they are living creatures, not directions or permission. The boat's position moves naturally from east to west bank.",
+      "lines": [
+        {"speaker": "Runa", "text": "Lúmens? Vi um parecido nos juncos de Pedra-Mansa.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 23, "target_y": 31}},
+        {"speaker": "Adra", "text": "São parentes. Luz nenhuma decide nosso caminho.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 78, "target_y": 31}}
+      ]
+    },
+    {
+      "number": 185,
+      "title": "A enseada existe",
+      "time": "Dia 52 · início da tarde",
+      "place": "enseada-das-conchas",
+      "layout": "asymmetric",
+      "cast": ["adra", "runa"],
+      "scene": "The ferry ties up on the WEST bank at Enseada das Conchas. Adra guides Runa through a living medieval river hamlet: stilt houses, shell-strung awnings, rope workshops and a fish market with adult orc ferrymen, elven herbal traders and a gnome net-maker as distinct background residents. No modern objects. Ilyan and Sere remain with the group but outside this close conversation. The community is not empty land and the four visitors do not treat its inhabitants as exotic props.",
+      "lines": [
+        {"speaker": "Adra", "text": "Minha avó amarrou a primeira balsa entre estas casas.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 23, "target_y": 32}},
+        {"speaker": "Runa", "text": "E no mapa da Casa tudo isso era espaço em branco.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 78, "target_y": 32}}
+      ]
+    },
+    {
+      "number": 186,
+      "title": "Na pedra do limite",
+      "time": "Dia 52 · meio da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "wide",
+      "cast": ["sere", "ilyan"],
+      "scene": "After Adra points out the council-accepted community footpath, Sere and Ilyan walk at its front edge through dense willow, moss and fern. Runa and Adra follow only a few steps behind, not teleported away. A boundary stone visibly separates the marked visitor footpath from an unentered grove sanctuary. On the legal footpath are fresh deep hoof prints, scraped bark and a narrow drag mark toward the bend. They do not cross the boundary stone or dig.",
+      "lines": [
+        {"speaker": "Sere", "text": "A trilha permitida passa por esta pedra. Ninguém sai dela.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 27, "target_y": 36}},
+        {"speaker": "Ilyan", "text": "As marcas são de chifre... e algo foi arrastado.", "balloon": {"x": 67, "y": 2, "w": 31, "target_x": 53, "target_y": 32}}
+      ]
+    },
+    {
+      "number": 187,
+      "title": "O cervo de casca",
+      "time": "Dia 52 · meio da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "asymmetric",
+      "cast": ["sere", "ilyan"],
+      "scene": "At the bend of the SAME marked footpath, a single adult barkstag emerges from willow shadow, four legs, dark-brown barklike plates, branching antlers with pale moss, amber eyes. A human-made iron rope snare is caught around its front LEFT leg and tied to a wooden stake beside the path. It is frightened and hurt, not an evil monster. Sere and Ilyan halt; Sere holds her ash bow low and warns the party behind them. Adra and Runa are just behind out of frame. One creature only; no cloned heads, extra legs or riders.",
+      "lines": [
+        {"speaker": "Sere", "text": "Recuem! Está preso, não está caçando.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 22, "target_y": 31, "kind": "shout"}},
+        {"speaker": "Ilyan", "text": "A corda atravessa a trilha da vila.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 78, "target_y": 32}}
+      ]
+    },
+    {
+      "number": 188,
+      "title": "Água, arco e ferro",
+      "time": "Dia 52 · instantes depois",
+      "place": "trilha-das-salgueiras",
+      "layout": "dynamic",
+      "cast": ["sere", "runa", "ilyan"],
+      "scene": "The one barkstag lunges as the taut snare hurts its left foreleg, still at the marked willow footpath. Ilyan stands on the path with his BLUNT short training sword held crosswise to deflect a low antler and protect the retreating group, not to stab the creature. Sere braces her ash bow as a deterrent without firing into the animal. Runa, from the path's edge, carefully guides ALREADY PRESENT puddle water into the mud around the wooden snare stake, loosening it rather than conjuring water. Distinct single copies of each character, clear readable positions, visual motion and real danger without gore. Adra is close behind the group off-panel.",
+      "lines": [
+        {"speaker": "Sere", "text": "Ilyan, segure a trilha! Não fira o cervo!", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 21, "target_y": 31, "kind": "shout"}},
+        {"speaker": "Runa", "text": "Há água sob a estaca. Posso soltar a terra!", "balloon": {"x": 67, "y": 2, "w": 31, "target_x": 79, "target_y": 31, "kind": "shout"}}
+      ]
+    },
+    {
+      "number": 189,
+      "title": "A armadilha fica",
+      "time": "Dia 52 · fim da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "splash",
+      "cast": ["adra", "ilyan"],
+      "scene": "Runa's softened mud lets Adra lever the wooden stake with her ordinary ferry hook from the SAFE visitor path. The rope loses tension and the single barkstag pulls its left leg free, then limps back toward the grove beyond the boundary stone; nobody follows it or claims to have healed it. Ilyan lowers his blunt sword and sees the abandoned human-made iron snare beside the path. Sere and Runa remain nearby but outside this two-person foreground composition. The snare's maker is unknown; it is evidence to record with the community, not proof against Maelor or of Mira's fate. End on the uneasy discovery, arc three open.",
+      "lines": [
+        {"speaker": "Adra", "text": "A estaca cedeu. Abram caminho para ele.", "balloon": {"x": 3, "y": 2, "w": 30, "target_x": 23, "target_y": 32}},
+        {"speaker": "Ilyan", "text": "Armaram ferro na trilha. Quem faria isso?", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 78, "target_y": 32}}
+      ]
+    }
+  ]
+}

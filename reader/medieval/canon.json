@@ -138,13 +138,20 @@
       "fixed_clothing": "Manto de viagem de capitã de balsa em azul profundo e couro gasto, mapas enrolados no cinto."
     }
   },
+  "creatures": {
+    "cervo-de-casca": "Grande cervo silvestre de quatro patas, placas de casca castanha, galhadas ramificadas com musgo pálido e olhos âmbar. Não é um monstro maligno. O único indivíduo visto na trilha das salgueiras tem a pata DIANTEIRA ESQUERDA presa numa armadilha de corda e ferro feita por pessoa desconhecida. Depois de liberto na página 189, manca para dentro do bosque; ninguém prova que foi curado. Não duplicar cabeça, chifres ou membros entre quadros."
+  },
   "places": {
     "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
     "pedra-mansa": "Vilarejo natal de Ilyan; forja de Bram, mercado, praça da Primeira Chuva e taberna Javali de Mel.",
     "valecobre": "Cidade regional que abriga a Casa das Quatro Luas, escola de magos e estudiosos, alcançada por estrada comum a partir do vilarejo.",
     "casa-das-quatro-luas": "Escola em Valecobre. Além dos estudos de magia, mantém oficinas de metal, cartografia e a Guarda do Limiar. O portão comum e a antiga porta dos agrimensores são acessos distintos.",
     "vale-do-junco": "Vilarejo natal de Runa, ao norte de Valecobre, conhecido por moinhos de tinta e cheias sazonais.",
-    "enseada-das-conchas": "Margem habitada por comunidades de barqueiros junto à balsa do sal. Adra a conhece por esse nome; o mapa oficial de Valecobre ainda a deixa sem nome. A equipe não a visita nas páginas 172–178."
+    "enseada-das-conchas": "Margem OESTE habitada por comunidades de barqueiros junto à balsa do sal. Casas sobre estacas, oficinas de corda, mercado de peixe e toldos enfeitados com conchas. Adra a conhece por esse nome; o mapa oficial de Valecobre ainda a deixa sem nome. Orcs barqueiros, elfos comerciantes e gnomos artesãos são moradores adultos, não intrusos ou decoração.",
+    "estrada-rio-sal": "Estrada PÚBLICA a sudoeste do portão sul da escola, percorrida A PÉ. Vai por fazendas e salgueiros ao atracadouro da margem LESTE; não contém portais ou atalhos mágicos.",
+    "atracadouro-do-sal": "Cais de madeira na margem LESTE do rio. Balsa de Adra atravessa ao cais da Enseada na margem OESTE com remos e corda, na corrente baixa.",
+    "balsa-do-sal": "Balsa de madeira de Adra que cruza o rio entre o atracadouro da margem LESTE e a Enseada das Conchas na margem OESTE. Travessia física, conduzida com remos e corda.",
+    "trilha-das-salgueiras": "Trilha comunitária marcada que parte da Enseada e passa junto a salgueiros, musgo e samambaias. Uma pedra-limite separa a passagem de visita do santuário do bosque: a equipe fica na trilha autorizada. A armadilha da página 187 está no caminho público, ANTES da pedra; o cervo de casca recua além dela na página 189."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -187,7 +194,9 @@
     "Ilyan escolhe viajar como auxiliar autorizado ao Junco, sabendo que faltará à avaliação provisória da Guarda no dia 18. Sere lidera; a agente municipal mede; ninguém abre a comporta sem licença local. Nima permanece em Pedra-Mansa e recebe notícias só por carta comum.",
     "Depois da página 171, Ilyan tem matrícula regular, mas acesso ao arquivo oeste e saídas de campo continuam sujeitos a autorização. Ordelia fornece somente uma cópia pública da rota de Mira.",
     "O ramo deixado perto da piscina é um aviso sobre o ciclo da água, não um convite ou uma autorização em nome de todos os povos da margem. A equipe precisa escutar representantes aceitos por cada comunidade.",
-    "Adra testemunha o nome Enseada das Conchas e leva o pedido à comunidade pelo rio no dia 50. O convite trazido por correio comum no dia 51 não substitui a licença municipal, que permanece pendente. A semelhança entre uma curva do mapa comunitário e a rota antiga de Mira não prova que ela esteve lá após desaparecer."
+    "Adra testemunha o nome Enseada das Conchas e leva o pedido à comunidade pelo rio no dia 50. O convite trazido por correio comum no dia 51 não substitui a licença municipal, que permanece pendente. A semelhança entre uma curva do mapa comunitário e a rota antiga de Mira não prova que ela esteve lá após desaparecer.",
+    "Ao entardecer do dia 51, Eda entrega licença municipal assinada para Sere liderar levantamento na estrada, no cais e na trilha comunitária marcada. Não autoriza escavação, abertura de estruturas nem entrada no santuário além da pedra-limite. Ilyan usa espada curta SEM FIO para defesa, Runa só guia água já existente, Sere conduz. A balsa cruza fisicamente de leste para oeste no dia 52.",
+    "O cervo de casca investe porque está preso numa armadilha de ferro na trilha. O grupo age para proteger a passagem e soltar a estaca, sem matar a criatura nem cruzar a pedra do santuário. A autoria da armadilha continua desconhecida; nenhuma personagem atribui culpa a Maelor ou usa o episódio como prova do destino de Mira."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
@@ -217,7 +226,10 @@
     "Dias 17–18: páginas 145–149 — equipe de quatro parte pelo portão sul, distingue testemunhos de hipóteses, atravessa a estrada pública e chega ao canal de Junco para medir. Mistério e arco 2 continuam.",
     "Dias 18–49: páginas 150–171 — medição em Junco, retorno comum, prova reposta, controle comprometido por Líria, nova avaliação de Runa, audiência do índice, correção do mapa por Adra e matrícula regular de Ilyan. O arco 2 termina ao pôr do sol do dia 49.",
     "Dia 50: páginas 172–176 — Adra aponta a margem ainda sem nome no mapa oficial; Ilyan consulta apenas a cópia pública de Mira; Oru distingue o aviso feérico de um convite; Eda registra testemunho e solicita licença; Ilyan prepara um fecho de medição na forja.",
-    "Dia 51: páginas 177–178 — um correio comum traz convite do conselho da balsa e mapa comunitário; a licença municipal ainda falta. Ilyan e Runa comparam a curva com a cópia antiga de Mira sem transformar coincidência em prova. O arco 3 permanece aberto."
+    "Dia 51: páginas 177–178 — um correio comum traz convite do conselho da balsa e mapa comunitário; a licença municipal ainda falta. Ilyan e Runa comparam a curva com a cópia antiga de Mira sem transformar coincidência em prova. O arco 3 permanece aberto.",
+    "Dia 51, entardecer/noite: páginas 179–180 — chega licença municipal com limites; Sere instrui Ilyan e Runa, prepara equipe e materiais no pátio de treino.",
+    "Dia 52, alvorada até início da tarde: páginas 181–185 — grupo sai A PÉ pelo portão sul, percorre a estrada do rio, encontra Adra no cais leste, atravessa na balsa física e desembarca na Enseada das Conchas, margem oeste.",
+    "Dia 52, tarde: páginas 186–189 — sob guia de Adra e comando de Sere, equipe fica na trilha comunitária autorizada, encontra um cervo de casca preso, defende passagem com magia restrita e espada sem fio, solta a estaca e registra a armadilha sem atribuir autoria. O arco 3 continua."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
