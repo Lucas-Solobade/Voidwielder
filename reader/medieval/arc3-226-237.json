@@ -17,10 +17,10 @@
           "text": "Nós permitimos a passagem acompanhada. Só pelo corredor.",
           "balloon": {
             "x": 3,
-            "y": 22,
+            "y": 11,
             "w": 30,
             "target_x": 30,
-            "target_y": 37
+            "target_y": 28
           }
         },
         {
@@ -28,10 +28,10 @@
           "text": "A Casa não levará árvore, água nem nome sem perguntar.",
           "balloon": {
             "x": 67,
-            "y": 26,
+            "y": 14,
             "w": 30,
             "target_x": 76,
-            "target_y": 41
+            "target_y": 31
           }
         }
       ]
@@ -53,10 +53,10 @@
           "text": "Passagem pelo corredor, com guardião. Nada de escavar.",
           "balloon": {
             "x": 3,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 31,
-            "target_y": 36
+            "target_y": 27
           }
         },
         {
@@ -64,10 +64,10 @@
           "text": "Leio as duas assinaturas antes de dar um passo.",
           "balloon": {
             "x": 67,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 76,
-            "target_y": 38
+            "target_y": 28
           }
         }
       ]
@@ -92,10 +92,10 @@
           "text": "Talin abre a rota. Adra fala pela vila. Eu cuido da retirada.",
           "balloon": {
             "x": 3,
-            "y": 10,
+            "y": 3,
             "w": 30,
             "target_x": 25,
-            "target_y": 25
+            "target_y": 19
           }
         },
         {
@@ -103,10 +103,10 @@
           "text": "E ninguém se separa para perseguir o homem do lenço.",
           "balloon": {
             "x": 67,
-            "y": 18,
+            "y": 8,
             "w": 30,
             "target_x": 74,
-            "target_y": 33
+            "target_y": 25
           }
         }
       ]
@@ -128,10 +128,10 @@
           "text": "A espada não corta bem. Talvez hoje seja vantagem.",
           "balloon": {
             "x": 3,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 34,
-            "target_y": 38
+            "target_y": 28
           }
         },
         {
@@ -139,10 +139,10 @@
           "text": "Você aprendeu a defender sem ferir. Eu vi.",
           "balloon": {
             "x": 67,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 75,
-            "target_y": 38
+            "target_y": 28
           }
         }
       ]
@@ -167,10 +167,10 @@
           "text": "Daqui em diante, sigam minhas estacas de freixo.",
           "balloon": {
             "x": 3,
-            "y": 12,
+            "y": 3,
             "w": 30,
             "target_x": 28,
-            "target_y": 27
+            "target_y": 20
           }
         },
         {
@@ -178,10 +178,10 @@
           "text": "Cinco entram. Cinco saem. Vamos contar sempre.",
           "balloon": {
             "x": 67,
-            "y": 15,
+            "y": 5,
             "w": 30,
             "target_x": 75,
-            "target_y": 30
+            "target_y": 22
           }
         }
       ]
@@ -203,10 +203,10 @@
           "text": "Parecem fadas. Estão seguindo a água?",
           "balloon": {
             "x": 3,
-            "y": 16,
+            "y": 6,
             "w": 30,
             "target_x": 28,
-            "target_y": 31
+            "target_y": 23
           }
         },
         {
@@ -214,10 +214,10 @@
           "text": "O degelo, talvez. Não faremos delas um mapa.",
           "balloon": {
             "x": 67,
-            "y": 13,
+            "y": 4,
             "w": 30,
             "target_x": 74,
-            "target_y": 28
+            "target_y": 21
           }
         }
       ]
@@ -239,10 +239,10 @@
           "text": "Esta marca devia ficar seca até a próxima lua.",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 29,
-            "target_y": 39
+            "target_y": 29
           }
         },
         {
@@ -250,10 +250,10 @@
           "text": "Nossa enseada já sentiu a água chegar cedo.",
           "balloon": {
             "x": 67,
-            "y": 30,
+            "y": 10,
             "w": 30,
             "target_x": 75,
-            "target_y": 45
+            "target_y": 23
           }
         }
       ]
@@ -275,10 +275,10 @@
           "text": "Mais ferro. Alguém o fincou na raiz.",
           "balloon": {
             "x": 3,
-            "y": 27,
+            "y": 11,
             "w": 30,
             "target_x": 32,
-            "target_y": 42
+            "target_y": 27
           }
         },
         {
@@ -286,10 +286,10 @@
           "text": "Não puxe ainda. Escute o chão.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 76,
-            "target_y": 39
+            "target_y": 29
           }
         }
       ]
@@ -311,10 +311,10 @@
           "text": "Recuem para a estaca anterior!",
           "balloon": {
             "x": 3,
-            "y": 14,
+            "y": 5,
             "w": 30,
             "target_x": 29,
-            "target_y": 29,
+            "target_y": 22,
             "kind": "shout"
           }
         },
@@ -323,10 +323,10 @@
           "text": "Está reagindo ao ferro, não a nós... espero.",
           "balloon": {
             "x": 67,
-            "y": 14,
+            "y": 5,
             "w": 30,
             "target_x": 75,
-            "target_y": 29
+            "target_y": 22
           }
         }
       ]
@@ -348,10 +348,10 @@
           "text": "É defesa do bosque. Não a matem.",
           "balloon": {
             "x": 3,
-            "y": 16,
+            "y": 6,
             "w": 30,
             "target_x": 28,
-            "target_y": 31
+            "target_y": 23
           }
         },
         {
@@ -359,10 +359,10 @@
           "text": "O ferro pulsa onde a raiz encontra água.",
           "balloon": {
             "x": 67,
-            "y": 29,
+            "y": 16,
             "w": 30,
             "target_x": 72,
-            "target_y": 44
+            "target_y": 33
           }
         }
       ]
@@ -384,10 +384,10 @@
           "text": "Não golpeiem a raiz! Segurem o corredor!",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 30,
-            "target_y": 39,
+            "target_y": 29,
             "kind": "shout"
           }
         },
@@ -396,10 +396,10 @@
           "text": "Prendi a corda no tronco caído. Temos um instante.",
           "balloon": {
             "x": 67,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 73,
-            "target_y": 38
+            "target_y": 28
           }
         }
       ]
@@ -421,10 +421,10 @@
           "text": "A corrente basta. Preciso só mudar por onde passa!",
           "balloon": {
             "x": 3,
-            "y": 26,
+            "y": 14,
             "w": 30,
             "target_x": 29,
-            "target_y": 41
+            "target_y": 31
           }
         },
         {
@@ -432,10 +432,10 @@
           "text": "Quando a terra ceder, puxo o ferro. Nada mais.",
           "balloon": {
             "x": 67,
-            "y": 29,
+            "y": 16,
             "w": 30,
             "target_x": 74,
-            "target_y": 44
+            "target_y": 33
           }
         }
       ]

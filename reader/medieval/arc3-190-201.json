@@ -17,10 +17,10 @@
           "text": "Levo o ferro. A trilha precisa ficar livre.",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
-            "target_x": 47,
-            "target_y": 39
+            "target_x": 27,
+            "target_y": 40
           }
         },
         {
@@ -28,10 +28,10 @@
           "text": "Marco o lugar antes que a chuva apague as pegadas.",
           "balloon": {
             "x": 67,
-            "y": 12,
+            "y": 3,
             "w": 30,
             "target_x": 75,
-            "target_y": 27
+            "target_y": 23
           }
         }
       ]
@@ -53,10 +53,10 @@
           "text": "Ainda manca. Não podemos fingir que o curamos.",
           "balloon": {
             "x": 3,
-            "y": 13,
+            "y": 4,
             "w": 30,
             "target_x": 35,
-            "target_y": 28
+            "target_y": 21
           }
         },
         {
@@ -64,10 +64,10 @@
           "text": "Nem seguir além da pedra sem pedir passagem.",
           "balloon": {
             "x": 67,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 67,
-            "target_y": 36
+            "target_y": 27
           }
         }
       ]
@@ -91,10 +91,10 @@
           "text": "Ao conselho primeiro. O objeto não sai de nossas vistas.",
           "balloon": {
             "x": 3,
-            "y": 18,
+            "y": 8,
             "w": 30,
             "target_x": 23,
-            "target_y": 33
+            "target_y": 25
           }
         },
         {
@@ -102,10 +102,10 @@
           "text": "Minha gente reconhecerá o nó, se já o viu.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 78,
-            "target_y": 39
+            "target_y": 29
           }
         }
       ]
@@ -127,10 +127,10 @@
           "text": "Estava na trilha usada por nossas crianças e carroças.",
           "balloon": {
             "x": 3,
-            "y": 29,
+            "y": 16,
             "w": 30,
             "target_x": 38,
-            "target_y": 44
+            "target_y": 33
           }
         },
         {
@@ -138,10 +138,10 @@
           "text": "Conheço o nó. Ainda não conheço a mão.",
           "balloon": {
             "x": 67,
-            "y": 38,
+            "y": 23,
             "w": 30,
             "target_x": 73,
-            "target_y": 53
+            "target_y": 40
           }
         }
       ]
@@ -163,10 +163,10 @@
           "text": "Escrevo o que vimos. Não o que suspeitamos.",
           "balloon": {
             "x": 3,
-            "y": 15,
+            "y": 5,
             "w": 30,
             "target_x": 27,
-            "target_y": 30
+            "target_y": 22
           }
         },
         {
@@ -174,10 +174,10 @@
           "text": "E ninguém atravessa o santuário por nossa conta.",
           "balloon": {
             "x": 67,
-            "y": 15,
+            "y": 5,
             "w": 30,
             "target_x": 74,
-            "target_y": 30
+            "target_y": 22
           }
         }
       ]
@@ -199,10 +199,10 @@
           "text": "Este nó serve carga de sal. Qualquer barqueiro pode copiá-lo.",
           "balloon": {
             "x": 3,
-            "y": 12,
+            "y": 3,
             "w": 30,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 20
           }
         },
         {
@@ -210,10 +210,10 @@
           "text": "Então é pista de ofício, não nome de culpado.",
           "balloon": {
             "x": 67,
-            "y": 15,
+            "y": 5,
             "w": 30,
             "target_x": 75,
-            "target_y": 30
+            "target_y": 22
           }
         }
       ]
@@ -235,10 +235,10 @@
           "text": "Meu fecho foi limado. Este aro foi batido a frio.",
           "balloon": {
             "x": 3,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 34,
-            "target_y": 36
+            "target_y": 27
           }
         },
         {
@@ -246,10 +246,10 @@
           "text": "Duas oficinas possíveis. Sem oficina identificada.",
           "balloon": {
             "x": 67,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 73,
-            "target_y": 38
+            "target_y": 28
           }
         }
       ]
@@ -271,10 +271,10 @@
           "text": "A corrente sobe. Balsa nenhuma cruza até amanhecer.",
           "balloon": {
             "x": 3,
-            "y": 38,
+            "y": 23,
             "w": 30,
             "target_x": 35,
-            "target_y": 53
+            "target_y": 40
           }
         },
         {
@@ -282,10 +282,10 @@
           "text": "Então ficamos e ouvimos o resto da Enseada.",
           "balloon": {
             "x": 67,
-            "y": 35,
+            "y": 21,
             "w": 30,
             "target_x": 70,
-            "target_y": 50
+            "target_y": 38
           }
         }
       ]
@@ -307,10 +307,10 @@
           "text": "Quatro esteiras. A casa cobra ajuda, não moeda.",
           "balloon": {
             "x": 3,
-            "y": 39,
+            "y": 23,
             "w": 30,
             "target_x": 31,
-            "target_y": 54
+            "target_y": 40
           }
         },
         {
@@ -318,10 +318,10 @@
           "text": "Eu assumo a vigília e o relatório da escola.",
           "balloon": {
             "x": 67,
-            "y": 41,
+            "y": 25,
             "w": 30,
             "target_x": 70,
-            "target_y": 56
+            "target_y": 42
           }
         }
       ]
@@ -343,10 +343,10 @@
           "text": "Se eu tivesse golpeado, ele não teria escapado.",
           "balloon": {
             "x": 3,
-            "y": 20,
+            "y": 9,
             "w": 30,
             "target_x": 35,
-            "target_y": 35
+            "target_y": 26
           }
         },
         {
@@ -354,10 +354,10 @@
           "text": "Você sustentou a trilha. Foi por isso que consegui agir.",
           "balloon": {
             "x": 67,
-            "y": 26,
+            "y": 14,
             "w": 30,
             "target_x": 77,
-            "target_y": 41
+            "target_y": 31
           }
         }
       ]
@@ -379,10 +379,10 @@
           "text": "Bram e Nima saberão onde estou quando houver correio.",
           "balloon": {
             "x": 3,
-            "y": 29,
+            "y": 16,
             "w": 30,
             "target_x": 28,
-            "target_y": 44
+            "target_y": 33
           }
         },
         {
@@ -390,10 +390,10 @@
           "text": "A balsa leva a carta ao posto amanhã, não esta noite.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 75,
-            "target_y": 39
+            "target_y": 29
           }
         }
       ]
@@ -415,10 +415,10 @@
           "text": "Foi o cervo?",
           "balloon": {
             "x": 3,
-            "y": 30,
+            "y": 17,
             "w": 30,
             "target_x": 29,
-            "target_y": 45
+            "target_y": 34
           }
         },
         {
@@ -426,10 +426,10 @@
           "text": "Veio do bosque. Seria mentira dizer que sei de quem.",
           "balloon": {
             "x": 67,
-            "y": 33,
+            "y": 19,
             "w": 30,
             "target_x": 75,
-            "target_y": 48
+            "target_y": 36
           }
         }
       ]

@@ -17,10 +17,10 @@
           "text": "Saiu. O ferro inteiro, sem arrancar casca.",
           "balloon": {
             "x": 3,
-            "y": 30,
+            "y": 17,
             "w": 30,
             "target_x": 30,
-            "target_y": 45
+            "target_y": 34
           }
         },
         {
@@ -28,10 +28,10 @@
           "text": "A raiz está soltando o caminho.",
           "balloon": {
             "x": 67,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 75,
-            "target_y": 38
+            "target_y": 28
           }
         }
       ]
@@ -53,10 +53,10 @@
           "text": "Conte as vozes. Todos aqui?",
           "balloon": {
             "x": 3,
-            "y": 12,
+            "y": 3,
             "w": 30,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 20
           }
         },
         {
@@ -64,10 +64,10 @@
           "text": "Cinco. E a água já voltou ao leito.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 7,
             "w": 30,
             "target_x": 72,
-            "target_y": 39
+            "target_y": 27
           }
         }
       ]
@@ -89,10 +89,10 @@
           "text": "A aldeia está além daquela ponte baixa.",
           "balloon": {
             "x": 3,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 28,
-            "target_y": 36
+            "target_y": 27
           }
         },
         {
@@ -100,10 +100,10 @@
           "text": "Mira desenhou raízes assim... antes de sumir.",
           "balloon": {
             "x": 67,
-            "y": 22,
+            "y": 11,
             "w": 30,
             "target_x": 75,
-            "target_y": 37
+            "target_y": 28
           }
         }
       ]
@@ -125,10 +125,10 @@
           "text": "Viemos com consentimento, sem exigir acesso a nada.",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
-            "target_x": 30,
-            "target_y": 39
+            "target_x": 14,
+            "target_y": 51
           }
         },
         {
@@ -136,10 +136,10 @@
           "text": "Eu os trouxe. A decisão de receber é de todos.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 75,
-            "target_y": 39
+            "target_y": 29
           }
         }
       ]
@@ -161,10 +161,10 @@
           "text": "Como devo escrever o nome desta aldeia?",
           "balloon": {
             "x": 3,
-            "y": 19,
+            "y": 9,
             "w": 30,
             "target_x": 30,
-            "target_y": 34
+            "target_y": 26
           }
         },
         {
@@ -172,10 +172,10 @@
           "text": "Escada de Âmbar. Registre também quem o disse.",
           "balloon": {
             "x": 67,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 75,
-            "target_y": 36
+            "target_y": 27
           }
         }
       ]
@@ -197,10 +197,10 @@
           "text": "Podem ver as cópias públicas. Os nomes de família ficam conosco.",
           "balloon": {
             "x": 3,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 29,
-            "target_y": 36
+            "target_y": 27
           }
         },
         {
@@ -208,10 +208,10 @@
           "text": "É o mesmo limite que exigimos da Casa.",
           "balloon": {
             "x": 67,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 75,
-            "target_y": 38
+            "target_y": 28
           }
         }
       ]
@@ -233,10 +233,10 @@
           "text": "Esta data é anterior ao desaparecimento dela.",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 30,
-            "target_y": 39
+            "target_y": 29
           }
         },
         {
@@ -244,10 +244,10 @@
           "text": "Mas esse sinal é o que ela gravava nos meus moldes.",
           "balloon": {
             "x": 67,
-            "y": 25,
+            "y": 13,
             "w": 30,
             "target_x": 74,
-            "target_y": 40
+            "target_y": 30
           }
         }
       ]
@@ -269,10 +269,10 @@
           "text": "Ela esteve aqui. Isso eu posso afirmar.",
           "balloon": {
             "x": 3,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 29,
-            "target_y": 38
+            "target_y": 28
           }
         },
         {
@@ -280,10 +280,10 @@
           "text": "Antes de sumir. O resto da história ainda não veio.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 74,
-            "target_y": 39
+            "target_y": 29
           }
         }
       ]
@@ -305,10 +305,10 @@
           "text": "A mancha veio de água antiga. Não prova censura.",
           "balloon": {
             "x": 3,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 29,
-            "target_y": 38
+            "target_y": 28
           }
         },
         {
@@ -316,10 +316,10 @@
           "text": "Nossa fonte transbordou naquele inverno.",
           "balloon": {
             "x": 67,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 75,
-            "target_y": 38
+            "target_y": 28
           }
         }
       ]
@@ -341,10 +341,10 @@
           "text": "Podemos copiar só o traço público, com autoria?",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 30,
-            "target_y": 39
+            "target_y": 29
           }
         },
         {
@@ -352,10 +352,10 @@
           "text": "Sim. O original permanece onde nasceu.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 75,
-            "target_y": 39
+            "target_y": 29
           }
         }
       ]
@@ -377,10 +377,10 @@
           "text": "Você ficou, mesmo quando o mapa não respondeu.",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 29,
-            "target_y": 39
+            "target_y": 29
           }
         },
         {
@@ -388,10 +388,10 @@
           "text": "Eu quase não fiquei. Você me trouxe de volta à trilha.",
           "balloon": {
             "x": 67,
-            "y": 21,
+            "y": 9,
             "w": 30,
-            "target_x": 73,
-            "target_y": 36
+            "target_x": 83,
+            "target_y": 23
           }
         }
       ]
@@ -413,10 +413,10 @@
           "text": "Esse risco novo não estava aqui na última ronda.",
           "balloon": {
             "x": 3,
-            "y": 26,
+            "y": 14,
             "w": 30,
             "target_x": 29,
-            "target_y": 41
+            "target_y": 31
           }
         },
         {
@@ -424,10 +424,10 @@
           "text": "O sinal dela é antigo. Alguém continuou a linha.",
           "balloon": {
             "x": 67,
-            "y": 26,
+            "y": 14,
             "w": 30,
             "target_x": 75,
-            "target_y": 41
+            "target_y": 31
           }
         }
       ]
@@ -451,21 +451,21 @@
           "text": "A marca nova segue para o norte. Não foi feita pela mão de Mira.",
           "balloon": {
             "x": 3,
-            "y": 25,
-            "w": 30,
-            "target_x": 30,
-            "target_y": 40
+            "y": 16,
+            "w": 29,
+            "target_x": 17,
+            "target_y": 31
           }
         },
         {
           "speaker": "Adra",
           "text": "E ninguém sairá daqui antes de ouvir quem guarda aquela água.",
           "balloon": {
-            "x": 67,
-            "y": 26,
-            "w": 30,
-            "target_x": 75,
-            "target_y": 41
+            "x": 68,
+            "y": 25,
+            "w": 29,
+            "target_x": 74,
+            "target_y": 39
           }
         }
       ]

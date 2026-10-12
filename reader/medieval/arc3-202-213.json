@@ -17,10 +17,10 @@
           "text": "A escola pode olhar a trilha. O bosque exige guardião.",
           "balloon": {
             "x": 3,
-            "y": 31,
+            "y": 17,
             "w": 30,
             "target_x": 33,
-            "target_y": 46
+            "target_y": 34
           }
         },
         {
@@ -28,10 +28,10 @@
           "text": "Vou com vocês até a pedra, não além dela.",
           "balloon": {
             "x": 67,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 77,
-            "target_y": 39
+            "target_y": 29
           }
         }
       ]
@@ -53,10 +53,10 @@
           "text": "A trilha da vila, sim. A raiz sagrada, não.",
           "balloon": {
             "x": 3,
-            "y": 23,
+            "y": 11,
             "w": 30,
             "target_x": 29,
-            "target_y": 38
+            "target_y": 28
           }
         },
         {
@@ -64,10 +64,10 @@
           "text": "A licença da cidade diz o mesmo. Vamos respeitar ambas.",
           "balloon": {
             "x": 67,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 75,
-            "target_y": 36
+            "target_y": 27
           }
         }
       ]
@@ -91,10 +91,10 @@
           "text": "Distância entre nós. Ninguém tapa a visão do outro.",
           "balloon": {
             "x": 3,
-            "y": 14,
+            "y": 5,
             "w": 30,
             "target_x": 28,
-            "target_y": 29
+            "target_y": 22
           }
         },
         {
@@ -102,10 +102,10 @@
           "text": "O posto de madeira é antes da pedra. Comecemos lá.",
           "balloon": {
             "x": 67,
-            "y": 19,
+            "y": 9,
             "w": 30,
             "target_x": 73,
-            "target_y": 34
+            "target_y": 26
           }
         }
       ]
@@ -127,10 +127,10 @@
           "text": "Mais um laço. Está armado agora.",
           "balloon": {
             "x": 3,
-            "y": 29,
+            "y": 16,
             "w": 30,
             "target_x": 31,
-            "target_y": 44
+            "target_y": 33
           }
         },
         {
@@ -138,10 +138,10 @@
           "text": "Pisem onde piso. A corda corta a trilha inteira.",
           "balloon": {
             "x": 67,
-            "y": 29,
+            "y": 16,
             "w": 30,
             "target_x": 70,
-            "target_y": 44
+            "target_y": 33
           }
         }
       ]
@@ -163,10 +163,10 @@
           "text": "Primeiro travo a mola. Depois tiro a tensão.",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 32,
-            "target_y": 39
+            "target_y": 29
           }
         },
         {
@@ -174,10 +174,10 @@
           "text": "Anotei lugar e hora. Agora pode soltar.",
           "balloon": {
             "x": 67,
-            "y": 27,
+            "y": 15,
             "w": 30,
             "target_x": 77,
-            "target_y": 42
+            "target_y": 32
           }
         }
       ]
@@ -199,10 +199,10 @@
           "text": "Um salto gasto deixou a marca de lado.",
           "balloon": {
             "x": 3,
-            "y": 16,
+            "y": 6,
             "w": 30,
             "target_x": 30,
-            "target_y": 31
+            "target_y": 23
           }
         },
         {
@@ -210,10 +210,10 @@
           "text": "O dono passou depois da chuva desta manhã.",
           "balloon": {
             "x": 67,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 72,
-            "target_y": 36
+            "target_y": 27
           }
         }
       ]
@@ -235,10 +235,10 @@
           "text": "Pare onde está. Esta trilha é usada pela vila.",
           "balloon": {
             "x": 3,
-            "y": 31,
+            "y": 17,
             "w": 30,
             "target_x": 22,
-            "target_y": 46
+            "target_y": 34
           }
         },
         {
@@ -246,10 +246,10 @@
           "text": "O ferro é meu. Saiam da frente.",
           "balloon": {
             "x": 67,
-            "y": 33,
+            "y": 19,
             "w": 30,
             "target_x": 69,
-            "target_y": 48
+            "target_y": 36
           }
         }
       ]
@@ -271,10 +271,10 @@
           "text": "Comprei a corda. Não comprei uma plateia.",
           "balloon": {
             "x": 3,
-            "y": 24,
+            "y": 12,
             "w": 30,
             "target_x": 28,
-            "target_y": 39
+            "target_y": 29
           }
         },
         {
@@ -282,10 +282,10 @@
           "text": "Você armou ferro onde meu povo caminha.",
           "balloon": {
             "x": 67,
-            "y": 25,
+            "y": 13,
             "w": 30,
             "target_x": 75,
-            "target_y": 40
+            "target_y": 30
           }
         }
       ]
@@ -307,10 +307,10 @@
           "text": "Eu disse: saiam!",
           "balloon": {
             "x": 3,
-            "y": 18,
+            "y": 8,
             "w": 30,
             "target_x": 29,
-            "target_y": 33,
+            "target_y": 25,
             "kind": "shout"
           }
         },
@@ -319,10 +319,10 @@
           "text": "Largue o gancho. Ninguém precisa se ferir!",
           "balloon": {
             "x": 67,
-            "y": 25,
+            "y": 13,
             "w": 30,
             "target_x": 73,
-            "target_y": 40,
+            "target_y": 30,
             "kind": "shout"
           }
         }
@@ -345,10 +345,10 @@
           "text": "Fique na trilha. Solte a arma.",
           "balloon": {
             "x": 3,
-            "y": 19,
+            "y": 9,
             "w": 30,
             "target_x": 32,
-            "target_y": 34
+            "target_y": 26
           }
         },
         {
@@ -356,10 +356,10 @@
           "text": "Ela era uma ferramenta até você chegar.",
           "balloon": {
             "x": 67,
-            "y": 21,
+            "y": 10,
             "w": 30,
             "target_x": 76,
-            "target_y": 36
+            "target_y": 27
           }
         }
       ]
@@ -381,10 +381,10 @@
           "text": "A água já está aqui. Posso diminuir a corrida.",
           "balloon": {
             "x": 3,
-            "y": 25,
+            "y": 13,
             "w": 30,
             "target_x": 30,
-            "target_y": 40
+            "target_y": 30
           }
         },
         {
@@ -392,10 +392,10 @@
           "text": "A corda de cima. A pessoa, não.",
           "balloon": {
             "x": 67,
-            "y": 17,
+            "y": 7,
             "w": 30,
             "target_x": 73,
-            "target_y": 32
+            "target_y": 24
           }
         }
       ]
@@ -432,7 +432,7 @@
             "y": 4,
             "w": 30,
             "target_x": 80,
-            "target_y": 19,
+            "target_y": 21,
             "kind": "shout"
           }
         }
