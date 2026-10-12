@@ -12,6 +12,10 @@ ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-135-149.json").read_text(e
 ARC_TWO["pages"].extend(json.loads((STORY_DIR / "arc2-150-171.json").read_text(encoding="utf-8"))["pages"])
 ARC_THREE = json.loads((STORY_DIR / "arc3.json").read_text(encoding="utf-8"))
 ARC_THREE["pages"].extend(json.loads((STORY_DIR / "arc3-179-189.json").read_text(encoding="utf-8"))["pages"])
+for first, last in ((190, 201), (202, 213), (214, 225), (226, 237), (238, 250)):
+    ARC_THREE["pages"].extend(
+        json.loads((STORY_DIR / f"arc3-{first}-{last}.json").read_text(encoding="utf-8"))["pages"]
+    )
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

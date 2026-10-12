@@ -1,0 +1,444 @@
+{
+  "pages": [
+    {
+      "number": 226,
+      "title": "Consentimento com condições",
+      "time": "Dia 54 · manhã",
+      "place": "casa-conselho-enseada",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "In the same council house next morning, Talin LEFT signs the LOCAL keepers' consent to a narrow escorted sanctuary corridor; Adra RIGHT accepts responsibility as community witness. Adult council members of varied orc, elf and gnome ancestry visibly participate without duplicate principals. Consent forbids opening spring structures or taking living bark.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Nós permitimos a passagem acompanhada. Só pelo corredor.",
+          "balloon": {
+            "x": 3,
+            "y": 22,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 37
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A Casa não levará árvore, água nem nome sem perguntar.",
+          "balloon": {
+            "x": 67,
+            "y": 26,
+            "w": 30,
+            "target_x": 76,
+            "target_y": 41
+          }
+        }
+      ]
+    },
+    {
+      "number": 227,
+      "title": "O aditivo",
+      "time": "Dia 54 · meio-dia",
+      "place": "cais-enseada",
+      "layout": "detail",
+      "cast": [
+        "eda",
+        "sere"
+      ],
+      "scene": "Eda LEFT returns by ordinary ferry from EAST bank carrying a newly signed municipal ADDENDUM delivered by a regular courier after council review; Sere RIGHT checks both city addendum and local consent at west-bank dock. This is one day after request, not instant approval. The original no-dig restriction survives.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Passagem pelo corredor, com guardião. Nada de escavar.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 30,
+            "target_x": 31,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Leio as duas assinaturas antes de dar um passo.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 76,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 228,
+      "title": "Cinco funções",
+      "time": "Dia 54 · tarde",
+      "place": "praca-das-conchas",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "adra",
+        "talin",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "In the shell square before departure, Sere LEFT briefs five distinct people: herself with ash bow, Adra RIGHT with ferry hook, Talin with ash staff, Ilyan clean-shaven with BLUNT sword, Runa with notebook and maps. Each appears ONCE, not duplicated. They will leave at dawn day55; today check packs and distances. No sixth person.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Talin abre a rota. Adra fala pela vila. Eu cuido da retirada.",
+          "balloon": {
+            "x": 3,
+            "y": 10,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 25
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E ninguém se separa para perseguir o homem do lenço.",
+          "balloon": {
+            "x": 67,
+            "y": 18,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 33
+          }
+        }
+      ]
+    },
+    {
+      "number": 229,
+      "title": "A noite antes da mata",
+      "time": "Dia 54 · noite",
+      "place": "sala-hospedes-enseada",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Same communal guest hall: four woven mats, low lantern bank, east window toward ferry. Ilyan LEFT places a fresh cloth on dull practice blade and checks measuring-case bracket; Runa RIGHT ties field notebook shut. Quiet exhaustion, tentative trust, no sudden romantic declaration.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A espada não corta bem. Talvez hoje seja vantagem.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 30,
+            "target_x": 34,
+            "target_y": 38
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Você aprendeu a defender sem ferir. Eu vi.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 230,
+      "title": "Pelo corredor marcado",
+      "time": "Dia 55 · alvorada",
+      "place": "corredor-do-bosque",
+      "layout": "splash",
+      "cast": [
+        "talin",
+        "sere",
+        "ilyan",
+        "runa",
+        "adra"
+      ],
+      "scene": "At dawn after WALKING from the hamlet along legal willow path, Talin LEFT opens a simple cord-and-wood marker at the stone on the permitted north corridor; Sere RIGHT reads the two paper permissions. Ilyan, Runa, Adra each appear once behind. Forest dense, damp, beautiful. Physical footpath, not portal. The boundary is crossed only now.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Daqui em diante, sigam minhas estacas de freixo.",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Cinco entram. Cinco saem. Vamos contar sempre.",
+          "balloon": {
+            "x": 67,
+            "y": 15,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 231,
+      "title": "Luzes entre as raízes",
+      "time": "Dia 55 · manhã",
+      "place": "corredor-do-bosque",
+      "layout": "vertical",
+      "cast": [
+        "runa",
+        "talin"
+      ],
+      "scene": "On SAME marked sanctuary corridor, Runa LEFT sees tiny NONHUMAN willow sprites: insectlike translucent wings, copper-gold bodies, no human faces or clothes; Talin RIGHT observes their flight over an already flowing shallow stream. They do not speak or guide travelers. Forest roots, marked ash stakes, sunlight under leaves.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Parecem fadas. Estão seguindo a água?",
+          "balloon": {
+            "x": 3,
+            "y": 16,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "O degelo, talvez. Não faremos delas um mapa.",
+          "balloon": {
+            "x": 67,
+            "y": 13,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 232,
+      "title": "A água conta outra hora",
+      "time": "Dia 55 · manhã",
+      "place": "corredor-do-bosque",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "adra"
+      ],
+      "scene": "Runa LEFT kneels on marked corridor beside natural stream and measures its height against an old painted rock. Adra RIGHT compares a community flood mark and sees flow ahead of season. Willow sprites drift in background only, one cluster. No magic yet; map in Runa's hand remains one of the two public copies.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Esta marca devia ficar seca até a próxima lua.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Nossa enseada já sentiu a água chegar cedo.",
+          "balloon": {
+            "x": 67,
+            "y": 30,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 45
+          }
+        }
+      ]
+    },
+    {
+      "number": 233,
+      "title": "Ferro na raiz",
+      "time": "Dia 55 · manhã",
+      "place": "corredor-do-bosque",
+      "layout": "macro",
+      "cast": [
+        "ilyan",
+        "talin"
+      ],
+      "scene": "At the same corridor, Ilyan LEFT notices ONE newly driven iron spike and rope sunk into a living willow root just off edge of marked path; Talin RIGHT signals stop with ash staff. Gray cloth thread nearby but NO Daro visible and no proof who installed it. Distinct single spike, roots tense subtly. They have permission to remove loose hazard but not excavate.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Mais ferro. Alguém o fincou na raiz.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 30,
+            "target_x": 32,
+            "target_y": 42
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Não puxe ainda. Escute o chão.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 76,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 234,
+      "title": "Quando o chão se move",
+      "time": "Dia 55 · manhã",
+      "place": "corredor-do-bosque",
+      "layout": "dynamic",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "The ONE root guardian begins rising from connected willow roots and wet stone around the fresh iron spike, no human face and no extra creature copies. Sere LEFT steps between group and moving root mass with bow held; Ilyan RIGHT keeps his BLUNT sword crosswise and protects retreat along marked corridor. Five people remain nearby but only these two foreground. No attack caused by magical destiny.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Recuem para a estaca anterior!",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 29,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Está reagindo ao ferro, não a nós... espero.",
+          "balloon": {
+            "x": 67,
+            "y": 14,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 235,
+      "title": "Uma raiz, não um inimigo",
+      "time": "Dia 55 · instantes depois",
+      "place": "corredor-do-bosque",
+      "layout": "asymmetric",
+      "cast": [
+        "talin",
+        "runa"
+      ],
+      "scene": "Same guardian as page234: ONE large willow-root organism and wet stone rises across marked sanctuary corridor without face. Talin LEFT uses ash staff to divert a branch away from group; Runa RIGHT spots the iron spike at base beside existing stream. The group stays on marked corridor, no duplications.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "É defesa do bosque. Não a matem.",
+          "balloon": {
+            "x": 3,
+            "y": 16,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "O ferro pulsa onde a raiz encontra água.",
+          "balloon": {
+            "x": 67,
+            "y": 29,
+            "w": 30,
+            "target_x": 72,
+            "target_y": 44
+          }
+        }
+      ]
+    },
+    {
+      "number": 236,
+      "title": "A espada segura o espaço",
+      "time": "Dia 55 · instantes depois",
+      "place": "corredor-do-bosque",
+      "layout": "action",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "Continuing SAME root guardian confrontation. Ilyan LEFT uses FLAT SIDE of blunt short training sword to hold a flexible branch away from retreating companions, not cut the living root. Sere RIGHT plants ONE arrow into a dead fallen log to catch swinging rope, never into creature/person. No invented sharp sword or enemy duplicate.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Não golpeiem a raiz! Segurem o corredor!",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 39,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Prendi a corda no tronco caído. Temos um instante.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 237,
+      "title": "Água que já corre",
+      "time": "Dia 55 · instantes depois",
+      "place": "corredor-do-bosque",
+      "layout": "dynamic",
+      "cast": [
+        "runa",
+        "adra"
+      ],
+      "scene": "At edge of same path, Runa LEFT guides ALREADY FLOWING stream water into earth around the ONE iron spike, softening soil through learned elemental technique; tattoo left arm, silver septum, straight black bangs. Adra RIGHT braces her ordinary ferry hook near stake WITHOUT digging or taking roots. Same guardian blurred farther background, once.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A corrente basta. Preciso só mudar por onde passa!",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 41
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Quando a terra ceder, puxo o ferro. Nada mais.",
+          "balloon": {
+            "x": 67,
+            "y": 29,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 44
+          }
+        }
+      ]
+    }
+  ]
+}

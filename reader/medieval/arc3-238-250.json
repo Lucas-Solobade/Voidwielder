@@ -1,0 +1,474 @@
+{
+  "pages": [
+    {
+      "number": 238,
+      "title": "O gancho e a estaca",
+      "time": "Dia 55 · instantes depois",
+      "place": "corredor-do-bosque",
+      "layout": "two-panels",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "scene": "Adra LEFT uses ferry hook to lever the ONE loose iron spike out of already softened mud without digging or stripping living bark; Talin RIGHT holds ash staff between group and ONE root guardian. Inset shows spike coming clear, no second spike. Root organism starts settling immediately, physically coherent, same grove path.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Saiu. O ferro inteiro, sem arrancar casca.",
+          "balloon": {
+            "x": 3,
+            "y": 30,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 45
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "A raiz está soltando o caminho.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 239,
+      "title": "O silêncio volta",
+      "time": "Dia 55 · meio-dia",
+      "place": "corredor-do-bosque",
+      "layout": "splash",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "scene": "Single root guardian settles back into willow roots and wet stone as same morning light returns. Sere LEFT lowers ash bow; Runa RIGHT lets the redirected stream return to its natural bed. Iron spike wrapped as evidence in Adra's hands out of frame. Five-person group intact on corridor, no victory over forest, no new magical portal.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Conte as vozes. Todos aqui?",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 30,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Cinco. E a água já voltou ao leito.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 72,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 240,
+      "title": "Além das raízes",
+      "time": "Dia 55 · início da tarde",
+      "place": "corredor-do-bosque",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "ilyan"
+      ],
+      "scene": "Walking NORTH on SAME permitted ash-staked corridor AFTER guardian settles. Talin LEFT points to low timber bridges between huge roots where the forest hamlet Escada de Âmbar begins; Ilyan RIGHT sees carved waystones. Other companions close behind out of frame, none teleported. No entry into houses yet.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A aldeia está além daquela ponte baixa.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Mira desenhou raízes assim... antes de sumir.",
+          "balloon": {
+            "x": 67,
+            "y": 22,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 37
+          }
+        }
+      ]
+    },
+    {
+      "number": 241,
+      "title": "Uma aldeia que vigia",
+      "time": "Dia 55 · tarde",
+      "place": "escada-de-ambar",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "scene": "At threshold of inhabited Escada de Âmbar forest hamlet: low timber bridges between roots, stone-and-wood homes, terraced spring stair, carved amber spiral on gate. Adult elf and gnome residents watch cautiously, not decorative fantasy crowd. Adra LEFT greets Talin RIGHT's neighbors. Other visitors remain together on bridge behind them.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Viemos com consentimento, sem exigir acesso a nada.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Eu os trouxe. A decisão de receber é de todos.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 242,
+      "title": "O nome do chão",
+      "time": "Dia 55 · tarde",
+      "place": "escada-de-ambar",
+      "layout": "duo",
+      "cast": [
+        "runa",
+        "talin"
+      ],
+      "scene": "In same hamlet square beside amber spiral gate and stepped spring, Runa LEFT opens her field notebook while Talin RIGHT states the hamlet name should be written by its people, not assigned by school. Background homes, elven adults and short adult gnomes. The party waits for invitation, no unauthorized archive entry.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Como devo escrever o nome desta aldeia?",
+          "balloon": {
+            "x": 3,
+            "y": 19,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Escada de Âmbar. Registre também quem o disse.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 243,
+      "title": "Uma sala emprestada",
+      "time": "Dia 55 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "interior",
+      "cast": [
+        "talin",
+        "sere"
+      ],
+      "scene": "After residents' deliberation, Talin LEFT escorts Sere RIGHT into a PUBLIC memory room in the hamlet. Fixed geography: amber spiral above south doorway, one long cedar table, two narrow WEST windows, shelves of woven book covers along north wall. Private records stay closed. Sere puts written local consent and city addendum on table.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Podem ver as cópias públicas. Os nomes de família ficam conosco.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "É o mesmo limite que exigimos da Casa.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 244,
+      "title": "A medição antiga",
+      "time": "Dia 55 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "detail",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Same public memory room: amber spiral south door, long cedar table, two WEST windows, north shelves. Runa LEFT opens an OLD community survey ledger with Talin's permission; Ilyan RIGHT recognizes his mother Mira's copper survey glyph in an entry dated BEFORE her disappearance two winters ago. Only glyph/mark, NO portrait of Mira. No proof she visited after vanishing.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Esta data é anterior ao desaparecimento dela.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Mas esse sinal é o que ela gravava nos meus moldes.",
+          "balloon": {
+            "x": 67,
+            "y": 25,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 245,
+      "title": "O mapa não é confissão",
+      "time": "Dia 55 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "split",
+      "cast": [
+        "ilyan",
+        "adra"
+      ],
+      "scene": "At same cedar table in memory room, Ilyan LEFT studies Mira's PRE-DISAPPEARANCE public route showing the stepped spring and old bridge; Adra RIGHT points out a community correction in different ink. No supposed secret encounter. West windows and amber spiral fixed. Distinct two maps, not infinite duplicates.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela esteve aqui. Isso eu posso afirmar.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 38
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Antes de sumir. O resto da história ainda não veio.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 246,
+      "title": "A linha depois da cheia",
+      "time": "Dia 55 · fim da tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "macro",
+      "cast": [
+        "runa",
+        "talin"
+      ],
+      "scene": "Runa LEFT examines water stains along an old ledger page and a different later map line; Talin RIGHT recalls a spring flood that damaged paper. Same memory room cedar table, two west windows glowing late afternoon, woven north shelves. Runa rules out calling ordinary water damage deliberate erasure without evidence.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A mancha veio de água antiga. Não prova censura.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 38
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Nossa fonte transbordou naquele inverno.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 247,
+      "title": "O preço da memória",
+      "time": "Dia 55 · entardecer",
+      "place": "casa-memoria-ambar",
+      "layout": "duo",
+      "cast": [
+        "sere",
+        "talin"
+      ],
+      "scene": "In same public memory room, Sere LEFT asks to photograph? NO CAMERA. She asks permission for a HAND COPY of ONLY the public route; Talin RIGHT grants if community authorship stays on it. Sere uses quill, paper and wax, no modern device. Amber spiral south doorway and shelves fixed.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Podemos copiar só o traço público, com autoria?",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Sim. O original permanece onde nasceu.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 248,
+      "title": "Degraus sob a chuva",
+      "time": "Dia 55 · noite",
+      "place": "fonte-degraus-ambar",
+      "layout": "splash",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Outside, the terraced spring of Escada de Âmbar below the village homes, light evening rain begins. Runa LEFT and Ilyan RIGHT stand together under a timber awning; she sees fresh water rise above the older survey line and he holds the copied map dry. Their trust has grown through listening and shared danger; intimate but modest, no kiss or abrupt relationship.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você ficou, mesmo quando o mapa não respondeu.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu quase não fiquei. Você me trouxe de volta à trilha.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 249,
+      "title": "Um sinal novo",
+      "time": "Dia 56 · alvorada",
+      "place": "fonte-degraus-ambar",
+      "layout": "detail",
+      "cast": [
+        "talin",
+        "ilyan"
+      ],
+      "scene": "At SAME terraced spring next morning, Talin LEFT notices a fresh small copper survey mark on the side of a spring step, BELOW Mira's weathered older glyph. Ilyan RIGHT examines without prying or damaging stone. Fresh cut is NOT in Mira's handwriting and not proof she is alive. Rain-wet stone, amber village homes unchanged.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Esse risco novo não estava aqui na última ronda.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 41
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O sinal dela é antigo. Alguém continuou a linha.",
+          "balloon": {
+            "x": 67,
+            "y": 26,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 41
+          }
+        }
+      ]
+    },
+    {
+      "number": 250,
+      "title": "A direção que falta",
+      "time": "Dia 56 · manhã",
+      "place": "fonte-degraus-ambar",
+      "layout": "vertical",
+      "cast": [
+        "runa",
+        "adra",
+        "ilyan",
+        "talin"
+      ],
+      "scene": "At SAME terraced spring in inhabited Escada de Âmbar, Runa LEFT overlays hand-copied old map with NEW anonymous copper mark; Adra RIGHT points to northward watercourse BEYOND their currently permitted corridor. Ilyan and Talin each ONCE in smaller background. No one steps beyond limit. Dramatic unresolved last panel of fresh mark pointing north. Mira's fate and spike setter still unknown; ARC THREE REMAINS OPEN.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A marca nova segue para o norte. Não foi feita pela mão de Mira.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 40
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E ninguém sairá daqui antes de ouvir quem guarda aquela água.",
+          "balloon": {
+            "x": 67,
+            "y": 26,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 41
+          }
+        }
+      ]
+    }
+  ]
+}

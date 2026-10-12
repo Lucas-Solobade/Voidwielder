@@ -1,0 +1,440 @@
+{
+  "pages": [
+    {
+      "number": 214,
+      "title": "Atrás da pedra",
+      "time": "Dia 53 · meio-dia",
+      "place": "trilha-das-salgueiras",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "talin",
+        "daro"
+      ],
+      "scene": "Daro, exactly ONE dark-red-scarfed adult human, pulls free of fallen net and runs across the NORTH side of the sanctuary boundary stone. Adra LEFT halts SOUTH on legal path and Talin RIGHT prevents pursuit. Daro smaller in far distance but still clearly one person. No one else crosses, no extra duplicate.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Ele passou da pedra!",
+          "balloon": {
+            "x": 3,
+            "y": 31,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 46,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Nós não. Se entrarmos sem plano, ferimos o bosque também.",
+          "balloon": {
+            "x": 67,
+            "y": 25,
+            "w": 30,
+            "target_x": 79,
+            "target_y": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 215,
+      "title": "O que ficou na trilha",
+      "time": "Dia 53 · início da tarde",
+      "place": "posto-tres-raizes",
+      "layout": "detail",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Back at the same legal three-root wooden post, Ilyan LEFT collects the DISARMED SECOND snare under cloth, keeping it separate from the FIRST snare stored in council house. Runa RIGHT sketches gray fabric thread and crooked heel print, neither proven to match the first site. Blunt sword sheathed, wet leaves, no Daro visible.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Há duas peças. Não vou misturar uma com a outra.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 30,
+            "target_x": 35,
+            "target_y": 43
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E uma pegada desta manhã. A de ontem já sumiu.",
+          "balloon": {
+            "x": 67,
+            "y": 29,
+            "w": 30,
+            "target_x": 72,
+            "target_y": 44
+          }
+        }
+      ]
+    },
+    {
+      "number": 216,
+      "title": "Quem ficou do lado de fora",
+      "time": "Dia 53 · início da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "duo",
+      "cast": [
+        "sere",
+        "talin"
+      ],
+      "scene": "South of the same boundary stone after Daro disappears north. Sere LEFT lowers ash bow and inspects its one spent arrow. Talin RIGHT touches the boundary marker with ash staff, worried about iron driven into living roots beyond. Sanctuary thick to north; marked public path to east. No unjustified crossing.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Posso segui-lo pela trilha pública. Aqui acaba a minha licença.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Lá dentro o ferro enfurece raízes antigas.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 217,
+      "title": "Um aviso não é prova",
+      "time": "Dia 53 · início da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "split",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Adra LEFT and Ilyan RIGHT look toward sanctuary from legal path, without seeing Daro. An inset shows the damaged community path marker and a single gray thread. Adra distinguishes defending village from claiming Daro set the FIRST snare; Ilyan respects uncertainty.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Vi a segunda armadilha perto dele. A primeira, não.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então é isso que diremos. Nem uma palavra a mais.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 218,
+      "title": "Retorno com testemunhas",
+      "time": "Dia 53 · tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "diagonal",
+      "cast": [
+        "talin",
+        "runa",
+        "sere",
+        "ilyan"
+      ],
+      "scene": "The group walks EAST on the same public willow trail back to Enseada after patrolling. Talin LEFT carries his ash staff, Runa RIGHT keeps field notebook; Sere and Ilyan once each in middle distance. The disarmed SECOND snare wrapped and carried by Ilyan. One boundary stone recedes in distance. Daylight, no teleport.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Eu testemunho a fuga. Não autorizo caça ao homem.",
+          "balloon": {
+            "x": 3,
+            "y": 17,
+            "w": 30,
+            "target_x": 22,
+            "target_y": 32
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Também vi o ferro preso à trilha. Levo as medidas.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 72,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 219,
+      "title": "Duas provas, dois panos",
+      "time": "Dia 53 · tarde",
+      "place": "casa-conselho-enseada",
+      "layout": "macro",
+      "cast": [
+        "adra",
+        "pim"
+      ],
+      "scene": "Same shell-mosaic council house, oak table and two copper lamps. Adra LEFT lays the FIRST snare wrapped in cream sailcloth and the SECOND disarmed snare wrapped in dark cloth apart from each other. Pim RIGHT compares visible knots without touching evidence. No third trap or fake duplicate of a person.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A de ontem e a de hoje, separadas.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 30,
+            "target_x": 35,
+            "target_y": 38
+          }
+        },
+        {
+          "speaker": "Pim",
+          "text": "Nó parecido. Ferro de oficinas diferentes, talvez.",
+          "balloon": {
+            "x": 67,
+            "y": 29,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 44
+          }
+        }
+      ]
+    },
+    {
+      "number": 220,
+      "title": "O preço do atalho",
+      "time": "Dia 53 · tarde",
+      "place": "casa-conselho-enseada",
+      "layout": "two-panels",
+      "cast": [
+        "pim",
+        "sere"
+      ],
+      "scene": "Pim LEFT examines the SECOND snare's cargo twine under a copper lamp; Sere RIGHT checks her dated field record at council oak table. Pim knows its kind is sold to freight crews up and downriver, so no unique owner. A small panel shows many common rope spools from dock, not extra trap.",
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "Vendemos essa corda a metade do rio.",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Não transformarei comércio em acusação.",
+          "balloon": {
+            "x": 67,
+            "y": 13,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 221,
+      "title": "A passagem proposta",
+      "time": "Dia 53 · tarde",
+      "place": "casa-conselho-enseada",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "At same council table, Talin LEFT traces a narrow OLD marked corridor into the north sanctuary on the community-made map; Adra RIGHT proposes a guarded search only if both the local keepers and municipal authority agree. Background adult council members listen but no new speaker. Geography clearly path south, corridor north, Escada de Âmbar farther north.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Há um corredor de visita. Ninguém pisaria fora dele.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Sem nossa decisão e nova licença, ele continua fechado.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 222,
+      "title": "A agrimensora chega",
+      "time": "Dia 53 · fim da tarde",
+      "place": "cais-enseada",
+      "layout": "wide",
+      "cast": [
+        "eda",
+        "adra"
+      ],
+      "scene": "Eda LEFT, brown-skinned adult woman with short curly dark hair and teal surveyor cloak, has crossed the physical ferry from the EAST bank to WEST bank Enseada to inspect the patrol report. Adra RIGHT waits at local dock with dated sketches. Show moored ferry and pole, not magical arrival.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Recebi o aviso pelo barqueiro. Mostrem-me o lugar no mapa.",
+          "balloon": {
+            "x": 3,
+            "y": 18,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 33
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E as duas peças, cada uma com sua testemunha.",
+          "balloon": {
+            "x": 67,
+            "y": 26,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 41
+          }
+        }
+      ]
+    },
+    {
+      "number": 223,
+      "title": "Pedido em vez de invasão",
+      "time": "Dia 53 · fim da tarde",
+      "place": "casa-conselho-enseada",
+      "layout": "interior",
+      "cast": [
+        "eda",
+        "talin"
+      ],
+      "scene": "Council house shell mosaic, oak table, two copper lamps. Eda LEFT reviews written patrol report and existing limited city permit; Talin RIGHT asks for supplementary municipal passage consent to the marked corridor. Eda cannot personally waive city restrictions; a council clerk/courier must return signature after review.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Posso encaminhar um aditivo. Não posso assiná-lo por outro órgão.",
+          "balloon": {
+            "x": 3,
+            "y": 19,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Meu povo examinará a entrada enquanto esperamos.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 224,
+      "title": "O correio de volta",
+      "time": "Dia 53 · entardecer",
+      "place": "cais-enseada",
+      "layout": "detail",
+      "cast": [
+        "ilyan",
+        "eda"
+      ],
+      "scene": "At WEST-bank local dock, Ilyan LEFT hands his sealed letter drafted page 200 to Eda RIGHT, who boards the ordinary eastbound ferry with petition. The letter is addressed to Bram and Nima in Pedra-Mansa through a normal post route, not instantly delivered. Show physical ferry and one sealed letter; no Nima on scene.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Essa carta segue ao posto do leste?",
+          "balloon": {
+            "x": 3,
+            "y": 31,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 46
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Segue comigo. Depois viaja por correio até Pedra-Mansa.",
+          "balloon": {
+            "x": 67,
+            "y": 32,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 47
+          }
+        }
+      ]
+    },
+    {
+      "number": 225,
+      "title": "O peso que não se entrega",
+      "time": "Dia 53 · noite",
+      "place": "praca-das-conchas",
+      "layout": "duo",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "In the shell square at night, Runa LEFT and Ilyan RIGHT sit on steps beside lanterns, not touching intimately. Runa has notebook; Ilyan has sheathed BLUNT sword. Both discuss how his search for Mira must not turn locals into instruments; his respect strengthens quietly. Inhabited houses remain behind them.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Sua mãe desenhou um caminho. Quem mora nele é mais que pista.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu sei. Hoje alguém teria se machucado por minha pressa.",
+          "balloon": {
+            "x": 67,
+            "y": 22,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 37
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -7,7 +7,9 @@
     "travelers": "reader/medieval/references/travelers-sheet.png",
     "runa": "reader/medieval/references/runa-sheet.png",
     "school_cast": "reader/medieval/references/school-cast-sheet.png",
-    "oru": "reader/medieval/references/oru-sheet.png"
+    "oru": "reader/medieval/references/oru-sheet.png",
+    "talin": "reader/medieval/references/individual/talin.png",
+    "daro": "reader/medieval/references/individual/daro.png"
   },
   "characters": {
     "ilyan": {
@@ -136,10 +138,30 @@
       "role": "orc cartógrafa e capitã das balsas do sal",
       "fixed_appearance": "Orc adulta de pele verde-ardósia, duas presas inferiores discretas, tranças negras presas com conchas e mão direita com dois dedos unidos por cicatriz.",
       "fixed_clothing": "Manto de viagem de capitã de balsa em azul profundo e couro gasto, mapas enrolados no cinto."
+    },
+    "pim": {
+      "name": "Pim", "age": 54,
+      "role": "gnomo ADULTO neteiro da Enseada, artesão de cordas e membro do conselho local",
+      "fixed_appearance": "Gnomo adulto baixo e robusto, barba cobre-acinzentada cheia, olhos castanhos pequenos, nariz largo e mãos marcadas pelo trabalho com cordas. É o neteiro visto ao fundo na página 185; nunca desenhá-lo como criança.",
+      "fixed_clothing": "Lenço vermelho gasto na cabeça, camisa de linho creme, colete castanho e botas de couro."
+    },
+    "talin": {
+      "name": "Talin", "age": 37,
+      "role": "elfo adulto eleito guardião da trilha do santuário e morador da Escada de Âmbar",
+      "fixed_appearance": "Elfo adulto de pele bronze-clara, cabelo castanho-avermelhado CURTO, orelhas pontudas e cicatriz fina em forma de folha na bochecha DIREITA. Não tem a trança branca de Sere.",
+      "fixed_clothing": "Manto ocre de guardião, roupa de viagem castanha e cajado de freixo sem lâmina."
+    },
+    "daro": {
+      "name": "Daro", "age": 34,
+      "role": "recolhedor de laços e agressor da patrulha; sua relação com a primeira armadilha e com autoridades ainda não foi provada",
+      "fixed_appearance": "Humano ADULTO de pele oliva média, cabelo preto raspado nas laterais, barba rala e cicatriz branca sobre a sobrancelha DIREITA. Um salto da bota é gasto e deixa pegada enviesada.",
+      "fixed_clothing": "Casaco de couro cinza gasto, lenço vermelho ESCURO no pescoço, botas marrons e gancho comum de carga. Não usa magia nem uniforme escolar."
     }
   },
   "creatures": {
-    "cervo-de-casca": "Grande cervo silvestre de quatro patas, placas de casca castanha, galhadas ramificadas com musgo pálido e olhos âmbar. Não é um monstro maligno. O único indivíduo visto na trilha das salgueiras tem a pata DIANTEIRA ESQUERDA presa numa armadilha de corda e ferro feita por pessoa desconhecida. Depois de liberto na página 189, manca para dentro do bosque; ninguém prova que foi curado. Não duplicar cabeça, chifres ou membros entre quadros."
+    "cervo-de-casca": "Grande cervo silvestre de quatro patas, placas de casca castanha, galhadas ramificadas com musgo pálido e olhos âmbar. Não é um monstro maligno. O único indivíduo visto na trilha das salgueiras tem a pata DIANTEIRA ESQUERDA presa numa armadilha de corda e ferro feita por pessoa desconhecida. Depois de liberto na página 189, manca para dentro do bosque; ninguém prova que foi curado. Não duplicar cabeça, chifres ou membros entre quadros.",
+    "fadas-do-salgueiro": "Seres pequenos NÃO HUMANOS com corpo cobre-dourado e asas translúcidas de inseto. Voam perto de cursos de água; não falam, não guiam viajantes e não substituem consentimento de povos locais.",
+    "guardiao-de-raiz": "Um ÚNICO organismo ancestral do santuário, feito de raízes vivas de salgueiro e pedra úmida, sem rosto humano. Reage ao ferro cravado na raiz; recua quando o metal é retirado e a água volta ao leito. Não é maligno, não se multiplica e não é derrotado por golpe fatal."
   },
   "places": {
     "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
@@ -151,7 +173,16 @@
     "estrada-rio-sal": "Estrada PÚBLICA a sudoeste do portão sul da escola, percorrida A PÉ. Vai por fazendas e salgueiros ao atracadouro da margem LESTE; não contém portais ou atalhos mágicos.",
     "atracadouro-do-sal": "Cais de madeira na margem LESTE do rio. Balsa de Adra atravessa ao cais da Enseada na margem OESTE com remos e corda, na corrente baixa.",
     "balsa-do-sal": "Balsa de madeira de Adra que cruza o rio entre o atracadouro da margem LESTE e a Enseada das Conchas na margem OESTE. Travessia física, conduzida com remos e corda.",
-    "trilha-das-salgueiras": "Trilha comunitária marcada que parte da Enseada e passa junto a salgueiros, musgo e samambaias. Uma pedra-limite separa a passagem de visita do santuário do bosque: a equipe fica na trilha autorizada. A armadilha da página 187 está no caminho público, ANTES da pedra; o cervo de casca recua além dela na página 189."
+    "trilha-das-salgueiras": "Trilha comunitária marcada que parte da Enseada e passa junto a salgueiros, musgo e samambaias. Uma pedra-limite separa a passagem de visita do santuário do bosque: a equipe fica na trilha autorizada. A armadilha da página 187 está no caminho público, ANTES da pedra; o cervo de casca recua além dela na página 189. A patrulha do dia 53 vai e volta a pé pela mesma trilha.",
+    "casa-conselho-enseada": "Casa do conselho na Enseada, mosaico de conchas na parede OESTE acima de uma longa mesa central de carvalho; duas lamparinas de cobre fixas. Primeiro laço fica sob pano creme, segundo sob pano escuro, sem misturá-los.",
+    "praca-das-conchas": "Praça habitada entre a casa do conselho e o cais da margem OESTE. Degraus de madeira, conchas penduradas e lanternas; a corrente noturna suspende a balsa.",
+    "sala-hospedes-enseada": "Alojamento comunitário junto à praça, quatro esteiras trançadas, banco baixo de lanternas e janela LESTE voltada para a balsa. Equipe dorme ali nas noites dos dias 52–54.",
+    "cais-enseada": "Cais da Enseada na margem OESTE, junto à praça; balsa física cruza para o cais leste. Eda chega e parte por aqui, com tempo normal de travessia.",
+    "posto-tres-raizes": "Posto de patrulha de madeira na trilha pública ao SUL da pedra-limite. A segunda armadilha surge nas folhas molhadas ali na manhã do dia 53.",
+    "corredor-do-bosque": "Corredor marcado por estacas de freixo ao NORTE da pedra-limite. Só acessado pela equipe no dia 55, depois de consentimento local e aditivo municipal. Não abre estruturas, não escava nem permite sair da faixa sinalizada. Leva a pé até Escada de Âmbar.",
+    "escada-de-ambar": "Aldeia élfica e gnômica habitada dentro do bosque: pontes baixas de madeira entre raízes, casas de pedra e madeira, fonte em degraus e espiral âmbar entalhada na entrada. Tem autonomia e decide o que visitantes podem copiar.",
+    "casa-memoria-ambar": "Sala pública da aldeia Escada de Âmbar: espiral âmbar sobre porta SUL, longa mesa de cedro, duas janelas estreitas OESTE e estantes de capas tecidas na parede NORTE. Registros privados permanecem fechados.",
+    "fonte-degraus-ambar": "Fonte em degraus de pedra abaixo das casas da aldeia; toldo de madeira protege visitantes da chuva. Glifo antigo de Mira e marca recente de outra mão ficam em degraus distintos, sem autor novo identificado."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -196,7 +227,11 @@
     "O ramo deixado perto da piscina é um aviso sobre o ciclo da água, não um convite ou uma autorização em nome de todos os povos da margem. A equipe precisa escutar representantes aceitos por cada comunidade.",
     "Adra testemunha o nome Enseada das Conchas e leva o pedido à comunidade pelo rio no dia 50. O convite trazido por correio comum no dia 51 não substitui a licença municipal, que permanece pendente. A semelhança entre uma curva do mapa comunitário e a rota antiga de Mira não prova que ela esteve lá após desaparecer.",
     "Ao entardecer do dia 51, Eda entrega licença municipal assinada para Sere liderar levantamento na estrada, no cais e na trilha comunitária marcada. Não autoriza escavação, abertura de estruturas nem entrada no santuário além da pedra-limite. Ilyan usa espada curta SEM FIO para defesa, Runa só guia água já existente, Sere conduz. A balsa cruza fisicamente de leste para oeste no dia 52.",
-    "O cervo de casca investe porque está preso numa armadilha de ferro na trilha. O grupo age para proteger a passagem e soltar a estaca, sem matar a criatura nem cruzar a pedra do santuário. A autoria da armadilha continua desconhecida; nenhuma personagem atribui culpa a Maelor ou usa o episódio como prova do destino de Mira."
+    "O cervo de casca investe porque está preso numa armadilha de ferro na trilha. O grupo age para proteger a passagem e soltar a estaca, sem matar a criatura nem cruzar a pedra do santuário. A autoria da armadilha continua desconhecida; nenhuma personagem atribui culpa a Maelor ou usa o episódio como prova do destino de Mira.",
+    "No dia 53, o conselho da Enseada autoriza patrulha apenas na trilha PÚBLICA ao sul da pedra. Daro ameaça a equipe e foge para o santuário; o grupo não o segue. A segunda armadilha é recolhida separadamente da primeira. Pegada, nó e casaco não provam quem armou a primeira.",
+    "A entrada no corredor do santuário só ocorre no dia 55, após consentimento dos guardiões locais e aditivo municipal assinado. A equipe de cinco entra a pé sob Talin e Sere, sem escavar, abrir estruturas ou sair das estacas de freixo.",
+    "O guardião de raiz não é inimigo malvado. Reage a uma peça de ferro na raiz; Ilyan usa a ESPADA SEM FIO para proteger, Sere atira somente em corda ou tronco morto e Runa guia apenas água de um riacho existente. Adra remove uma peça de ferro sem escavar. Quando o metal sai, o guardião se recolhe.",
+    "O registro de Mira na Escada de Âmbar data de ANTES de seu desaparecimento. A marca recente na fonte é de outra mão ainda não identificada; não prova que Mira esteja viva, nem a culpa de Maelor ou Daro. O arco três permanece aberto na página 250."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
@@ -229,7 +264,12 @@
     "Dia 51: páginas 177–178 — um correio comum traz convite do conselho da balsa e mapa comunitário; a licença municipal ainda falta. Ilyan e Runa comparam a curva com a cópia antiga de Mira sem transformar coincidência em prova. O arco 3 permanece aberto.",
     "Dia 51, entardecer/noite: páginas 179–180 — chega licença municipal com limites; Sere instrui Ilyan e Runa, prepara equipe e materiais no pátio de treino.",
     "Dia 52, alvorada até início da tarde: páginas 181–185 — grupo sai A PÉ pelo portão sul, percorre a estrada do rio, encontra Adra no cais leste, atravessa na balsa física e desembarca na Enseada das Conchas, margem oeste.",
-    "Dia 52, tarde: páginas 186–189 — sob guia de Adra e comando de Sere, equipe fica na trilha comunitária autorizada, encontra um cervo de casca preso, defende passagem com magia restrita e espada sem fio, solta a estaca e registra a armadilha sem atribuir autoria. O arco 3 continua."
+    "Dia 52, tarde: páginas 186–189 — sob guia de Adra e comando de Sere, equipe fica na trilha comunitária autorizada, encontra um cervo de casca preso, defende passagem com magia restrita e espada sem fio, solta a estaca e registra a armadilha sem atribuir autoria. O arco 3 continua.",
+    "Dia 52, noite: páginas 190–201 — o grupo recolhe o primeiro laço, retorna a pé à Enseada, apresenta o objeto ao conselho, pernoita porque a corrente fecha a balsa e ouve apenas um som indeterminado no bosque.",
+    "Dia 53: páginas 202–225 — patrulha comunitária autorizada na trilha pública encontra o SEGUNDO laço, enfrenta Daro sem feri-lo e não o segue além da pedra. Os dois objetos ficam separados. Eda recebe pedido de aditivo pela via comum. A carta de Ilyan a Bram e Nima segue pelo correio, sem entrega instantânea.",
+    "Dia 54: páginas 226–229 — guardiões da Enseada consentem passagem acompanhada e chega aditivo municipal; as duas autorizações mantêm o limite de não escavar. Equipe de cinco prepara a saída do dia seguinte.",
+    "Dia 55: páginas 230–248 — grupo entra a pé no corredor autorizado, observa fadas pequenas junto à água, remove ferro de uma raiz durante confronto defensivo com guardião não maligno e alcança Escada de Âmbar. Registros públicos documentam a passagem de Mira ANTES de sumir; cópia somente com autoria local.",
+    "Dia 56, manhã: páginas 249–250 — Talin e Ilyan acham marca de agrimensor recente junto ao glifo antigo de Mira na fonte. Runa nota que é de outra mão e aponta ao norte além da licença. Ninguém segue sem falar com guardiões. O arco três continua."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

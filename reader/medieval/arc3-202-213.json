@@ -1,0 +1,442 @@
+{
+  "pages": [
+    {
+      "number": 202,
+      "title": "Quem guarda o limite",
+      "time": "Dia 53 · alvorada",
+      "place": "praca-das-conchas",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "scene": "Morning in the same inhabited shell square. Adra LEFT asks Talin RIGHT, ADULT elf trail keeper with light bronze skin, cropped auburn hair, thin leaf-shaped scar on RIGHT cheek, ochre cloak and ash staff, to accompany a community patrol of the LEGAL path. Ferry boat tied nearby; no sanctuary entry approved.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A escola pode olhar a trilha. O bosque exige guardião.",
+          "balloon": {
+            "x": 3,
+            "y": 31,
+            "w": 30,
+            "target_x": 33,
+            "target_y": 46
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Vou com vocês até a pedra, não além dela.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 77,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 203,
+      "title": "A autorização do povo",
+      "time": "Dia 53 · manhã",
+      "place": "casa-conselho-enseada",
+      "layout": "detail",
+      "cast": [
+        "talin",
+        "sere"
+      ],
+      "scene": "Council house shell mosaic, oak table, two copper lamps in daylight. Talin LEFT signs a local consent for patrol of the marked footpath; Sere RIGHT shows her existing municipal permit separately. Neither document changes the prohibition on sanctuary entry. Single clean close inset of two documents, no garbled readable words in art.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A trilha da vila, sim. A raiz sagrada, não.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 38
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "A licença da cidade diz o mesmo. Vamos respeitar ambas.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 204,
+      "title": "Quatro pares de passos",
+      "time": "Dia 53 · manhã",
+      "place": "trilha-das-salgueiras",
+      "layout": "diagonal",
+      "cast": [
+        "sere",
+        "talin",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Return by foot WEST along same marked willow trail from the hamlet. Sere LEFT and Talin RIGHT lead; Ilyan and Runa each ONCE in smaller middle distance. Distinct clothing and faces, boundary stone still ahead, no sudden transport. Light rain starts but there is existing stream water by path.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Distância entre nós. Ninguém tapa a visão do outro.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 29
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "O posto de madeira é antes da pedra. Comecemos lá.",
+          "balloon": {
+            "x": 67,
+            "y": 19,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 34
+          }
+        }
+      ]
+    },
+    {
+      "number": 205,
+      "title": "A segunda peça",
+      "time": "Dia 53 · manhã",
+      "place": "posto-tres-raizes",
+      "layout": "two-panels",
+      "cast": [
+        "talin",
+        "ilyan"
+      ],
+      "scene": "At a wooden three-root patrol post on the legal path SOUTH of the sanctuary stone, Talin LEFT notices a SECOND separate iron-and-rope snare hidden among wet leaves, not the first snare preserved in the council house. Ilyan RIGHT stops short before touching it. Close inset of trip wire attached to stake. One of each character and one snare.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Mais um laço. Está armado agora.",
+          "balloon": {
+            "x": 3,
+            "y": 29,
+            "w": 30,
+            "target_x": 31,
+            "target_y": 44
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Pisem onde piso. A corda corta a trilha inteira.",
+          "balloon": {
+            "x": 67,
+            "y": 29,
+            "w": 30,
+            "target_x": 70,
+            "target_y": 44
+          }
+        }
+      ]
+    },
+    {
+      "number": 206,
+      "title": "Calço de oficina",
+      "time": "Dia 53 · manhã",
+      "place": "posto-tres-raizes",
+      "layout": "action",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Same post, same SECOND live snare. Ilyan LEFT uses his practical measuring-case wooden wedge to hold the spring down safely; his BLUNT sword remains sheathed. Runa RIGHT notes position before he cuts the outer line, using no spell. Distinct hands, no extra fingers. Marked trail and boundary visible far north.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Primeiro travo a mola. Depois tiro a tensão.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 32,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Anotei lugar e hora. Agora pode soltar.",
+          "balloon": {
+            "x": 67,
+            "y": 27,
+            "w": 30,
+            "target_x": 77,
+            "target_y": 42
+          }
+        }
+      ]
+    },
+    {
+      "number": 207,
+      "title": "Calcanhar de ferro",
+      "time": "Dia 53 · fim da manhã",
+      "place": "posto-tres-raizes",
+      "layout": "macro",
+      "cast": [
+        "sere",
+        "talin"
+      ],
+      "scene": "At the same post after safe disarming, Sere LEFT points to one fresh adult human bootprint with an uneven heel and a gray fabric thread caught on bark; Talin RIGHT examines it. No invented named owner yet, no claim about the earlier trap. Clear close panel of footprint, single set of marks.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Um salto gasto deixou a marca de lado.",
+          "balloon": {
+            "x": 3,
+            "y": 16,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "O dono passou depois da chuva desta manhã.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 72,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 208,
+      "title": "Um vulto na margem da trilha",
+      "time": "Dia 53 · fim da manhã",
+      "place": "trilha-das-salgueiras",
+      "layout": "wide",
+      "cast": [
+        "sere",
+        "daro"
+      ],
+      "scene": "From marked path SOUTH of boundary, Sere LEFT sees ONE distant adult human Daro RIGHT in gray leather coat, dark red scarf, black hair shaved at sides, white scar above RIGHT eyebrow. He stands near old willow bend reaching toward the SECOND snare location but sees patrol and recoils. He has not crossed the sanctuary yet. Sere raises bow but does not fire.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Pare onde está. Esta trilha é usada pela vila.",
+          "balloon": {
+            "x": 3,
+            "y": 31,
+            "w": 30,
+            "target_x": 22,
+            "target_y": 46
+          }
+        },
+        {
+          "speaker": "Daro",
+          "text": "O ferro é meu. Saiam da frente.",
+          "balloon": {
+            "x": 67,
+            "y": 33,
+            "w": 30,
+            "target_x": 69,
+            "target_y": 48
+          }
+        }
+      ]
+    },
+    {
+      "number": 209,
+      "title": "O homem do lenço",
+      "time": "Dia 53 · fim da manhã",
+      "place": "trilha-das-salgueiras",
+      "layout": "asymmetric",
+      "cast": [
+        "daro",
+        "adra"
+      ],
+      "scene": "Daro LEFT shown clearly for identity lock: adult human olive skin, side-shaved black hair, stubble, white scar RIGHT eyebrow, dark RED scarf, gray leather coat, uneven heel boot; he grips a boat hook used as tool, not a magic weapon. Adra RIGHT confronts from the community trail wearing indigo and shell braids. No proof he placed FIRST trap. Other party behind out of frame.",
+      "lines": [
+        {
+          "speaker": "Daro",
+          "text": "Comprei a corda. Não comprei uma plateia.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Você armou ferro onde meu povo caminha.",
+          "balloon": {
+            "x": 67,
+            "y": 25,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 210,
+      "title": "A resposta errada",
+      "time": "Dia 53 · fim da manhã",
+      "place": "trilha-das-salgueiras",
+      "layout": "dynamic",
+      "cast": [
+        "daro",
+        "ilyan"
+      ],
+      "scene": "Daro LEFT throws a weighted cargo net across the LEGAL footpath to hinder Ilyan RIGHT. Ilyan braces with blunt practice sword crosswise, no wound. ONE net, physically plausible direction left to right, willow roots and same boundary stone far back. Maintain Daro's scar on right eyebrow and dark red neck scarf; Ilyan 17 clean shaven long black wavy hair.",
+      "lines": [
+        {
+          "speaker": "Daro",
+          "text": "Eu disse: saiam!",
+          "balloon": {
+            "x": 3,
+            "y": 18,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 33,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Largue o gancho. Ninguém precisa se ferir!",
+          "balloon": {
+            "x": 67,
+            "y": 25,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 40,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 211,
+      "title": "Uma guarda sem fio",
+      "time": "Dia 53 · fim da manhã",
+      "place": "trilha-das-salgueiras",
+      "layout": "action",
+      "cast": [
+        "ilyan",
+        "daro"
+      ],
+      "scene": "Immediate continuation: Ilyan LEFT catches Daro's hooked pole with his BLUNT short practice sword and turns it toward the ground, protecting the group; Daro RIGHT stays adult with dark red scarf and white RIGHT eyebrow scar. The net is on ground behind Ilyan, not duplicated. No stabbing, no severed limbs, same legal path.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Fique na trilha. Solte a arma.",
+          "balloon": {
+            "x": 3,
+            "y": 19,
+            "w": 30,
+            "target_x": 32,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Daro",
+          "text": "Ela era uma ferramenta até você chegar.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 76,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 212,
+      "title": "Chuva sob os pés",
+      "time": "Dia 53 · fim da manhã",
+      "place": "trilha-das-salgueiras",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "sere"
+      ],
+      "scene": "Runa LEFT guides EXISTING rainwater from a shallow rut on the path to muddy ground near Daro's boot, slowing but not binding him. Her floral tattoo LEFT arm and silver septum clear. Sere RIGHT sights along ash bow at a hanging cargo rope ABOVE Daro, never at his body. Daro's feet visible as small inset only ONCE, no extra human copy.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A água já está aqui. Posso diminuir a corrida.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 40
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "A corda de cima. A pessoa, não.",
+          "balloon": {
+            "x": 67,
+            "y": 17,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 32
+          }
+        }
+      ]
+    },
+    {
+      "number": 213,
+      "title": "Flecha no cabo",
+      "time": "Dia 53 · meio-dia",
+      "place": "trilha-das-salgueiras",
+      "layout": "dynamic",
+      "cast": [
+        "sere",
+        "daro"
+      ],
+      "scene": "Sere LEFT releases one arrow into a taut suspended cargo ROPE ABOVE and behind Daro RIGHT, cutting the rope so the already-thrown net drops between him and the team. Arrow does not hit the human. Daro stumbles but is not maimed. The legal willow path and boundary marker remain physically consistent.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Abaixo do cabo, agora!",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 30,
+            "target_x": 27,
+            "target_y": 12,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Daro",
+          "text": "Vocês nem sabem de quem é este bosque!",
+          "balloon": {
+            "x": 67,
+            "y": 4,
+            "w": 30,
+            "target_x": 80,
+            "target_y": 19,
+            "kind": "shout"
+          }
+        }
+      ]
+    }
+  ]
+}

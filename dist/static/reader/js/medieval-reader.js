@@ -28,8 +28,8 @@
         if (![left, right, top, bottom, targetX, targetY].every(Number.isFinite)) return;
         if (targetX >= left && targetX <= right && targetY >= top && targetY <= bottom) return;
 
-        // Keep the pointer close to its balloon. A long tail can cut across
-        // another panel or the speaker's face when the page is resized.
+        // Older pages retain their compact pointers. New pages place balloons
+        // beside speakers and use a straight tail that reaches the speaker.
         const clamp = (value, low, high) => Math.min(high, Math.max(low, value));
         let startX;
         let startY;
@@ -61,7 +61,8 @@
           });
           return;
         }
-        const length = Math.min(distance, clamp(artBox.width * .035, 18, 34));
+        const directTail = art.classList.contains('twilight-page-stage--direct-tails');
+        const length = directTail ? distance : Math.min(distance, clamp(artBox.width * .035, 18, 34));
         const tipX = startX + deltaX / distance * length;
         const tipY = startY + deltaY / distance * length;
         // A broad base narrows into one clean tip beside the speaker.  The
@@ -75,7 +76,9 @@
         const bendY = startY + (tipY - startY) * .55;
         const bendWidth = .45;
         const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-        path.setAttribute('d', `M ${startX - sideX} ${startY - sideY} Q ${bendX - sideX * bendWidth} ${bendY - sideY * bendWidth} ${tipX} ${tipY} Q ${bendX + sideX * bendWidth} ${bendY + sideY * bendWidth} ${startX + sideX} ${startY + sideY} Z`);
+        path.setAttribute('d', directTail
+          ? `M ${startX - sideX} ${startY - sideY} L ${tipX} ${tipY} L ${startX + sideX} ${startY + sideY} Z`
+          : `M ${startX - sideX} ${startY - sideY} Q ${bendX - sideX * bendWidth} ${bendY - sideY * bendWidth} ${tipX} ${tipY} Q ${bendX + sideX * bendWidth} ${bendY + sideY * bendWidth} ${startX + sideX} ${startY + sideY} Z`);
         path.setAttribute('fill', '#fffdf6');
         path.setAttribute('stroke', '#1a232a');
         path.setAttribute('stroke-width', '2');

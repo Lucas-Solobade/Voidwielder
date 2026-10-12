@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "number": 190,
+      "title": "O ferro embrulhado",
+      "time": "Dia 52 · fim da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "detail",
+      "cast": [
+        "adra",
+        "sere"
+      ],
+      "scene": "Exactly where page 189 ended, on the legal willow footpath south of the boundary stone. Adra kneels LEFT and wraps the FIRST iron-and-rope snare in sailcloth without wiping it; Sere stands RIGHT drawing its exact position on the authorized map. The barkstag has already limped away into the north grove and is NOT visible. No one crosses the boundary.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Levo o ferro. A trilha precisa ficar livre.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 30,
+            "target_x": 47,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Marco o lugar antes que a chuva apague as pegadas.",
+          "balloon": {
+            "x": 67,
+            "y": 12,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 191,
+      "title": "O rumo do ferido",
+      "time": "Dia 52 · fim da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Same footpath as page 190, one boundary stone and fading hoofprints toward the north sanctuary. Ilyan LEFT holds his lowered blunt sword and sees the barkstag tracks; Runa RIGHT records that the LEFT front hoof dragged. They observe from the authorized south side and do not pursue or claim a cure.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ainda manca. Não podemos fingir que o curamos.",
+          "balloon": {
+            "x": 3,
+            "y": 13,
+            "w": 30,
+            "target_x": 35,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Nem seguir além da pedra sem pedir passagem.",
+          "balloon": {
+            "x": 67,
+            "y": 21,
+            "w": 30,
+            "target_x": 67,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 192,
+      "title": "Voltar pela mesma trilha",
+      "time": "Dia 52 · crepúsculo",
+      "place": "trilha-das-salgueiras",
+      "layout": "diagonal",
+      "cast": [
+        "sere",
+        "adra",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Walking back EAST on the same marked willow trail to the west-bank hamlet, not teleporting. Sere leads LEFT; Adra RIGHT carries the wrapped FIRST snare. Ilyan and Runa are smaller in the middle distance, each only ONCE. The sanctuary boundary stone recedes behind them to the north. Dusk, wet roots, no new threat.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Ao conselho primeiro. O objeto não sai de nossas vistas.",
+          "balloon": {
+            "x": 3,
+            "y": 18,
+            "w": 30,
+            "target_x": 23,
+            "target_y": 33
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Minha gente reconhecerá o nó, se já o viu.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 193,
+      "title": "A mesa da Enseada",
+      "time": "Dia 52 · noite",
+      "place": "casa-conselho-enseada",
+      "layout": "interior",
+      "cast": [
+        "adra",
+        "pim"
+      ],
+      "scene": "Arrive on foot at the WEST BANK Enseada das Conchas council house, which has a broad west-facing shell mosaic above a central oak table and two copper lamps. Adra LEFT places the wrapped FIRST snare on a clean cloth. Pim RIGHT, an ADULT short robust gnome net-maker with copper-gray full beard and worn red headscarf, examines from a safe distance. Other adult villagers are indistinct in back, not duplicate principals.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Estava na trilha usada por nossas crianças e carroças.",
+          "balloon": {
+            "x": 3,
+            "y": 29,
+            "w": 30,
+            "target_x": 38,
+            "target_y": 44
+          }
+        },
+        {
+          "speaker": "Pim",
+          "text": "Conheço o nó. Ainda não conheço a mão.",
+          "balloon": {
+            "x": 67,
+            "y": 38,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 53
+          }
+        }
+      ]
+    },
+    {
+      "number": 194,
+      "title": "O registro antes do boato",
+      "time": "Dia 52 · noite",
+      "place": "casa-conselho-enseada",
+      "layout": "two-panels",
+      "cast": [
+        "runa",
+        "sere"
+      ],
+      "scene": "Same council house with shell mosaic, oak table and two lamps. Runa LEFT copies the snare's rope pattern into her FIELD NOTEBOOK; Sere RIGHT reads aloud the permit boundaries to villagers. The FIRST snare stays wrapped on table. A close inset shows the drawing and date. No accusation against Maelor or anyone.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Escrevo o que vimos. Não o que suspeitamos.",
+          "balloon": {
+            "x": 3,
+            "y": 15,
+            "w": 30,
+            "target_x": 27,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "E ninguém atravessa o santuário por nossa conta.",
+          "balloon": {
+            "x": 67,
+            "y": 15,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 195,
+      "title": "Nó de carga",
+      "time": "Dia 52 · noite",
+      "place": "casa-conselho-enseada",
+      "layout": "macro",
+      "cast": [
+        "pim",
+        "ilyan"
+      ],
+      "scene": "Pim LEFT demonstrates a doubled ferry cargo knot with harmless scrap rope on the council table, not the evidence itself. Ilyan RIGHT compares the wrapping of the preserved FIRST snare. The old gnome is adult and visibly smaller, with full copper-gray beard, red headscarf, cream shirt, brown vest. One close panel of his weathered hands, no extra fingers.",
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "Este nó serve carga de sal. Qualquer barqueiro pode copiá-lo.",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então é pista de ofício, não nome de culpado.",
+          "balloon": {
+            "x": 67,
+            "y": 15,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 196,
+      "title": "O fecho e o laço",
+      "time": "Dia 52 · noite",
+      "place": "casa-conselho-enseada",
+      "layout": "split",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "At same table, Ilyan LEFT places his measuring-case copper bracket he made at school BESIDE, not touching, the rusty iron snare under cloth; Runa RIGHT sketches their different tool marks. His short practice sword rests sheathed at his belt. The contrast disproves an easy match, not an alibi for everyone.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Meu fecho foi limado. Este aro foi batido a frio.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 30,
+            "target_x": 34,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Duas oficinas possíveis. Sem oficina identificada.",
+          "balloon": {
+            "x": 67,
+            "y": 23,
+            "w": 30,
+            "target_x": 73,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 197,
+      "title": "A água não espera",
+      "time": "Dia 52 · noite",
+      "place": "praca-das-conchas",
+      "layout": "splash",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Outside the council house in the SAME hamlet, a shell-strung square next to the ferry channel. Adra LEFT sees current rise and closes the night ferry; Runa RIGHT watches the tethered boat, holding both public maps. No magical crossing. Warm lanterns, inhabited orc/elf/gnome village, dark river.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A corrente sobe. Balsa nenhuma cruza até amanhecer.",
+          "balloon": {
+            "x": 3,
+            "y": 38,
+            "w": 30,
+            "target_x": 35,
+            "target_y": 53
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então ficamos e ouvimos o resto da Enseada.",
+          "balloon": {
+            "x": 67,
+            "y": 35,
+            "w": 30,
+            "target_x": 70,
+            "target_y": 50
+          }
+        }
+      ]
+    },
+    {
+      "number": 198,
+      "title": "Teto emprestado",
+      "time": "Dia 52 · noite",
+      "place": "sala-hospedes-enseada",
+      "layout": "interior",
+      "cast": [
+        "adra",
+        "sere"
+      ],
+      "scene": "Adra LEFT brings Sere RIGHT into a communal guest hall just off the shell square, built of timber piles, four woven sleeping mats, a low bank of lanterns, east window facing ferry. Sere checks that team equipment is kept together. It is a real overnight lodging, not a jump back to school.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Quatro esteiras. A casa cobra ajuda, não moeda.",
+          "balloon": {
+            "x": 3,
+            "y": 39,
+            "w": 30,
+            "target_x": 31,
+            "target_y": 54
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Eu assumo a vigília e o relatório da escola.",
+          "balloon": {
+            "x": 67,
+            "y": 41,
+            "w": 30,
+            "target_x": 70,
+            "target_y": 56
+          }
+        }
+      ]
+    },
+    {
+      "number": 199,
+      "title": "Antes de dormir",
+      "time": "Dia 52 · noite",
+      "place": "sala-hospedes-enseada",
+      "layout": "duo",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Same guest hall: four woven mats and east ferry window. Ilyan LEFT oils the sheath of his BLUNT training sword; Runa RIGHT folds the two maps and her notebook. They sit separately on neighboring mats, tired after the barkstag encounter; quiet growing trust, no sudden romance.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Se eu tivesse golpeado, ele não teria escapado.",
+          "balloon": {
+            "x": 3,
+            "y": 20,
+            "w": 30,
+            "target_x": 35,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Você sustentou a trilha. Foi por isso que consegui agir.",
+          "balloon": {
+            "x": 67,
+            "y": 26,
+            "w": 30,
+            "target_x": 77,
+            "target_y": 41
+          }
+        }
+      ]
+    },
+    {
+      "number": 200,
+      "title": "Carta que ainda não partiu",
+      "time": "Dia 52 · noite",
+      "place": "sala-hospedes-enseada",
+      "layout": "vertical",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "In the guest hall at the east ferry window, Ilyan LEFT drafts a short letter to Bram and Nima in Pedra-Mansa about reaching the river, with no claim of Mira being found. Sere RIGHT explains outgoing courier route only after daylight crossing. The sealed letter remains IN ILYAN'S BAG here; Nima does not appear in person.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Bram e Nima saberão onde estou quando houver correio.",
+          "balloon": {
+            "x": 3,
+            "y": 29,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 44
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "A balsa leva a carta ao posto amanhã, não esta noite.",
+          "balloon": {
+            "x": 67,
+            "y": 24,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 201,
+      "title": "O som além da pedra",
+      "time": "Dia 52 · noite",
+      "place": "sala-hospedes-enseada",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "adra"
+      ],
+      "scene": "From the SAME guest hall east window, Runa LEFT hears a distant single horn-like call from the sanctuary beyond the willow path; Adra RIGHT holds a lantern and recognizes the direction, not the cause. River and reed roofs under moon. No barkstag shown, no person magically present at the boundary.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Foi o cervo?",
+          "balloon": {
+            "x": 3,
+            "y": 30,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 45
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Veio do bosque. Seria mentira dizer que sei de quem.",
+          "balloon": {
+            "x": 67,
+            "y": 33,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 48
+          }
+        }
+      ]
+    }
+  ]
+}
