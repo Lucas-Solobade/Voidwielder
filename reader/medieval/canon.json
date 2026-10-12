@@ -143,7 +143,8 @@
     "pedra-mansa": "Vilarejo natal de Ilyan; forja de Bram, mercado, praça da Primeira Chuva e taberna Javali de Mel.",
     "valecobre": "Cidade regional que abriga a Casa das Quatro Luas, escola de magos e estudiosos, alcançada por estrada comum a partir do vilarejo.",
     "casa-das-quatro-luas": "Escola em Valecobre. Além dos estudos de magia, mantém oficinas de metal, cartografia e a Guarda do Limiar. O portão comum e a antiga porta dos agrimensores são acessos distintos.",
-    "vale-do-junco": "Vilarejo natal de Runa, ao norte de Valecobre, conhecido por moinhos de tinta e cheias sazonais."
+    "vale-do-junco": "Vilarejo natal de Runa, ao norte de Valecobre, conhecido por moinhos de tinta e cheias sazonais.",
+    "enseada-das-conchas": "Margem habitada por comunidades de barqueiros junto à balsa do sal. Adra a conhece por esse nome; o mapa oficial de Valecobre ainda a deixa sem nome. A equipe não a visita nas páginas 172–178."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -183,7 +184,10 @@
     "Beren abre a tampa apenas com licença e supervisão de Sere nas páginas 95–101; alunos registram sem tocar na alvenaria. A peça em forma de cunha encontrada ali é guardada com recibo, sem prova de autoria.",
     "A torre de medição só é aberta após a licença municipal; uma nota copiada de Mira tem dois invernos, mas a cunha atual é posterior. A mensagem do Vale do Junco na página 134 é aviso, não solução do mistério.",
     "A carta física de Junco foi selada no dia 12 e chegou no dia 15. O aviso antecede a retirada da cunha de Valecobre no dia 13; sem comparação de amostras, ninguém afirma uma origem comum. A segunda folha chega no dia 16 por correio comum.",
-    "Ilyan escolhe viajar como auxiliar autorizado ao Junco, sabendo que faltará à avaliação provisória da Guarda no dia 18. Sere lidera; a agente municipal mede; ninguém abre a comporta sem licença local. Nima permanece em Pedra-Mansa e recebe notícias só por carta comum."
+    "Ilyan escolhe viajar como auxiliar autorizado ao Junco, sabendo que faltará à avaliação provisória da Guarda no dia 18. Sere lidera; a agente municipal mede; ninguém abre a comporta sem licença local. Nima permanece em Pedra-Mansa e recebe notícias só por carta comum.",
+    "Depois da página 171, Ilyan tem matrícula regular, mas acesso ao arquivo oeste e saídas de campo continuam sujeitos a autorização. Ordelia fornece somente uma cópia pública da rota de Mira.",
+    "O ramo deixado perto da piscina é um aviso sobre o ciclo da água, não um convite ou uma autorização em nome de todos os povos da margem. A equipe precisa escutar representantes aceitos por cada comunidade.",
+    "Adra testemunha o nome Enseada das Conchas e leva o pedido à comunidade pelo rio no dia 50. O convite trazido por correio comum no dia 51 não substitui a licença municipal, que permanece pendente. A semelhança entre uma curva do mapa comunitário e a rota antiga de Mira não prova que ela esteve lá após desaparecer."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
@@ -210,7 +214,10 @@
     "Dia 14: páginas 105–122 — conferência de livros, turnos da forja, reconciliação gradual, aula elemental de Oru, Runa demonstra domínio de água e terra, carta de Nima e hipótese da torre de medição.",
     "Dia 15: páginas 123–134 — chuva, espera da licença municipal, vistoria de Beren, abertura autorizada da torre, nota antiga de Mira, diferença entre marcas e chegada de uma mensagem comum do Vale do Junco. O arco permanece em andamento.",
     "Dias 15–16: páginas 135–144 — registro da carta do Junco, segunda folha, amostras, conflito com a prova do dia 18, permissão limitada e carta de Ilyan a Nima.",
-    "Dias 17–18: páginas 145–149 — equipe de quatro parte pelo portão sul, distingue testemunhos de hipóteses, atravessa a estrada pública e chega ao canal de Junco para medir. Mistério e arco 2 continuam."
+    "Dias 17–18: páginas 145–149 — equipe de quatro parte pelo portão sul, distingue testemunhos de hipóteses, atravessa a estrada pública e chega ao canal de Junco para medir. Mistério e arco 2 continuam.",
+    "Dias 18–49: páginas 150–171 — medição em Junco, retorno comum, prova reposta, controle comprometido por Líria, nova avaliação de Runa, audiência do índice, correção do mapa por Adra e matrícula regular de Ilyan. O arco 2 termina ao pôr do sol do dia 49.",
+    "Dia 50: páginas 172–176 — Adra aponta a margem ainda sem nome no mapa oficial; Ilyan consulta apenas a cópia pública de Mira; Oru distingue o aviso feérico de um convite; Eda registra testemunho e solicita licença; Ilyan prepara um fecho de medição na forja.",
+    "Dia 51: páginas 177–178 — um correio comum traz convite do conselho da balsa e mapa comunitário; a licença municipal ainda falta. Ilyan e Runa comparam a curva com a cópia antiga de Mira sem transformar coincidência em prova. O arco 3 permanece aberto."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

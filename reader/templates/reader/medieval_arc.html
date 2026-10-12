@@ -33,6 +33,7 @@
     <div class="twilight-page-rail-controls"><button type="button" data-scroll-pages="-1" aria-label="Páginas anteriores do episódio {{ episode.number }}">←</button><button type="button" data-scroll-pages="1" aria-label="Próximas páginas do episódio {{ episode.number }}">→</button></div>
   </section>{% endfor %}
   {% if arc.number == 1 %}<p class="twilight-continue">O primeiro arco termina diante da porta que não lança sombra. <a href="{% url 'reader:medieval_arc2' %}">Continue na Casa das Quatro Luas →</a></p>{% endif %}
+  {% if arc.number == 2 %}<p class="twilight-continue">Ilyan conquistou seu lugar na Casa. A margem omitida no mapa abre uma nova investigação. <a href="{% url 'reader:medieval_arc3' %}">Continue em A Margem Sem Nome →</a></p>{% endif %}
 </div>
 {% endblock %}
 {% block extra_scripts %}<script src="{% static 'reader/js/medieval-arc.js' %}?v=1" defer></script>{% endblock %}

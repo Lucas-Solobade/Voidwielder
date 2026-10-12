@@ -1,0 +1,106 @@
+{
+  "arc": {
+    "number": 3,
+    "title": "A Margem Sem Nome",
+    "slug": "a-margem-sem-nome",
+    "description": "Uma margem habitada continua vazia nos mapas oficiais. Antes de seguir a última linha de Mira, Ilyan, Runa e seus aliados terão de ouvir quem vive junto ao rio e conquistar o direito de entrar.",
+    "status": "Em andamento",
+    "start": 172,
+    "chapters": [
+      {"title": "O lugar que faltava", "start": 172, "end": 178}
+    ]
+  },
+  "pages": [
+    {
+      "number": 172,
+      "title": "A margem em branco",
+      "time": "Dia 50 · manhã",
+      "place": "refeitorio",
+      "layout": "duo",
+      "cast": ["adra", "runa"],
+      "scene": "The morning after the end of arc two, Adra and Runa compare the publicly corrected ferry list to the school's official river map at the north refectory. The landings are now marked, but the inhabited bank is still a blank area. Adra is visiting before returning to her ferry; neither character travels yet.",
+      "lines": [
+        {"speaker": "Runa", "text": "Marcaram as balsas. Por que a margem continua vazia?", "balloon": {"x": 3, "y": 2, "w": 30, "target_x": 27, "target_y": 31}},
+        {"speaker": "Adra", "text": "Porque ainda não perguntaram o nome a quem vive lá.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 76, "target_y": 29}}
+      ]
+    },
+    {
+      "number": 173,
+      "title": "A cópia permitida",
+      "time": "Dia 50 · fim da manhã",
+      "place": "biblioteca-galeria",
+      "layout": "vertical",
+      "cast": ["ordelia", "ilyan"],
+      "scene": "Ilyan follows the public request route to the upper library gallery. Ordelia gives him a public survey copy from the south cabinets while the west barred archive remains locked. On that copy, Mira's older route ends before a later redrawn bank. They do not know who changed it or why.",
+      "lines": [
+        {"speaker": "Ordelia", "text": "Esta cópia é pública. A grade fica fechada.", "balloon": {"x": 3, "y": 1, "w": 27, "target_x": 22, "target_y": 19}},
+        {"speaker": "Ilyan", "text": "A linha de Mira termina antes desta revisão.", "balloon": {"x": 67, "y": 45, "w": 28, "target_x": 78, "target_y": 72}}
+      ]
+    },
+    {
+      "number": 174,
+      "title": "O ramo e a água",
+      "time": "Dia 50 · meio-dia",
+      "place": "patio-central",
+      "layout": "asymmetric",
+      "cast": ["oru", "runa"],
+      "scene": "By the central reflecting pool, Oru examines the muddy branch left by a fae messenger two days earlier. He can identify it as a warning of changed river season, not an invitation or the voice of every inhabitant. Runa decides that the community must be asked directly.",
+      "lines": [
+        {"speaker": "Oru", "text": "É aviso de água fora de tempo. Não fala por um povo inteiro.", "balloon": {"x": 3, "y": 2, "w": 30, "target_x": 21, "target_y": 29}},
+        {"speaker": "Runa", "text": "Então vamos perguntar a quem mora lá.", "balloon": {"x": 67, "y": 2, "w": 29, "target_x": 78, "target_y": 30}}
+      ]
+    },
+    {
+      "number": 175,
+      "title": "O nome em voz alta",
+      "time": "Dia 50 · tarde",
+      "place": "refeitorio",
+      "layout": "wide",
+      "cast": ["adra", "eda"],
+      "scene": "At the same public refectory table Adra gives Eda a first-hand account of the ferry landings and names the inhabited bank Enseada das Conchas. Eda writes and dates her testimony and requests a municipal field permit; she has not received that permit yet. Adra will take the request to her ferry council by the ordinary river route.",
+      "lines": [
+        {"speaker": "Adra", "text": "Enseada das Conchas. A travessia existe, mesmo apagada do papel.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 21, "target_y": 32}},
+        {"speaker": "Eda", "text": "Registro seu testemunho. A visita ainda precisa de licença.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 81, "target_y": 33}}
+      ]
+    },
+    {
+      "number": 176,
+      "title": "Ferro de trabalho",
+      "time": "Dia 50 · fim da tarde",
+      "place": "forja-leste",
+      "layout": "asymmetric",
+      "cast": ["teren", "ilyan"],
+      "scene": "In the east school forge, Ilyan makes a simple bracket for a measuring case that could be carried aboard a ferry if the expedition receives permission. Teren checks its fit and a burr. The east furnace, west water trough and three north-south anvils remain fixed. It is a practical task, not a magical weapon or an unauthorized field mission.",
+      "lines": [
+        {"speaker": "Ilyan", "text": "Será que o fecho aguenta a água do rio?", "balloon": {"x": 3, "y": 2, "w": 30, "target_x": 23, "target_y": 28}},
+        {"speaker": "Teren", "text": "Teste a rebarba. O rio não perdoa descuido.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 79, "target_y": 31}}
+      ]
+    },
+    {
+      "number": 177,
+      "title": "Um convite não é licença",
+      "time": "Dia 51 · manhã",
+      "place": "secretaria",
+      "layout": "duo",
+      "cast": ["ordelia", "ilyan"],
+      "scene": "An ordinary courier brought the ferry council's reply overnight after Adra carried the request downriver. At the school registry with exactly three ledgers, east-facing counter and copper lamps, Ordelia lets Ilyan read the invitation. It asks that a community-made map be used. The municipal permit remains pending and Ilyan's ordinary enrollment gives no automatic field access.",
+      "lines": [
+        {"speaker": "Ordelia", "text": "O conselho nos convida. Falta a licença.", "balloon": {"x": 3, "y": 1, "w": 30, "target_x": 21, "target_y": 29}},
+        {"speaker": "Ilyan", "text": "Mandaram o mapa deles?", "balloon": {"x": 67, "y": 1, "w": 27, "target_x": 80, "target_y": 29}}
+      ]
+    },
+    {
+      "number": 178,
+      "title": "A curva que continua",
+      "time": "Dia 51 · tarde",
+      "place": "biblioteca-galeria",
+      "layout": "splash",
+      "cast": ["runa", "ilyan"],
+      "scene": "At the public south map cabinets of the same upper library gallery, Runa and Ilyan compare the ferry council's hand-drawn route sent with its invitation to Ordelia's public copy of Mira's older survey. A river bend aligns, but there is no evidence Mira went there after she disappeared or that Maelor ordered any alteration. The barred west archive remains locked. They stay at school awaiting municipal permission, with the route beyond the blank margin promising the next chapter.",
+      "lines": [
+        {"speaker": "Runa", "text": "A curva coincide. O resto do traço veio de quem vive lá.", "balloon": {"x": 3, "y": 2, "w": 31, "target_x": 24, "target_y": 34}},
+        {"speaker": "Ilyan", "text": "Então ouviremos primeiro. Depois seguiremos a linha.", "balloon": {"x": 67, "y": 2, "w": 30, "target_x": 79, "target_y": 34}}
+      ]
+    }
+  ]
+}

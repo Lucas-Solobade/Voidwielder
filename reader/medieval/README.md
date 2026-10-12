@@ -4,6 +4,6 @@ Esta pasta é a referência permanente da HQ. `canon.json` fixa a aparência, ro
 
 Ilyan tem 17 anos nas páginas 1–12. O rosto preserva a estrutura da foto fornecida para a série, mas sem barba ou bigode nesta fase adolescente. Não publicar a foto original no site. Mira ainda não tem rosto definido e não deve ser ilustrada até receber uma ficha própria.
 
-Os PNGs em `art/` são as matrizes dos três quadros por página; os WebPs publicados ficam em `reader/static/reader/images/medieval/`. Nunca trocar um personagem, idade, cabelo, roupa ou identidade para corrigir uma cena: corrigir a arte da cena mantendo o cânone.
+Os PNGs em `art/` são as matrizes das páginas, com quadros variados; os WebPs publicados ficam em `reader/static/reader/images/medieval/`. Nunca trocar um personagem, idade, cabelo, roupa ou identidade para corrigir uma cena: corrigir a arte da cena mantendo o cânone.
 
-O Arco 1 está em andamento. As páginas 1–12 não encerram a busca de Ilyan; terminam quando o grupo parte pela estrada comum para Valecobre.
+O arco 1 termina na página 25, diante da porta sem sombra. O arco 2 termina na página 171, com a matrícula regular de Ilyan, a vaga provisória de Runa e a margem ausente dos mapas ainda por investigar. O arco 3 começa na página 172; sua abertura está registrada em `continuity-172-178.md`. Mira continua desaparecida, Nima permanece em Pedra-Mansa e nenhum convite comunitário substitui licença municipal.
