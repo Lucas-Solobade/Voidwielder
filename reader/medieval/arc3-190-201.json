@@ -17,7 +17,7 @@
           "text": "Levo o ferro. A trilha precisa ficar livre.",
           "balloon": {
             "x": 3,
-            "y": 12,
+            "y": 27,
             "w": 30,
             "target_x": 27,
             "target_y": 40
@@ -28,7 +28,7 @@
           "text": "Marco o lugar antes que a chuva apague as pegadas.",
           "balloon": {
             "x": 67,
-            "y": 3,
+            "y": 10,
             "w": 30,
             "target_x": 75,
             "target_y": 23

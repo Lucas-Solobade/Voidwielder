@@ -124,11 +124,11 @@
           "speaker": "Adra",
           "text": "Viemos com consentimento, sem exigir acesso a nada.",
           "balloon": {
-            "x": 3,
-            "y": 12,
+            "x": 40,
+            "y": 29,
             "w": 30,
-            "target_x": 14,
-            "target_y": 51
+            "target_x": 42,
+            "target_y": 48
           }
         },
         {
@@ -136,10 +136,10 @@
           "text": "Eu os trouxe. A decisão de receber é de todos.",
           "balloon": {
             "x": 67,
-            "y": 12,
+            "y": 23,
             "w": 30,
-            "target_x": 75,
-            "target_y": 29
+            "target_x": 76,
+            "target_y": 40
           }
         }
       ]
