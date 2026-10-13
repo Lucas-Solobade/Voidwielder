@@ -9,7 +9,13 @@
     "school_cast": "reader/medieval/references/school-cast-sheet.png",
     "oru": "reader/medieval/references/oru-sheet.png",
     "talin": "reader/medieval/references/individual/talin.png",
-    "daro": "reader/medieval/references/individual/daro.png"
+    "daro": "reader/medieval/references/individual/daro.png",
+    "vessa": "reader/medieval/references/individual/vessa.png",
+    "braka": "reader/medieval/references/individual/braka.png",
+    "varek": "reader/medieval/references/individual/varek.png",
+    "adra": "reader/medieval/references/individual/adra.png",
+    "eda": "reader/medieval/references/individual/eda.png",
+    "beren": "reader/medieval/references/individual/beren.png"
   },
   "characters": {
     "ilyan": {
@@ -80,89 +86,124 @@
       "future_relationship": "No arco escolar, percebe que Ilyan é bonito e ensaia um flerte breve; ele, absorvido pela busca da mãe e pelo treino, não corresponde, e ela interpreta a distração como arrogância. Confiança e afeto só crescem gradualmente. Ela não aparece nas páginas 1–25."
     },
     "caio": {
-      "name": "Caio", "age": 18,
+      "name": "Caio",
+      "age": 18,
       "role": "estudante da Guarda do Limiar; rival criterioso, desconfiado de privilégios depois que o irmão perdeu uma bolsa",
       "fixed_appearance": "Humano magro e atlético de pele castanha quente, olhos castanhos, sobrancelhas retas espessas e cabelo curto castanho-avermelhado arrumado.",
       "fixed_clothing": "Túnica azul-petróleo da Guarda, correia de couro no ombro, botas escuras."
     },
     "tovo": {
-      "name": "Tovo", "age": 18,
+      "name": "Tovo",
+      "age": 18,
       "role": "estudante meio-orc bem-humorado, bolsista com turnos na cozinha; sua trapalhada não apaga a competência prática",
       "fixed_appearance": "Alto e largo, pele verde-sálvia, pequenas presas inferiores, cabelo castanho curto muito cacheado, olhos castanhos gentis.",
       "fixed_clothing": "Túnica escolar azul e avental âmbar de cozinha quando trabalha."
     },
     "ordelia": {
-      "name": "Ordelia", "age": 61,
+      "name": "Ordelia",
+      "age": 61,
       "role": "registradora da escola e guardiã dos livros de acesso",
       "fixed_appearance": "Humana de pele oliva, olhos castanhos atentos e cabelo cinza-ferro em uma trança baixa.",
       "fixed_clothing": "Vestido medieval vinho e molho de chaves de latão na cintura."
     },
     "teren": {
-      "name": "Teren", "age": 49,
+      "name": "Teren",
+      "age": 49,
       "role": "mestre da forja leste e instrutor de metal da Guarda",
       "fixed_appearance": "Humano de pele castanho-escura, cabeça raspada, barba grisalha quadrada e cicatriz de queimadura no antebraço de cobre.",
       "fixed_clothing": "Avental escuro de couro sobre camisa de trabalho."
     },
     "beren": {
-      "name": "Beren", "age": 58,
+      "name": "Beren",
+      "age": 58,
       "role": "pedreiro licenciado chamado para examinar a fundação do anexo",
       "fixed_appearance": "Humano de pele castanha clara, cabelo cinza curto, barba cinza espessa e órtese de metal no joelho ESQUERDO.",
       "fixed_clothing": "Roupas de trabalho cor de arenito, cinturão de ferramentas."
     },
     "eda": {
-      "name": "Eda", "age": 38,
+      "name": "Eda",
+      "age": 38,
       "role": "agente municipal de medição enviada com salvo-conduto limitado à equipe do Junco",
       "fixed_appearance": "Humana de pele castanha quente, rosto oval de feições firmes, olhos castanhos e cabelo castanho-escuro curto cacheado, preso para trás quando molhado pela chuva.",
       "fixed_clothing": "Capa de viagem azul-petróleo sobre roupa de agrimensora e bastão de escala de madeira. Não usa uniforme da Guarda nem assume autoridade sobre Sere."
     },
     "oru": {
-      "name": "Oru", "age": 68,
+      "name": "Oru",
+      "age": 68,
       "role": "mestre gnomo de magia elemental da Casa das Quatro Luas; exige observação, segurança e humildade antes de qualquer prática de campo",
       "fixed_appearance": "Gnomo ADULTO de cerca de um metro, corpo compacto, pele castanho-quente, olhos âmbar, orelhas pontudas, calva no alto com cabelos prateados curtos nas laterais, barba prateada espessa terminando numa única trança, óculos redondos de cobre e pequena cicatriz de queimadura no dorso da mão direita.",
       "fixed_clothing": "Casaco de ensino verde-musgo com bordado de cobre, túnica creme, cordão bordô na cintura, botas de couro e quatro pedras lisas dos ritmos presas ao cinto."
     },
     "liria": {
-      "name": "Líria", "age": 18,
+      "name": "Líria",
+      "age": 18,
       "role": "aprendiz de magia de terra transferida da Escola dos Diques; rival acadêmica de Runa",
       "fixed_appearance": "Humana de pele cobre-oliva, olhos cinza-esverdeados, nariz adunco, cabelo castanho-escuro em DUAS tranças apertadas e cicatriz curta no queixo. Não alterar as tranças, cicatriz ou idade entre cenas.",
       "fixed_clothing": "Casaco cinza de estudante com costura vermelha; caderno preso por corrente de latão."
     },
     "maelor": {
-      "name": "Maelor", "age": 52,
+      "name": "Maelor",
+      "age": 52,
       "role": "inspetor de canais de Valecobre; antagonista institucional, ainda não condenado",
       "fixed_appearance": "Humano baixo e delgado de pele oliva pálida, olhos azul-acinzentados, cabelos BRANCOS CURTOS com entrada em V, três dedos rígidos na mão esquerda. Nunca surge como velho de cabelo longo ou guerreiro.",
       "fixed_clothing": "Casaco verde-escuro de inspetor e anel quadrado de cobre."
     },
     "adra": {
-      "name": "Adra", "age": 31,
+      "name": "Adra",
+      "age": 31,
       "role": "orc cartógrafa e capitã das balsas do sal",
       "fixed_appearance": "Orc adulta de pele verde-ardósia, duas presas inferiores discretas, tranças negras presas com conchas e mão direita com dois dedos unidos por cicatriz.",
       "fixed_clothing": "Manto de viagem de capitã de balsa em azul profundo e couro gasto, mapas enrolados no cinto."
     },
     "pim": {
-      "name": "Pim", "age": 54,
+      "name": "Pim",
+      "age": 54,
       "role": "gnomo ADULTO neteiro da Enseada, artesão de cordas e membro do conselho local",
       "fixed_appearance": "Gnomo adulto baixo e robusto, barba cobre-acinzentada cheia, olhos castanhos pequenos, nariz largo e mãos marcadas pelo trabalho com cordas. É o neteiro visto ao fundo na página 185; nunca desenhá-lo como criança.",
       "fixed_clothing": "Lenço vermelho gasto na cabeça, camisa de linho creme, colete castanho e botas de couro."
     },
     "talin": {
-      "name": "Talin", "age": 37,
+      "name": "Talin",
+      "age": 37,
       "role": "elfo adulto eleito guardião da trilha do santuário e morador da Escada de Âmbar",
       "fixed_appearance": "Elfo adulto de pele bronze-clara, cabelo castanho-avermelhado CURTO, orelhas pontudas e cicatriz fina em forma de folha na bochecha DIREITA. Não tem a trança branca de Sere.",
       "fixed_clothing": "Manto ocre de guardião, roupa de viagem castanha e cajado de freixo sem lâmina."
     },
     "daro": {
-      "name": "Daro", "age": 34,
+      "name": "Daro",
+      "age": 34,
       "role": "recolhedor de laços e agressor da patrulha; sua relação com a primeira armadilha e com autoridades ainda não foi provada",
       "fixed_appearance": "Humano ADULTO de pele oliva média, cabelo preto raspado nas laterais, barba rala e cicatriz branca sobre a sobrancelha DIREITA. Um salto da bota é gasto e deixa pegada enviesada.",
       "fixed_clothing": "Casaco de couro cinza gasto, lenço vermelho ESCURO no pescoço, botas marrons e gancho comum de carga. Não usa magia nem uniforme escolar."
+    },
+    "vessa": {
+      "name": "Vessa",
+      "age": 54,
+      "role": "engenheira gnoma adulta de Folealto",
+      "fixed_appearance": "Gnoma adulta baixa, pele cobre clara, cabelo grisalho em DUAS tranças curtas, orelhas pontudas, óculos redondos de latão.",
+      "fixed_clothing": "Casaco medieval de trabalho verde-petróleo, cinturão de ferramentas e botas castanhas."
+    },
+    "braka": {
+      "name": "Braka",
+      "age": 39,
+      "role": "capitã orc de Pedra-Verde",
+      "fixed_appearance": "Orc adulta alta e forte de pele verde-oliva escura, UMA presa inferior lascada, cabelo preto em TRÊS tranças longas.",
+      "fixed_clothing": "Capa de lã vermelha sobre armadura medieval prática."
+    },
+    "varek": {
+      "name": "Varek",
+      "age": 42,
+      "role": "empreiteiro humano da estrada de Valecobre",
+      "fixed_appearance": "Humano adulto de pele pálida, cabelo louro-acinzentado curto, barba rala da mesma cor e olhos cinzentos.",
+      "fixed_clothing": "Casaco ocre de empreiteiro, bolsa de documentos de couro e botas de estrada."
     }
   },
   "creatures": {
     "cervo-de-casca": "Grande cervo silvestre de quatro patas, placas de casca castanha, galhadas ramificadas com musgo pálido e olhos âmbar. Não é um monstro maligno. O único indivíduo visto na trilha das salgueiras tem a pata DIANTEIRA ESQUERDA presa numa armadilha de corda e ferro feita por pessoa desconhecida. Depois de liberto na página 189, manca para dentro do bosque; ninguém prova que foi curado. Não duplicar cabeça, chifres ou membros entre quadros.",
     "fadas-do-salgueiro": "Seres pequenos NÃO HUMANOS com corpo cobre-dourado e asas translúcidas de inseto. Voam perto de cursos de água; não falam, não guiam viajantes e não substituem consentimento de povos locais.",
     "guardiao-de-raiz": "Um ÚNICO organismo ancestral do santuário, feito de raízes vivas de salgueiro e pedra úmida, sem rosto humano. Reage ao ferro cravado na raiz; recua quando o metal é retirado e a água volta ao leito. Não é maligno, não se multiplica e não é derrotado por golpe fatal.",
-    "serpe-de-junco": "Uma ÚNICA serpe silvestre de rio, corpo longo azul-petróleo como enguia, crista de juncos e dois olhos âmbar; sem braços ou pernas. Fica desorientada na margem seca perto do sino velho no dia 62. Segue água corrente quando Runa redireciona um fio já existente. Ninguém a mata ou domestica."
+    "serpe-de-junco": "Uma ÚNICA serpe silvestre de rio, corpo longo azul-petróleo como enguia, crista de juncos e dois olhos âmbar; sem braços ou pernas. Fica desorientada na margem seca perto do sino velho no dia 62. Segue água corrente quando Runa redireciona um fio já existente. Ninguém a mata ou domestica.",
+    "javali-de-musgo": "Um único javali adulto de quatro patas, pele sob placas de casca e musgo, deslocado por infiltração perto de Pedra-Verde. Não é vilão; o grupo o desvia sem feri-lo."
   },
   "places": {
     "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
@@ -186,7 +227,14 @@
     "fonte-degraus-ambar": "Fonte em degraus de pedra abaixo das casas da aldeia; toldo de madeira protege visitantes da chuva. Glifo antigo de Mira e marca recente de outra mão ficam em degraus distintos, sem autor novo identificado.",
     "escada-ambar-vila": "Via pública de pedra que sobe da fonte em degraus às casas e ao mirante da Escada de Âmbar. Da vila a trilha autorizada segue a pé para o norte; a vista do mirante alcança a garganta e o sino distante.",
     "trilha-sino-norte": "Trilha de encosta ao NORTE da Escada de Âmbar, liberada somente no dia 61 por consentimento local e aditivo municipal, com Talin como guia. Pedras brancas marcam o limite seguro a OESTE da garganta; penhasco de arenito a LESTE e vala lateral seca ao lado do riacho. Termina no sino velho. Nada de sair da faixa ou cavar.",
-    "sino-velho": "Arco de pedra e um ÚNICO sino de bronze sobre a garganta ao fim da trilha norte. Corda partida em duas pontas, viga de madeira e roda de ferro antiga; entrada do canal subterrâneo fica fora da autorização e permanece fechada. O sino soa uma vez à noite na página 268, causa desconhecida."
+    "sino-velho": "Arco de pedra e um ÚNICO sino de bronze sobre a garganta ao fim da trilha norte. Corda partida em duas pontas, viga de madeira e roda de ferro antiga; entrada do canal subterrâneo fica fora da autorização e permanece fechada. O sino soa uma vez à noite na página 268, causa desconhecida.",
+    "estrada-folealto": "Carreiro comum desde a Escada de Âmbar rumo ao norte, passando por marcos de ardósia e bosque de bétulas; meio dia de caminhada.",
+    "folealto": "Povoado gnomo de casas de ardósia junto à nascente. Roda d'água com OITO pás sempre ao NORTE.",
+    "oficina-folealto": "Oficina de Vessa com porta a LESTE voltada à roda de oito pás; bancada seca para desenhos, quadro de reparos públicos.",
+    "estrada-pedraverde": "Estrada comum entre Folealto e posto orc, com fenda úmida e mata de bétulas; nenhuma passagem instantânea.",
+    "pedra-verde": "Posto orc com muralha de pedra verde, ponte de madeira a OESTE, comporta antiga a LESTE.",
+    "sala-pedra-verde": "Salão comum do posto com lareira redonda CENTRAL e janela a LESTE voltada à comporta.",
+    "comporta-pedraverde": "Comporta antiga a LESTE do posto; só observação externa antes do consentimento do conselho orc."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -276,7 +324,10 @@
     "Dia 55: páginas 230–248 — grupo entra a pé no corredor autorizado, observa fadas pequenas junto à água, remove ferro de uma raiz durante confronto defensivo com guardião não maligno e alcança Escada de Âmbar. Registros públicos documentam a passagem de Mira ANTES de sumir; cópia somente com autoria local.",
     "Dia 56, manhã: páginas 249–250 — Talin e Ilyan acham marca de agrimensor recente junto ao glifo antigo de Mira na fonte. Runa nota que é de outra mão e aponta ao norte além da licença. Ninguém segue sem falar com guardiões. O arco três continua.",
     "Dias 56–61: páginas 251–256 — marcas comparadas, o conselho de Escada de Âmbar concede passagem restrita ao sino velho, um mensageiro comum leva pedido a Valecobre e o grupo espera o aditivo municipal antes de sair.",
-    "Dia 62: páginas 257–268 — cinco viajantes seguem a pé pela trilha norte autorizada, observam vala obstruída e sino com corda partida, recuam de desabamento e de uma serpe deslocada pela água, sem feri-la. Retornam à vila com desenho do cobre intacto. À noite ouvem um toque de sino cuja origem não está provada; o arco três continua."
+    "Dia 62: páginas 257–268 — cinco viajantes seguem a pé pela trilha norte autorizada, observam vala obstruída e sino com corda partida, recuam de desabamento e de uma serpe deslocada pela água, sem feri-la. Retornam à vila com desenho do cobre intacto. À noite ouvem um toque de sino cuja origem não está provada; o arco três continua.",
+    "Dias 63–65: páginas 269–287 — relato ao conselho, alerta às casas baixas, vistoria exterior autorizada, descoberta documental do flutuador e cobrança de explicações a Varek. A peça e a corda não são tocadas.",
+    "Dias 66–68: páginas 288–306 — viagem comum a Folealto e Pedra-Verde; Vessa mede nascente, Braka negocia consentimento; javali de musgo é desviado sem ferimento.",
+    "Dia 69: páginas 307–311 — Adra e Braka retornam por estrada comum; três comunidades cotejam mapas e começam a deliberar sobre uma ação conjunta. O arco três continua."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

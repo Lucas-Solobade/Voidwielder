@@ -1,0 +1,436 @@
+{
+  "pages": [
+    {
+      "number": 269,
+      "title": "O relato exato",
+      "time": "Dia 63 · manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "talin"
+      ],
+      "scene": "Day Dia 63 · manhã; casa-memoria-ambar. Same cedar table, two narrow west windows and north woven shelves. Runa lays yesterday's sketch beside Talin's unchanged written boundary; neither redraws the copper fitting as evidence of guilt. Exact recurring physical identities from reference sheets. Runa is on LEFT and Talin on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O sino tocou uma vez. Só isso podemos afirmar.",
+          "balloon": {
+            "x": 3,
+            "y": 4.0,
+            "w": 29,
+            "target_x": 24.0,
+            "target_y": 18.7
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "E ninguém atravessou o limite da licença.",
+          "balloon": {
+            "x": 68,
+            "y": 5.5,
+            "w": 29,
+            "target_x": 78.6,
+            "target_y": 20.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 270,
+      "title": "Casas abaixo da fonte",
+      "time": "Dia 63 · manhã",
+      "place": "escada-ambar-vila",
+      "layout": "asymmetric",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Day Dia 63 · manhã; escada-ambar-vila. On the south terrace above amber village, Adra identifies low riverside homes. Ilyan counts their occupied doors on a community map; the bell is a warning, not a reason to panic. Exact recurring physical identities from reference sheets. Adra is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Se a água subir, estas casas recebem o aviso primeiro.",
+          "balloon": {
+            "x": 3,
+            "y": 4.9,
+            "w": 29,
+            "target_x": 29.0,
+            "target_y": 18.9
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vamos perguntar às famílias onde preferem esperar.",
+          "balloon": {
+            "x": 68,
+            "y": 7.5,
+            "w": 29,
+            "target_x": 76.9,
+            "target_y": 22.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 271,
+      "title": "O velho degrau",
+      "time": "Dia 63 · meio-dia",
+      "place": "fonte-degraus-ambar",
+      "layout": "vertical",
+      "cast": [
+        "talin",
+        "sere"
+      ],
+      "scene": "Day Dia 63 · meio-dia; fonte-degraus-ambar. At the terraced spring, Talin examines the old public flood-height marker and Sere sights north along the safe lane; no new water level is invented. Exact recurring physical identities from reference sheets. Talin is on LEFT and Sere on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A marca de cheia fica dois degraus acima.",
+          "balloon": {
+            "x": 3,
+            "y": 8.0,
+            "w": 29,
+            "target_x": 20.1,
+            "target_y": 20.7
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Ainda há tempo para organizar uma rota segura.",
+          "balloon": {
+            "x": 68,
+            "y": 2,
+            "w": 29,
+            "target_x": 66.6,
+            "target_y": 8.9
+          }
+        }
+      ]
+    },
+    {
+      "number": 272,
+      "title": "Nomes e lanternas",
+      "time": "Dia 63 · tarde",
+      "place": "escada-ambar-vila",
+      "layout": "two-panels",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Day Dia 63 · tarde; escada-ambar-vila. On the cobbled lane, Adra helps residents mark an ordinary shelter route with lanterns; Runa copies names into a public list, not a secret register. Background villagers are small anonymous silhouettes. Exact recurring physical identities from reference sheets. Adra is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Uma lanterna por curva até o salão alto.",
+          "balloon": {
+            "x": 3,
+            "y": 16.9,
+            "w": 29,
+            "target_x": 17.7,
+            "target_y": 30.5
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E cada família sabe quem vem com ela.",
+          "balloon": {
+            "x": 68,
+            "y": 21.6,
+            "w": 29,
+            "target_x": 83.2,
+            "target_y": 35.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 273,
+      "title": "Não tocar no cobre",
+      "time": "Dia 63 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "splash",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Day Dia 63 · tarde; casa-memoria-ambar. Memory-room table with a sketch of the copper fastener still stuck in the bank. Sere points to a line on the existing permit; Ilyan puts away a pry bar before departure. Exact recurring physical identities from reference sheets. Sere is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "O fecho está fora da faixa autorizada.",
+          "balloon": {
+            "x": 3,
+            "y": 4.1,
+            "w": 29,
+            "target_x": 24.6,
+            "target_y": 17.8
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então levaremos só o desenho à cidade.",
+          "balloon": {
+            "x": 68,
+            "y": 4.9,
+            "w": 29,
+            "target_x": 86.8,
+            "target_y": 17.9
+          }
+        }
+      ]
+    },
+    {
+      "number": 274,
+      "title": "Resposta por estrada",
+      "time": "Dia 63 · fim da tarde",
+      "place": "escada-ambar-vila",
+      "layout": "detail",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "scene": "Day Dia 63 · fim da tarde; escada-ambar-vila. At the southern stone gate, Adra gives an ordinary courier a sealed report and request for specialist inspection; Talin checks the destination written on it. Courier rides away, not back instantly. Exact recurring physical identities from reference sheets. Adra is on LEFT and Talin on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Valecobre só receberá isto amanhã.",
+          "balloon": {
+            "x": 3,
+            "y": 6.1,
+            "w": 29,
+            "target_x": 16.7,
+            "target_y": 18.4
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "A vila mantém a vigília até chegar resposta.",
+          "balloon": {
+            "x": 68,
+            "y": 4.2,
+            "w": 29,
+            "target_x": 85.5,
+            "target_y": 17.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 275,
+      "title": "Turno de vigília",
+      "time": "Dia 63 · noite",
+      "place": "escada-ambar-vila",
+      "layout": "diagonal",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Day Dia 63 · noite; escada-ambar-vila. On upper lookout under open starry sky, Ilyan watches north without leaving village and Runa marks interval between sounds on a wax tablet. Bell remains silent this night. Exact recurring physical identities from reference sheets. Ilyan is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Nenhum segundo toque.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 29,
+            "target_x": 23,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Silêncio também entra no registro.",
+          "balloon": {
+            "x": 68,
+            "y": 10.6,
+            "w": 29,
+            "target_x": 68.7,
+            "target_y": 23.8
+          }
+        }
+      ]
+    },
+    {
+      "number": 276,
+      "title": "Carta da cidade",
+      "time": "Dia 64 · manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "runa"
+      ],
+      "scene": "Day Dia 64 · manhã; casa-memoria-ambar. At the same cedar table, a courier has brought a Valecobre acknowledgement but only grants a second exterior survey, still forbidding entry to the closed channel. Talin reads the seal; Runa compares bounds. Exact recurring physical identities from reference sheets. Talin is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A cidade permite medir do lado de fora.",
+          "balloon": {
+            "x": 3,
+            "y": 7.6,
+            "w": 29,
+            "target_x": 22.6,
+            "target_y": 22.2
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não é licença para abrir a roda.",
+          "balloon": {
+            "x": 68,
+            "y": 9.1,
+            "w": 29,
+            "target_x": 78.5,
+            "target_y": 23.4
+          }
+        }
+      ]
+    },
+    {
+      "number": 277,
+      "title": "A linha branca",
+      "time": "Dia 64 · meio-dia",
+      "place": "trilha-sino-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Day Dia 64 · meio-dia; trilha-sino-norte. The five-person group walks on foot along white boundary stones on the WEST safe trail; Sere in foreground checks every stone, Ilyan carries a dry field case. Others are remote silhouettes, never duplicated. Exact recurring physical identities from reference sheets. Sere is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Ficaremos deste lado das pedras.",
+          "balloon": {
+            "x": 3,
+            "y": 7.0,
+            "w": 29,
+            "target_x": 20.0,
+            "target_y": 19.9
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E voltaremos antes da maré da tarde.",
+          "balloon": {
+            "x": 68,
+            "y": 9.3,
+            "w": 29,
+            "target_x": 65.4,
+            "target_y": 21.8
+          }
+        }
+      ]
+    },
+    {
+      "number": 278,
+      "title": "O arco imóvel",
+      "time": "Dia 64 · tarde",
+      "place": "sino-velho",
+      "layout": "vertical",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "Day Dia 64 · tarde; sino-velho. At the SINGLE old bronze bell under stone arch, cut rope still hangs in two ends; Talin watches the old iron wheel without touching; Adra sketches its visible spokes from legal marked threshold. Exact recurring physical identities from reference sheets. Talin is on LEFT and Adra on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A corda continua como ontem.",
+          "balloon": {
+            "x": 3,
+            "y": 6.5,
+            "w": 29,
+            "target_x": 21.3,
+            "target_y": 19.5
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Mas esta roda mudou de posição.",
+          "balloon": {
+            "x": 68,
+            "y": 23.9,
+            "w": 29,
+            "target_x": 84.0,
+            "target_y": 36.1
+          }
+        }
+      ]
+    },
+    {
+      "number": 279,
+      "title": "Marcas no eixo",
+      "time": "Dia 64 · tarde",
+      "place": "sino-velho",
+      "layout": "two-panels",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Day Dia 64 · tarde; sino-velho. From safe western threshold, Runa observes fresh wet line on exposed shaft, Ilyan measures gap to bell clapper using a held wooden rule; neither crosses or touches structure. Exact recurring physical identities from reference sheets. Runa is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A água alcança o eixo por baixo.",
+          "balloon": {
+            "x": 3,
+            "y": 23.2,
+            "w": 29,
+            "target_x": 20.1,
+            "target_y": 37.0
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E o badalo pode mexer sem corda.",
+          "balloon": {
+            "x": 68,
+            "y": 17.6,
+            "w": 29,
+            "target_x": 88.7,
+            "target_y": 31.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 280,
+      "title": "Uma hipótese só",
+      "time": "Dia 64 · tarde",
+      "place": "trilha-sino-norte",
+      "layout": "splash",
+      "cast": [
+        "talin",
+        "sere"
+      ],
+      "scene": "Day Dia 64 · tarde; trilha-sino-norte. Walking back along west path, Talin draws possible water-pressure path in field book, Sere notes that new scrape and old wheel cannot yet be dated to same hand. Exact recurring physical identities from reference sheets. Talin is on LEFT and Sere on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Se a roda gira, o sino é um alarme antigo.",
+          "balloon": {
+            "x": 3,
+            "y": 3.2,
+            "w": 29,
+            "target_x": 25.8,
+            "target_y": 16.8
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Hipótese. Vamos registrar antes de afirmar.",
+          "balloon": {
+            "x": 68,
+            "y": 7.0,
+            "w": 29,
+            "target_x": 62.6,
+            "target_y": 20.2
+          }
+        }
+      ]
+    }
+  ]
+}

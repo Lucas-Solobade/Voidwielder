@@ -38,7 +38,7 @@ export function drawScene(canvas) {
   const chapter = Number(id.split('-')[0]);
   ctx.fillStyle = paper;
   ctx.fillRect(0, 0, width, height);
-  plate(`chapter-${String(chapter).padStart(2, '0')}.png`).then((image) => {
+  plate(`chapter-${String(chapter).padStart(2, '0')}.webp`).then((image) => {
     ctx.fillStyle = paper;
     ctx.fillRect(0, 0, width, height);
     const scale = Math.min((width - 16) / image.width, (height - 16) / image.height);
@@ -61,7 +61,7 @@ export function drawCover(canvas) {
   const { width, height } = canvas;
   ctx.fillStyle = paper;
   ctx.fillRect(0, 0, width, height);
-  plate('cover.png').then((image) => {
+  plate('cover.webp').then((image) => {
     monochrome(ctx, image, [0, 0, width, height]);
     const sky = ctx.createLinearGradient(0, 0, 0, height * .39);
     sky.addColorStop(0, 'rgba(0,0,0,.42)');

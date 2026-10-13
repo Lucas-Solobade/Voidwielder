@@ -97,7 +97,7 @@ def get_novel_pages() -> tuple[NovelPage, ...]:
             raise ValueError("Os capítulos devem ser sequenciais")
         title, sentences = _sentences(chapter_path.read_text(encoding="utf-8"))
         count = 16 if chapter_number == EXPECTED_CHAPTERS else 20
-        plate_available = (PLATE_DIR / f"chapter-{chapter_number:02}.png").is_file()
+        plate_available = (PLATE_DIR / f"chapter-{chapter_number:02}.webp").is_file()
         bounds = _boundaries(sentences, count)
         for leaf in range(count):
             content = _paragraphs(sentences[bounds[leaf] : bounds[leaf + 1]])

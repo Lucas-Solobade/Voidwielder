@@ -25,9 +25,9 @@ def test_novel_pages_are_real_and_contiguous() -> None:
 
 def test_novel_has_chapter_plates() -> None:
     plate_dir = Path(__file__).resolve().parents[1] / "static" / "reader" / "images" / "novel"
-    assert (plate_dir / "cover.png").is_file()
+    assert (plate_dir / "cover.webp").is_file()
     for chapter in range(1, 21):
-        assert (plate_dir / f"chapter-{chapter:02}.png").is_file()
+        assert (plate_dir / f"chapter-{chapter:02}.webp").is_file()
 
 
 def test_novel_routes_and_catalog(client) -> None:

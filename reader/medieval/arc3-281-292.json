@@ -1,0 +1,436 @@
+{
+  "pages": [
+    {
+      "number": 281,
+      "title": "A voz da água",
+      "time": "Dia 64 · noite",
+      "place": "escada-ambar-vila",
+      "layout": "detail",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Day Dia 64 · noite; escada-ambar-vila. At upper stone lookout, Runa studies water moving through the terraced spring; Ilyan looks toward lower houses, not toward an invented apparition. Their sleeves nearly touch, quietly earned trust. Exact recurring physical identities from reference sheets. Runa is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ela corre mais depressa que ontem.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 29,
+            "target_x": 23,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Você percebeu antes de todos. Obrigado.",
+          "balloon": {
+            "x": 68,
+            "y": 2,
+            "w": 29,
+            "target_x": 77,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 282,
+      "title": "Livro público",
+      "time": "Dia 65 · manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "diagonal",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "scene": "Day Dia 65 · manhã; casa-memoria-ambar. At memory room north shelves, Adra opens public maintenance ledger with village steward's permission already granted on-page, Talin traces dates with one finger. No restricted archive. Exact recurring physical identities from reference sheets. Adra is on LEFT and Talin on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Há desenhos do sino feitos antes de Mira.",
+          "balloon": {
+            "x": 3,
+            "y": 16.9,
+            "w": 29,
+            "target_x": 34.1,
+            "target_y": 29.9
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Procuremos mudanças, não um culpado.",
+          "balloon": {
+            "x": 68,
+            "y": 17.6,
+            "w": 29,
+            "target_x": 77.5,
+            "target_y": 31.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 283,
+      "title": "Oito dentes",
+      "time": "Dia 65 · manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "runa"
+      ],
+      "scene": "Day Dia 65 · manhã; casa-memoria-ambar. Close study of public diagram: eight-tooth wheel connected to an overflow float, a mechanical warning independent of cut rope. Runa aligns diagram with yesterday's measured spokes. Exact recurring physical identities from reference sheets. Talin is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "O flutuador levanta o badalo na cheia.",
+          "balloon": {
+            "x": 3,
+            "y": 7.8,
+            "w": 29,
+            "target_x": 28.7,
+            "target_y": 21.2
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então o toque avisou pressão de verdade.",
+          "balloon": {
+            "x": 68,
+            "y": 11.8,
+            "w": 29,
+            "target_x": 62.9,
+            "target_y": 24.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 284,
+      "title": "Não é uma prova",
+      "time": "Dia 65 · meio-dia",
+      "place": "casa-memoria-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "Day Dia 65 · meio-dia; casa-memoria-ambar. At cedar table, Ilyan puts the diagram beside field sketch; Sere keeps the copper fitting drawing separate. He wants to say culprit; she stops the leap. Exact recurring physical identities from reference sheets. Ilyan is on LEFT and Sere on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Alguém cortou a corda de propósito?",
+          "balloon": {
+            "x": 3,
+            "y": 11.3,
+            "w": 29,
+            "target_x": 27.7,
+            "target_y": 25.2
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Ainda não sabemos quando nem por quem.",
+          "balloon": {
+            "x": 68,
+            "y": 11.9,
+            "w": 29,
+            "target_x": 80.0,
+            "target_y": 25.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 285,
+      "title": "Uma visita difícil",
+      "time": "Dia 65 · tarde",
+      "place": "escada-ambar-vila",
+      "layout": "vertical",
+      "cast": [
+        "adra",
+        "varek"
+      ],
+      "scene": "Day Dia 65 · tarde; escada-ambar-vila. Valecobre contractor Varek has arrived with city road survey wagon via ordinary south road; on public terrace Adra demands his crew's map before any work. Varek wears ochre contractor coat, short ash-blond hair, sparse beard. Exact recurring physical identities from reference sheets. Adra is on LEFT and Varek on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Mostre a obra que fez a montante.",
+          "balloon": {
+            "x": 3,
+            "y": 10.5,
+            "w": 29,
+            "target_x": 25.9,
+            "target_y": 23.2
+          }
+        },
+        {
+          "speaker": "Varek",
+          "text": "O contrato existe. Não vim para esconder papel.",
+          "balloon": {
+            "x": 68,
+            "y": 9.6,
+            "w": 29,
+            "target_x": 75.5,
+            "target_y": 22.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 286,
+      "title": "Tinta e margem",
+      "time": "Dia 65 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "two-panels",
+      "cast": [
+        "runa",
+        "varek"
+      ],
+      "scene": "Day Dia 65 · tarde; casa-memoria-ambar. On cedar table, Runa sees Varek's road plan puts an overflow outlet at the edge of amber territory; it is a plan, not proof of actual construction. Varek keeps both hands visible. Exact recurring physical identities from reference sheets. Runa is on LEFT and Varek on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Seu desenho termina antes das casas baixas.",
+          "balloon": {
+            "x": 3,
+            "y": 13.6,
+            "w": 29,
+            "target_x": 30.9,
+            "target_y": 28.2
+          }
+        },
+        {
+          "speaker": "Varek",
+          "text": "A estrada era o limite do meu contrato.",
+          "balloon": {
+            "x": 68,
+            "y": 11.6,
+            "w": 29,
+            "target_x": 79.8,
+            "target_y": 27.1
+          }
+        }
+      ]
+    },
+    {
+      "number": 287,
+      "title": "O caminho de volta",
+      "time": "Dia 65 · noite",
+      "place": "escada-ambar-vila",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Day Dia 65 · noite; escada-ambar-vila. On village steps after meeting, Ilyan angry but restrains himself; Runa closes the map case. One quiet scene of disagreement and care, no instant romance. Exact recurring physical identities from reference sheets. Ilyan is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ele fala como se as casas fossem margem vazia.",
+          "balloon": {
+            "x": 3,
+            "y": 7.7,
+            "w": 29,
+            "target_x": 25.6,
+            "target_y": 22.6
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Amanhã iremos à nascente perguntar quem viu a obra.",
+          "balloon": {
+            "x": 68,
+            "y": 10.6,
+            "w": 29,
+            "target_x": 85.2,
+            "target_y": 25.7
+          }
+        }
+      ]
+    },
+    {
+      "number": 288,
+      "title": "Pedido às nascentes",
+      "time": "Dia 66 · alvorada",
+      "place": "escada-ambar-vila",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "Day Dia 66 · alvorada; escada-ambar-vila. At south village gate Talin carries written passage request to gnome community Folealto, Adra packs one ferry hook and field map. They set out by common northern cart track, permission to travel public road only. Exact recurring physical identities from reference sheets. Talin is on LEFT and Adra on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Os gnomos conhecem a roda da nascente.",
+          "balloon": {
+            "x": 3,
+            "y": 10.0,
+            "w": 29,
+            "target_x": 23.1,
+            "target_y": 23.3
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E decidem se nos deixam estudá-la.",
+          "balloon": {
+            "x": 68,
+            "y": 16.7,
+            "w": 29,
+            "target_x": 88.4,
+            "target_y": 29.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 289,
+      "title": "Pedras de ardósia",
+      "time": "Dia 66 · manhã",
+      "place": "estrada-folealto",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Day Dia 66 · manhã; estrada-folealto. On rising northern cart track, Sere reads old slate milestone and Ilyan helps guide a laden donkey around mud. No magical shortcut; amber village is visibly distant behind. Exact recurring physical identities from reference sheets. Sere is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Mais meio dia até Folealto.",
+          "balloon": {
+            "x": 3,
+            "y": 14.7,
+            "w": 29,
+            "target_x": 19.5,
+            "target_y": 27.6
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A trilha é estreita; deixemos a carroça passar.",
+          "balloon": {
+            "x": 68,
+            "y": 9.5,
+            "w": 29,
+            "target_x": 87.2,
+            "target_y": 22.8
+          }
+        }
+      ]
+    },
+    {
+      "number": 290,
+      "title": "A roda de oito pás",
+      "time": "Dia 66 · tarde",
+      "place": "folealto",
+      "layout": "vertical",
+      "cast": [
+        "runa",
+        "vessa"
+      ],
+      "scene": "Day Dia 66 · tarde; folealto. Arrive at gnome settlement: slate-roof houses around spring, EIGHT-bladed waterwheel always on NORTH side. Adult gnome engineer Vessa stands right with two short grey braids, round brass spectacles, teal coat, explaining the wheel. Exact recurring physical identities from reference sheets. Runa is on LEFT and Vessa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ela ainda gira com o mesmo fluxo?",
+          "balloon": {
+            "x": 3,
+            "y": 12.2,
+            "w": 29,
+            "target_x": 21.2,
+            "target_y": 27.0
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "Só quando a nascente recebe água suficiente.",
+          "balloon": {
+            "x": 68,
+            "y": 20.8,
+            "w": 29,
+            "target_x": 64.4,
+            "target_y": 34.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 291,
+      "title": "Uma engenheira escuta",
+      "time": "Dia 66 · tarde",
+      "place": "oficina-folealto",
+      "layout": "two-panels",
+      "cast": [
+        "vessa",
+        "ilyan"
+      ],
+      "scene": "Day Dia 66 · tarde; oficina-folealto. Inside gnome workshop with open east door facing eight-paddle wheel, Vessa studies sketch on dry bench; Ilyan holds measuring case. She does not assume bell mechanism solely from story. Exact recurring physical identities from reference sheets. Vessa is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "O desenho mostra um flutuador antigo.",
+          "balloon": {
+            "x": 3,
+            "y": 21.4,
+            "w": 29,
+            "target_x": 25.7,
+            "target_y": 35.9
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E este dente novo? Não estava no livro.",
+          "balloon": {
+            "x": 68,
+            "y": 9.8,
+            "w": 29,
+            "target_x": 80.6,
+            "target_y": 24.4
+          }
+        }
+      ]
+    },
+    {
+      "number": 292,
+      "title": "Amostra sem dono",
+      "time": "Dia 66 · fim da tarde",
+      "place": "oficina-folealto",
+      "layout": "splash",
+      "cast": [
+        "adra",
+        "vessa"
+      ],
+      "scene": "Day Dia 66 · fim da tarde; oficina-folealto. Vessa compares copper fastener drawing with standard brass fittings on wall; Adra notes similarity is insufficient to identify workshop or installer. Both distinct faces and builds. Exact recurring physical identities from reference sheets. Adra is on LEFT and Vessa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Conhece esta peça?",
+          "balloon": {
+            "x": 3,
+            "y": 11.2,
+            "w": 29,
+            "target_x": 26.3,
+            "target_y": 23.4
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "O formato é comum. A liga diria mais.",
+          "balloon": {
+            "x": 68,
+            "y": 14.3,
+            "w": 29,
+            "target_x": 74.9,
+            "target_y": 28.1
+          }
+        }
+      ]
+    }
+  ]
+}

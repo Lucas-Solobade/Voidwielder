@@ -1,0 +1,256 @@
+{
+  "pages": [
+    {
+      "number": 305,
+      "title": "O caminho aberto",
+      "time": "Dia 68 · instantes depois",
+      "place": "estrada-pedraverde",
+      "layout": "two-panels",
+      "cast": [
+        "runa",
+        "braka"
+      ],
+      "scene": "Day Dia 68 · instantes depois; estrada-pedraverde. Runa channels already-present puddle aside a few handspans; Braka lifts a loose branch with both arms; moss-boar runs into safe woodland, no injury. Exact recurring physical identities from reference sheets. Runa is on LEFT and Braka on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A água acompanha a vala antiga.",
+          "balloon": {
+            "x": 3,
+            "y": 15.5,
+            "w": 29,
+            "target_x": 27.0,
+            "target_y": 28.7
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "E o bicho voltou ao seu caminho.",
+          "balloon": {
+            "x": 68,
+            "y": 6.2,
+            "w": 29,
+            "target_x": 84.5,
+            "target_y": 19.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 306,
+      "title": "Prova de cuidado",
+      "time": "Dia 68 · noite",
+      "place": "sala-pedra-verde",
+      "layout": "splash",
+      "cast": [
+        "braka",
+        "ilyan"
+      ],
+      "scene": "Day Dia 68 · noite; sala-pedra-verde. In circular hearth hall, Braka offers Ilyan a dry towel after shared rescue. They discuss keeping public route marked for animals too; no sudden close friendship. Exact recurring physical identities from reference sheets. Braka is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Você pensou antes de usar a espada.",
+          "balloon": {
+            "x": 3,
+            "y": 4.7,
+            "w": 29,
+            "target_x": 23.9,
+            "target_y": 19.7
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Aprendi com Sere. Ainda erro bastante.",
+          "balloon": {
+            "x": 68,
+            "y": 19.9,
+            "w": 29,
+            "target_x": 76.6,
+            "target_y": 34.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 307,
+      "title": "Volta pela ponte",
+      "time": "Dia 69 · manhã",
+      "place": "estrada-pedraverde",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "braka"
+      ],
+      "scene": "Day Dia 69 · manhã; estrada-pedraverde. At WEST wooden bridge of Pedra-Verde, Adra and Braka set out together on foot toward amber village with two written community observations in separate sleeves. Braka delegates post to unseen deputy; no simultaneous appearance at post. Exact recurring physical identities from reference sheets. Adra is on LEFT and Braka on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Três povoados, um mesmo rio.",
+          "balloon": {
+            "x": 3,
+            "y": 10.9,
+            "w": 29,
+            "target_x": 25.9,
+            "target_y": 23.9
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Então falaremos olhando uns aos outros.",
+          "balloon": {
+            "x": 68,
+            "y": 8.0,
+            "w": 29,
+            "target_x": 75.1,
+            "target_y": 21.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 308,
+      "title": "Sem atalhos",
+      "time": "Dia 69 · meio-dia",
+      "place": "estrada-folealto",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "vessa"
+      ],
+      "scene": "Day Dia 69 · meio-dia; estrada-folealto. On ordinary road below Folealto, Ilyan helps adult gnome Vessa carry her measuring rod; distant north eight-paddle wheel behind. Weather grows humid; no teleport or skipped travel. Exact recurring physical identities from reference sheets. Ilyan is on LEFT and Vessa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A chuva pode chegar antes da licença.",
+          "balloon": {
+            "x": 3,
+            "y": 10.8,
+            "w": 29,
+            "target_x": 22.2,
+            "target_y": 26.3
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "Por isso marcamos o que é seguro agora.",
+          "balloon": {
+            "x": 68,
+            "y": 20.6,
+            "w": 29,
+            "target_x": 79.5,
+            "target_y": 36.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 309,
+      "title": "Mesa de três margens",
+      "time": "Dia 69 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "vertical",
+      "cast": [
+        "talin",
+        "braka"
+      ],
+      "scene": "Day Dia 69 · tarde; casa-memoria-ambar. In amber memory room cedar table, Talin places three community maps beside each other; Braka points to her eastern sluice. Other delegates are seated small silhouettes only, two WEST windows, north shelves intact. Exact recurring physical identities from reference sheets. Talin is on LEFT and Braka on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Nenhum mapa apaga a margem vizinha.",
+          "balloon": {
+            "x": 3,
+            "y": 22.1,
+            "w": 29,
+            "target_x": 28.2,
+            "target_y": 36.6
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "E nenhuma obra pode empurrar a cheia para outra casa.",
+          "balloon": {
+            "x": 68,
+            "y": 16.1,
+            "w": 29,
+            "target_x": 73.1,
+            "target_y": 32.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 310,
+      "title": "O mesmo nível",
+      "time": "Dia 69 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "two-panels",
+      "cast": [
+        "vessa",
+        "runa"
+      ],
+      "scene": "Day Dia 69 · tarde; casa-memoria-ambar. Vessa compares three measured waterlines on cedar table, Runa draws one continuous slope through them. Diagram shows increased pressure toward old bell; still hypothesis about exact cause. Exact recurring physical identities from reference sheets. Vessa is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "As três marcas subiram depois da obra.",
+          "balloon": {
+            "x": 3,
+            "y": 12.7,
+            "w": 29,
+            "target_x": 21.8,
+            "target_y": 28.2
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Mas precisamos ver a tomada antes de fechar a conta.",
+          "balloon": {
+            "x": 68,
+            "y": 13.0,
+            "w": 29,
+            "target_x": 72.6,
+            "target_y": 30.1
+          }
+        }
+      ]
+    },
+    {
+      "number": 311,
+      "title": "Voto de prudência",
+      "time": "Dia 69 · fim da tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "splash",
+      "cast": [
+        "adra",
+        "braka"
+      ],
+      "scene": "Day Dia 69 · fim da tarde; casa-memoria-ambar. Council meeting continues at same cedar table; Adra asks each community to approve a joint plan only after technical inspection; Braka marks her conditional vote on parchment. Exact recurring physical identities from reference sheets. Adra is on LEFT and Braka on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A Escada aceita vigiar as casas baixas.",
+          "balloon": {
+            "x": 3,
+            "y": 13.2,
+            "w": 29,
+            "target_x": 18.8,
+            "target_y": 28.0
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Pedra-Verde aceita medir. Abrir exige outro voto.",
+          "balloon": {
+            "x": 68,
+            "y": 9.3,
+            "w": 29,
+            "target_x": 83.5,
+            "target_y": 26.1
+          }
+        }
+      ]
+    }
+  ]
+}

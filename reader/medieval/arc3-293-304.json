@@ -1,0 +1,436 @@
+{
+  "pages": [
+    {
+      "number": 293,
+      "title": "Água sob as lajes",
+      "time": "Dia 67 · manhã",
+      "place": "folealto",
+      "layout": "detail",
+      "cast": [
+        "vessa",
+        "runa"
+      ],
+      "scene": "Day Dia 67 · manhã; folealto. With village permission, at PUBLIC spring steps, Vessa lays measuring board on a dry stone; Runa guides a teaspoon of existing water to reveal slope only. Gnome homes and north wheel fixed. Exact recurring physical identities from reference sheets. Vessa is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "A corrente não sobe por magia.",
+          "balloon": {
+            "x": 3,
+            "y": 10.9,
+            "w": 29,
+            "target_x": 28.0,
+            "target_y": 24.1
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ela segue um declive que alguém alterou.",
+          "balloon": {
+            "x": 68,
+            "y": 13.4,
+            "w": 29,
+            "target_x": 63.7,
+            "target_y": 26.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 294,
+      "title": "Ata do moinho",
+      "time": "Dia 67 · manhã",
+      "place": "oficina-folealto",
+      "layout": "diagonal",
+      "cast": [
+        "vessa",
+        "talin"
+      ],
+      "scene": "Day Dia 67 · manhã; oficina-folealto. In the workshop Vessa retrieves publicly posted repair schedule from wooden board: Varek's crew repaired the road culvert 12 days ago. Talin copies date, neither claims the rope cutting occurred then. Exact recurring physical identities from reference sheets. Vessa is on LEFT and Talin on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "A equipe dele esteve na estrada.",
+          "balloon": {
+            "x": 3,
+            "y": 14.3,
+            "w": 29,
+            "target_x": 26.2,
+            "target_y": 27.5
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Anotaremos quem autorizou e o que mudou.",
+          "balloon": {
+            "x": 68,
+            "y": 15.4,
+            "w": 29,
+            "target_x": 64.3,
+            "target_y": 28.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 295,
+      "title": "A fenda nova",
+      "time": "Dia 67 · meio-dia",
+      "place": "estrada-pedraverde",
+      "layout": "wide",
+      "cast": [
+        "sere",
+        "adra"
+      ],
+      "scene": "Day Dia 67 · meio-dia; estrada-pedraverde. Leaving Folealto on foot toward Orc roadpost, Sere notices new wet crack below cart track, Adra posts warning branch where travelers can see. Forest of silver birches, route east, no invented extra companion. Exact recurring physical identities from reference sheets. Sere is on LEFT and Adra on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "O barranco bebe água por baixo.",
+          "balloon": {
+            "x": 3,
+            "y": 11.1,
+            "w": 29,
+            "target_x": 26.4,
+            "target_y": 24.3
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Sinalizemos antes que uma carroça passe.",
+          "balloon": {
+            "x": 68,
+            "y": 13.9,
+            "w": 29,
+            "target_x": 84.7,
+            "target_y": 26.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 296,
+      "title": "Olhos no musgo",
+      "time": "Dia 67 · tarde",
+      "place": "estrada-pedraverde",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Day Dia 67 · tarde; estrada-pedraverde. At mossy forest verge, an adult moss-boar with bark-like hide and four legs watches from ferns, displaced by seepage. Ilyan keeps blunt sword sheathed, Runa holds still. No attack yet. Exact recurring physical identities from reference sheets. Ilyan is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ele parece assustado, não caçando.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 29,
+            "target_x": 23,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vamos abrir passagem para o bosque.",
+          "balloon": {
+            "x": 68,
+            "y": 2,
+            "w": 29,
+            "target_x": 77,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 297,
+      "title": "Um som de cascos",
+      "time": "Dia 67 · tarde",
+      "place": "estrada-pedraverde",
+      "layout": "vertical",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Day Dia 67 · tarde; estrada-pedraverde. Moss-boar bolts across public road; Sere pulls Ilyan clear by shoulder while his sheathed sword stays at hip. Unequal action panels; exactly ONE boar, no duplications. Exact recurring physical identities from reference sheets. Sere is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Esquerda, Ilyan!",
+          "balloon": {
+            "x": 3,
+            "y": 15.1,
+            "w": 29,
+            "target_x": 24.9,
+            "target_y": 26.3
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Estou fora da trilha dele!",
+          "balloon": {
+            "x": 68,
+            "y": 19.6,
+            "w": 29,
+            "target_x": 57.0,
+            "target_y": 30.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 298,
+      "title": "O posto verde",
+      "time": "Dia 67 · crepúsculo",
+      "place": "pedra-verde",
+      "layout": "two-panels",
+      "cast": [
+        "adra",
+        "braka"
+      ],
+      "scene": "Day Dia 67 · crepúsculo; pedra-verde. Orc roadpost first view: greenstone wall, wooden bridge WEST, old sluice EAST. Orc captain Braka, adult dark olive skin, one chipped lower tusk, three black braids, red wool cape greets Adra at gate. Exact recurring physical identities from reference sheets. Adra is on LEFT and Braka on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Viemos pedir abrigo e escuta.",
+          "balloon": {
+            "x": 3,
+            "y": 15.1,
+            "w": 29,
+            "target_x": 24.0,
+            "target_y": 28.6
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Abrigo primeiro. Trabalho, só depois do conselho.",
+          "balloon": {
+            "x": 68,
+            "y": 12.8,
+            "w": 29,
+            "target_x": 69.4,
+            "target_y": 26.4
+          }
+        }
+      ]
+    },
+    {
+      "number": 299,
+      "title": "O limite da aldeia",
+      "time": "Dia 68 · manhã",
+      "place": "pedra-verde",
+      "layout": "splash",
+      "cast": [
+        "braka",
+        "runa"
+      ],
+      "scene": "Day Dia 68 · manhã; pedra-verde. Outside green wall, Braka indicates community's eastern sluice but forbids entering it before council consent; Runa only records visible waterline from public bridge. Exact recurring physical identities from reference sheets. Braka is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "A comporta é nossa. Só olhe daqui.",
+          "balloon": {
+            "x": 3,
+            "y": 7.2,
+            "w": 29,
+            "target_x": 22.1,
+            "target_y": 20.9
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Entendido. Nem uma pedra será movida.",
+          "balloon": {
+            "x": 68,
+            "y": 2,
+            "w": 29,
+            "target_x": 77,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 300,
+      "title": "Três vozes no conselho",
+      "time": "Dia 68 · meio-dia",
+      "place": "sala-pedra-verde",
+      "layout": "detail",
+      "cast": [
+        "braka",
+        "talin"
+      ],
+      "scene": "Day Dia 68 · meio-dia; sala-pedra-verde. Communal hall; Braka speaks for orc roadpost while Talin reads Folealto and amber requests, other council members only distant seated silhouettes; consent is debated, not assumed. Exact recurring physical identities from reference sheets. Braka is on LEFT and Talin on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "A estrada e a nascente dependem da mesma água.",
+          "balloon": {
+            "x": 3,
+            "y": 7.0,
+            "w": 29,
+            "target_x": 30.4,
+            "target_y": 22.3
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "E nenhuma comunidade decide pela outra.",
+          "balloon": {
+            "x": 68,
+            "y": 16.4,
+            "w": 29,
+            "target_x": 77.8,
+            "target_y": 29.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 301,
+      "title": "Condição de pedra",
+      "time": "Dia 68 · tarde",
+      "place": "pedra-verde",
+      "layout": "diagonal",
+      "cast": [
+        "braka",
+        "adra"
+      ],
+      "scene": "Day Dia 68 · tarde; pedra-verde. At greenstone gate Braka hands written conditional consent for EXTERIOR survey of sluice to Adra: two orc observers and no opening until all councils meet. Adra checks exact text. Exact recurring physical identities from reference sheets. Braka is on LEFT and Adra on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Observem de fora. Minha gente estará junto.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 29,
+            "target_x": 17.5,
+            "target_y": 46.5
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Assim será. Levaremos sua condição à Escada.",
+          "balloon": {
+            "x": 68,
+            "y": 6.8,
+            "w": 29,
+            "target_x": 80.2,
+            "target_y": 19.9
+          }
+        }
+      ]
+    },
+    {
+      "number": 302,
+      "title": "Lado de fora",
+      "time": "Dia 68 · tarde",
+      "place": "comporta-pedraverde",
+      "layout": "wide",
+      "cast": [
+        "vessa",
+        "braka"
+      ],
+      "scene": "Day Dia 68 · tarde; comporta-pedraverde. Vessa has followed by common track from Folealto after own village agrees; at old eastern sluice Vessa observes exposed scale from outside and Braka holds boundary cord. No opening. Exact recurring physical identities from reference sheets. Vessa is on LEFT and Braka on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "O nível ficou mais alto depois da obra.",
+          "balloon": {
+            "x": 3,
+            "y": 15.0,
+            "w": 29,
+            "target_x": 17.3,
+            "target_y": 29.1
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Agora precisamos medir junto com a Escada.",
+          "balloon": {
+            "x": 68,
+            "y": 2,
+            "w": 29,
+            "target_x": 77,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 303,
+      "title": "O javali retorna",
+      "time": "Dia 68 · tarde",
+      "place": "estrada-pedraverde",
+      "layout": "asymmetric",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "scene": "Day Dia 68 · tarde; estrada-pedraverde. Moss-boar emerges on path close to flooded hollow, bellowing and splashing; Sere stands with ash bow lowered, Runa sees water escape route. All faces clear. Exact recurring physical identities from reference sheets. Sere is on LEFT and Runa on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "A fenda tomou o refúgio dele.",
+          "balloon": {
+            "x": 3,
+            "y": 7.1,
+            "w": 29,
+            "target_x": 17.5,
+            "target_y": 20.2
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Posso puxar esta água de volta à vala.",
+          "balloon": {
+            "x": 68,
+            "y": 12.4,
+            "w": 29,
+            "target_x": 87.3,
+            "target_y": 24.9
+          }
+        }
+      ]
+    },
+    {
+      "number": 304,
+      "title": "Arco para corda",
+      "time": "Dia 68 · instantes depois",
+      "place": "estrada-pedraverde",
+      "layout": "vertical",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Day Dia 68 · instantes depois; estrada-pedraverde. Sere fires a single rope-tipped arrow into DEAD branch to create loud harmless diversion; Ilyan blocks public road with blunt practice sword in defensive stance, not striking animal. Exact recurring physical identities from reference sheets. Sere is on LEFT and Ilyan on RIGHT in the main panel, each appearing only once there. Compose expressions and gesture below the upper 20 percent of the page; keep clear sky, stone or wall at upper left and upper right for two compact dialogue balloons added later. No other named character.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Agora, pelo tronco seco!",
+          "balloon": {
+            "x": 3,
+            "y": 9.7,
+            "w": 29,
+            "target_x": 20.1,
+            "target_y": 20.0
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A trilha está livre para ele passar!",
+          "balloon": {
+            "x": 68,
+            "y": 11.8,
+            "w": 29,
+            "target_x": 78.2,
+            "target_y": 23.6
+          }
+        }
+      ]
+    }
+  ]
+}
