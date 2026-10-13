@@ -161,7 +161,8 @@
   "creatures": {
     "cervo-de-casca": "Grande cervo silvestre de quatro patas, placas de casca castanha, galhadas ramificadas com musgo pálido e olhos âmbar. Não é um monstro maligno. O único indivíduo visto na trilha das salgueiras tem a pata DIANTEIRA ESQUERDA presa numa armadilha de corda e ferro feita por pessoa desconhecida. Depois de liberto na página 189, manca para dentro do bosque; ninguém prova que foi curado. Não duplicar cabeça, chifres ou membros entre quadros.",
     "fadas-do-salgueiro": "Seres pequenos NÃO HUMANOS com corpo cobre-dourado e asas translúcidas de inseto. Voam perto de cursos de água; não falam, não guiam viajantes e não substituem consentimento de povos locais.",
-    "guardiao-de-raiz": "Um ÚNICO organismo ancestral do santuário, feito de raízes vivas de salgueiro e pedra úmida, sem rosto humano. Reage ao ferro cravado na raiz; recua quando o metal é retirado e a água volta ao leito. Não é maligno, não se multiplica e não é derrotado por golpe fatal."
+    "guardiao-de-raiz": "Um ÚNICO organismo ancestral do santuário, feito de raízes vivas de salgueiro e pedra úmida, sem rosto humano. Reage ao ferro cravado na raiz; recua quando o metal é retirado e a água volta ao leito. Não é maligno, não se multiplica e não é derrotado por golpe fatal.",
+    "serpe-de-junco": "Uma ÚNICA serpe silvestre de rio, corpo longo azul-petróleo como enguia, crista de juncos e dois olhos âmbar; sem braços ou pernas. Fica desorientada na margem seca perto do sino velho no dia 62. Segue água corrente quando Runa redireciona um fio já existente. Ninguém a mata ou domestica."
   },
   "places": {
     "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
@@ -182,7 +183,10 @@
     "corredor-do-bosque": "Corredor marcado por estacas de freixo ao NORTE da pedra-limite. Só acessado pela equipe no dia 55, depois de consentimento local e aditivo municipal. Não abre estruturas, não escava nem permite sair da faixa sinalizada. Leva a pé até Escada de Âmbar.",
     "escada-de-ambar": "Aldeia élfica e gnômica habitada dentro do bosque: pontes baixas de madeira entre raízes, casas de pedra e madeira, fonte em degraus e espiral âmbar entalhada na entrada. Tem autonomia e decide o que visitantes podem copiar.",
     "casa-memoria-ambar": "Sala pública da aldeia Escada de Âmbar: espiral âmbar sobre porta SUL, longa mesa de cedro, duas janelas estreitas OESTE e estantes de capas tecidas na parede NORTE. Registros privados permanecem fechados.",
-    "fonte-degraus-ambar": "Fonte em degraus de pedra abaixo das casas da aldeia; toldo de madeira protege visitantes da chuva. Glifo antigo de Mira e marca recente de outra mão ficam em degraus distintos, sem autor novo identificado."
+    "fonte-degraus-ambar": "Fonte em degraus de pedra abaixo das casas da aldeia; toldo de madeira protege visitantes da chuva. Glifo antigo de Mira e marca recente de outra mão ficam em degraus distintos, sem autor novo identificado.",
+    "escada-ambar-vila": "Via pública de pedra que sobe da fonte em degraus às casas e ao mirante da Escada de Âmbar. Da vila a trilha autorizada segue a pé para o norte; a vista do mirante alcança a garganta e o sino distante.",
+    "trilha-sino-norte": "Trilha de encosta ao NORTE da Escada de Âmbar, liberada somente no dia 61 por consentimento local e aditivo municipal, com Talin como guia. Pedras brancas marcam o limite seguro a OESTE da garganta; penhasco de arenito a LESTE e vala lateral seca ao lado do riacho. Termina no sino velho. Nada de sair da faixa ou cavar.",
+    "sino-velho": "Arco de pedra e um ÚNICO sino de bronze sobre a garganta ao fim da trilha norte. Corda partida em duas pontas, viga de madeira e roda de ferro antiga; entrada do canal subterrâneo fica fora da autorização e permanece fechada. O sino soa uma vez à noite na página 268, causa desconhecida."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -231,7 +235,8 @@
     "No dia 53, o conselho da Enseada autoriza patrulha apenas na trilha PÚBLICA ao sul da pedra. Daro ameaça a equipe e foge para o santuário; o grupo não o segue. A segunda armadilha é recolhida separadamente da primeira. Pegada, nó e casaco não provam quem armou a primeira.",
     "A entrada no corredor do santuário só ocorre no dia 55, após consentimento dos guardiões locais e aditivo municipal assinado. A equipe de cinco entra a pé sob Talin e Sere, sem escavar, abrir estruturas ou sair das estacas de freixo.",
     "O guardião de raiz não é inimigo malvado. Reage a uma peça de ferro na raiz; Ilyan usa a ESPADA SEM FIO para proteger, Sere atira somente em corda ou tronco morto e Runa guia apenas água de um riacho existente. Adra remove uma peça de ferro sem escavar. Quando o metal sai, o guardião se recolhe.",
-    "O registro de Mira na Escada de Âmbar data de ANTES de seu desaparecimento. A marca recente na fonte é de outra mão ainda não identificada; não prova que Mira esteja viva, nem a culpa de Maelor ou Daro. O arco três permanece aberto na página 250."
+    "O registro de Mira na Escada de Âmbar data de ANTES de seu desaparecimento. A marca recente na fonte é de outra mão ainda não identificada; não prova que Mira esteja viva, nem a culpa de Maelor ou Daro. O arco três permanece aberto na página 250.",
+    "Nos dias 56–61 a equipe espera a decisão da aldeia e o aditivo municipal entregue por correio comum. Só observa a trilha norte entre pedras brancas até o sino velho, com Talin de guia; não toca o fecho de cobre nem abre o canal subterrâneo. A serpe de junco não é vilã: Runa guia água já presente e o grupo se retira sem feri-la. O toque posterior do sino de corda cortada tem causa desconhecida."
   ],
   "timeline": [
     "Dia 1, manhã: páginas 1–4 — vila, treino, mercado e espada de treino.",
@@ -269,7 +274,9 @@
     "Dia 53: páginas 202–225 — patrulha comunitária autorizada na trilha pública encontra o SEGUNDO laço, enfrenta Daro sem feri-lo e não o segue além da pedra. Os dois objetos ficam separados. Eda recebe pedido de aditivo pela via comum. A carta de Ilyan a Bram e Nima segue pelo correio, sem entrega instantânea.",
     "Dia 54: páginas 226–229 — guardiões da Enseada consentem passagem acompanhada e chega aditivo municipal; as duas autorizações mantêm o limite de não escavar. Equipe de cinco prepara a saída do dia seguinte.",
     "Dia 55: páginas 230–248 — grupo entra a pé no corredor autorizado, observa fadas pequenas junto à água, remove ferro de uma raiz durante confronto defensivo com guardião não maligno e alcança Escada de Âmbar. Registros públicos documentam a passagem de Mira ANTES de sumir; cópia somente com autoria local.",
-    "Dia 56, manhã: páginas 249–250 — Talin e Ilyan acham marca de agrimensor recente junto ao glifo antigo de Mira na fonte. Runa nota que é de outra mão e aponta ao norte além da licença. Ninguém segue sem falar com guardiões. O arco três continua."
+    "Dia 56, manhã: páginas 249–250 — Talin e Ilyan acham marca de agrimensor recente junto ao glifo antigo de Mira na fonte. Runa nota que é de outra mão e aponta ao norte além da licença. Ninguém segue sem falar com guardiões. O arco três continua.",
+    "Dias 56–61: páginas 251–256 — marcas comparadas, o conselho de Escada de Âmbar concede passagem restrita ao sino velho, um mensageiro comum leva pedido a Valecobre e o grupo espera o aditivo municipal antes de sair.",
+    "Dia 62: páginas 257–268 — cinco viajantes seguem a pé pela trilha norte autorizada, observam vala obstruída e sino com corda partida, recuam de desabamento e de uma serpe deslocada pela água, sem feri-la. Retornam à vila com desenho do cobre intacto. À noite ouvem um toque de sino cuja origem não está provada; o arco três continua."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

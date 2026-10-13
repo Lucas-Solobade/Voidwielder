@@ -1,0 +1,657 @@
+{
+  "pages": [
+    {
+      "number": 251,
+      "title": "Duas marcas, duas mãos",
+      "time": "Dia 56 · manhã",
+      "place": "fonte-degraus-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "talin"
+      ],
+      "scene": "At the SAME terraced stone spring in Escada de Âmbar immediately after page 250, Runa LEFT compares the newer copper mark on the lower step to Mira's weathered glyph on a different upper step. Talin RIGHT measures the north boundary with his ash staff. The mark points beyond the current permitted corridor, so nobody crosses. Old and new marks remain physically distinct; author of new mark unknown.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "São mãos diferentes. A marca recente aponta além do nosso limite.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Então voltamos ao conselho antes de seguir.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 252,
+      "title": "O conselho escuta",
+      "time": "Dia 56 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "In Escada de Âmbar public memory room, SAME cedar table, two narrow WEST windows, woven shelves NORTH, amber spiral over SOUTH door. Talin LEFT shows hand copy of both marks to village council seated only as indistinct background silhouettes; Adra RIGHT requests observation of northern channel. No confidential record is opened. The council first listens, does not instantly approve.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Guardamos a trilha. Agora peço licença para observar o canal ao norte.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Só observar. Nenhuma pedra será aberta.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 253,
+      "title": "Limites escritos",
+      "time": "Dia 56 · fim da tarde",
+      "place": "escada-ambar-vila",
+      "layout": "detail",
+      "cast": [
+        "talin",
+        "sere"
+      ],
+      "scene": "After the council meeting, Talin and Sere step onto the PUBLIC stone terrace directly outside the memory room, overlooking amber village's spring. The village council has agreed after discussion to a narrow escorted visit from northern trail to the OLD BELL SITE, with a written boundary on parchment. Talin LEFT draws the boundary, Sere RIGHT reads it back. It is village consent, NOT a municipal permit. One parchment and one oil lamp on terrace table.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "O povo permite o caminho até o sino velho. Depois, nada.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "E a licença da cidade? Ainda precisamos dela.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 77,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 254,
+      "title": "Uma carta leva tempo",
+      "time": "Dia 57 · manhã",
+      "place": "escada-ambar-vila",
+      "layout": "vertical",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "On amber village's public cobbled lane the next morning, Adra LEFT hands a sealed village consent and sketch to an ordinary departing courier only shown as a distant back silhouette; Ilyan RIGHT watches. Courier rides toward Valecobre to obtain amended municipal license. No magical message or instant reply. Terraced homes and spring below remain fixed.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A cidade precisa registrar a nova faixa. Vai demorar.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 12,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Esperaremos. Mira também precisou de permissão para medir.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 83,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 255,
+      "title": "Trabalho enquanto esperamos",
+      "time": "Dia 58 · tarde",
+      "place": "escada-ambar-vila",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "Two days after courier departure, Ilyan LEFT repairs the worn leather strap of the dry field case using ordinary awl and cord at a stone workbench in amber village; Sere RIGHT inspects bowstring and packs a small safety rope. Clearly one person of each. No departure yet, village roofs and spring in background. Blunt short sword remains sheathed.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Se a corrente subir, o mapa precisa ficar seco.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "E precisamos voltar pela mesma trilha, com todos.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 256,
+      "title": "A resposta chega",
+      "time": "Dia 61 · manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "duo",
+      "cast": [
+        "talin",
+        "runa"
+      ],
+      "scene": "After three further days of waiting, ordinary returning courier delivered an amended Valecobre permit to amber village. In public memory room Talin LEFT holds the signed permit at cedar table and Runa RIGHT checks its limits against the village parchment. Both permissions allow observation ONLY up to old bell site, no excavation and Talin as village guide; they cannot enter underground channel. NORTH woven shelves and WEST two windows unchanged.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Agora temos as duas autorizações. O sino marca o fim da visita.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 29,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então seguimos ao amanhecer. O que estiver abaixo, fica fechado.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 77,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 257,
+      "title": "Saída ao norte",
+      "time": "Dia 62 · alvorada",
+      "place": "escada-ambar-vila",
+      "layout": "splash",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "At dawn on day 62, team departs amber village ON FOOT via public north stair: Talin LEFT leads with ash staff, Adra RIGHT carries wrapped iron spike evidence and community copy in separate cloth pouches. Ilyan, Runa, Sere are distant single silhouettes in same group only. Terraced spring village recedes south below, north path visible ahead. No teleportation.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A linha de pedras brancas é nossa volta segura.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 24,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Cinco pessoas entram. Cinco regressam.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 258,
+      "title": "A garganta da água",
+      "time": "Dia 62 · manhã",
+      "place": "trilha-sino-norte",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "runa"
+      ],
+      "scene": "On permitted northern hillside trail beyond village, Talin LEFT identifies white boundary stones and narrow gorge, Runa RIGHT observes shallow flowing water and the old dry side channel. Willow woodland north, sandstone cliff east, visible safe path west. They stay between boundary stones; no cave entrance or bell yet. Distinct vertical wide environmental panel and small water detail inset.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Aqui o riacho se divide quando as chuvas são fortes.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 20,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Mas a vala antiga está seca desde a última chuva.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 19
+          }
+        }
+      ]
+    },
+    {
+      "number": 259,
+      "title": "O leito interrompido",
+      "time": "Dia 62 · meio-dia",
+      "place": "trilha-sino-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "At same gorge legal path, Runa LEFT kneels to guide a spoonful of existing water across a shallow notch, demonstrating elemental magic only redirects what is there. It stops against packed silt. Ilyan RIGHT notices fresh scrape on a detached copper fastener lodged in bank but does not pry it free. ONE fastener, no claim who left it. Medieval comic with large gorge panel and two asymmetric details.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não falta água. Alguma coisa obstrui a vala.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Há cobre novo, mas não vou tocar sem registrar.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 260,
+      "title": "Vozes entre salgueiros",
+      "time": "Dia 62 · início da tarde",
+      "place": "trilha-sino-norte",
+      "layout": "vertical",
+      "cast": [
+        "sere",
+        "talin"
+      ],
+      "scene": "Along same northern trail, Sere LEFT listens as two tiny willow fae glimmer among leaves, pointing away from unstable bank without speech. Talin RIGHT recognizes their warning but not as consent or testimony about culprit. West safe path, east sandstone cliff, dried channel visible below. Keep creatures small and nonhuman, no invented humanoid faces.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Elas evitam a margem rachada. Vamos recuar um passo.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 22,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "É aviso de perigo. Não nos dizem quem o causou.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 261,
+      "title": "O sino sem corda",
+      "time": "Dia 62 · tarde",
+      "place": "sino-velho",
+      "layout": "splash",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "At end of permitted northern trail is OLD BELL SITE: a single weathered bronze warning bell under stone arch above gorge, its rope SEVERED and hanging in two loose ends, old iron wheel nearby, no functioning signal. Adra LEFT inspects from marked threshold and Ilyan RIGHT stays behind safety line with sheathed blunt practice sword. This is endpoint of permission; no cave entry. Dramatic one large scene with tiny rope detail inset.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Se a água subir, este sino não avisa ninguém.",
+          "balloon": {
+            "x": 3,
+            "y": 8,
+            "w": 30,
+            "target_x": 22,
+            "target_y": 21
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A corda foi cortada. O bronze ainda pode soar.",
+          "balloon": {
+            "x": 67,
+            "y": 8,
+            "w": 30,
+            "target_x": 81,
+            "target_y": 21
+          }
+        }
+      ]
+    },
+    {
+      "number": 262,
+      "title": "A borda cede",
+      "time": "Dia 62 · instantes depois",
+      "place": "sino-velho",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "Immediate continuation at same old bell site. Rain-softened BANK beneath arch starts crumbling toward gorge; Ilyan LEFT braces the wooden railing with blunt sword sheathed and pulls Sere RIGHT back by forearm, both anatomically natural and safe. Small rocks fall, not entire arch. One cut bell rope still visible. No new attacker. Two unequal action panels with clear motion.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Para trás! A borda abriu sob seus pés!",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 36,
+            "target_y": 18,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Estou firme. Chame os outros para a trilha!",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 86,
+            "target_y": 18,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 263,
+      "title": "Do fundo do canal",
+      "time": "Dia 62 · instantes depois",
+      "place": "sino-velho",
+      "layout": "asymmetric",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "From exposed wet gorge beneath old bell arch rises ONE wild reed-serpent: long dark teal eel-like body, crown of river reeds, two amber eyes, no arms or legs, length like small boat. It is disoriented by changed water flow, not evil. Talin LEFT uses ash staff to keep group on SAFE marked path; Adra RIGHT holds ferry hook defensively without stabbing. Only one serpent. Upper dramatic panel, small water and reaction details.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Uma serpe de junco! A corrente a lançou na margem.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 14,
+            "target_y": 18,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Afastem-se da água. Não a encurralem.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 86,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 264,
+      "title": "Arco e guarda",
+      "time": "Dia 62 · mesmo instante",
+      "place": "sino-velho",
+      "layout": "vertical",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Defensive action at same old bell site: ONE reed-serpent surges from water toward narrow path; Sere LEFT fires a blunt rope-tethered arrow into EMPTY wooden beam ABOVE serpent to make a moving barrier, not into creature. Ilyan RIGHT raises blunt practice sword crosswise to hold loose railing, not slash serpent. Characters physically plausible, eyes/expressions visible, no doubled limbs. Three varied sequential panels.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Prendo a corda na viga. Abram espaço!",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 22,
+            "target_y": 17,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A passagem está livre. Talin, leve os outros!",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 78,
+            "target_y": 18,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 265,
+      "title": "A escolha de Runa",
+      "time": "Dia 62 · mesmo instante",
+      "place": "sino-velho",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "adra"
+      ],
+      "scene": "Same gorge near old bell. Runa LEFT carefully redirects existing trickle down a shallow stone groove to a wet escape path toward river, obeying magic rules no created water. Adra RIGHT holds ferry hook at safe distance to keep ONE serpent from dry rocks, never wounds it. Reed-serpent follows water away from group. Distinct full-page flow composition with narrow inset of Runa's tattooed left arm and water; faces unobscured.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ela procura água, não luta. Vou abrir um fio para o rio.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Eu seguro a distância. Você guia a corrente.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 79,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 266,
+      "title": "Cinco de volta",
+      "time": "Dia 62 · fim da tarde",
+      "place": "trilha-sino-norte",
+      "layout": "duo",
+      "cast": [
+        "talin",
+        "sere"
+      ],
+      "scene": "After serpent safely returns to running river, team retreats ON FOOT along SAME white-stone marked northern path. Talin LEFT counts five travelers, Sere RIGHT checks a scraped forearm from the railing; no severe wound. Bell arch distant behind them, serpent visible only as single tiny silhouette in river far below, no duplicate person. They did not enter closed underground channel.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Ilyan, Runa, Adra, Sere... cinco. Seguimos juntos.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 19,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Só um arranhão. O sino ficou mudo lá atrás.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 79,
+            "target_y": 19
+          }
+        }
+      ]
+    },
+    {
+      "number": 267,
+      "title": "O que o cobre diz",
+      "time": "Dia 62 · crepúsculo",
+      "place": "casa-memoria-ambar",
+      "layout": "detail",
+      "cast": [
+        "runa",
+        "talin"
+      ],
+      "scene": "Back in SAME village memory room after walking south, Runa LEFT sketches the fresh copper fastener and severed rope from observation ONLY; original fastener stays at bell site untouched. Talin RIGHT compares village maintenance ledger from PUBLIC shelf, finding bell last repaired years ago, no recent work logged. Do not open private records, no accusation against Daro or Maelor. Cedar table, two west windows, north woven shelves.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não trouxemos o cobre. Só este desenho e a medida.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 31,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Não há reparo recente no livro público. Ainda não sabemos de quem é.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 74,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 268,
+      "title": "O som que não devia voltar",
+      "time": "Dia 62 · noite",
+      "place": "escada-ambar-vila",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Night on amber village's upper cobbled lookout. Ilyan LEFT and Runa RIGHT look north toward distant old bell arch beyond dark gorge; a single muted bronze bell tone reaches them although observed rope was severed. No claim of supernatural cause: wind, hidden mechanism or human action possible. Torches below village, moonlit terraced spring, wide open night sky. Suspenseful chapter ending, arc THREE remains OPEN. Only one of each character, no surprise Nima or Mira.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A corda estava partida. Você ouviu?",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 30,
+            "target_x": 30,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ouvi. Amanhã vamos contar ao conselho exatamente isso.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 30,
+            "target_x": 75,
+            "target_y": 18
+          }
+        }
+      ]
+    }
+  ]
+}
