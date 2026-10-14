@@ -21,10 +21,10 @@
   margin: .25rem auto 1rem;
   mix-blend-mode: multiply;
 }
-.novel-reader .book-sheet-inner { min-height: 635px; font-size: .95rem; line-height: 1.45; }
+.novel-reader .book-sheet-inner { min-height: 550px; font-size: 1.04rem; line-height: 1.5; }
 .novel-reader .book-sheet-inner p { margin-bottom: .66rem; }
-.novel-reader .book-sheet { min-height: 635px; }
-.novel-reader .book-spread { min-height: 635px; }
+.novel-reader .book-sheet { min-height: 550px; }
+.novel-reader .book-spread { min-height: 550px; }
 .novel-reader .book-sheet h1 { margin-bottom: .8rem; }
 .novel-reader .book-chapter-number { margin-bottom: .75rem; }
 .novel-reader .book-endmark { font-size: .58rem; letter-spacing: .13em; }

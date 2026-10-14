@@ -1,4 +1,5 @@
 import re
+from hashlib import sha256
 from pathlib import Path
 
 from django.urls import reverse
@@ -72,6 +73,13 @@ def test_medieval_art_is_published_for_every_page():
     for page in PAGES:
         assert (static_dir / page_art(page["number"])).is_file()
     assert (static_dir / ARCS[2]["art"]).is_file()
+
+
+def test_page_32_keeps_corrected_nima_art(client):
+    art = Path(__file__).resolve().parents[1] / "static" / page_art(32)
+    assert sha256(art.read_bytes()).hexdigest() == "c0f1b0118cbfb79b2ecd1e27732ab42a7ecb767f235f9a0d49c6a2fbcf2f8f44"
+    html = client.get(reverse("reader:medieval_read", args=(32,))).content.decode()
+    assert "page-32.webp?v=anatomy-2" in html
 
 
 def test_medieval_catalog_shows_series_and_reader_navigation(client):

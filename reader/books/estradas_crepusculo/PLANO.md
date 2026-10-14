@@ -2,7 +2,7 @@
 
 ## Contrato editorial
 
-Romance de fantasia medieval ilustrado, planejado para **956 páginas de leitura real** em 48 capítulos. Os capítulos 1–47 ocupam vinte páginas cada; o capítulo 48 ocupa dezesseis. A contagem é meta de manuscrito, nunca autorização para repetir texto ou adicionar páginas vazias. O leitor do site só deve anunciar a contagem efetivamente redigida e revisada. A HQ, agora publicada até a página 171, adapta o arco 2 concluído no capítulo 20; daqui em diante, o livro se torna a fonte de verdade para novos arcos da HQ.
+Romance de fantasia medieval ilustrado, planejado para **956 páginas de leitura real** em 48 capítulos. Os capítulos 1–47 ocupam vinte páginas cada; o capítulo 48 ocupa dezesseis. A contagem é meta de manuscrito, nunca autorização para repetir texto ou adicionar páginas vazias. O leitor do site só deve anunciar a contagem efetivamente redigida e revisada. A HQ publicada atravessa o arco 3 até a página 311; os capítulos 21–24 aprofundam a jornada já mostrada e concluem o ato da margem segundo o plano de continuidade das páginas 312–355. O livro preserva os acontecimentos anteriores, inclusive licenças, tempos de viagem e pessoas presentes.
 
 O romance inicia-se em Pedra-Mansa no dia 1 e preserva os acontecimentos, deslocamentos, custos, permissões e relações da HQ até a chegada ao Vale do Junco no dia 18. O **arco 2, A Casa das Quatro Luas, termina no capítulo 20**: a escola abre seu arquivo, aplica consequências às infrações, reconhece o trabalho de Runa e admite Ilyan para o restante do período. A responsabilidade pelo canal e o paradeiro de Mira permanecem questões do arco seguinte. Uma adaptação em prosa pode ampliar a interioridade e os intervalos dessas cenas, mas não antecipa revelações nem muda quem estava presente. O arquivo `reader/medieval/canon.json` e as fichas visuais nele referidas fixam a aparência dos personagens existentes.
 
@@ -66,14 +66,14 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 17. **Três versões de uma ponte** — Sere e Caio confrontam registros militares e civis; a reputação do irmão de Caio ganha nuance. Ilyan pede desculpas por ter usado rivalidade como atalho.
 18. **A prova que faltava** — Líria sabota uma amostra de Runa e é descoberta por método, não flagrante milagroso. Ela responde a uma comissão; Maelor usa a crise para desviar atenção do índice.
 
-### Parte IV — A margem sem nome (capítulos 19–24, páginas 361–480)
+### Parte IV — A margem sem nome (capítulos 19–24, páginas 361–480; ato 3 nos capítulos 21–24)
 
 19. **O nome no pino** — Eda autentica o contrato de manutenção de Junco sem declarar culpado; a chuva revela uma falha de drenagem da própria escola. Professores e alunos salvam o acervo com medição, ferramentas, baldes e magia limitada.
 20. **A casa que se abre** — A comissão sanciona Líria e concede a Runa uma vaga de ensaio; a escola contesta a tentativa de fechar o índice. Adra nomeia margens apagadas do mapa e Ilyan obtém a vaga regular. **Aqui termina o arco 2**, sem solucionar Mira ou os canais.
-21. **Fadas de águas rasas** — Início do arco 3. O aviso da várzea exige emissários aceitos por Ysra e medição pública antes de passagem; nenhuma fada oferece acesso gratuito.
-22. **Pedra-Mansa outra vez** — Uma viagem autorizada permite reencontro com Bram e Nima, com deslocamento e custos mostrados. A ausência de Mira continua afetando a família.
-23. **Cartas que não chegam juntas** — Uma carta de Ilyan responde à antiga enquanto outra de Nima já partiu; a defasagem causa mal-entendido plausível, não telepatia.
-24. **A barragem de inverno** — Equipe, barqueiros e moradores salvam famílias antes de perseguir responsabilidade. A infraestrutura vendida como segura sob a administração de Maelor passa por auditoria verificável.
+21. **A margem sem nome** — Dias 50–56. Adra mostra a comunidade omitida do mapa. A equipe obtém convite e licença, atravessa de balsa, socorre o cervo de casca, preserva duas armadilhas distintas e só entra no corredor do bosque com consentimento. Na Escada de Âmbar, a marca antiga de Mira e a recente permanecem separadas.
+22. **O sino sem corda** — Dias 56–62. A espera pela nova licença permite conhecer a vida da aldeia. Os cinco vão até o limite do sino; borda e serpe de junco exigem retirada segura. O toque noturno é observado, ainda sem explicação.
+23. **Três margens, uma corrente** — Dias 63–69. Alarme e casas baixas geram vigília. O livro público explica o flutuador; Varek apresenta a obra sem solucionar culpa. Vessa em Folealto e Braka em Pedra-Verde medem a mesma corrente, cada povo preservando sua autoridade.
+24. **Quando o bronze responde** — Dias 70–72. Com licenças e consentimento das três comunidades, a equipe alivia a pressão da tomada durante a tempestade e evacua moradores. A obra negligente e a tentativa de Varek de retirar documento são registradas; a corda cortada e o destino de Mira continuam perguntas abertas. **Encerra-se o ato 3 do livro.**
 
 ### Parte V — A idade das escolhas (capítulos 25–30, páginas 481–600)
 
@@ -113,7 +113,7 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 
 ## Direção das gravuras em Canvas
 
-Preto de nanquim, cinzas de hachura e papel marfim. **Exatamente uma gravura principal por capítulo publicado**, centralizada, completa e sem corte. As vinte gravuras dos capítulos 1–20 abrem suas respectivas partes de leitura. O livro é centrado na leitura e não terá recortes, ampliações de detalhe nem imagens adicionais por cena. Rostos recorrentes derivam das fichas de `canon.json`; traços fixos nunca variam por semente aleatória. Mira permanece sem retrato até a ficha visual existir. As artes acompanham a prosa e jamais substituem páginas de texto.
+Preto de nanquim, cinzas de hachura e papel marfim. **Exatamente uma gravura principal por capítulo publicado**, centralizada, completa e sem corte. As vinte gravuras dos capítulos 1–20 abrem suas respectivas partes de leitura; os capítulos 21–24 recebem gravuras vetoriais originais desenhadas no Canvas do leitor, mostrando lugares e mecanismos sem inventar rostos. O livro é centrado na leitura e não terá recortes, ampliações de detalhe nem imagens adicionais por cena. Rostos recorrentes derivam das fichas de `canon.json`; traços fixos nunca variam por semente aleatória. Mira permanece sem retrato até a ficha visual existir. As artes acompanham a prosa e jamais substituem páginas de texto.
 
 ## Referências de pesquisa (não fontes de trama)
 

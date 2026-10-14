@@ -57,7 +57,7 @@ if (root) {
     if (page.illustration) {
       const art = document.createElement('canvas');
       art.className = 'novel-illustration';
-      art.width = 600; art.height = 190;
+      art.width = 600; art.height = 200;
       art.dataset.novelArt = 'scene'; art.dataset.scene = page.illustration;
       art.setAttribute('role', 'img');
       art.setAttribute('aria-label', `Gravura em preto e branco: cena do capítulo ${page.chapter_number}`);
@@ -69,7 +69,7 @@ if (root) {
     });
     if (page.number === total) {
       const end = document.createElement('p'); end.className = 'book-endmark';
-      end.textContent = complete ? 'FIM' : 'FIM DA PARTE DISPONÍVEL · CONTINUA';
+      end.textContent = complete ? 'FIM' : 'FIM DO ATO 3 · O ROMANCE CONTINUA';
       container.append(end);
     }
     const number = document.createElement('span');
@@ -110,7 +110,7 @@ if (root) {
     turning = false;
   }
 
-  fetch(`${siteBase}/static/reader/book/estradas-crepusculo/pages.json`)
+  fetch(`${siteBase}/static/reader/book/estradas-crepusculo/pages.json?v=${total}`)
     .then((response) => { if (!response.ok) throw Error('pages'); return response.json(); })
     .then((data) => {
       if (!Array.isArray(data) || data.length !== total) throw Error('pages');

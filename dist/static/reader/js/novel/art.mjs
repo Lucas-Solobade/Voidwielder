@@ -1,4 +1,5 @@
 // One complete monochrome plate opens each illustrated chapter.
+import { drawActThreePlate } from './plates.mjs';
 const ink = '#181716';
 const paper = '#f5f1e8';
 const plates = new Map();
@@ -38,6 +39,10 @@ export function drawScene(canvas) {
   const chapter = Number(id.split('-')[0]);
   ctx.fillStyle = paper;
   ctx.fillRect(0, 0, width, height);
+  if (chapter >= 21 && chapter <= 24) {
+    drawActThreePlate(ctx, chapter);
+    return;
+  }
   plate(`chapter-${String(chapter).padStart(2, '0')}.webp`).then((image) => {
     ctx.fillStyle = paper;
     ctx.fillRect(0, 0, width, height);
