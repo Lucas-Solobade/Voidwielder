@@ -4,7 +4,7 @@
     "title": "A Margem Sem Nome",
     "slug": "a-margem-sem-nome",
     "description": "Uma margem habitada continua vazia nos mapas oficiais. Antes de seguir a última linha de Mira, Ilyan, Runa e seus aliados terão de ouvir quem vive junto ao rio e conquistar o direito de entrar.",
-    "status": "Em andamento",
+    "status": "Concluído",
     "start": 172,
     "chapters": [
       {
@@ -76,6 +76,26 @@
         "title": "A ponte de Pedra-Verde",
         "start": 305,
         "end": 311
+      },
+      {
+        "title": "A chuva antes da licença",
+        "start": 312,
+        "end": 326
+      },
+      {
+        "title": "Quando o bronze responde",
+        "start": 327,
+        "end": 338
+      },
+      {
+        "title": "Um dente de recuo",
+        "start": 339,
+        "end": 345
+      },
+      {
+        "title": "As casas têm endereço",
+        "start": 346,
+        "end": 355
       }
     ]
   },

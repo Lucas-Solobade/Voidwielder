@@ -1,0 +1,1467 @@
+{
+  "pages": [
+    {
+      "number": 312,
+      "title": "A água chegou cedo",
+      "time": "Dia 70 · alvorada",
+      "place": "folealto",
+      "layout": "two-panels",
+      "cast": [
+        "vessa"
+      ],
+      "scene": "At Folealto north eight-paddle wheel, Vessa compares the rising gauge to yesterday's mark and sends a measured reading south by an anonymous courier seen from behind. Rain clouds gather. Top wide village view; lower measured close-up. No other named person.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "Subiu dois dias antes do cálculo. Leve a medida à Escada.",
+          "balloon": {
+            "x": 3,
+            "y": 42,
+            "w": 28,
+            "target_x": 40,
+            "target_y": 53
+          }
+        }
+      ]
+    },
+    {
+      "number": 313,
+      "title": "Estacas na margem leste",
+      "time": "Dia 70 · manhã",
+      "place": "comporta-pedraverde",
+      "layout": "asymmetric",
+      "cast": [
+        "braka"
+      ],
+      "scene": "Braka at Pedra-Verde east sluice sees water reach the foot of its timber stakes. West bridge behind. A mounted unnamed courier departs at dawn with her reading toward the amber village; she does not open the gate. Wide river panel, tall figure panel and narrow gauge detail.",
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "A comporta resiste. A margem leste, não por muito tempo.",
+          "balloon": {
+            "x": 2,
+            "y": 38,
+            "w": 28,
+            "target_x": 32,
+            "target_y": 50
+          }
+        }
+      ]
+    },
+    {
+      "number": 314,
+      "title": "Duas medidas",
+      "time": "Dia 70 · meio da manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "talin"
+      ],
+      "scene": "At the amber public memory room, Talin receives two separately sealed measurements from Folealto and Pedra-Verde, compares them at the cedar table, then lifts the small meeting bell. Two west windows, north shelves, south spiral door.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Chamem o conselho. A nascente e a margem leste subiram juntas.",
+          "balloon": {
+            "x": 69,
+            "y": 7,
+            "w": 27,
+            "target_x": 45,
+            "target_y": 21
+          }
+        }
+      ]
+    },
+    {
+      "number": 315,
+      "title": "Licença com limites",
+      "time": "Dia 70 · fim da manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "diagonal",
+      "cast": [
+        "eda",
+        "talin"
+      ],
+      "scene": "Eda arrives on foot, rain-wet blue-teal cloak, and presents the municipal permit to Talin at the same cedar table. The document authorizes inspection and gradual pressure relief only with three-community readings and assent. No instant jump.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Posso autorizar a vistoria. Não posso entregar a margem de ninguém.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 28,
+            "target_x": 22,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Então leremos as condições diante de todos.",
+          "balloon": {
+            "x": 68,
+            "y": 6,
+            "w": 29,
+            "target_x": 76,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 316,
+      "title": "Seis assinaturas",
+      "time": "Dia 70 · meio-dia",
+      "place": "casa-memoria-ambar",
+      "layout": "detail",
+      "cast": [
+        "talin",
+        "braka"
+      ],
+      "scene": "In the public memory room, Talin reads the permit aloud and Braka marks the condition for an orc observer at each sluice adjustment; six signatures are gathered in distinct hands without unreadable invented text. No intervention yet.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Nenhuma abertura sem leitura das três margens.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 28,
+            "target_x": 24,
+            "target_y": 29
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "E uma pessoa de Pedra-Verde ficará na comporta.",
+          "balloon": {
+            "x": 68,
+            "y": 8,
+            "w": 29,
+            "target_x": 77,
+            "target_y": 31
+          }
+        }
+      ]
+    },
+    {
+      "number": 317,
+      "title": "O testemunho da nascente",
+      "time": "Dia 70 · início da tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "vertical",
+      "cast": [
+        "vessa"
+      ],
+      "scene": "Vessa has followed the dawn courier south along the ordinary road from Folealto and reaches amber council after a half-day walk. At cedar table she draws before-and-after columns for the village witness who will remain at the north eight-paddle wheel. The witness is only mentioned, not shown; no teleport.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "Anotem o fluxo antes e depois. Sem número, não há acordo.",
+          "balloon": {
+            "x": 4,
+            "y": 7,
+            "w": 29,
+            "target_x": 43,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 318,
+      "title": "Lanternas na rua baixa",
+      "time": "Dia 70 · tarde",
+      "place": "escada-ambar-vila",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Adra and Ilyan walk the lower street of the amber village, marking lantern route from doorways to higher stone steps. Adra carries ferry signal cloth; Ilyan carries a household list. Distinct adult residents small in background, no Nima.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A balsa espera no cais; as lanternas levam às escadas.",
+          "balloon": {
+            "x": 68,
+            "y": 5,
+            "w": 29,
+            "target_x": 82,
+            "target_y": 33
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou conferir cada casa antes do anoitecer.",
+          "balloon": {
+            "x": 3,
+            "y": 35,
+            "w": 29,
+            "target_x": 22,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 319,
+      "title": "A panela no fogo",
+      "time": "Dia 70 · tarde",
+      "place": "escada-ambar-vila",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan"
+      ],
+      "scene": "Ilyan knocks at a low house. It is empty except for a pot over a banked hearth. A neighbor, seen only as an anonymous silhouette, points toward the high garden where the family works. Ilyan marks 'location confirmed' on his own list; no false missing-person alarm.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Na horta alta. Não vou mandar ninguém procurá-los aqui.",
+          "balloon": {
+            "x": 4,
+            "y": 41,
+            "w": 30,
+            "target_x": 27,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 320,
+      "title": "A cadeira firme",
+      "time": "Dia 70 · tarde",
+      "place": "escada-ambar-vila",
+      "layout": "asymmetric",
+      "cast": [
+        "talin",
+        "ilyan"
+      ],
+      "scene": "Talin checks the higher staircase; Ilyan and two unnamed adult villagers test a solid wooden carrying chair for the elderly woman of the low street, not moving her yet. Clear handholds and direction uphill. Village faces do not replace main characters.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Testem a escada com a cadeira vazia primeiro.",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 28,
+            "target_x": 26,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Depois saberei onde meus braços precisam ficar.",
+          "balloon": {
+            "x": 3,
+            "y": 38,
+            "w": 29,
+            "target_x": 22,
+            "target_y": 53
+          }
+        }
+      ]
+    },
+    {
+      "number": 321,
+      "title": "A junta sob o leito",
+      "time": "Dia 70 · tarde",
+      "place": "trilha-sino-norte",
+      "layout": "diagonal",
+      "cast": [
+        "runa",
+        "vessa"
+      ],
+      "scene": "At the sealed lateral intake north of amber village, Runa and Vessa inspect copper joint and water seep from outside the permitted boundary. Vessa compares real slope with Varek's drawing. The part is still installed and tagged; neither opens it.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A água força esta junta, não a linha do desenho.",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 29,
+            "target_x": 24,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "O reparo ergueu a tomada lateral. Registre o desvio.",
+          "balloon": {
+            "x": 68,
+            "y": 29,
+            "w": 29,
+            "target_x": 76,
+            "target_y": 52
+          }
+        }
+      ]
+    },
+    {
+      "number": 322,
+      "title": "Efeito, não motivo",
+      "time": "Dia 70 · tarde",
+      "place": "trilha-sino-norte",
+      "layout": "detail",
+      "cast": [
+        "runa",
+        "vessa"
+      ],
+      "scene": "Close technical comic of the same copper joint, Vessa's ruler and Runa's faithful sketch, with a narrow upper panel of their faces. Three recorded community levels match timing of the road work, but intention remains unknown.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "Isto mostra o efeito da obra.",
+          "balloon": {
+            "x": 3,
+            "y": 18,
+            "w": 28,
+            "target_x": 31,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Para provar a decisão, faltam ordens e testemunhas.",
+          "balloon": {
+            "x": 68,
+            "y": 25,
+            "w": 29,
+            "target_x": 65,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 323,
+      "title": "O livro incompleto",
+      "time": "Dia 70 · fim da tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "vertical",
+      "cast": [
+        "varek",
+        "eda"
+      ],
+      "scene": "Back at the amber cedar table, Varek in ochre contractor coat sets down execution book for Eda. Visible purchase pages and a dated earlier gauge, but the later reading slot is empty. Two west windows and north shelves remain consistent.",
+      "lines": [
+        {
+          "speaker": "Varek",
+          "text": "Fui eu que construí. Não deixem estranhos girar a roda.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 29,
+            "target_x": 34,
+            "target_y": 20
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "A leitura posterior não está neste livro.",
+          "balloon": {
+            "x": 68,
+            "y": 8,
+            "w": 29,
+            "target_x": 78,
+            "target_y": 32
+          }
+        }
+      ]
+    },
+    {
+      "number": 324,
+      "title": "Ressalva escrita",
+      "time": "Dia 70 · fim da tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "two-panels",
+      "cast": [
+        "eda",
+        "braka"
+      ],
+      "scene": "Eda notes the missing reading without inventing its value; Braka stands at same council table, reminding that builder authority does not erase local consent. Varek is off-panel, not duplicated. Eda opens a separate space for his written objection.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A ressalva dele ficará junto das folhas que faltam.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 29,
+            "target_x": 15,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Construir não dispensa perguntar a quem mora abaixo.",
+          "balloon": {
+            "x": 68,
+            "y": 6,
+            "w": 29,
+            "target_x": 86,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 325,
+      "title": "Um quarto de volta",
+      "time": "Dia 70 · crepúsculo",
+      "place": "trilha-sino-norte",
+      "layout": "wide",
+      "cast": [
+        "vessa",
+        "braka"
+      ],
+      "scene": "Split location panels: Vessa places temporary markers beside old intake north of amber village; Braka stays at her own EAST Pedra-Verde sluice with an agreed red signal cloth. They agree on very short test intervals and immediate stop if Pedra-Verde rises. They are not standing together and no water is released yet.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "Um quarto de volta por vez. Recuamos se a sua marca subir.",
+          "balloon": {
+            "x": 3,
+            "y": 0,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Meu sinal virá da comporta, não da sua mesa.",
+          "balloon": {
+            "x": 68,
+            "y": 0,
+            "w": 29,
+            "target_x": 78,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 326,
+      "title": "Permissão para testar",
+      "time": "Dia 70 · crepúsculo",
+      "place": "casa-memoria-ambar",
+      "layout": "splash",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "Six signed approvals at cedar table are read aloud. Talin checks municipal and three-community conditions; Adra folds the agreed evacuation route beside the test authorization. No victory pose, merely permission for limited operation.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Só o teste curto está autorizado.",
+          "balloon": {
+            "x": 3,
+            "y": 0,
+            "w": 28,
+            "target_x": 24,
+            "target_y": 29
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A rota de saída fica pronta mesmo que não a usemos.",
+          "balloon": {
+            "x": 68,
+            "y": 0,
+            "w": 29,
+            "target_x": 77,
+            "target_y": 31
+          }
+        }
+      ]
+    },
+    {
+      "number": 327,
+      "title": "O que uma mão alcança",
+      "time": "Dia 70 · noite",
+      "place": "casa-memoria-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "On covered porch outside amber memory room at night, Runa and Ilyan study a wet scale by two lanterns. Her ink-stained tattooed left arm and his blunt copper-guard sword remain visible. She admits magic can guide present water briefly but cannot hold a hillside. Quiet closeness without a kiss.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Tem medo de a magia falhar amanhã?",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 28,
+            "target_x": 25,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Tenho mais medo de chamarem magia de desculpa para medir mal.",
+          "balloon": {
+            "x": 68,
+            "y": 6,
+            "w": 29,
+            "target_x": 77,
+            "target_y": 31
+          }
+        }
+      ]
+    },
+    {
+      "number": 328,
+      "title": "Quatro horas",
+      "time": "Dia 70 · noite",
+      "place": "escada-ambar-vila",
+      "layout": "vertical",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Runa touches the scabbard of Ilyan's blunt training sword, then leads him toward guest stair while night watch changes in background. They each retain seventeen-year-old faces and established clothes. He accepts rest before duty; mutual regard, no kiss.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A lâmina pode segurar uma haste, não vencer a enchente.",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 29,
+            "target_x": 34,
+            "target_y": 25
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Você vai dormir quatro horas. Não três.",
+          "balloon": {
+            "x": 68,
+            "y": 7,
+            "w": 29,
+            "target_x": 62,
+            "target_y": 22
+          }
+        }
+      ]
+    },
+    {
+      "number": 329,
+      "title": "Três números sob chuva",
+      "time": "Dia 71 · alvorada",
+      "place": "casa-memoria-ambar",
+      "layout": "diagonal",
+      "cast": [
+        "vessa",
+        "eda"
+      ],
+      "scene": "Heavy rain on amber village. Vessa compares the first soaked readings from Folealto and Pedra-Verde with the temporary amber gauge, each marked by place and time. Eda records the difference in travel lag. Messengers are hooded silhouettes, no invented faces.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "As três marcas sobem. Cada trecho responde em seu tempo.",
+          "balloon": {
+            "x": 68,
+            "y": 5,
+            "w": 30,
+            "target_x": 68,
+            "target_y": 23
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Vou registrar as horas antes de autorizarmos o giro.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 29,
+            "target_x": 34,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 330,
+      "title": "Panos na balsa",
+      "time": "Dia 71 · manhã",
+      "place": "escada-ambar-vila",
+      "layout": "wide",
+      "cast": [
+        "adra"
+      ],
+      "scene": "Adra stands on amber village riverside dock and uses two colored cloth signals to confirm ferry and uphill evacuation path. Ferry has one operator and remains tethered. Rain visible; low houses behind, no unsafe crossing yet.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Balsa presa. Quando o sino tocar, sigam as lanternas.",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 30,
+            "target_x": 38,
+            "target_y": 30,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 331,
+      "title": "Linha entre os postes",
+      "time": "Dia 71 · manhã",
+      "place": "trilha-sino-norte",
+      "layout": "diagonal",
+      "cast": [
+        "sere"
+      ],
+      "scene": "Sere, dark-skinned young elf with one long silver-white braid and forest cloak, fires one rope-tipped arrow into a dead post to establish a guide line across rain-lashed intake path. Bow recurved ash, no attack on creature. Clear action sequence with arrow path and secured cord.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "A corda marca o caminho de volta!",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 28,
+            "target_x": 33,
+            "target_y": 32,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 332,
+      "title": "Água já presente",
+      "time": "Dia 71 · manhã",
+      "place": "trilha-sino-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "runa"
+      ],
+      "scene": "Runa near intake guides only existing surface water in shallow ditch away from the workers' feet. Her long straight black hair with blunt bangs, silver septum, floral left-arm tattoo and dark plum medieval outfit remain exact. Her left arm trembles from effort, no spectacular new spell.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Só a vala rasa. Não controlo o rio inteiro.",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 29,
+            "target_x": 40,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 333,
+      "title": "Primeira fração",
+      "time": "Dia 71 · manhã",
+      "place": "trilha-sino-norte",
+      "layout": "detail",
+      "cast": [
+        "vessa",
+        "talin"
+      ],
+      "scene": "Under rain at old intake, Vessa turns authorized wheel by one small fraction; Talin watches measured amber mark, ash staff bracing his footing. Show mechanism and same copper joint, not a new machine. Operation is reversible and slow.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "Primeiro intervalo. Anote a marca.",
+          "balloon": {
+            "x": 48,
+            "y": 24,
+            "w": 29,
+            "target_x": 43,
+            "target_y": 20
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "O sino ainda não respondeu.",
+          "balloon": {
+            "x": 3,
+            "y": 51,
+            "w": 28,
+            "target_x": 20,
+            "target_y": 48
+          }
+        }
+      ]
+    },
+    {
+      "number": 334,
+      "title": "O sinal de Braka",
+      "time": "Dia 71 · manhã",
+      "place": "comporta-pedraverde",
+      "layout": "vertical",
+      "cast": [
+        "braka"
+      ],
+      "scene": "At Pedra-Verde EAST sluice, Braka sees her gauge rise faster than permitted and raises the agreed red signal cloth toward distant intake observers. She does not abandon station. Three-braid dark-olive orc captain, chipped tusk, red cloak, rain over armor. Narrow detail of threatening marker.",
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Fechem um quarto. A minha margem subiu!",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 30,
+            "target_x": 23,
+            "target_y": 19,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 335,
+      "title": "O bronze responde",
+      "time": "Dia 71 · instantes depois",
+      "place": "sino-velho",
+      "layout": "splash",
+      "cast": [
+        "talin"
+      ],
+      "scene": "A pressure pulse drives an old metal arm against stone and lifts the automatic bell clapper. The old bell rings through rain over amber village for the first time witnessed by Talin. Giant bell action splash with small inset Talin looking uphill; no person touches cut manual rope.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "É o alarme antigo! As casas baixas, agora!",
+          "balloon": {
+            "x": 65,
+            "y": 51,
+            "w": 31,
+            "target_x": 82,
+            "target_y": 49,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 336,
+      "title": "Subida pela luz",
+      "time": "Dia 71 · manhã",
+      "place": "escada-ambar-vila",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "adra"
+      ],
+      "scene": "Lantern route up amber village stone stairs in rain. Two unnamed adult bearers carry previously tested chair with elderly villager and her blanket; Ilyan clears front stair, Adra directs ferry families behind. Faces distinct, no sudden child Nima, no empty house mistaken for missing family.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Devagar no degrau molhado. Temos tempo para todos.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 18,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A última casa foi conferida. Continuem subindo.",
+          "balloon": {
+            "x": 68,
+            "y": 27,
+            "w": 29,
+            "target_x": 78,
+            "target_y": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 337,
+      "title": "O lacre solto",
+      "time": "Dia 71 · meio-dia",
+      "place": "trilha-sino-norte",
+      "layout": "two-panels",
+      "cast": [
+        "varek",
+        "eda"
+      ],
+      "scene": "At rain-soaked intake door, Eda finds seal loosened, Varek with his leather folder and an unnamed contractor worker. The external authorized key cabinet is visible separate from inner archive compartment. Eda observes before accusing; she does not turn him into a confessed mastermind.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Hora, porta e testemunhas. Ninguém toca mais no selo.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 29,
+            "target_x": 22,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Varek",
+          "text": "Entrei por uma folha. Quero explicar o que ela mostra.",
+          "balloon": {
+            "x": 52,
+            "y": 8,
+            "w": 29,
+            "target_x": 42,
+            "target_y": 21
+          }
+        }
+      ]
+    },
+    {
+      "number": 338,
+      "title": "A folha retida",
+      "time": "Dia 71 · meio-dia",
+      "place": "trilha-sino-norte",
+      "layout": "detail",
+      "cast": [
+        "eda",
+        "vessa"
+      ],
+      "scene": "Eda seals Varek's retrieved measurement sheet as evidence in rain shelter. Vessa points to external cabinet where inspection key actually was. Distinguish preserving proof from proving sabotage. Varek is off-panel and not duplicated. Bell still sounds distant.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "A chave estava no armário externo.",
+          "balloon": {
+            "x": 68,
+            "y": 17,
+            "w": 28,
+            "target_x": 82,
+            "target_y": 43
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "A folha fica comigo. Ele responderá por escrito.",
+          "balloon": {
+            "x": 35,
+            "y": 45,
+            "w": 29,
+            "target_x": 31,
+            "target_y": 42
+          }
+        }
+      ]
+    },
+    {
+      "number": 339,
+      "title": "A haste salta",
+      "time": "Dia 71 · instantes depois",
+      "place": "trilha-sino-norte",
+      "layout": "diagonal",
+      "cast": [
+        "vessa",
+        "ilyan"
+      ],
+      "scene": "Same old intake wheel jerks under pressure. An ancient iron arm swings across narrow exit toward short adult gnome Vessa; Ilyan, long-haired beardless adolescent with blunt short sword, notices and steps between. Dynamic action, clear spatial trajectory, no actual impact yet.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Vessa, abaixe-se!",
+          "balloon": {
+            "x": 68,
+            "y": 49,
+            "w": 28,
+            "target_x": 78,
+            "target_y": 38,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "A trava secundária fica atrás da haste!",
+          "balloon": {
+            "x": 68,
+            "y": 19,
+            "w": 29,
+            "target_x": 83,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 340,
+      "title": "Espada sem fio",
+      "time": "Dia 71 · instantes depois",
+      "place": "trilha-sino-norte",
+      "layout": "splash",
+      "cast": [
+        "ilyan"
+      ],
+      "scene": "Ilyan braces his ordinary blunt short training sword with simple copper guard against swinging iron rod ONE time to shield Vessa, not magically defeat mechanism. Rain, effort, wrist pain, blade develops a small burr. Dynamic full-page combat-like defense with one figure, anatomically sound, no glowing magic sword.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Segurei por um instante. Só isso!",
+          "balloon": {
+            "x": 65,
+            "y": 8,
+            "w": 30,
+            "target_x": 63,
+            "target_y": 33,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 341,
+      "title": "Corda e gancho",
+      "time": "Dia 71 · instantes depois",
+      "place": "trilha-sino-norte",
+      "layout": "two-panels",
+      "cast": [
+        "sere",
+        "adra"
+      ],
+      "scene": "Sequential action: Sere tensions the established rope through safety pulley; Adra hooks a ferry cable to the line dropped by an anonymous worker. Same old intake wheel, no teleported ferry. Their coordinated physical forces keep iron rod from whipping back; Ilyan is off-panel.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Prendi a roldana! Adra, o cabo!",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 29,
+            "target_x": 25,
+            "target_y": 31,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Gancho firme. Agora a trava!",
+          "balloon": {
+            "x": 38,
+            "y": 63,
+            "w": 29,
+            "target_x": 28,
+            "target_y": 52,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 342,
+      "title": "Um dente de recuo",
+      "time": "Dia 71 · instantes depois",
+      "place": "trilha-sino-norte",
+      "layout": "asymmetric",
+      "cast": [
+        "vessa",
+        "talin"
+      ],
+      "scene": "At intake, Vessa reaches secondary latch while Talin braces her boot on stone with ash staff. A background distant signal from Braka at her EAST sluice confirms quarter closure; Braka is not present in the intake panel. Old iron rod retreats ONE tooth, not a new mechanism.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Pedra-Verde confirmou o fechamento!",
+          "balloon": {
+            "x": 68,
+            "y": 7,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 35,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "Mais um dente. Mantenham o cabo tenso.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 29,
+            "target_x": 17,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 343,
+      "title": "Por baixo do desenho",
+      "time": "Dia 71 · início da tarde",
+      "place": "trilha-sino-norte",
+      "layout": "vertical",
+      "cast": [
+        "runa",
+        "vessa"
+      ],
+      "scene": "Runa feels new pressure surge from UNDER the mapped channel; she withdraws her hand from shallow water rather than forcing magic, visibly exhausted tattooed arm. Vessa takes new reading and understands source from below. Copper joint and field scale remain consistent.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Vessa! A pressão veio por baixo da junta!",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 29,
+            "target_x": 34,
+            "target_y": 16,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "Recuem. Abriremos o alívio menor na vala preparada.",
+          "balloon": {
+            "x": 68,
+            "y": 23,
+            "w": 29,
+            "target_x": 57,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 344,
+      "title": "A vala preparada",
+      "time": "Dia 71 · tarde",
+      "place": "trilha-sino-norte",
+      "layout": "diagonal",
+      "cast": [
+        "vessa",
+        "eda"
+      ],
+      "scene": "Vessa and Eda adjust previously approved smaller relief toward EMPTY prepared ditch while road intake closes in stages. Distant Pedra-Verde timber bridge remains intact; no water pushed into occupied homes. Eda records two community figures. Technically plausible action with same markers.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "Desvio menor. A ponte continua fora da corrente.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 29,
+            "target_x": 20,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Folealto e Pedra-Verde confirmaram a leitura.",
+          "balloon": {
+            "x": 40,
+            "y": 20,
+            "w": 29,
+            "target_x": 34,
+            "target_y": 12
+          }
+        }
+      ]
+    },
+    {
+      "number": 345,
+      "title": "O silêncio não basta",
+      "time": "Dia 71 · entardecer",
+      "place": "sino-velho",
+      "layout": "wide",
+      "cast": [
+        "talin",
+        "adra"
+      ],
+      "scene": "Rain thins. Old automatic bell rings twice more with measured pressure, then falls silent. Talin listens beneath bell, Adra checks empty low houses from hillside. No cheering or residents descending yet. Wide bell sky and two close details, distinct positions.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Duas batidas, duas marcas anotadas.",
+          "balloon": {
+            "x": 3,
+            "y": 55,
+            "w": 29,
+            "target_x": 36,
+            "target_y": 49
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Silêncio não significa que as casas estejam seguras.",
+          "balloon": {
+            "x": 37,
+            "y": 58,
+            "w": 29,
+            "target_x": 26,
+            "target_y": 78
+          }
+        }
+      ]
+    },
+    {
+      "number": 346,
+      "title": "Turnos de descanso",
+      "time": "Dia 71 · noite",
+      "place": "escada-ambar-vila",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Inside amber village covered shelter at night, Ilyan's sore WRIST is bandaged, blunt sword has a small burr and stays sheathed; Runa's tattooed LEFT forearm cramps after limited water magic. Both retain seventeen-year-old features. They rest by turns, no sudden healing or romance leap.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Meu braço vai descansar antes de outra medida.",
+          "balloon": {
+            "x": 68,
+            "y": 25,
+            "w": 29,
+            "target_x": 73,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A espada também precisa de ferreiro. E eu, de sono.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 29,
+            "target_x": 25,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 347,
+      "title": "Todos contados",
+      "time": "Dia 71 · noite",
+      "place": "escada-ambar-vila",
+      "layout": "asymmetric",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Adra counts people, animals and ferries at high shelter while Ilyan writes down elderly woman's question whether her house foundation survived. He promises an inspection at dawn, no false reassurance. Sere's single lost arrow marked on inventory. Residents remain upstairs.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Pessoas e animais, conferidos. Uma flecha se perdeu.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 29,
+            "target_x": 18,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A casa dela será vistoriada ao amanhecer.",
+          "balloon": {
+            "x": 68,
+            "y": 25,
+            "w": 29,
+            "target_x": 83,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 348,
+      "title": "Antes do retorno",
+      "time": "Dia 72 · manhã",
+      "place": "escada-ambar-vila",
+      "layout": "vertical",
+      "cast": [
+        "talin",
+        "vessa"
+      ],
+      "scene": "Clear morning after storm. Talin inspects low street bridge and foundations before any family descends; Vessa measures stabilized intake gauge. Show a simple inspection route from stone stair down to houses, no crowd returning prematurely. Brown mud and damage remain.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Primeiro pontes e alicerces. Depois chamamos as famílias.",
+          "balloon": {
+            "x": 3,
+            "y": 20,
+            "w": 30,
+            "target_x": 25,
+            "target_y": 12
+          }
+        },
+        {
+          "speaker": "Vessa",
+          "text": "A tomada mantém o ajuste combinado.",
+          "balloon": {
+            "x": 65,
+            "y": 19,
+            "w": 29,
+            "target_x": 43,
+            "target_y": 13
+          }
+        }
+      ]
+    },
+    {
+      "number": 349,
+      "title": "Nomes e reparos",
+      "time": "Dia 72 · meio-dia",
+      "place": "escada-ambar-vila",
+      "layout": "detail",
+      "cast": [
+        "adra",
+        "braka"
+      ],
+      "scene": "Families return after inspection to muddy low street; Adra opens public repair list with owners, costs and possible responsible parties; Braka names damaged stakes on her side separately. Show cleaned but not magically restored houses, no loss of lives and some lost provisions.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Cada casa terá nome, dano e responsável pela vistoria.",
+          "balloon": {
+            "x": 3,
+            "y": 18,
+            "w": 29,
+            "target_x": 17,
+            "target_y": 13
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "E Pedra-Verde entregará a conta de suas estacas.",
+          "balloon": {
+            "x": 35,
+            "y": 43,
+            "w": 29,
+            "target_x": 45,
+            "target_y": 37
+          }
+        }
+      ]
+    },
+    {
+      "number": 350,
+      "title": "Três registros",
+      "time": "Dia 72 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "two-panels",
+      "cast": [
+        "eda",
+        "varek"
+      ],
+      "scene": "At same cedar council table, Eda keeps three separate records: Varek's authorization for road work; measured effect of lateral intake; and his attempt to remove a sheet through broken seal. Varek, still pale with short ash-blond hair, sparse beard and ochre contractor coat, receives chance to answer; no invented confession about cut bell rope.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A obra, seu efeito e o lacre são fatos distintos.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 29,
+            "target_x": 18,
+            "target_y": 13
+          }
+        },
+        {
+          "speaker": "Varek",
+          "text": "Vou responder sobre cada folha. Não aceito outra culpa sem prova.",
+          "balloon": {
+            "x": 68,
+            "y": 25,
+            "w": 29,
+            "target_x": 78,
+            "target_y": 14
+          }
+        }
+      ]
+    },
+    {
+      "number": 351,
+      "title": "Oito dentes",
+      "time": "Dia 72 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "diagonal",
+      "cast": [
+        "vessa",
+        "talin"
+      ],
+      "scene": "Vessa diagrams old automatic alarm: EIGHT-toothed wheel raises bell clapper as float receives pressure. Cut manual rope remains separate unresolved investigation. Talin orders both automatic and manual connections repaired. Show mechanical detail and a council glance.",
+      "lines": [
+        {
+          "speaker": "Vessa",
+          "text": "O flutuador ergue o badalo. A corda cortada não causou o toque.",
+          "balloon": {
+            "x": 3,
+            "y": 25,
+            "w": 30,
+            "target_x": 19,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Consertem os dois caminhos. Quem cortou a corda ainda não sabemos.",
+          "balloon": {
+            "x": 38,
+            "y": 52,
+            "w": 29,
+            "target_x": 37,
+            "target_y": 42
+          }
+        }
+      ]
+    },
+    {
+      "number": 352,
+      "title": "A margem tem endereço",
+      "time": "Dia 72 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "splash",
+      "cast": [
+        "runa",
+        "adra"
+      ],
+      "scene": "Runa lays three public gauge readings in distinct ink colors across cedar table; Adra writes names of inhabited banks and their homes onto a public map. Braka's corrected place name already incorporated, she is off-panel. Respect amber room west windows and north shelves. Quiet victory of civic record.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Três tintas, três medidas. Nenhuma apaga a outra.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 29,
+            "target_x": 27,
+            "target_y": 16
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A água tem saída porque estas casas têm endereço.",
+          "balloon": {
+            "x": 68,
+            "y": 25,
+            "w": 29,
+            "target_x": 70,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 353,
+      "title": "A curva de Mira",
+      "time": "Dia 72 · fim da tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "talin",
+        "ilyan"
+      ],
+      "scene": "After meeting in same public memory room, Talin shows Ilyan an OLD survey by his absent mother Mira, no portrait or apparition. Its curved line continues WEST beyond school map; later unsigned note says bank changed course. Dates show old survey precedes disappearance. Ilyan does not infer she is alive.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A curva segue a oeste. A nota posterior não tem assinatura.",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 29,
+            "target_x": 35,
+            "target_y": 25
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Quem conhece esse caminho? Quanto tempo leva chegar lá?",
+          "balloon": {
+            "x": 68,
+            "y": 23,
+            "w": 29,
+            "target_x": 69,
+            "target_y": 17
+          }
+        }
+      ]
+    },
+    {
+      "number": 354,
+      "title": "Cartas antes da estrada",
+      "time": "Dia 72 · anoitecer",
+      "place": "escada-ambar-vila",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "At amber village sheltered table, Ilyan writes separate letters to Bram and Nima in Pedra-Mansa about flood and Mira's westward old line; Nima is NOT physically present. Runa sees map but keeps her own notebook. Neither sets out tonight; Ilyan's wrist bandage persists.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Bram e Nima vão saber o que houve, sem eu me fazer de herói.",
+          "balloon": {
+            "x": 3,
+            "y": 18,
+            "w": 30,
+            "target_x": 26,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Se perguntarmos pelo oeste, vou por minhas razões também.",
+          "balloon": {
+            "x": 68,
+            "y": 25,
+            "w": 29,
+            "target_x": 55,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 355,
+      "title": "Estradas que ficam",
+      "time": "Dia 72 · noite",
+      "place": "fonte-degraus-ambar",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Final arc-three portrait splash at amber stepped fountain under wooden awning after storm. Lower water carries leaves; repaired village lanterns shine up hill. Ilyan, long black wavy-haired beardless seventeen-year-old with bandaged wrist and blunt sword, stands beside Runa, long STRAIGHT black bangs, septum and floral left-arm tattoo. Both look WEST toward a distant ordinary road, not toward a portal. They remain distinct people, gently close but not kissing. Curved old map held between them. The valley homes are safe after communal work, Mira's fate open. Leave generous dusk sky in top corners for two compact balloons, faces fully visible.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Quis ser guerreiro para proteger um caminho. Agora sei para quem.",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 30,
+            "target_x": 28,
+            "target_y": 32
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então vamos ouvir quem vive no próximo.",
+          "balloon": {
+            "x": 68,
+            "y": 7,
+            "w": 29,
+            "target_x": 65,
+            "target_y": 43
+          }
+        }
+      ]
+    }
+  ]
+}
