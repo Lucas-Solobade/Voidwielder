@@ -82,6 +82,13 @@ def test_page_32_keeps_corrected_nima_art(client):
     assert "page-32.webp?v=anatomy-2" in html
 
 
+def test_page_114_keeps_corrected_runa_hand(client):
+    art = Path(__file__).resolve().parents[1] / "static" / page_art(114)
+    assert sha256(art.read_bytes()).hexdigest() == "dd6ab185520878a1f5b66562afbdd181f96ca152d686f73c929f68fa23652dea"
+    html = client.get(reverse("reader:medieval_read", args=(114,))).content.decode()
+    assert "page-114.webp?v=hand-2" in html
+
+
 def test_medieval_catalog_shows_series_and_reader_navigation(client):
     catalog = client.get(reverse("reader:search"), {"tipo": "hq"})
     assert catalog.status_code == 200
