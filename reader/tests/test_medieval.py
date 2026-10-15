@@ -29,8 +29,13 @@ def test_medieval_canon_and_page_sequence():
     assert "porta" in PAGES[24]["title"].lower()
     assert "vestibule" in PAGES[25]["scene"].lower()
     assert "cart" in PAGES[31]["scene"].lower()
-    assert [page["number"] for page in PAGES[32:] if "nima" in page["cast"]] == [383, 388, 389, 396]
-    assert all(page["place"] == "pedra-mansa" for page in PAGES if "nima" in page["cast"] and page["number"] > 32)
+    assert [page["number"] for page in PAGES[32:] if "nima" in page["cast"]] == [383, 384, 388, 389, 396]
+    assert all(
+        page["place"] == "pedra-mansa" or "pedra-mansa" in page.get("places", [])
+        for page in PAGES if "nima" in page["cast"] and page["number"] > 32
+    )
+    assert PAGES[383]["time"] == "Dia 250–255 · cinco dias de estrada"
+    assert PAGES[383]["places"] == ["pedra-mansa", "casa-das-quatro-luas"]
     assert all(page["place"] in (CANON["school_map"] | CANON["places"]) for page in PAGES[25:])
     assert [int(re.search(r"Dia (\d+)", page["time"]).group(1)) for page in PAGES[25:]] == sorted(
         int(re.search(r"Dia (\d+)", page["time"]).group(1)) for page in PAGES[25:]

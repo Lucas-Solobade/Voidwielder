@@ -145,10 +145,10 @@
           "text": "Braka. O relatório dirá isso.",
           "balloon": {
             "x": 64,
-            "y": 22,
+            "y": 29,
             "w": 34,
-            "target_x": 60,
-            "target_y": 16
+            "target_x": 61,
+            "target_y": 27
           }
         }
       ]
@@ -182,10 +182,10 @@
           "text": "Então corrigimos antes de assinar.",
           "balloon": {
             "x": 57,
-            "y": 56,
+            "y": 78,
             "w": 39,
-            "target_x": 73,
-            "target_y": 46
+            "target_x": 66,
+            "target_y": 70
           }
         }
       ]
@@ -219,10 +219,10 @@
           "text": "Hoje termino só esta página.",
           "balloon": {
             "x": 2,
-            "y": 33,
+            "y": 50,
             "w": 33,
-            "target_x": 25,
-            "target_y": 42
+            "target_x": 11,
+            "target_y": 47
           }
         }
       ]
@@ -690,45 +690,51 @@
     },
     {
       "number": 384,
-      "title": "De novo à Casa",
-      "time": "Dia 255 · sequência",
+      "title": "Cinco dias de volta à Casa",
+      "time": "Dia 250–255 · cinco dias de estrada",
       "place": "casa-das-quatro-luas",
       "layout": "asymmetric",
       "cast": [
         "ilyan",
-        "runa"
+        "runa",
+        "nima",
+        "bram"
       ],
-      "scene": "Ilyan returns to the school gate by road after short visit; Runa waits with revised measures; they disagree about one calculation then solve it side by side.",
+      "scene": "At dawn after the forge reunion, Ilyan boards the same hired covered cart in Pedra-Mansa as adult small gnome Nima and blacksmith Bram wave farewell. The cart travels through autumn woods, crosses an ordinary intact stone bridge, and stops at a roadside camp at dusk over five days. It reaches the Casa das Quatro Luas gate on day 255, where Runa waits with revised maps. They go inside and measure the disputed curve together.",
       "novel_chapter": 25,
       "lines": [
         {
           "speaker": "Runa",
           "text": "Essa curva ainda não fecha.",
           "balloon": {
-            "x": 40,
-            "y": 14,
-            "w": 34,
-            "target_x": 81,
-            "target_y": 18
+            "x": 60,
+            "y": 70,
+            "w": 37,
+            "target_x": 54,
+            "target_y": 68
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Então vamos medi-la de novo.",
           "balloon": {
-            "x": 2,
-            "y": 69,
-            "w": 38,
-            "target_x": 31,
-            "target_y": 63
+            "x": 3,
+            "y": 92,
+            "w": 39,
+            "target_x": 21,
+            "target_y": 88
           }
         }
+      ],
+      "places": [
+        "pedra-mansa",
+        "casa-das-quatro-luas"
       ]
     },
     {
       "number": 385,
       "title": "Dezoito velas desiguais",
-      "time": "Dia 363 · sequência",
+      "time": "Dia 363 · meses de estudo depois",
       "place": "refeitorio",
       "layout": "four-panels",
       "cast": [
@@ -793,10 +799,10 @@
           "text": "Só um pouco.",
           "balloon": {
             "x": 2,
-            "y": 40,
+            "y": 43,
             "w": 36,
-            "target_x": 25,
-            "target_y": 34
+            "target_x": 13,
+            "target_y": 40
           }
         },
         {
@@ -804,10 +810,10 @@
           "text": "Na próxima, descanse.",
           "balloon": {
             "x": 2,
-            "y": 92,
+            "y": 94,
             "w": 37,
-            "target_x": 25,
-            "target_y": 84
+            "target_x": 11,
+            "target_y": 92
           }
         }
       ]
@@ -1157,8 +1163,8 @@
             "x": 60,
             "y": 93,
             "w": 38,
-            "target_x": 75,
-            "target_y": 84
+            "target_x": 55,
+            "target_y": 92
           }
         }
       ]
@@ -1194,8 +1200,8 @@
             "x": 60,
             "y": 93,
             "w": 38,
-            "target_x": 77,
-            "target_y": 84
+            "target_x": 59,
+            "target_y": 90
           }
         }
       ]
@@ -1887,10 +1893,10 @@
           "text": "O que sinto por você veio de muitos dias.",
           "balloon": {
             "x": 2,
-            "y": 85,
+            "y": 88,
             "w": 38,
-            "target_x": 65,
-            "target_y": 83
+            "target_x": 60,
+            "target_y": 96
           }
         }
       ]
