@@ -1,0 +1,2061 @@
+{
+  "arc": {
+    "number": 4,
+    "title": "A Idade das Escolhas",
+    "slug": "a-idade-das-escolhas",
+    "description": "Um ano de estudo e cartas leva Ilyan e Runa até a Ponte das Faias e às próprias escolhas.",
+    "status": "Em andamento",
+    "start": 356,
+    "chapters": [
+      {
+        "title": "A manhã depois da cheia",
+        "start": 356,
+        "end": 366
+      },
+      {
+        "title": "Relatórios e estações",
+        "start": 367,
+        "end": 380
+      },
+      {
+        "title": "O ano das escolhas",
+        "start": 381,
+        "end": 387
+      },
+      {
+        "title": "Cartas de Pedra-Mansa",
+        "start": 388,
+        "end": 399
+      },
+      {
+        "title": "A proposta das margens",
+        "start": 400,
+        "end": 412
+      },
+      {
+        "title": "A ponte e o observatório",
+        "start": 413,
+        "end": 420
+      }
+    ]
+  },
+  "pages": [
+    {
+      "number": 367,
+      "title": "A mão e a lâmina",
+      "time": "Dia 75 · sequência",
+      "place": "enfermaria-leste",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "teren"
+      ],
+      "scene": "Infirmary wraps Ilyan's RIGHT wrist, then east forge master Teren examines one nick on Ilyan's blunt training sword.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "A lâmina aguenta depois do reparo.",
+          "balloon": {
+            "x": 63,
+            "y": 56,
+            "w": 34,
+            "target_x": 70,
+            "target_y": 53
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então espero o tempo necessário.",
+          "balloon": {
+            "x": 2,
+            "y": 65,
+            "w": 32,
+            "target_x": 31,
+            "target_y": 53
+          }
+        }
+      ]
+    },
+    {
+      "number": 368,
+      "title": "Dois protocolos",
+      "time": "Dia 76 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "ordelia"
+      ],
+      "scene": "Ordelia files flood testimony and Mira inquiry in two separate folders at the same tall archive desk; Runa carries Braka's measurement.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Enchente aqui. Mira, em outra pasta.",
+          "balloon": {
+            "x": 67,
+            "y": 18,
+            "w": 31,
+            "target_x": 80,
+            "target_y": 13
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "São perguntas diferentes.",
+          "balloon": {
+            "x": 2,
+            "y": 34,
+            "w": 32,
+            "target_x": 20,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 369,
+      "title": "Uma frase riscada",
+      "time": "Dia 77 · sequência",
+      "place": "sala-ritmos",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra"
+      ],
+      "scene": "Adra returns their river report with a sentence treating Pedra-Verde as a mere observation point crossed out; Ilyan rewrites to name Braka's decision.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Quem decidiu fechar a comporta?",
+          "balloon": {
+            "x": 2,
+            "y": 22,
+            "w": 30,
+            "target_x": 20,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Braka. O relatório dirá isso.",
+          "balloon": {
+            "x": 64,
+            "y": 22,
+            "w": 34,
+            "target_x": 60,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 370,
+      "title": "A escala errada",
+      "time": "Dia 78 · sequência",
+      "place": "sala-medidas",
+      "layout": "two-panels",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "In measuring classroom Runa finds a scale mismatch with Vessa's water readings and redraws the graph while Ilyan caps ink and steadies lamp.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Errei a escala.",
+          "balloon": {
+            "x": 2,
+            "y": 22,
+            "w": 28,
+            "target_x": 31,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então corrigimos antes de assinar.",
+          "balloon": {
+            "x": 57,
+            "y": 56,
+            "w": 39,
+            "target_x": 73,
+            "target_y": 46
+          }
+        }
+      ]
+    },
+    {
+      "number": 371,
+      "title": "Turnos comuns",
+      "time": "Dia 79 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Wide school library after long work shift; Ilyan copies records using healed but still stiff right hand and Runa puts covers over open ink jars.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não transforme cada noite em punição.",
+          "balloon": {
+            "x": 58,
+            "y": 20,
+            "w": 39,
+            "target_x": 80,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Hoje termino só esta página.",
+          "balloon": {
+            "x": 2,
+            "y": 33,
+            "w": 33,
+            "target_x": 25,
+            "target_y": 42
+          }
+        }
+      ]
+    },
+    {
+      "number": 372,
+      "title": "O preço da lenha",
+      "time": "Dia 80 · sequência",
+      "place": "refeitorio",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "tovo"
+      ],
+      "scene": "At school refectory Tovo tallies kitchen fuel, learners count weekly dues, Ilyan and Runa share ordinary supper.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "A lenha subiu. O pão, não.",
+          "balloon": {
+            "x": 2,
+            "y": 23,
+            "w": 33,
+            "target_x": 25,
+            "target_y": 14
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então dividimos o turno de cópia.",
+          "balloon": {
+            "x": 64,
+            "y": 52,
+            "w": 33,
+            "target_x": 79,
+            "target_y": 44
+          }
+        }
+      ]
+    },
+    {
+      "number": 373,
+      "title": "Ficar entre",
+      "time": "Dia 82 · sequência",
+      "place": "patio-treino",
+      "layout": "three-varied",
+      "cast": [
+        "ilyan",
+        "sere",
+        "caio"
+      ],
+      "scene": "Sere stages safe retreat training on wet stones; Ilyan first rushes too far, then shields a retreating student; Caio asks to repeat drill.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Proteja a saída, não a sua pressa.",
+          "balloon": {
+            "x": 43,
+            "y": 26,
+            "w": 33,
+            "target_x": 59,
+            "target_y": 19
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "De novo. Quero tentar também.",
+          "balloon": {
+            "x": 64,
+            "y": 69,
+            "w": 34,
+            "target_x": 77,
+            "target_y": 81
+          }
+        }
+      ]
+    },
+    {
+      "number": 374,
+      "title": "A resposta de Vessa",
+      "time": "Dia 85 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "close-up",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "A sealed ordinary letter from Vessa reaches archive; Runa checks eight-tooth float measurements and Ilyan compares them with the earlier report.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Vessa confirmou oito dentes.",
+          "balloon": {
+            "x": 2,
+            "y": 33,
+            "w": 32,
+            "target_x": 27,
+            "target_y": 44
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A causa do corte ainda falta.",
+          "balloon": {
+            "x": 64,
+            "y": 33,
+            "w": 34,
+            "target_x": 76,
+            "target_y": 44
+          }
+        }
+      ]
+    },
+    {
+      "number": 375,
+      "title": "Assinaturas",
+      "time": "Dia 90 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "two-panels",
+      "cast": [
+        "adra",
+        "ilyan",
+        "runa",
+        "ordelia"
+      ],
+      "scene": "Adra, Ilyan and Runa present revised flood report with separate approvals from three communities to Ordelia; document chain remains visible.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "As três margens assinaram.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Então posso abrir a consulta pública.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 376,
+      "title": "A carta com lama",
+      "time": "Dia 105 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "ordelia"
+      ],
+      "scene": "West bridge community letter arrives with dried mud; Ordelia reads no confirmed sighting of Mira this year, only an older unnamed woman with surveying instruments.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Não viram Mira neste ano.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O registro antigo ainda merece data.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 377,
+      "title": "Três datas",
+      "time": "Dia 106 · sequência",
+      "place": "sala-medidas",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan and Runa align three mismatched dates on desk, no magical revelation; Ilyan struggles with uncertainty, Runa keeps records separate.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Eu queria uma resposta inteira.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Temos três datas. Comecemos por elas.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 378,
+      "title": "A água no aro",
+      "time": "Dia 107 · sequência",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan",
+        "caio"
+      ],
+      "scene": "Runa trains Caio to hold a thin ring of existing water in a copper hoop; Ilyan waits without interrupting, holding the bridge letters.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Mantenha a borda, Caio.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Quase. Outra vez.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 379,
+      "title": "Ao escrivão vivo",
+      "time": "Dia 110 · sequência",
+      "place": "secretaria",
+      "layout": "close-up",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan and Runa write a precise dated question to living west-bridge scribe, seal letter for courier, not a sudden journey.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Vou perguntar o que ele realmente viu.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E esperar a resposta chegar.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 380,
+      "title": "O inverno cobra",
+      "time": "Dia 120 · sequência",
+      "place": "sala-ritmos",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "ordelia"
+      ],
+      "scene": "Cold season in school map classroom: covered windows, costly wood, Ordelia insists on removing cloth by day to prevent mold; Ilyan carries modest fuel.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Abrem-se as janelas de dia.",
+          "balloon": {
+            "x": 2,
+            "y": 24,
+            "w": 32,
+            "target_x": 20,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Mesmo com esse frio?",
+          "balloon": {
+            "x": 65,
+            "y": 24,
+            "w": 33,
+            "target_x": 85,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Justamente.",
+          "balloon": {
+            "x": 2,
+            "y": 79,
+            "w": 32,
+            "target_x": 18,
+            "target_y": 72
+          }
+        }
+      ]
+    },
+    {
+      "number": 381,
+      "title": "Botas de argila",
+      "time": "Dia 150 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "New scribe letter in spring says unnamed woman had clay-covered boots and compass case; Ilyan marks possible evidence without calling her Mira.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Caixa de compassos. Botas de argila.",
+          "balloon": {
+            "x": 2,
+            "y": 24,
+            "w": 36,
+            "target_x": 31,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ainda não é um nome.",
+          "balloon": {
+            "x": 62,
+            "y": 24,
+            "w": 36,
+            "target_x": 77,
+            "target_y": 16
+          }
+        }
+      ]
+    },
+    {
+      "number": 382,
+      "title": "A ponte volta aos poucos",
+      "time": "Dia 200 · sequência",
+      "place": "ponte-faias",
+      "layout": "splash",
+      "cast": [
+        "adra",
+        "beren"
+      ],
+      "scene": "Time passage shown by repaired western bridge: Beren supervises pedestrians first, one cart at a time later; Adra checks public passage and village folk work.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Primeiro a pé. Depois uma carroça.",
+          "balloon": {
+            "x": 60,
+            "y": 24,
+            "w": 38,
+            "target_x": 67,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "O povoado decide quando abrir.",
+          "balloon": {
+            "x": 2,
+            "y": 34,
+            "w": 34,
+            "target_x": 18,
+            "target_y": 52
+          }
+        }
+      ]
+    },
+    {
+      "number": 383,
+      "title": "Volta curta à forja",
+      "time": "Dia 250 · sequência",
+      "place": "pedra-mansa",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "nima",
+        "bram"
+      ],
+      "scene": "Ilyan arrives in Pedra-Mansa by ordinary hired cart after permitted trip, meets ADULT small gnome Nima at Bram's forge, friend rather than romantic embrace; Bram handles metal.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Você voltou com a mão inteira?",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Depois de uma boa atadura.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 384,
+      "title": "De novo à Casa",
+      "time": "Dia 255 · sequência",
+      "place": "casa-das-quatro-luas",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan returns to the school gate by road after short visit; Runa waits with revised measures; they disagree about one calculation then solve it side by side.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Essa curva ainda não fecha.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então vamos medi-la de novo.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 385,
+      "title": "Dezoito velas desiguais",
+      "time": "Dia 363 · sequência",
+      "place": "refeitorio",
+      "layout": "four-panels",
+      "cast": [
+        "runa",
+        "ilyan",
+        "tovo",
+        "caio"
+      ],
+      "scene": "After a clearly shown year of ordinary study and seasons, Runa turns 18; Tovo offers small bread, Caio places four mismatched candles, Ilyan gives straightened copper ruler.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "As velas não combinam.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "O pão combina. Está ótimo.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 386,
+      "title": "Um obrigado quieto",
+      "time": "Dia 363 · sequência",
+      "place": "sala-medidas",
+      "layout": "close-up",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Later alone after Runa's 18th birthday, she checks the handmade copper ruler then leans forehead briefly onto Ilyan's shoulder while they close instrument boxes; not a kiss.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você perdeu sono por esta régua?",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Só um pouco.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Na próxima, descanse.",
+          "balloon": {
+            "x": 2,
+            "y": 60,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 387,
+      "title": "A luva de Bram",
+      "time": "Dia 387 · sequência",
+      "place": "forja-leste",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "teren"
+      ],
+      "scene": "Ilyan turns 18; courier gifts from Bram and Nima, right hand recovered; Teren presents repaired blunt sword at east forge; Runa notices old marks on grip.",
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "O fio continua cego. A arma, firme.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Seu pai mediu a luva pelos seus dedos.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 388,
+      "title": "A carta que demora",
+      "time": "Dia 388 · sequência",
+      "place": "pedra-mansa",
+      "layout": "splash",
+      "cast": [
+        "nima",
+        "bram"
+      ],
+      "scene": "At Pedra-Mansa forge ADULT gnome Nima privately begins a letter after hearing Ilyan and Runa work together; three nights pass through candle states while Bram rests with a cold; no child or jealous caricature.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Não é culpa dela eu sentir falta dele.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 389,
+      "title": "A verdade de Nima",
+      "time": "Dia 390 · sequência",
+      "place": "pedra-mansa",
+      "layout": "two-panels",
+      "cast": [
+        "nima"
+      ],
+      "scene": "Adult gnome Nima writes a sincere present-day confession to Ilyan, then seals it for ordinary four-day courier; mechanical tools on workbench.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Talvez isso mude nossa amizade. Ele precisa saber.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 390,
+      "title": "Quatro dias de estrada",
+      "time": "Dia 394 · sequência",
+      "place": "patio-treino",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "Courier places Nima letter in Ilyan's hand after defense class, dusty boots and repaired blunt sword; Ilyan reads alone under an arch, no Nima physically in school.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela nunca disse que sentia isso.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 391,
+      "title": "Sopa fria",
+      "time": "Dia 394 · sequência",
+      "place": "refeitorio",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Runa finds Ilyan absentminded over cold soup in empty refectory; he tells her about Nima's adult confession without making Runa a prize.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Notícia ruim de casa?",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Uma verdade que não sei responder.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 392,
+      "title": "Três rascunhos",
+      "time": "Dia 395 · sequência",
+      "place": "dormitorio-cedro",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan"
+      ],
+      "scene": "Ilyan alone at his cedar dorm desk writes and crosses out three drafts, finally tells Nima he loves her as friend but cannot promise romance.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Não vou oferecer esperança que não tenho.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 393,
+      "title": "O envio",
+      "time": "Dia 396 · sequência",
+      "place": "secretaria",
+      "layout": "close-up",
+      "cast": [
+        "ilyan",
+        "ordelia"
+      ],
+      "scene": "Ilyan seals honest reply and hands it to school courier registrar Ordelia; outgoing mail pouch marked for Pedra-Mansa, ordinary travel.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Esta sai com a caravana da manhã.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Obrigado.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 394,
+      "title": "O livro do pedágio",
+      "time": "Dia 397 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan and Runa check west bridge toll ledger; a column of names was covered with later ink, they record altered state instead of inferring missing identity.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A coluna foi coberta depois.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então datamos a tinta.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 395,
+      "title": "Pão e silêncio",
+      "time": "Dia 400 · sequência",
+      "place": "refeitorio",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "tovo"
+      ],
+      "scene": "Tovo brings forgotten bread to tired Ilyan and discusses the ingenious adult gnome from Pedra-Mansa as a real friend, no romantic pressure.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Era a Nima que consertava trincos?",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Era. E ainda conserta.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 396,
+      "title": "Seis dias depois",
+      "time": "Dia 402 · sequência",
+      "place": "pedra-mansa",
+      "layout": "two-panels",
+      "cast": [
+        "nima",
+        "bram"
+      ],
+      "scene": "After six days ordinary caravan, adult gnome Nima reads Ilyan's refusal at her workbench, hurt but dignified; Bram nearby does not intrude.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Doía menos não saber. Mas era uma mentira.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 397,
+      "title": "Tempo pedido",
+      "time": "Dia 409 · sequência",
+      "place": "sala-medidas",
+      "layout": "close-up",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "After Nima's short reply asking time, Ilyan tells Runa at measuring classroom; Runa respects Nima and does not force intimacy.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela pediu tempo.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então damos tempo.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 398,
+      "title": "A folga antiga",
+      "time": "Dia 410 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Letter signed by Braka with Vessa's observation arrives; eight-tooth float could explain older water discrepancy, not the cut bell rope.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A folga explica parte da medida.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não explica a corda.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 399,
+      "title": "Dois mapas",
+      "time": "Dia 411 · sequência",
+      "place": "sala-medidas",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Runa sets separate blank sheets for west course and personal letters; Ilyan mistakenly mixes marks then corrects with her, closeness grows through work.",
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Uma folha para a água. Outra para as cartas.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu misturei as duas.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 400,
+      "title": "A seta tardia",
+      "time": "Dia 412 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "splash",
+      "cast": [
+        "runa",
+        "ilyan",
+        "ordelia"
+      ],
+      "scene": "Ordelia reveals later south-pointing arrow and covered depth number in original west bridge ledger; preservation of evidence, no magical map.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A seta é posterior ao registro.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Fotografamos com desenho e testemunha.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 401,
+      "title": "A oferta dos Diques",
+      "time": "Dia 412 · sequência",
+      "place": "sala-medidas",
+      "layout": "two-panels",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "scene": "Líria approaches Runa in school instrument corridor with legitimate offer from School of Dikes but restricted publication; rival has two tight braids, chin scar.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Há uma vaga. Exigem a planta aprovada.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E as pessoas que moram fora dela?",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 402,
+      "title": "Terra de três margens",
+      "time": "Dia 413 · sequência",
+      "place": "sala-elementos",
+      "layout": "four-panels",
+      "cast": [
+        "runa",
+        "liria",
+        "oru"
+      ],
+      "scene": "Gnomic master Oru asks Runa and Líria to predict water passage through three soil samples; Runa observes accurate grain and avoids theatrical magic, Líria contributes.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Primeiro observem a terra.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Esta retém mais água.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "A outra cede nas bordas.",
+          "balloon": {
+            "x": 2,
+            "y": 60,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 403,
+      "title": "Admiração sem troféu",
+      "time": "Dia 413 · sequência",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Ilyan watches Runa's precise soil demonstration from classroom doorway with carry crate, admires skill; she says it was measurement, not defeating Líria.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Você viu a falha antes de todos.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vi porque Líria mostrou a borda.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 404,
+      "title": "A proposta de Maelor",
+      "time": "Dia 414 · sequência",
+      "place": "secretaria",
+      "layout": "two-panels",
+      "cast": [
+        "eda",
+        "ordelia"
+      ],
+      "scene": "Maelor's envoy delivers document to Eda, offering bridge repair money for survey priority; Maelor himself not physically there, only copper square seal on letter.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "O dinheiro pede exclusividade.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Então haverá leitura pública.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 405,
+      "title": "Uma proposta aberta",
+      "time": "Dia 415 · sequência",
+      "place": "sala-medidas",
+      "layout": "four-panels",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Night in school measure room: Runa writes alternative with community coauthors, travel expenses and public correction; Ilyan steadies lamp and offers tea.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Sem as margens, a proposta é incompleta.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu fico para ajudar nas contas.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 406,
+      "title": "A assinatura de Líria",
+      "time": "Dia 416 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "close-up",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "Líria sees a village that aided her family named in Runa's alternative, notes soil-grain error and signs as technical coauthor; sanction remains.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Essa granulometria está errada.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então anote a correção.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Assino também.",
+          "balloon": {
+            "x": 2,
+            "y": 60,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 407,
+      "title": "A recusa",
+      "time": "Dia 418 · sequência",
+      "place": "secretaria",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ordelia"
+      ],
+      "scene": "School of Dikes written refusal arrives: scholarship only for approved map excluding community authors; Runa reads, disappointed, Ordelia waits.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Preferem uma planta incompleta.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "A decisão deles não encerra seu trabalho.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 408,
+      "title": "O mapa do pai",
+      "time": "Dia 418 · sequência",
+      "place": "colina-norte",
+      "layout": "two-panels",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa tells Ilyan about her father making maps without visiting families; she refuses shortcut despite loss, Ilyan listens on school hill at dusk.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Eu não repetirei o erro dele.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu fico para ouvir o preço disso.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 409,
+      "title": "Ensaio aprovado",
+      "time": "Dia 421 · sequência",
+      "place": "biblioteca-galeria",
+      "layout": "splash",
+      "cast": [
+        "runa",
+        "ilyan",
+        "ordelia"
+      ],
+      "scene": "School council approves smaller public community study after west bridge inspection, with invited observers; Runa holds authorization, Ilyan safeguards copies.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Aprovado, com observadores das margens.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "É o começo possível.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 410,
+      "title": "Três respostas",
+      "time": "Dia 423 · sequência",
+      "place": "balsa-do-sal",
+      "layout": "asymmetric",
+      "cast": [
+        "adra",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Adra ferries team west carrying three distinct community responses to Maelor contract; everyone boards physical ferry, no portal.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Duas pedem mudanças. Uma rejeita a prioridade.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "As três vão no registro.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 411,
+      "title": "A água escurece",
+      "time": "Dia 423 · sequência",
+      "place": "balsa-do-sal",
+      "layout": "two-panels",
+      "cast": [
+        "adra",
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Midriver ferry: Adra and barqueiro point out dark water over shifting sandbank absent from Dikes map; Runa measures without inventing certainty.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Ali, o fundo mudou.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vou marcar o lugar, não a causa.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 412,
+      "title": "A cláusula pequena",
+      "time": "Dia 424 · sequência",
+      "place": "alojamento-faias",
+      "layout": "close-up",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "At Faias inn Ilyan reads Maelor contract clause permitting preliminary map without all testimonies; Runa sees why consent matters.",
+      "novel_chapter": 27,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ele pode publicar antes de ouvir todos.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então amanhã levamos a cláusula ao conselho.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 413,
+      "title": "A ponte de pilares",
+      "time": "Dia 425 · sequência",
+      "place": "ponte-faias",
+      "layout": "four-panels",
+      "cast": [
+        "beren",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Independent mason Beren tests repaired western bridge supports while local council opens toll book; Ilyan carries tools, Runa notes levels, no heroic shortcut.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Uma tábua firme não prova a fundação.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Medirei cada pilar.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 414,
+      "title": "Oferta exclusiva",
+      "time": "Dia 425 · sequência",
+      "place": "ponte-faias",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Valecobre merchant offers sole survey payment to bridge council; Ilyan and Runa observe members refusing signature before public reading, merchant not given arbitrary villain identity.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ele quer medir sozinho.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O conselho pediu assembleia.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 415,
+      "title": "A assembleia",
+      "time": "Dia 426 · sequência",
+      "place": "ponte-faias",
+      "layout": "two-panels",
+      "cast": [
+        "beren",
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Village assembly hears Beren's safety limits and reads toll ledger; repair stays incomplete for carts, public access decisions are theirs.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Pedestres, sim. Carroças, ainda não.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "O mapa precisa mostrar esse limite.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 416,
+      "title": "Uma conversa adiada",
+      "time": "Dia 426 · sequência",
+      "place": "alojamento-faias",
+      "layout": "close-up",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "In borrowed lodging Ilyan helps Runa untie instrument case with blunt knife, their fingers touch; they explicitly discuss Nima's letter without using romance as consolation.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não quero ser resposta à dor dela.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O que sinto por você veio de muitos dias.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 417,
+      "title": "Dois dias de retorno",
+      "time": "Dia 428 · sequência",
+      "place": "estrada-faias",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Two-day ordinary caravan road from west bridge toward Valecobre in fine rain, one evening campfire with Runa and Ilyan discussing freedom and fear; no teleport.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Tenho medo de escolher e perder minha voz.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu temo confundir cuidado com controle.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 418,
+      "title": "A altura da estrela",
+      "time": "Dia 431 · sequência",
+      "place": "observatorio-escola",
+      "layout": "asymmetric",
+      "cast": [
+        "avel",
+        "runa",
+        "ilyan"
+      ],
+      "scene": "School observatory with four thick-glass windows above map wing; Avel supervises star-level measurement, signs notebook and leaves carrying box; Ilyan keeps lamp away from lenses.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Mestra Avel",
+          "text": "Registrem a correção e fechem as quatro janelas.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Pode deixar, mestra.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 419,
+      "title": "O primeiro beijo",
+      "time": "Dia 431 · sequência",
+      "place": "observatorio-escola",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "After Avel leaves, rain on west observatory glass, Ilyan asks Runa directly if she wants him to kiss her; she consents and steps toward him, then they share FIRST intense tender kiss as two adults over 18, fully clothed, precise identities.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Posso beijar você?",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Quero que beije.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 420,
+      "title": "O dia seguinte",
+      "time": "Dia 432 · sequência",
+      "place": "refeitorio",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "caio"
+      ],
+      "scene": "Next morning school dining hall: Ilyan smiles into tea, Caio asks about sword, Runa corrects his map calculation; later a west bridge letter arrives with square copper seal hinting at Maelor but not proof.",
+      "novel_chapter": 28,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Teren aprovou a espada?",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O aço está em ordem.",
+          "balloon": {
+            "x": 67,
+            "y": 3,
+            "w": 31,
+            "target_x": 75,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Esta curva ainda precisa de revisão.",
+          "balloon": {
+            "x": 2,
+            "y": 60,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 77
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -30,7 +30,8 @@
         "mudança de cor dos olhos",
         "rosto infantil ou de homem maduro",
         "espada reluzente antes da página 10"
-      ]
+      ],
+      "age_transition": "17 até o dia 386; completa 18 anos no dia 387 (página 387). Aparência jovem, cabelo preto longo ondulado e rosto sem barba permanecem idênticos."
     },
     "bram": {
       "name": "Bram",
@@ -44,7 +45,8 @@
       "age": 26,
       "role": "gnoma adulta inventora de Pedra-Mansa, amiga e mentora prática de Ilyan há oito anos; ajudou Bram com mecanismos da forja",
       "fixed_appearance": "Gnoma ADULTA de cerca de noventa centímetros, cabelos ruivos acobreados em bob cacheado, sardas, orelhas grandes e pontudas, olhos verde-avelã e sorriso vivo. Seu tamanho não indica infância.",
-      "fixed_clothing": "Gorro verde-musgo, óculos mecânicos de latão na testa, colete azul-petróleo, camisa creme e cinturão de ferramentas."
+      "fixed_clothing": "Gorro verde-musgo, óculos mecânicos de latão na testa, colete azul-petróleo, camisa creme e cinturão de ferramentas.",
+      "year_later": "Permanece adulta e em Pedra-Mansa; Ilyan a visita pessoalmente apenas após viagem autorizada na página 383. Suas demais notícias vêm por carta comum."
     },
     "avel": {
       "name": "Mestra Avel",
@@ -83,7 +85,8 @@
       "role": "estudante de tintas cartográficas vinda do vilarejo Vale do Junco; entra na Casa no dia 5",
       "fixed_appearance": "Jovem humana de pele clara fria, rosto oval, olhos escuros amendoados, sobrancelhas escuras marcadas, nariz reto, lábios cheios, cabelo preto muito longo e LISO com franja reta até as sobrancelhas; pequeno piercing prateado no septo; tatuagem floral escura no braço esquerdo e faixas de tinta no antebraço esquerdo. Manter estes traços em toda aparição.",
       "fixed_clothing": "Na escola usa roupa medieval prática em ameixa escuro e carvão, com bordados discretos. Sem bolsa moderna, roupa contemporânea ou bastão.",
-      "future_relationship": "No arco escolar, percebe que Ilyan é bonito e ensaia um flerte breve; ele, absorvido pela busca da mãe e pelo treino, não corresponde, e ela interpreta a distração como arrogância. Confiança e afeto só crescem gradualmente. Ela não aparece nas páginas 1–25."
+      "future_relationship": "No arco escolar, percebe que Ilyan é bonito e ensaia um flerte breve; ele, absorvido pela busca da mãe e pelo treino, não corresponde, e ela interpreta a distração como arrogância. Confiança e afeto só crescem gradualmente. Ela não aparece nas páginas 1–25.",
+      "age_transition": "17 até o dia 362; completa 18 anos no dia 363 (página 385). O rosto, cabelo liso com franja, septo e tatuagem floral esquerda permanecem idênticos."
     },
     "caio": {
       "name": "Caio",
@@ -234,7 +237,10 @@
     "estrada-pedraverde": "Estrada comum entre Folealto e posto orc, com fenda úmida e mata de bétulas; nenhuma passagem instantânea.",
     "pedra-verde": "Posto orc com muralha de pedra verde, ponte de madeira a OESTE, comporta antiga a LESTE.",
     "sala-pedra-verde": "Salão comum do posto com lareira redonda CENTRAL e janela a LESTE voltada à comporta.",
-    "comporta-pedraverde": "Comporta antiga a LESTE do posto; só observação externa antes do consentimento do conselho orc."
+    "comporta-pedraverde": "Comporta antiga a LESTE do posto; só observação externa antes do consentimento do conselho orc.",
+    "ponte-faias": "Ponte comunitária a oeste com duas fileiras de pilares de pedra e tábuas de idades diferentes. A margem oeste chega a uma casa de pedágio e assembleia pública. A cheia deslocou apoio e a travessia de carros permanece condicionada à vistoria.",
+    "alojamento-faias": "Casa de hóspedes cedida pela comunidade da Ponte das Faias: banco baixo junto ao fogareiro, um quarto de instrumentos e janela para a ponte. Não pertence à Escola dos Diques.",
+    "estrada-faias": "Rota pública por terra entre Ponte das Faias e Valecobre; caravana percorre dois dias com paradas, chuva e alojamento. Não há portal ou teletransporte."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -253,7 +259,10 @@
     "colina-norte": "Subida exterior ao norte da biblioteca, alcançada por caminho de calcário a partir do pátio central. Estacas de medição marcam a faixa segura; abaixo delas há antiga tampa de inspeção de metal, que permanece fechada nas páginas 89–90. Casas baixas de Valecobre ficam além da base da colina.",
     "torre-rele": "Torre de medição ao norte da colina, alcançada por trilha de calcário fora do muro. Porta oeste, escada interna em espiral e janela superior voltada para os canais de Valecobre e Vale do Junco. A entrada fica fechada até a licença municipal da página 126; Beren inspeciona alvenaria e Sere mantém a linha segura.",
     "estrada-norte": "Estrada pública ao norte de Valecobre; primeira parada junto às carroças de fibra de junco, segunda parada no mercado de beira de via, depois passagem alta de pedra em torno da margem enlameada. Nenhum atalho mágico liga a escola ao vilarejo.",
-    "vale-do-junco": "Vilarejo natal de Runa após a estrada norte; casas sobre estacas, tanques de pigmento e moinho junto ao canal. Marca de nível antiga fica perto da junta; só o responsável local pode autorizar abertura da comporta."
+    "vale-do-junco": "Vilarejo natal de Runa após a estrada norte; casas sobre estacas, tanques de pigmento e moinho junto ao canal. Marca de nível antiga fica perto da junta; só o responsável local pode autorizar abertura da comporta.",
+    "enfermaria-leste": "Ala leste da Casa: três camas de linho alinhadas sob janelas ogivais, armário de ataduras ao norte e faixa azul com quatro luas; a curandeira registra restrições antes de treinos.",
+    "sala-medidas": "Sala do anexo de agrimensores: mesa longa com réguas de cobre, três janelas altas a oeste, quadros de escala na parede norte e armário de instrumentos a leste. Runa e Ilyan refazem gráficos nesta mesa.",
+    "observatorio-escola": "Acima da ala de mapas, escada estreita e porta pesada; quatro janelas de vidro espesso para cada rumo, mesa central de instrumentos celestes e peso de latão. Avel controla acesso e assina medições."
   },
   "magic_rules": [
     "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
@@ -330,7 +339,14 @@
     "Dia 69: páginas 307–311 — Adra e Braka retornam por estrada comum; três comunidades cotejam mapas e começam a deliberar sobre uma ação conjunta.",
     "Dia 70: páginas 312–328 — Vessa e Braka registram subida antecipada da água; Eda traz licença municipal limitada; três comunidades autorizam apenas vistoria e alívio gradual com leituras simultâneas. Moradores preparam rota de retirada. A obra de Varek desvia o fluxo, mas sua intenção ainda não está provada.",
     "Dia 71: páginas 329–347 — chuva forte, operação em etapas, sinal de recuo de Braka e toque do sino automático. Moradores deixam a rua baixa. Eda registra Varek junto ao lacre solto sem atribuir-lhe o corte da corda. Ilyan fere o punho ao aparar uma haste com espada sem fio; Sere, Adra, Talin, Vessa, Braka e Runa completam juntos a contenção. Runa termina com câimbra no braço tatuado.",
-    "Dia 72: páginas 348–355 — inspeções autorizam o retorno às casas. Medidas e danos ficam no arquivo público; a corda cortada continua sem autor. Talin mostra a Ilyan uma curva antiga de Mira rumo a oeste, anterior ao desaparecimento, sem prova de que ela esteja viva. Ilyan escreve a Bram e Nima; Runa deseja acompanhá-lo por razões próprias. O arco três se encerra na Escada de Âmbar."
+    "Dia 72: páginas 348–355 — inspeções autorizam o retorno às casas. Medidas e danos ficam no arquivo público; a corda cortada continua sem autor. Talin mostra a Ilyan uma curva antiga de Mira rumo a oeste, anterior ao desaparecimento, sem prova de que ela esteja viva. Ilyan escreve a Bram e Nima; Runa deseja acompanhá-lo por razões próprias. O arco três se encerra na Escada de Âmbar.",
+    "Dias 73–75: páginas 356–367 — reparos na Escada de Âmbar, viagem de retorno em trilha, balsa e carroça, registros separados da enchente e de Mira; Ilyan recebe cuidados no punho direito e Teren examina a espada sem fio.",
+    "Dias 76–150: páginas 368–381 — relatório corrigido, turnos escolares, prova de proteção, cartas com datas distintas, inverno e notícia inconclusiva do escrivão da Ponte das Faias.",
+    "Dias 200–255: páginas 382–384 — ponte volta a abrir gradualmente; Ilyan visita Pedra-Mansa por viagem comum, encontra Nima adulta na forja, retorna à escola sem trazê-la consigo.",
+    "Dias 363–387: páginas 385–387 — passa cerca de um ano de estudo; Runa faz 18 anos no dia 363 e Ilyan no dia 387. Nenhuma fisionomia é alterada pelo aniversário.",
+    "Dias 388–411: páginas 388–399 — Nima adulta confessa sentimento surgido com a distância por carta de Pedra-Mansa; quatro dias de entrega, Ilyan responde amizade sem promessa, seis dias de retorno. As marcas do oeste e o mecanismo seguem provas separadas.",
+    "Dias 412–424: páginas 400–412 — seta tardia no livro, aula de solo de Oru, oferta dos Diques, proposta exclusiva de Maelor contestada, recusa da bolsa e aprovação de ensaio público; equipe viaja fisicamente de balsa até as Faias.",
+    "Dias 425–432: páginas 413–420 — Beren e o conselho vistoriaram ponte; após retorno de dois dias, Avel supervisiona observatório e desce. Ilyan e Runa, ambos 18, consentem com primeiro beijo na noite do dia 431. Na manhã seguinte correção de mapa e selo de Maelor não viram prova automática."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
