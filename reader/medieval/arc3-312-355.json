@@ -1227,22 +1227,22 @@
           "speaker": "Adra",
           "text": "Cada casa terá nome, dano e responsável pela vistoria.",
           "balloon": {
-            "x": 3,
-            "y": 18,
-            "w": 29,
-            "target_x": 17,
-            "target_y": 13
+            "x": 2,
+            "y": 31,
+            "w": 27,
+            "target_x": 27,
+            "target_y": 25
           }
         },
         {
           "speaker": "Braka",
           "text": "E Pedra-Verde entregará a conta de suas estacas.",
           "balloon": {
-            "x": 35,
-            "y": 43,
-            "w": 29,
-            "target_x": 45,
-            "target_y": 37
+            "x": 70,
+            "y": 16,
+            "w": 27,
+            "target_x": 63,
+            "target_y": 25
           }
         }
       ]
@@ -1264,10 +1264,10 @@
           "text": "A obra, seu efeito e o lacre são fatos distintos.",
           "balloon": {
             "x": 3,
-            "y": 25,
+            "y": 33,
             "w": 29,
-            "target_x": 18,
-            "target_y": 13
+            "target_x": 35,
+            "target_y": 25
           }
         },
         {
@@ -1275,10 +1275,10 @@
           "text": "Vou responder sobre cada folha. Não aceito outra culpa sem prova.",
           "balloon": {
             "x": 68,
-            "y": 25,
+            "y": 33,
             "w": 29,
-            "target_x": 78,
-            "target_y": 14
+            "target_x": 76,
+            "target_y": 25
           }
         }
       ]
@@ -1300,21 +1300,21 @@
           "text": "O flutuador ergue o badalo. A corda cortada não causou o toque.",
           "balloon": {
             "x": 3,
-            "y": 25,
+            "y": 35,
             "w": 30,
-            "target_x": 19,
-            "target_y": 15
+            "target_x": 28,
+            "target_y": 27
           }
         },
         {
           "speaker": "Talin",
           "text": "Consertem os dois caminhos. Quem cortou a corda ainda não sabemos.",
           "balloon": {
-            "x": 38,
-            "y": 52,
+            "x": 68,
+            "y": 35,
             "w": 29,
-            "target_x": 37,
-            "target_y": 42
+            "target_x": 72,
+            "target_y": 27
           }
         }
       ]
@@ -1335,11 +1335,11 @@
           "speaker": "Runa",
           "text": "Três tintas, três medidas. Nenhuma apaga a outra.",
           "balloon": {
-            "x": 3,
-            "y": 26,
+            "x": 2,
+            "y": 32,
             "w": 29,
-            "target_x": 27,
-            "target_y": 16
+            "target_x": 32,
+            "target_y": 26
           }
         },
         {
@@ -1347,10 +1347,10 @@
           "text": "A água tem saída porque estas casas têm endereço.",
           "balloon": {
             "x": 68,
-            "y": 25,
+            "y": 32,
             "w": 29,
-            "target_x": 70,
-            "target_y": 16
+            "target_x": 73,
+            "target_y": 26
           }
         }
       ]
@@ -1371,22 +1371,22 @@
           "speaker": "Talin",
           "text": "A curva segue a oeste. A nota posterior não tem assinatura.",
           "balloon": {
-            "x": 3,
-            "y": 5,
-            "w": 29,
-            "target_x": 35,
-            "target_y": 25
+            "x": 2,
+            "y": 34,
+            "w": 28,
+            "target_x": 32,
+            "target_y": 27
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Quem conhece esse caminho? Quanto tempo leva chegar lá?",
           "balloon": {
-            "x": 68,
-            "y": 23,
-            "w": 29,
-            "target_x": 69,
-            "target_y": 17
+            "x": 73,
+            "y": 34,
+            "w": 25,
+            "target_x": 72,
+            "target_y": 27
           }
         }
       ]
