@@ -347,34 +347,33 @@
       "place": "biblioteca-galeria",
       "layout": "two-panels",
       "cast": [
-        "adra",
         "ilyan",
         "runa",
         "ordelia"
       ],
-      "scene": "Adra, Ilyan and Runa present revised flood report with separate approvals from three communities to Ordelia; document chain remains visible.",
+      "scene": "Ilyan and Runa present revised flood report with separate approvals from three communities, including Adra's, to Ordelia; document chain remains visible.",
       "novel_chapter": 25,
       "lines": [
         {
-          "speaker": "Adra",
+          "speaker": "Runa",
           "text": "As três margens assinaram.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 34,
+            "y": 29,
+            "w": 32,
+            "target_x": 51,
+            "target_y": 20
           }
         },
         {
           "speaker": "Ordelia",
           "text": "Então posso abrir a consulta pública.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 63,
+            "y": 81,
+            "w": 35,
+            "target_x": 79,
+            "target_y": 69
           }
         }
       ]
@@ -396,22 +395,22 @@
           "speaker": "Ordelia",
           "text": "Não viram Mira neste ano.",
           "balloon": {
-            "x": 2,
-            "y": 3,
+            "x": 29,
+            "y": 5,
             "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "target_x": 47,
+            "target_y": 17
           }
         },
         {
           "speaker": "Ilyan",
           "text": "O registro antigo ainda merece data.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 88,
+            "w": 37,
+            "target_x": 53,
+            "target_y": 84
           }
         }
       ]
@@ -434,21 +433,21 @@
           "text": "Eu queria uma resposta inteira.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 36,
+            "w": 36,
+            "target_x": 26,
+            "target_y": 17
           }
         },
         {
           "speaker": "Runa",
           "text": "Temos três datas. Comecemos por elas.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 62,
+            "y": 82,
+            "w": 36,
+            "target_x": 76,
+            "target_y": 70
           }
         }
       ]
@@ -471,22 +470,22 @@
           "speaker": "Runa",
           "text": "Mantenha a borda, Caio.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 37,
+            "y": 25,
+            "w": 32,
+            "target_x": 26,
+            "target_y": 14
           }
         },
         {
           "speaker": "Caio",
           "text": "Quase. Outra vez.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
+            "x": 28,
+            "y": 91,
+            "w": 39,
             "target_x": 75,
-            "target_y": 26
+            "target_y": 83
           }
         }
       ]
@@ -508,22 +507,22 @@
           "speaker": "Ilyan",
           "text": "Vou perguntar o que ele realmente viu.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 3,
+            "y": 24,
+            "w": 39,
+            "target_x": 26,
+            "target_y": 18
           }
         },
         {
           "speaker": "Runa",
           "text": "E esperar a resposta chegar.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 3,
+            "y": 90,
+            "w": 42,
+            "target_x": 35,
+            "target_y": 78
           }
         }
       ]
@@ -669,22 +668,22 @@
           "speaker": "Nima",
           "text": "Você voltou com a mão inteira?",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 46,
+            "y": 34,
+            "w": 36,
+            "target_x": 63,
+            "target_y": 22
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Depois de uma boa atadura.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 83,
+            "w": 37,
+            "target_x": 23,
+            "target_y": 68
           }
         }
       ]
@@ -706,22 +705,22 @@
           "speaker": "Runa",
           "text": "Essa curva ainda não fecha.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 40,
+            "y": 14,
+            "w": 34,
+            "target_x": 81,
+            "target_y": 18
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Então vamos medi-la de novo.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 69,
+            "w": 38,
+            "target_x": 31,
+            "target_y": 63
           }
         }
       ]
@@ -745,22 +744,22 @@
           "speaker": "Tovo",
           "text": "As velas não combinam.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 3,
+            "y": 23,
+            "w": 38,
+            "target_x": 56,
+            "target_y": 16
           }
         },
         {
           "speaker": "Runa",
           "text": "O pão combina. Está ótimo.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 61,
+            "y": 82,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 70
           }
         }
       ]
@@ -782,22 +781,22 @@
           "speaker": "Runa",
           "text": "Você perdeu sono por esta régua?",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 61,
+            "y": 16,
+            "w": 36,
+            "target_x": 50,
+            "target_y": 13
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Só um pouco.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 40,
+            "w": 36,
+            "target_x": 25,
+            "target_y": 34
           }
         },
         {
@@ -805,10 +804,10 @@
           "text": "Na próxima, descanse.",
           "balloon": {
             "x": 2,
-            "y": 60,
-            "w": 31,
+            "y": 92,
+            "w": 37,
             "target_x": 25,
-            "target_y": 77
+            "target_y": 84
           }
         }
       ]
@@ -831,22 +830,22 @@
           "speaker": "Teren",
           "text": "O fio continua cego. A arma, firme.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 62,
+            "y": 27,
+            "w": 35,
+            "target_x": 82,
+            "target_y": 14
           }
         },
         {
           "speaker": "Runa",
           "text": "Seu pai mediu a luva pelos seus dedos.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 33,
+            "y": 92,
+            "w": 37,
+            "target_x": 50,
+            "target_y": 84
           }
         }
       ]
@@ -868,11 +867,11 @@
           "speaker": "Nima",
           "text": "Não é culpa dela eu sentir falta dele.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 59,
+            "y": 19,
+            "w": 38,
+            "target_x": 28,
+            "target_y": 18
           }
         }
       ]
@@ -894,10 +893,10 @@
           "text": "Talvez isso mude nossa amizade. Ele precisa saber.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 38,
+            "w": 40,
+            "target_x": 30,
+            "target_y": 30
           }
         }
       ]
@@ -919,11 +918,11 @@
           "speaker": "Ilyan",
           "text": "Ela nunca disse que sentia isso.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 3,
+            "y": 28,
+            "w": 38,
+            "target_x": 29,
+            "target_y": 18
           }
         }
       ]
@@ -945,22 +944,22 @@
           "speaker": "Runa",
           "text": "Notícia ruim de casa?",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 3,
+            "y": 35,
+            "w": 39,
+            "target_x": 28,
+            "target_y": 18
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Uma verdade que não sei responder.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 61,
+            "y": 82,
+            "w": 37,
+            "target_x": 78,
+            "target_y": 70
           }
         }
       ]
@@ -981,11 +980,11 @@
           "speaker": "Ilyan",
           "text": "Não vou oferecer esperança que não tenho.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 59,
+            "y": 18,
+            "w": 38,
+            "target_x": 40,
+            "target_y": 15
           }
         }
       ]
@@ -1007,22 +1006,22 @@
           "speaker": "Ordelia",
           "text": "Esta sai com a caravana da manhã.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 58,
+            "y": 28,
+            "w": 40,
+            "target_x": 78,
+            "target_y": 15
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Obrigado.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 3,
+            "y": 82,
+            "w": 37,
+            "target_x": 23,
+            "target_y": 71
           }
         }
       ]
@@ -1045,21 +1044,21 @@
           "text": "A coluna foi coberta depois.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
+            "y": 34,
+            "w": 36,
             "target_x": 25,
-            "target_y": 26
+            "target_y": 21
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Então datamos a tinta.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
+            "x": 62,
+            "y": 82,
+            "w": 36,
             "target_x": 75,
-            "target_y": 26
+            "target_y": 69
           }
         }
       ]
@@ -1081,22 +1080,22 @@
           "speaker": "Tovo",
           "text": "Era a Nima que consertava trincos?",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 59,
+            "y": 23,
+            "w": 38,
+            "target_x": 75,
+            "target_y": 16
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Era. E ainda conserta.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 83,
+            "w": 39,
+            "target_x": 40,
+            "target_y": 75
           }
         }
       ]
@@ -1118,11 +1117,11 @@
           "speaker": "Nima",
           "text": "Doía menos não saber. Mas era uma mentira.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 59,
+            "y": 32,
+            "w": 38,
+            "target_x": 48,
+            "target_y": 29
           }
         }
       ]
@@ -1145,21 +1144,21 @@
           "text": "Ela pediu tempo.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
+            "y": 22,
+            "w": 38,
             "target_x": 25,
-            "target_y": 26
+            "target_y": 16
           }
         },
         {
           "speaker": "Runa",
           "text": "Então damos tempo.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
+            "x": 60,
+            "y": 93,
+            "w": 38,
             "target_x": 75,
-            "target_y": 26
+            "target_y": 84
           }
         }
       ]
@@ -1181,22 +1180,22 @@
           "speaker": "Runa",
           "text": "A folga explica parte da medida.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
+            "x": 3,
+            "y": 32,
+            "w": 38,
             "target_x": 25,
-            "target_y": 26
+            "target_y": 18
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Não explica a corda.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 93,
+            "w": 38,
+            "target_x": 77,
+            "target_y": 84
           }
         }
       ]
@@ -1218,22 +1217,22 @@
           "speaker": "Runa",
           "text": "Uma folha para a água. Outra para as cartas.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 30,
+            "w": 38,
+            "target_x": 73,
+            "target_y": 18
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Eu misturei as duas.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 82,
+            "w": 37,
+            "target_x": 26,
+            "target_y": 70
           }
         }
       ]
@@ -1257,21 +1256,21 @@
           "text": "A seta é posterior ao registro.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 18,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 12
           }
         },
         {
           "speaker": "Runa",
           "text": "Fotografamos com desenho e testemunha.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 61,
+            "y": 18,
+            "w": 37,
+            "target_x": 90,
+            "target_y": 15
           }
         }
       ]
@@ -1294,21 +1293,21 @@
           "text": "Há uma vaga. Exigem a planta aprovada.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 32,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 19
           }
         },
         {
           "speaker": "Runa",
           "text": "E as pessoas que moram fora dela?",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
+            "x": 61,
+            "y": 85,
+            "w": 37,
             "target_x": 75,
-            "target_y": 26
+            "target_y": 77
           }
         }
       ]
@@ -1332,32 +1331,32 @@
           "text": "Primeiro observem a terra.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 23,
+            "w": 38,
+            "target_x": 20,
+            "target_y": 17
           }
         },
         {
           "speaker": "Runa",
           "text": "Esta retém mais água.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 59,
+            "y": 58,
+            "w": 38,
+            "target_x": 53,
+            "target_y": 48
           }
         },
         {
           "speaker": "Líria",
           "text": "A outra cede nas bordas.",
           "balloon": {
-            "x": 2,
-            "y": 60,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 77
+            "x": 46,
+            "y": 92,
+            "w": 38,
+            "target_x": 56,
+            "target_y": 80
           }
         }
       ]
@@ -1379,22 +1378,22 @@
           "speaker": "Ilyan",
           "text": "Você viu a falha antes de todos.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 22,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 18
           }
         },
         {
           "speaker": "Runa",
           "text": "Vi porque Líria mostrou a borda.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 92,
+            "w": 38,
+            "target_x": 63,
+            "target_y": 90
           }
         }
       ]
@@ -1416,22 +1415,22 @@
           "speaker": "Eda",
           "text": "O dinheiro pede exclusividade.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 28,
+            "w": 38,
+            "target_x": 55,
+            "target_y": 18
           }
         },
         {
           "speaker": "Ordelia",
           "text": "Então haverá leitura pública.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 78,
+            "w": 38,
+            "target_x": 22,
+            "target_y": 69
           }
         }
       ]
@@ -1453,22 +1452,22 @@
           "speaker": "Runa",
           "text": "Sem as margens, a proposta é incompleta.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 3,
+            "y": 23,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 18
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Eu fico para ajudar nas contas.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
+            "x": 60,
+            "y": 90,
+            "w": 38,
             "target_x": 75,
-            "target_y": 26
+            "target_y": 82
           }
         }
       ]
@@ -1491,32 +1490,32 @@
           "text": "Essa granulometria está errada.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
+            "y": 21,
+            "w": 38,
             "target_x": 25,
-            "target_y": 26
+            "target_y": 17
           }
         },
         {
           "speaker": "Runa",
           "text": "Então anote a correção.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 72,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 64
           }
         },
         {
           "speaker": "Líria",
           "text": "Assino também.",
           "balloon": {
-            "x": 2,
-            "y": 60,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 77
+            "x": 46,
+            "y": 92,
+            "w": 38,
+            "target_x": 29,
+            "target_y": 89
           }
         }
       ]
@@ -1538,22 +1537,22 @@
           "speaker": "Runa",
           "text": "Preferem uma planta incompleta.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 30,
+            "w": 38,
+            "target_x": 73,
+            "target_y": 17
           }
         },
         {
           "speaker": "Ordelia",
           "text": "A decisão deles não encerra seu trabalho.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 88,
+            "w": 38,
+            "target_x": 73,
+            "target_y": 78
           }
         }
       ]
@@ -1575,22 +1574,22 @@
           "speaker": "Runa",
           "text": "Eu não repetirei o erro dele.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 3,
+            "y": 31,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 17
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Eu fico para ouvir o preço disso.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
+            "x": 60,
+            "y": 83,
+            "w": 38,
             "target_x": 75,
-            "target_y": 26
+            "target_y": 68
           }
         }
       ]
@@ -1614,21 +1613,21 @@
           "text": "Aprovado, com observadores das margens.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 30,
+            "w": 38,
+            "target_x": 20,
+            "target_y": 18
           }
         },
         {
           "speaker": "Runa",
           "text": "É o começo possível.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 84,
+            "w": 38,
+            "target_x": 53,
+            "target_y": 76
           }
         }
       ]
@@ -1652,21 +1651,21 @@
           "text": "Duas pedem mudanças. Uma rejeita a prioridade.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 26,
+            "w": 38,
+            "target_x": 21,
+            "target_y": 17
           }
         },
         {
           "speaker": "Ilyan",
           "text": "As três vão no registro.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 84,
+            "w": 38,
+            "target_x": 52,
+            "target_y": 72
           }
         }
       ]
@@ -1690,21 +1689,21 @@
           "text": "Ali, o fundo mudou.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 28,
+            "w": 38,
+            "target_x": 20,
+            "target_y": 18
           }
         },
         {
           "speaker": "Runa",
           "text": "Vou marcar o lugar, não a causa.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 53,
+            "w": 38,
+            "target_x": 53,
+            "target_y": 39
           }
         }
       ]
@@ -1727,21 +1726,21 @@
           "text": "Ele pode publicar antes de ouvir todos.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
+            "y": 29,
+            "w": 38,
             "target_x": 25,
-            "target_y": 26
+            "target_y": 19
           }
         },
         {
           "speaker": "Runa",
           "text": "Então amanhã levamos a cláusula ao conselho.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 87,
+            "w": 38,
+            "target_x": 82,
+            "target_y": 73
           }
         }
       ]
@@ -1765,21 +1764,21 @@
           "text": "Uma tábua firme não prova a fundação.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 27,
+            "w": 38,
+            "target_x": 44,
+            "target_y": 17
           }
         },
         {
           "speaker": "Runa",
           "text": "Medirei cada pilar.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 85,
+            "w": 38,
+            "target_x": 77,
+            "target_y": 66
           }
         }
       ]
@@ -1801,22 +1800,22 @@
           "speaker": "Runa",
           "text": "Ele quer medir sozinho.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 21,
+            "w": 38,
+            "target_x": 70,
+            "target_y": 16
           }
         },
         {
           "speaker": "Ilyan",
           "text": "O conselho pediu assembleia.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 72,
+            "w": 38,
+            "target_x": 42,
+            "target_y": 64
           }
         }
       ]
@@ -1840,21 +1839,21 @@
           "text": "Pedestres, sim. Carroças, ainda não.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
+            "y": 27,
+            "w": 38,
             "target_x": 25,
-            "target_y": 26
+            "target_y": 18
           }
         },
         {
           "speaker": "Runa",
           "text": "O mapa precisa mostrar esse limite.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 84,
+            "w": 38,
+            "target_x": 55,
+            "target_y": 73
           }
         }
       ]
@@ -1876,22 +1875,22 @@
           "speaker": "Runa",
           "text": "Não quero ser resposta à dor dela.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 18,
+            "w": 38,
+            "target_x": 75,
+            "target_y": 15
           }
         },
         {
           "speaker": "Ilyan",
           "text": "O que sinto por você veio de muitos dias.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 85,
+            "w": 38,
+            "target_x": 65,
+            "target_y": 83
           }
         }
       ]
@@ -1913,22 +1912,22 @@
           "speaker": "Runa",
           "text": "Tenho medo de escolher e perder minha voz.",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 22,
+            "w": 38,
+            "target_x": 77,
+            "target_y": 16
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Eu temo confundir cuidado com controle.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 72,
+            "w": 38,
+            "target_x": 31,
+            "target_y": 64
           }
         }
       ]
@@ -1952,21 +1951,21 @@
           "text": "Registrem a correção e fechem as quatro janelas.",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 24,
+            "w": 38,
+            "target_x": 18,
+            "target_y": 17
           }
         },
         {
           "speaker": "Runa",
           "text": "Pode deixar, mestra.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 60,
+            "y": 56,
+            "w": 38,
+            "target_x": 82,
+            "target_y": 46
           }
         }
       ]
@@ -1989,21 +1988,21 @@
           "text": "Posso beijar você?",
           "balloon": {
             "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "y": 33,
+            "w": 39,
+            "target_x": 42,
+            "target_y": 27
           }
         },
         {
           "speaker": "Runa",
           "text": "Quero que beije.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 59,
+            "y": 33,
+            "w": 39,
+            "target_x": 58,
+            "target_y": 27
           }
         }
       ]
@@ -2026,33 +2025,33 @@
           "speaker": "Caio",
           "text": "Teren aprovou a espada?",
           "balloon": {
-            "x": 2,
-            "y": 3,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 26
+            "x": 60,
+            "y": 21,
+            "w": 38,
+            "target_x": 80,
+            "target_y": 16
           }
         },
         {
           "speaker": "Ilyan",
           "text": "O aço está em ordem.",
           "balloon": {
-            "x": 67,
-            "y": 3,
-            "w": 31,
-            "target_x": 75,
-            "target_y": 26
+            "x": 2,
+            "y": 42,
+            "w": 37,
+            "target_x": 24,
+            "target_y": 35
           }
         },
         {
           "speaker": "Runa",
           "text": "Esta curva ainda precisa de revisão.",
           "balloon": {
-            "x": 2,
-            "y": 60,
-            "w": 31,
-            "target_x": 25,
-            "target_y": 77
+            "x": 35,
+            "y": 59,
+            "w": 35,
+            "target_x": 26,
+            "target_y": 62
           }
         }
       ]
