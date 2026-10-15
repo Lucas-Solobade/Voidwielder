@@ -41,19 +41,19 @@ def _sentences(source: str) -> tuple[str, list[tuple[int, str]]]:
     return title, sentences
 
 
-def _boundaries(sentences: list[tuple[int, str]], count: int) -> list[int]:
+def _boundaries(sentences: list[tuple[int, str]], count: int, minimum_words: int = 55) -> list[int]:
     """Balance prose at sentence boundaries with room for ink illustrations."""
     prefix = [0]
     for _, sentence in sentences:
         prefix.append(prefix[-1] + len(sentence.split()))
-    if prefix[-1] < count * 55:
+    if prefix[-1] < count * minimum_words:
         raise ValueError(f"Capítulo curto: {prefix[-1]} palavras para {count} páginas")
     weights = [0.76 if index in ILLUSTRATED_LEAVES else 1 for index in range(count)]
     unit = prefix[-1] / sum(weights)
     costs: list[dict[int, tuple[float, int]]] = [{0: (0, -1)}]
     for page_index in range(count):
         current: dict[int, tuple[float, int]] = {}
-        minimum = 42 if page_index in ILLUSTRATED_LEAVES else 55
+        minimum = minimum_words
         for start, (prior_cost, _) in costs[-1].items():
             for end in range(start + 1, len(sentences) + 1):
                 words = prefix[end] - prefix[start]
@@ -97,8 +97,8 @@ def get_novel_pages() -> tuple[NovelPage, ...]:
             raise ValueError("Os capítulos devem ser sequenciais")
         title, sentences = _sentences(chapter_path.read_text(encoding="utf-8"))
         count = 16 if chapter_number == EXPECTED_CHAPTERS else 20
-        plate_available = chapter_number in range(21, 25) or (PLATE_DIR / f"chapter-{chapter_number:02}.webp").is_file()
-        bounds = _boundaries(sentences, count)
+        plate_available = (PLATE_DIR / f"chapter-{chapter_number:02}.webp").is_file()
+        bounds = _boundaries(sentences, count, 75 if chapter_number >= 21 else 55)
         for leaf in range(count):
             content = _paragraphs(sentences[bounds[leaf] : bounds[leaf + 1]])
             pages.append(NovelPage(

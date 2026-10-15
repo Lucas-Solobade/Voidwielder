@@ -15,8 +15,8 @@
       <h1>{{ book.title }}</h1>
       <p class="book-byline">{{ book.subtitle }}</p>
       <p class="book-deck">Uma espada sem fio. Uma mãe desaparecida. Uma porta que só existe quando quatro espelhos fazem a luz chegar de todos os lados.</p>
-      <p>{{ book.detail }} A prosa amplia as viagens, as aulas, as escolhas e as consequências da HQ. O terceiro ato acompanha a margem apagada dos mapas até a cheia do sino.</p>
-      <div class="book-facts"><span>Ato 3 concluído</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
+      <p>{{ book.detail }} A prosa amplia as viagens, as aulas, as escolhas e as consequências da HQ. O quarto ato segue as pistas a oeste, as decisões de cada comunidade e a aproximação de Ilyan e Runa.</p>
+      <div class="book-facts"><span>Ato 4 concluído</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
       {% if not book.complete %}<p class="novel-progress-note">Romance em produção. A meta editorial é de {{ book.target_pages }} páginas; a leitura abaixo contém apenas as páginas já escritas e revisadas.</p>{% endif %}
       <a class="book-primary" href="{% url 'reader:read_novel' 1 %}">Começar a ler <span aria-hidden="true">→</span></a>
       <a class="book-resume" data-novel-resume hidden href="{% url 'reader:read_novel' 1 %}">Retomar leitura</a>
@@ -24,4 +24,4 @@
   </div>
 </article>
 {% endblock %}
-{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=2"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=2"></script>{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=3"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=3"></script>{% endblock %}

@@ -19,6 +19,7 @@ for first, last in ((190, 201), (202, 213), (214, 225), (226, 237), (238, 250), 
         if page["number"] <= 311
     )
 ARC_THREE["pages"].extend(json.loads((STORY_DIR / "arc3-312-355.json").read_text(encoding="utf-8"))["pages"])
+ARC_FOUR = json.loads((STORY_DIR / "arc4-356-366.json").read_text(encoding="utf-8"))
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
@@ -29,17 +30,19 @@ def page_art(number: int) -> str:
 
 PAGES = tuple(
     {**page, "art": page_art(page["number"])}
-    for page in [*STORY["pages"], *ARC_TWO["pages"], *ARC_THREE["pages"]]
+    for page in [*STORY["pages"], *ARC_TWO["pages"], *ARC_THREE["pages"], *ARC_FOUR["pages"]]
 )
 PAGES_BY_NUMBER = {page["number"]: page for page in PAGES}
 SERIES_URL = f"/hqs/{STORY['slug']}/"
 ARC_URL = f"{SERIES_URL}arcos/{STORY['arc']['slug']}/"
 ARC2_URL = f"{SERIES_URL}arcos/{ARC_TWO['arc']['slug']}/"
 ARC3_URL = f"{SERIES_URL}arcos/{ARC_THREE['arc']['slug']}/"
+ARC4_URL = f"{SERIES_URL}arcos/{ARC_FOUR['arc']['slug']}/"
 ARCS = (
     {**STORY["arc"], "start": STORY["pages"][0]["number"], "end": STORY["pages"][-1]["number"], "url": ARC_URL, "art": STORY["cover"]},
     {**ARC_TWO["arc"], "end": ARC_TWO["pages"][-1]["number"], "url": ARC2_URL, "art": "reader/images/medieval/page-33.webp"},
     {**ARC_THREE["arc"], "end": ARC_THREE["pages"][-1]["number"], "url": ARC3_URL, "art": "reader/images/medieval/arc3-cover.webp"},
+    {**ARC_FOUR["arc"], "end": ARC_FOUR["pages"][-1]["number"], "url": ARC4_URL, "art": "reader/images/medieval/arc4-cover.webp"},
 )
 
 

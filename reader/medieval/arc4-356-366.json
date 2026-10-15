@@ -1,0 +1,399 @@
+{
+  "arc": {
+    "number": 4,
+    "title": "A Idade das Escolhas",
+    "slug": "a-idade-das-escolhas",
+    "description": "Depois da cheia, Ilyan e Runa precisam escolher o que fazer com a pista de Mira, o trabalho que ficou no vale e os sentimentos que crescem entre eles. A estrada ocidental levará a comunidades, provas e decisões que nenhum mapa pode tomar por elas.",
+    "status": "Em andamento",
+    "start": 356,
+    "chapters": [
+      {
+        "title": "A manhã depois da cheia",
+        "start": 356,
+        "end": 366
+      }
+    ]
+  },
+  "pages": [
+    {
+      "number": 356,
+      "title": "A manhã depois da cheia",
+      "time": "Dia 73 · amanhecer",
+      "place": "fonte-degraus-ambar",
+      "layout": "splash",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "At dawn following page 355, Ilyan and Runa leave the stepped fountain at amber village. The houses survived but still need repair. Ilyan's RIGHT wrist remains bandaged. No kiss, no time jump. Ordinary west road remains distant.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A estrada continua lá. Mas a vila ainda precisa de nós.",
+          "balloon": {
+            "x": 3,
+            "y": 10,
+            "w": 31,
+            "target_x": 32,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então começamos pelo que ficou aqui.",
+          "balloon": {
+            "x": 66,
+            "y": 18,
+            "w": 31,
+            "target_x": 72,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 357,
+      "title": "Duas folhas, duas datas",
+      "time": "Dia 73 · manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "two-panels",
+      "cast": [
+        "talin",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Talin lays old Mira survey and later unsigned note as SEPARATE pages on fixed cedar table in amber memory house. Same south door amber spiral, two west windows, north shelves. Ilyan with right wrist bandage, Runa straight black bangs. They do not merge documents or infer Mira lives.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Esta é de Mira. A outra veio depois, sem assinatura.",
+          "balloon": {
+            "x": 65,
+            "y": 24,
+            "w": 32,
+            "target_x": 79,
+            "target_y": 15
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não posso chamar as duas de resposta.",
+          "balloon": {
+            "x": 2,
+            "y": 68,
+            "w": 31,
+            "target_x": 28,
+            "target_y": 58
+          }
+        }
+      ]
+    },
+    {
+      "number": 358,
+      "title": "A ponte que espera",
+      "time": "Dia 73 · manhã",
+      "place": "casa-memoria-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "talin",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Talin explains two communities west of amber village, a damaged bridge and invitation needed before travel. Runa records directions on a separate map; Ilyan does not depart now. Fixed memory room architecture.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A primeira ponte perdeu uma tábua. Vou pedir notícias a quem mora além dela.",
+          "balloon": {
+            "x": 2,
+            "y": 28,
+            "w": 39,
+            "target_x": 20,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E o convite vem deles, não do nosso mapa.",
+          "balloon": {
+            "x": 59,
+            "y": 28,
+            "w": 38,
+            "target_x": 74,
+            "target_y": 18
+          }
+        }
+      ]
+    },
+    {
+      "number": 359,
+      "title": "O nome de quem vive lá",
+      "time": "Dia 73 · fim da manhã",
+      "place": "escada-ambar-vila",
+      "layout": "three-panels",
+      "cast": [
+        "talin",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "At the amber village communal kitchen, Talin points to repair list and west-road map. Ilyan wants to ask after Mira, learns dates and names first. Runa listens. Background villagers only indistinct, no speaker among them.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Quero saber se viram minha mãe. Preciso dizer quando ela passou.",
+          "balloon": {
+            "x": 33,
+            "y": 32,
+            "w": 40,
+            "target_x": 53,
+            "target_y": 20
+          }
+        }
+      ]
+    },
+    {
+      "number": 360,
+      "title": "O trabalho que ficou",
+      "time": "Dia 73 · meio-dia",
+      "place": "escada-ambar-vila",
+      "layout": "two-panels",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Adra in amber village courtyard organizes roof and water-channel repairs while setting a reasonable return itinerary. Ilyan, right wrist bandaged, cannot carry heavy boards; he can make light instrument copies and write to school. No unlicensed west expedition.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Voltamos pela balsa. Antes, deixamos as medidas para quem vai reparar estas casas.",
+          "balloon": {
+            "x": 2,
+            "y": 31,
+            "w": 38,
+            "target_x": 29,
+            "target_y": 19
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Minha mão não carrega tábuas. Posso copiar o que falta.",
+          "balloon": {
+            "x": 63,
+            "y": 72,
+            "w": 34,
+            "target_x": 53,
+            "target_y": 68
+          }
+        }
+      ]
+    },
+    {
+      "number": 361,
+      "title": "A peça de Pedra-Verde",
+      "time": "Dia 73 · início da tarde",
+      "place": "escada-ambar-vila",
+      "layout": "asymmetric",
+      "cast": [
+        "braka",
+        "runa"
+      ],
+      "scene": "Braka arrives from east Pedra-Verde road with a small worn sluice component. At amber courtyard she asks for forge guidance while retaining local authority. Runa measures piece with ruler, left-arm floral tattoo visible, no water magic.",
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Preciso de um molde para minha comporta. A decisão da obra é nossa.",
+          "balloon": {
+            "x": 2,
+            "y": 24,
+            "w": 39,
+            "target_x": 26,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Levarei a medida a Teren. Não vou prometer a peça antes da oficina.",
+          "balloon": {
+            "x": 60,
+            "y": 34,
+            "w": 37,
+            "target_x": 74,
+            "target_y": 20
+          }
+        }
+      ]
+    },
+    {
+      "number": 362,
+      "title": "Um gesto pequeno",
+      "time": "Dia 73 · tarde",
+      "place": "casa-memoria-ambar",
+      "layout": "closeup",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Same cedar memory table. Ilyan struggles writing questions with bandaged right wrist. Runa gently rotates paper so he can write without pain; does not take pen away. Close yet no kiss. Old Mira document and later note remain separate in folders.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Se eu inclinar a mão, a atadura prende.",
+          "balloon": {
+            "x": 3,
+            "y": 39,
+            "w": 35,
+            "target_x": 30,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então viramos a folha. A pergunta continua sua.",
+          "balloon": {
+            "x": 62,
+            "y": 39,
+            "w": 35,
+            "target_x": 73,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 363,
+      "title": "O caminho de volta",
+      "time": "Dia 73 · fim da tarde",
+      "place": "trilha-das-salgueiras",
+      "layout": "splash",
+      "cast": [
+        "sere",
+        "adra",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Travelers DEPART Escada de Âmbar east/south along known willow road toward Enseada das Conchas. Sere scouts fallen tree on public route; Adra organizes cart, Ilyan and Runa ride with equipment. This is return, not westward pursuit. No Nima present.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Árvore caída adiante. Contornamos pela trilha pública.",
+          "balloon": {
+            "x": 64,
+            "y": 49,
+            "w": 33,
+            "target_x": 63,
+            "target_y": 42
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Sem atalho pelo bosque. A balsa espera amanhã cedo.",
+          "balloon": {
+            "x": 2,
+            "y": 29,
+            "w": 33,
+            "target_x": 40,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 364,
+      "title": "Teto pago, estrada aberta",
+      "time": "Dia 73 · noite",
+      "place": "sala-hospedes-enseada",
+      "layout": "two-panels",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Group reaches Enseada das Conchas at night after road travel, lodges above oar workshop. Adra pays and records lodging and food expense, Ilyan sees repaired nets and river from window. No free miraculous lodging or same-night crossing.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Refeição e lenha entram nas contas da viagem.",
+          "balloon": {
+            "x": 51,
+            "y": 24,
+            "w": 36,
+            "target_x": 30,
+            "target_y": 19
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Atravessamos quando a corrente permitir.",
+          "balloon": {
+            "x": 62,
+            "y": 72,
+            "w": 35,
+            "target_x": 44,
+            "target_y": 65
+          }
+        }
+      ]
+    },
+    {
+      "number": 365,
+      "title": "Duas cartas",
+      "time": "Dia 74 · manhã e tarde",
+      "place": "estrada-rio-sal",
+      "layout": "three-panels",
+      "cast": [
+        "adra",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Morning Adra checks current and runs ferry from Enseada back across river; afternoon travelers continue on public road in ordinary cart. Ilyan writes TWO SEPARATE letters to Bram and Nima while cart rests; Runa does not read them. Distinct temporal panels and no teleportation.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A corrente baixou. Podemos cruzar agora.",
+          "balloon": {
+            "x": 50,
+            "y": 24,
+            "w": 33,
+            "target_x": 37,
+            "target_y": 18
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Bram e Nima receberão cartas diferentes.",
+          "balloon": {
+            "x": 2,
+            "y": 62,
+            "w": 24,
+            "target_x": 34,
+            "target_y": 71
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "As duas serão verdadeiras.",
+          "balloon": {
+            "x": 75,
+            "y": 62,
+            "w": 23,
+            "target_x": 70,
+            "target_y": 72
+          }
+        }
+      ]
+    },
+    {
+      "number": 366,
+      "title": "O peso das cópias",
+      "time": "Dia 75 · entardecer",
+      "place": "biblioteca-galeria",
+      "layout": "asymmetric",
+      "cast": [
+        "ordelia",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "After full road travel they reach Four Moons School. At archive gallery Ordelia receives TWO separate document folders: flood testimony and Mira question. Ilyan has healed only partially and must visit infirmary; Runa carries Braka measurement to forge next. No merging evidence. Same school archive identity.",
+      "lines": []
+    }
+  ]
+}
