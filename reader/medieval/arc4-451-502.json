@@ -1,0 +1,1935 @@
+{
+  "chapters": [
+    {
+      "title": "O espelho de sal",
+      "start": 450,
+      "end": 502
+    }
+  ],
+  "pages": [
+    {
+      "number": 451,
+      "title": "O preço do pomar",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "split",
+      "cast": [
+        "ilyan",
+        "escriva-municipal"
+      ],
+      "scene": "Ilyan points to the old and new sale prices in the municipal ledger; the female clerk keeps the original open on her desk.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "O pomar caiu para menos da metade.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Escrivã",
+          "text": "A venda e o aviso têm datas nesta folha.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 452,
+      "title": "Uma semana",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "stack",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa lays the official risk notice beside the sale entry, keeping both documents within the clerk's view.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O aviso chegou na semana da venda.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Isso levanta uma pergunta. Ainda não responde quem o enviou.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 453,
+      "title": "Escalas diferentes",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa aligns three paper maps by their printed scale bars on the municipal table; Ilyan watches.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Se eu alinhar pelas bordas, a saída do rio some.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então marca a escala antes de copiar a curva.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 454,
+      "title": "A oficina ausente",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Adra points to the empty area on the new municipal plan where the old plan showed the oar workshop; Runa compares.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A oficina da Enseada ficava exatamente aqui.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Na planta nova, deixaram esse espaço em branco.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 455,
+      "title": "A vala permanente",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "adra"
+      ],
+      "scene": "Runa compares the older seasonal outlet and newer permanent ditch on two plans; Adra traces the path without touching the originals.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O curso sazonal virou vala permanente no papel.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E o aviso de risco chegou antes aos compradores.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 456,
+      "title": "Nome de sociedade",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "stack",
+      "cast": [
+        "ilyan",
+        "escriva-municipal"
+      ],
+      "scene": "Ilyan reads the salt company's purchase document while the clerk turns an authorized page.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A compradora é uma sociedade de sal.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Escrivã",
+          "text": "Copie o nome inteiro, não apenas a marca.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 457,
+      "title": "O mesmo procurador",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Adra and Runa compare the signatures on the bridge finance contract and salt company purchase.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Este procurador assinou os dois contratos.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ligação de negócios. Ainda não é culpa provada.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 458,
+      "title": "Uma folha numerada",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "wide",
+      "cast": [
+        "escrivao-municipal",
+        "ilyan"
+      ],
+      "scene": "The male municipal clerk stamps the page sequence while Ilyan writes the folio number in his notebook.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Escrivão",
+          "text": "Fólio cento e doze. A cópia cita esta origem.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E o original permanece com vocês.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 459,
+      "title": "O prazo da mesa",
+      "time": "Dia 442 · manhã",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "split",
+      "cast": [
+        "escrivao-municipal",
+        "ilyan"
+      ],
+      "scene": "The male clerk closes the ledger gently at the scheduled end of consultation while Ilyan has one unfinished line.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Escrivão",
+          "text": "O turno terminou. Há outra consulta agora.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Voltaremos amanhã para completar a transcrição.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 460,
+      "title": "No corredor",
+      "time": "Dia 442 · meio-dia",
+      "place": "corredor-arquivo-municipal",
+      "layout": "stack",
+      "cast": [
+        "ilyan",
+        "eda"
+      ],
+      "scene": "Eda joins Ilyan in the stone corridor outside the municipal archive, holding the registered petition.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Podem esconder a verdade enquanto esperamos.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Uma prova sem registro seria fácil de contestar.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 461,
+      "title": "O canto do selo",
+      "time": "Dia 442 · meio-dia",
+      "place": "corredor-arquivo-municipal",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa shows Ilyan two copied seal impressions; one squared edge appears broken.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Veja este canto: a matriz não parece igual.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Ou a impressão saiu falha. Precisamos examinar a cera.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 462,
+      "title": "Pedido de exame",
+      "time": "Dia 442 · meio-dia",
+      "place": "corredor-arquivo-municipal",
+      "layout": "wide",
+      "cast": [
+        "eda",
+        "escriva-municipal"
+      ],
+      "scene": "Eda submits a written request to the female clerk for two independent wax drawings.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Duas cópias independentes e exame da cera, por favor.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Escrivã",
+          "text": "Registrarei o pedido. Nada sai desta sala sem recibo.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 463,
+      "title": "Caminho à margem",
+      "time": "Dia 442 · tarde",
+      "place": "pomar-canal-seco",
+      "layout": "split",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Adra and Runa walk a marked public road from Valecobre toward the old orchard and the dry outlet, carrying copied maps.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Hessa aceitou nos receber no pomar.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vamos ouvir antes de completar o mapa.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 464,
+      "title": "Hessa do pomar",
+      "time": "Dia 442 · tarde",
+      "place": "pomar-canal-seco",
+      "layout": "stack",
+      "cast": [
+        "hessa",
+        "adra"
+      ],
+      "scene": "Hessa, a adult orc orchard worker, welcomes Adra at the orchard gate near trimmed trees.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Vendi o pomar. A escolha foi minha.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Quero registrar por que a escolha pareceu necessária.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 465,
+      "title": "Duas colheitas",
+      "time": "Dia 442 · tarde",
+      "place": "pomar-canal-seco",
+      "layout": "asymmetric",
+      "cast": [
+        "hessa",
+        "ilyan"
+      ],
+      "scene": "Hessa shows Ilyan bare branches and her brother's treatment receipt on a workbench.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Foram duas colheitas ruins. Meu irmão precisava de tratamento.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou registrar as duas razões, sem reduzir sua decisão.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 466,
+      "title": "O preço inteiro",
+      "time": "Dia 442 · tarde",
+      "place": "pomar-canal-seco",
+      "layout": "wide",
+      "cast": [
+        "hessa",
+        "ilyan"
+      ],
+      "scene": "Hessa and Ilyan sit at the orchard table while he prepares a transcript.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Anote também o preço que consegui.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Ninguém vai resumir você como alguém que não soube negociar.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 467,
+      "title": "O rio que não mostraram",
+      "time": "Dia 442 · tarde",
+      "place": "pomar-canal-seco",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "hessa"
+      ],
+      "scene": "Runa unfolds the old seasonal waterway map for Hessa; she recognizes the stream boundary.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Esta saída sazonal existia na planta antiga.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Hessa",
+          "text": "Se a tivessem mostrado, eu teria negociado diferente.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 468,
+      "title": "Uma recusa",
+      "time": "Dia 442 · tarde",
+      "place": "pomar-canal-seco",
+      "layout": "stack",
+      "cast": [
+        "moradora-pomar",
+        "adra"
+      ],
+      "scene": "Adra speaks with an unnamed resident from the public roadside; the resident remains behind a closed half-door, face not shown.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Moradora",
+          "text": "Não quero meu nome numa acusação.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Entendo. Não publicaremos seu depoimento.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 469,
+      "title": "Casa habitada",
+      "time": "Dia 442 · tarde",
+      "place": "pomar-canal-seco",
+      "layout": "asymmetric",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Adra and Runa mark the refused family's occupied house on their field map without a name.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Ela recusou falar. A casa continua habitada.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E permanece no mapa, sem inventarmos testemunho.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 470,
+      "title": "Carta de Líria",
+      "time": "Dia 442 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "At the Valecobre lodging, Runa opens a delayed ordinary letter from Liria; Ilyan reads beside her.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Líria enviou a análise da terra das Faias.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A amostra chegou com o método registrado?",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 471,
+      "title": "Sedimento deslocado",
+      "time": "Dia 442 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa sketches Liria's sediment layers beside a small labeled soil sample; Ilyan studies the sketch.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Há água de montante onde a corrente natural não a deixaria.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Isso indica intervenção. Não quem a fez.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 472,
+      "title": "A ressalva de Oru",
+      "time": "Dia 442 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "stack",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Adra and Runa read the second page of the analysis with Oru's signed methodological caution.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Oru confirmou o método, mas não a data.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Essa ressalva vai junto com a descoberta.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 473,
+      "title": "Resposta à rival",
+      "time": "Dia 442 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Runa writes a short thank-you and request for duplicate samples; Ilyan watches from the other side of the desk.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Você vai agradecer à Líria?",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Pelo dado útil, sim. Nossa rivalidade não desapareceu.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 474,
+      "title": "A corrente de latão",
+      "time": "Dia 442 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan notices the brass-chain sketch on Liria's letter while Runa closes the folder.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela ainda prende o caderno àquela corrente.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Continua sendo ela. Isso me ajuda a confiar na autoria.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 475,
+      "title": "Segunda consulta",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "split",
+      "cast": [
+        "escriva-municipal",
+        "eda"
+      ],
+      "scene": "On the next morning, the clerk receives Eda at the municipal archive; Maelor arrives with an assistant behind him.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Escrivã",
+          "text": "A consulta de hoje está registrada.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "E as comunidades receberão cópias do que for encontrado.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 476,
+      "title": "Obras antes das chuvas",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "stack",
+      "cast": [
+        "maelor",
+        "eda"
+      ],
+      "scene": "Maelor politely faces Eda across the archive desk, dark green coat and copper square ring visible.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Maelor",
+          "text": "O vale precisa da obra antes das próximas chuvas.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "E precisa de um laudo que resista à leitura pública.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 477,
+      "title": "Quem morou ali",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "maelor",
+        "adra"
+      ],
+      "scene": "Maelor points at Runa's copied map while Adra steps forward from the group.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Maelor",
+          "text": "Alguém daqui morou junto à saída do rio?",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Eu morei. Durante anos.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 478,
+      "title": "O nome de Adra",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "maelor"
+      ],
+      "scene": "Adra stands squarely before Maelor in the municipal room; he retreats a small step, without melodrama.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Adra da Enseada das Conchas. Anote meu nome.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Maelor",
+          "text": "Seu conhecimento local ficará registrado.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 479,
+      "title": "O mapa e a pessoa",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "eda"
+      ],
+      "scene": "Runa and Eda confer by the archive window after Maelor's comment about seasonal occupation.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ele tratou a moradia como erro de mapa.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "A experiência de Adra é dado, não ruído.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 480,
+      "title": "Livro de remessas",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "stack",
+      "cast": [
+        "escrivao-municipal",
+        "ilyan"
+      ],
+      "scene": "The male clerk turns to a payment entry in the separate remittance ledger; Ilyan copies its folio number.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Escrivão",
+          "text": "Aqui: pagamento do levantamento ao gabinete.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Quem assinou a entrega do trabalho?",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 481,
+      "title": "Equipe de campo",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan and Runa compare the fee against the described survey team on a copied sheet.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "O valor cobriria uma equipe de medição.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Mas ainda não diz para onde foi cada moeda.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 482,
+      "title": "Recibo que falta",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "wide",
+      "cast": [
+        "eda",
+        "escrivao-municipal"
+      ],
+      "scene": "Eda and the clerk inspect an empty receipt field in the municipal remittance index.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Não encontro o recibo de entrega.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Escrivão",
+          "text": "Fica em outro livro. A consulta exige novo pedido.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 483,
+      "title": "Dez dias",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "split",
+      "cast": [
+        "eda",
+        "adra"
+      ],
+      "scene": "Eda writes the formal request for independent accounting while Adra watches.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Peço verificação independente. O prazo é de dez dias.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Então levamos as cópias às comunidades enquanto esperamos.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 484,
+      "title": "Duas margens",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "stack",
+      "cast": [
+        "adra",
+        "eda"
+      ],
+      "scene": "Adra and Eda make two sealed copy packets on the archive table, one for each affected community.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Uma cópia vai à Enseada; outra, às Faias.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "O protocolo terá dois destinatários.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 485,
+      "title": "Antes das compras",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan points to the date on Mira's old plan beside Runa's note of the later purchases.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "O mapa de minha mãe é anterior às vendas.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Isso separa a obra antiga das compras recentes.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 486,
+      "title": "Linha sem resposta",
+      "time": "Dia 443 · consulta",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan leaves a blank line in his notebook while Runa puts down the map carefully.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Por que alteraram uma cópia do traçado dela?",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ainda não temos o elo. Deixe a pergunta aberta.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 487,
+      "title": "A régua devolvida",
+      "time": "Dia 443 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "At their modest shared lodging, Runa returns Ilyan's brass ruler; door visibly ajar, Caio absent on outdoor cargo guard.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você acha que a Casa vai se calar?",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Temo que prefira parecer infalível.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 488,
+      "title": "Ficar um instante",
+      "time": "Dia 443 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "stack",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Two-panel progression in the half-open lodging room: Ilyan and Runa agree to stay close, then share a consensual kiss in a small lower inset; both are adults, fully clothed.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Pode ficar mais um instante?",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Posso. E quero.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 489,
+      "title": "Passos na escada",
+      "time": "Dia 443 · noite",
+      "place": "hospedaria-valecobre",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa and Ilyan step apart smiling as Caio's footsteps sound from the stair; no explicit content.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Caio voltou da ronda.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então amanhã, café antes da consulta?",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 490,
+      "title": "Café antes de tudo",
+      "time": "Dia 444 · manhã",
+      "place": "hospedaria-valecobre",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Next morning at a small lodging breakfast table, Runa and Ilyan exchange a quiet smile over bread and maps.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Café primeiro. Depois, mais números.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Combinado. E eu carrego as cópias.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 491,
+      "title": "As cópias na Casa",
+      "time": "Dia 444 · tarde",
+      "place": "casa-das-quatro-luas",
+      "layout": "split",
+      "cast": [
+        "ordelia",
+        "adra"
+      ],
+      "scene": "At the House of Four Moons archive, Ordelia receives the registered packets from Adra.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Recebo as cópias, com origem e limite de uso.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Hessa ainda precisa conferir o próprio depoimento.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 492,
+      "title": "As duas palavras",
+      "time": "Dias 447–449 · arquivo da Casa",
+      "place": "casa-das-quatro-luas",
+      "layout": "stack",
+      "cast": [
+        "adra",
+        "ordelia"
+      ],
+      "scene": "Days later, Adra shows Ordelia Hessa's corrected transcript returned by ordinary messenger, two words visibly amended.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Ela trocou duas palavras que mudavam o sentido.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "A versão corrigida substituirá a anterior no resumo.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 493,
+      "title": "Três colunas",
+      "time": "Dias 447–449 · arquivo da Casa",
+      "place": "casa-das-quatro-luas",
+      "layout": "asymmetric",
+      "cast": [
+        "ordelia",
+        "runa"
+      ],
+      "scene": "Ordelia and Runa lay out a public provisional summary with three labeled columns, at the school's archive table.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Observado, hipótese, falta testar.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E nenhuma pista atravessa as colunas sem prova.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 494,
+      "title": "Crédito a Nima",
+      "time": "Dias 447–449 · arquivo da Casa",
+      "place": "casa-das-quatro-luas",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "ordelia"
+      ],
+      "scene": "Ilyan checks a line crediting Nima of Pedra-Mansa for the eight-tooth mechanism suggestion; Ordelia stamps the letter to be sent.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "O mecanismo de oito dentes leva o nome de Nima.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "A cópia seguirá a ela pelo correio comum.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 495,
+      "title": "O testemunho de Braka",
+      "time": "Dia 450 · conselho",
+      "place": "casa-das-quatro-luas",
+      "layout": "split",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Adra and Ilyan review the public summary of Braka's sluice testimony by the school's map wall.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Braka aceitou publicar o que viu na comporta.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Isso mostra um padrão, sem inventar um autor único.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 496,
+      "title": "A contestação",
+      "time": "Dia 450 · conselho",
+      "place": "casa-das-quatro-luas",
+      "layout": "stack",
+      "cast": [
+        "eda",
+        "runa"
+      ],
+      "scene": "Eda and Runa read Maelor's formal objection to the provisional report; the stamped document is plainly a letter, not a person in the room.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Maelor contestou a publicação.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Mas não negou os números de registro.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 497,
+      "title": "Quem paga a estrada",
+      "time": "Dia 450 · conselho",
+      "place": "casa-das-quatro-luas",
+      "layout": "asymmetric",
+      "cast": [
+        "tovo",
+        "ordelia"
+      ],
+      "scene": "Tovo and Ordelia inspect the House's travel ledger and open expenses at the council table.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Outra viagem precisa de transporte e refeições. Quem paga?",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Vamos propor turnos e treino de copistas, com custo anotado.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 498,
+      "title": "Notícia do espelho",
+      "time": "Dia 451 · notícias do oeste",
+      "place": "casa-das-quatro-luas",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "scene": "Adra and Runa open Talin's delivered letter about a proposed cart road to the shallow salt mirror west of the Faias.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Querem abrir via de carroças até o espelho de sal.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Isso mudaria a saída sazonal outra vez.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 499,
+      "title": "Sem pedido aos guardiões",
+      "time": "Dia 451 · notícias do oeste",
+      "place": "casa-das-quatro-luas",
+      "layout": "split",
+      "cast": [
+        "adra",
+        "eda"
+      ],
+      "scene": "Adra and Eda compare the letter with the public register of permissions at the council table.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Ysra diz que não receberam pedido de passagem.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Sem consentimento, não há vistoria além da pedra.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 500,
+      "title": "O recibo esperado",
+      "time": "Dia 453 · décimo dia",
+      "place": "arquivo-municipal-valecobre",
+      "layout": "stack",
+      "cast": [
+        "escrivao-municipal",
+        "eda"
+      ],
+      "scene": "On the tenth day, Eda and the clerk at the municipal desk inspect a newly obtained accounting receipt with two signatures and an unknown rubric.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Escrivão",
+          "text": "Duas assinaturas válidas e uma rubrica por identificar.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Registre essa distinção no protocolo.",
+          "balloon": {
+            "x": 55,
+            "y": 62,
+            "w": 41,
+            "target_x": 77,
+            "target_y": 77
+          }
+        }
+      ]
+    },
+    {
+      "number": 501,
+      "title": "O conflito",
+      "time": "Dia 454 · conselho",
+      "place": "casa-das-quatro-luas",
+      "layout": "asymmetric",
+      "cast": [
+        "eda",
+        "adra"
+      ],
+      "scene": "Eda and Adra address the House council, displaying the accounting receipt and purchase record.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Há vínculo financeiro que exige investigação formal.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Não prova quem armou o cervo nem quem cortou o sino.",
+          "balloon": {
+            "x": 54,
+            "y": 64,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 79
+          }
+        }
+      ]
+    },
+    {
+      "number": 502,
+      "title": "Uma estrada por desenhar",
+      "time": "Dia 454 · conselho",
+      "place": "casa-das-quatro-luas",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan and Runa stand by the House's map wall, looking toward the western salt mirror route with a blank line for Mira.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Quero respostas sobre Mira, mas não vou inventá-las.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 41,
+            "target_x": 25,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então escutamos quem vive na margem antes de desenhar a estrada.",
+          "balloon": {
+            "x": 55,
+            "y": 12,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    }
+  ]
+}

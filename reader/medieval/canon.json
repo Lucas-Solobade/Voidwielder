@@ -152,6 +152,31 @@
       "fixed_appearance": "Humano baixo e delgado de pele oliva pálida, olhos azul-acinzentados, cabelos BRANCOS CURTOS com entrada em V, três dedos rígidos na mão esquerda. Nunca surge como velho de cabelo longo ou guerreiro.",
       "fixed_clothing": "Casaco verde-escuro de inspetor e anel quadrado de cobre."
     },
+    "hessa": {
+      "name": "Hessa",
+      "age": 46,
+      "role": "orc antiga proprietária do pomar junto ao canal seco; testemunha da venda",
+      "fixed_appearance": "Orc adulta de pele verde-oliva escura, rosto largo, pequenas presas inferiores, tranças negras com fios prateados e cicatriz curta sobre a sobrancelha direita. Jamais infantilizar ou alterar a cicatriz.",
+      "fixed_clothing": "Xale de trabalho ocre sobre camisa de linho escuro e saia prática de pomar."
+    },
+    "escriva-municipal": {
+      "name": "Escrivã municipal",
+      "role": "funcionária que apresenta os livros originais na consulta de Valecobre",
+      "fixed_appearance": "Humana adulta de pele clara, cabelos castanhos presos em coque trançado e rosto fino sereno; mesma pessoa apresentada na página 450.",
+      "fixed_clothing": "Túnica creme sob capa azul-marinho com detalhes dourados e medalhão redondo do arquivo."
+    },
+    "escrivao-municipal": {
+      "name": "Escrivão municipal",
+      "role": "funcionário que numera folhas e consulta o livro de remessas",
+      "fixed_appearance": "Humano adulto de pele clara, cabelo castanho curto, barba castanha curta e rosto quadrado; mesma pessoa da página 450.",
+      "fixed_clothing": "Chapéu de arquivo e veste azul-marinho com detalhes dourados."
+    },
+    "moradora-pomar": {
+      "name": "Moradora da margem",
+      "role": "proprietária que recusa depoimento, mantendo a casa como habitada no mapa",
+      "fixed_appearance": "Não mostrar rosto: permanece atrás da meia-porta da casa; somente voz, mão e silhueta adulta, sem identidade inventada.",
+      "fixed_clothing": "Manga simples de linho castanho visível na meia-porta."
+    },
     "adra": {
       "name": "Adra",
       "age": 31,
@@ -273,7 +298,12 @@
     "vale-do-junco": "Vilarejo natal de Runa após a estrada norte; casas sobre estacas, tanques de pigmento e moinho junto ao canal. Marca de nível antiga fica perto da junta; só o responsável local pode autorizar abertura da comporta.",
     "enfermaria-leste": "Ala leste da Casa: três camas de linho alinhadas sob janelas ogivais, armário de ataduras ao norte e faixa azul com quatro luas; a curandeira registra restrições antes de treinos.",
     "sala-medidas": "Sala do anexo de agrimensores: mesa longa com réguas de cobre, três janelas altas a oeste, quadros de escala na parede norte e armário de instrumentos a leste. Runa e Ilyan refazem gráficos nesta mesa.",
-    "observatorio-escola": "Acima da ala de mapas, escada estreita e porta pesada; quatro janelas de vidro espesso para cada rumo, mesa central de instrumentos celestes e peso de latão. Avel controla acesso e assina medições."
+    "observatorio-escola": "Acima da ala de mapas, escada estreita e porta pesada; quatro janelas de vidro espesso para cada rumo, mesa central de instrumentos celestes e peso de latão. Avel controla acesso e assina medições.",
+    "arquivo-municipal-valecobre": "Sala pública de pedra com três janelas ogivais ao norte, balcão de carvalho, bandeiras azul-marinho e dourado, mesas de consulta centrais e livros originais sob supervisão de dois escrivães. A saída fica no corredor sul. Documentos não saem sem recibo.",
+    "corredor-arquivo-municipal": "Corredor de pedra ao sul da sala pública, com banco de carvalho junto à janela e porta gradeada para o arquivo; acesso ao exterior pela escada oeste.",
+    "pomar-canal-seco": "Pomar antigo a oeste de Valecobre, alcançado por estrada pública; árvores podadas em linhas norte-sul, mesa de trabalho de Hessa à entrada leste, canal seco visível além da cerca oeste. Casa da família que recusa depoimento fica adiante na mesma estrada.",
+    "hospedaria-valecobre": "Hospedaria simples próxima ao arquivo: sala térrea de café e escada de madeira ao norte; Ilyan divide quarto superior com Caio durante visita, com cama separada para cada um. Caio faz turno externo de guarda de carga no dia 443 à noite.",
+    "casa-das-quatro-luas-conselho": "Sala de conselho ligada à biblioteca por corredor leste, mesa de carvalho comprida, mural de mapas a oeste e livro de despesas de Ordelia. Arquivo escolar fica na galeria superior já estabelecida."
   },
   "magic_rules": [
     "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
@@ -361,6 +391,7 @@
     "Dias 432–436: páginas 421–427 — Ordelia registra o selo como pista; chega notícia da segunda marca ao norte das Faias. Talin pede conversa formal aos guardiões, Oru e Beren ajudam a preparar medições e Runa e Ilyan entregam observações independentes. Quatro dias de espera não equivalem a autorização de entrada.",
     "Dias 437–439: páginas 428–435 — licença limitada à pedra visível; Ilyan, Runa e Adra vão a pé ao cais leste, cruzam na balsa para a Enseada e pernoitam. No dia seguinte caminham até Escada de Âmbar, onde Talin se junta, e dormem no posto de guardiões. Ysra encontra os quatro na clareira pública, concede medição acompanhada após registrar restrições. A pedra tem dois traços e fenda; a lembrança de uma cartógrafa não confirma Mira.",
     "Dias 439–442: páginas 436–450 — corvo de turfa imita som, fada decide pela semente, duende devolve mapa após reparo de três estacas. Runa registra o canto perdido; guardiões suspendem canal seco. Grupo retorna pela Enseada e balsa, descansa na estrada, chega à Casa e inicia consulta pública sobre três lotes. Ysra não segue ao cais; Nima permanece em Pedra-Mansa.",
+    "Dias 442–454: páginas 451–502 — consulta municipal numerada revela preços e mapa da saída sazonal omitida; Hessa presta depoimento e corrige sua transcrição, outra família recusa. Líria envia análise de sedimento revisada por Oru; Maelor contesta interpretação e admite apenas pagamento do levantamento. Eda pede auditoria de dez dias; recibo posterior sustenta conflito financeiro, não autoria das armadilhas, do sino ou do desaparecimento de Mira. Conselho exige consentimento de comunidades para a etapa do espelho de sal. Nima segue em Pedra-Mansa e recebe crédito por carta comum.",
     "Pendências posteriores: Líria permanece rival de Runa; suas amostras no capítulo 30 são verificadas sem apagar a rivalidade. Um confronto mágico entre ambas requer presença na mesma cena, motivo e regras estabelecidas. A relação adulta de Ilyan e Runa cresce por escolha recíproca; cenas íntimas da HQ serão não explícitas e contextualizadas, sem substituir o enredo."
   ],
   "comic_layout_rules": [
