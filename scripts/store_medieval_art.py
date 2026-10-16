@@ -17,5 +17,7 @@ if target.exists() or static.exists():
     raise SystemExit(f"Page {number} already exists; review it before replacing")
 shutil.copy2(source, target)
 with Image.open(source) as image:
-    image.save(static, "WEBP", quality=86, method=6)
+    # Keep the public static export below the host's 256 MiB expanded limit.
+    image.thumbnail((720, 1080), Image.Resampling.LANCZOS)
+    image.save(static, "WEBP", quality=50, method=6)
 print(number, target.stat().st_size, static.stat().st_size)
