@@ -1,0 +1,479 @@
+{
+  "chapters": [
+    {
+      "title": "A língua das folhas",
+      "start": 421,
+      "end": 435
+    }
+  ],
+  "pages": [
+    {
+      "number": 421,
+      "title": "O selo no arquivo",
+      "time": "Dia 432 · tarde",
+      "place": "biblioteca-galeria",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "ordelia"
+      ],
+      "scene": "Ordelia registra as cartas e lembra que semelhança de selo quadrado não prova o remetente.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A forma do selo é uma pista, não uma assinatura.",
+          "balloon": {
+            "x": 61,
+            "y": 30,
+            "w": 36,
+            "target_x": 90,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 422,
+      "title": "Outra marca ao norte",
+      "time": "Dia 433 · manhã",
+      "place": "biblioteca-galeria",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Mensageiro das Faias chega por via comum e comunica uma segunda marca meio dia a pé ao norte da ponte, junto ao Bosque da Vidraça; Ilyan e Runa conferem mapa.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A marca fica meio dia ao norte.",
+          "balloon": {
+            "x": 71,
+            "y": 44,
+            "w": 27,
+            "target_x": 68,
+            "target_y": 41
+          }
+        }
+      ]
+    },
+    {
+      "number": 423,
+      "title": "Um pedido, não um passe",
+      "time": "Dia 433 · tarde",
+      "place": "escada-de-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "talin",
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Talin escreve aos guardiões de Escada de Âmbar pedindo conversa delimitada e envia cópia por mensageiro à escola; ele ainda não viaja com Ilyan e Runa.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Peço uma conversa na margem. Quatro visitantes, limites por escrito.",
+          "balloon": {
+            "x": 56,
+            "y": 20,
+            "w": 41,
+            "target_x": 51,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 424,
+      "title": "Água que se perde",
+      "time": "Dia 433 · tarde",
+      "place": "sala-elementos",
+      "layout": "asymmetric",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "scene": "Oru ensina variações de corrente subterrânea; Runa testa dois frascos e descarta o que vaza.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "O curso muda com a estação. Precisamos medir.",
+          "balloon": {
+            "x": 3,
+            "y": 29,
+            "w": 31,
+            "target_x": 26,
+            "target_y": 24
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Este frasco perde água. Vai sair do ensaio.",
+          "balloon": {
+            "x": 54,
+            "y": 83,
+            "w": 39,
+            "target_x": 47,
+            "target_y": 85
+          }
+        }
+      ]
+    },
+    {
+      "number": 425,
+      "title": "Três hipóteses",
+      "time": "Dia 434 · manhã",
+      "place": "patio-central",
+      "layout": "slanted",
+      "cast": [
+        "beren",
+        "ilyan"
+      ],
+      "scene": "Beren demonstra com pedras como raiz, cheia ou pedreiro podem mover uma marca; Ilyan anota hipóteses sem escolher culpado.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Raiz, cheia ou pedreiro. Primeiro examinamos a base.",
+          "balloon": {
+            "x": 37,
+            "y": 58,
+            "w": 39,
+            "target_x": 31,
+            "target_y": 54
+          }
+        }
+      ]
+    },
+    {
+      "number": 426,
+      "title": "Quem vai e quem fica",
+      "time": "Dia 434 · tarde",
+      "place": "portao-sul",
+      "layout": "three-panels",
+      "cast": [
+        "adra",
+        "ilyan",
+        "runa",
+        "sere"
+      ],
+      "scene": "Adra retorna da balsa com o nome de Ysra da Margem; Sere registra que estará numa inspeção ao sul. A futura equipe será Ilyan, Runa, Adra e Talin.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Ysra nos encontrará na margem. Sere seguirá ao sul.",
+          "balloon": {
+            "x": 34,
+            "y": 28,
+            "w": 40,
+            "target_x": 28,
+            "target_y": 34
+          }
+        }
+      ]
+    },
+    {
+      "number": 427,
+      "title": "Duas assinaturas",
+      "time": "Dia 435 · manhã",
+      "place": "biblioteca-galeria",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "ordelia"
+      ],
+      "scene": "Ilyan e Runa conversam depois do primeiro beijo, preservam observações independentes e entregam duas folhas assinadas a Ordelia.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Não quero que uma discordância nossa apague seu trabalho.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 42,
+            "target_x": 34,
+            "target_y": 23
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Nem eu. Duas folhas, duas assinaturas.",
+          "balloon": {
+            "x": 55,
+            "y": 27,
+            "w": 40,
+            "target_x": 73,
+            "target_y": 23
+          }
+        }
+      ]
+    },
+    {
+      "number": 428,
+      "title": "Licença estreita",
+      "time": "Dia 437 · manhã",
+      "place": "portao-sul",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra"
+      ],
+      "scene": "Depois de quatro dias de espera, a escola obtém licença limitada à pedra visível; o trio sai a pé pelo portão sul até o cais leste.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Mediremos a pedra visível da trilha. Nada além disso.",
+          "balloon": {
+            "x": 60,
+            "y": 53,
+            "w": 37,
+            "target_x": 56,
+            "target_y": 58
+          }
+        }
+      ]
+    },
+    {
+      "number": 429,
+      "title": "A travessia do sal",
+      "time": "Dia 437 · tarde",
+      "place": "balsa-do-sal",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra"
+      ],
+      "scene": "Adra conduz o trio de balsa da margem leste para a Enseada das Conchas, enfrenta a corrente e todos pagam por pernoite ali.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Segurem-se. A corrente cresceu com o degelo.",
+          "balloon": {
+            "x": 2,
+            "y": 32,
+            "w": 31,
+            "target_x": 24,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 430,
+      "title": "O quarto viajante",
+      "time": "Dia 438 · manhã",
+      "place": "escada-de-ambar",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin"
+      ],
+      "scene": "Após dormir na Enseada, o trio caminha até Escada de Âmbar; Talin se junta a eles ali com lista de guardiões que aceitaram conversa, não posse do bosque.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Aceitaram conversar conosco. Isso ainda não é entrada no bosque.",
+          "balloon": {
+            "x": 62,
+            "y": 70,
+            "w": 35,
+            "target_x": 79,
+            "target_y": 65
+          }
+        }
+      ]
+    },
+    {
+      "number": 431,
+      "title": "O posto da família",
+      "time": "Dia 438 · noite",
+      "place": "posto-guardioes-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin"
+      ],
+      "scene": "Os quatro pagam alimento e cama no posto de uma família guardiã e guardam mapas e frascos; só seguirão de manhã.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Guardo os dois frascos medidos. O que vazava ficou na escola.",
+          "balloon": {
+            "x": 54,
+            "y": 68,
+            "w": 42,
+            "target_x": 49,
+            "target_y": 73
+          }
+        }
+      ]
+    },
+    {
+      "number": 432,
+      "title": "O limite da trilha",
+      "time": "Dia 439 · manhã",
+      "place": "clareira-margem-vidraca",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin",
+        "ysra"
+      ],
+      "scene": "Os quatro chegam a pé à clareira onde acaba a trilha comum. Ysra aproxima-se do bosque e questiona efeitos de uma futura estrada comercial.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Quem responderá se o mapa abrir uma estrada sobre as raízes?",
+          "balloon": {
+            "x": 53,
+            "y": 92,
+            "w": 41,
+            "target_x": 84,
+            "target_y": 90
+          }
+        }
+      ]
+    },
+    {
+      "number": 433,
+      "title": "O acordo em voz alta",
+      "time": "Dia 439 · manhã",
+      "place": "clareira-margem-vidraca",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin",
+        "ysra"
+      ],
+      "scene": "Adra registra nomes e restrições; Talin mostra a autorização dos guardiões. Ysra concede apenas medição acompanhada, sem licença de obra.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Uma observação não autoriza obra. Anoto os quatro nomes.",
+          "balloon": {
+            "x": 3,
+            "y": 21,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 19
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Concedo uma medida, sob acompanhamento.",
+          "balloon": {
+            "x": 52,
+            "y": 92,
+            "w": 43,
+            "target_x": 70,
+            "target_y": 89
+          }
+        }
+      ]
+    },
+    {
+      "number": 434,
+      "title": "Uma faixa de líquen",
+      "time": "Dia 439 · tarde",
+      "place": "pedra-medicao-vidraca",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin",
+        "ysra"
+      ],
+      "scene": "A equipe escoltada alcança a pedra coberta de líquen. Ilyan pede consentimento; Ysra indica a estreita faixa que pode limpar sem tocar a raiz.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Posso limpar só esta faixa?",
+          "balloon": {
+            "x": 2,
+            "y": 44,
+            "w": 33,
+            "target_x": 27,
+            "target_y": 41
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Esta. A raiz permanece intacta.",
+          "balloon": {
+            "x": 57,
+            "y": 25,
+            "w": 40,
+            "target_x": 69,
+            "target_y": 21
+          }
+        }
+      ]
+    },
+    {
+      "number": 435,
+      "title": "A cartógrafa sem nome",
+      "time": "Dia 439 · tarde",
+      "place": "pedra-medicao-vidraca",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin",
+        "ysra"
+      ],
+      "scene": "Runa mede os dois traços e registra erro possível da fenda. Ilyan pergunta por Mira; Ysra recorda uma cartógrafa sem afirmar nome ou destino.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Mira esteve aqui?",
+          "balloon": {
+            "x": 70,
+            "y": 56,
+            "w": 28,
+            "target_x": 63,
+            "target_y": 54
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Lembro uma cartógrafa. Não sei o nome dela.",
+          "balloon": {
+            "x": 42,
+            "y": 77,
+            "w": 40,
+            "target_x": 53,
+            "target_y": 74
+          }
+        }
+      ]
+    }
+  ]
+}

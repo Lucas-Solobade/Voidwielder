@@ -15,7 +15,8 @@
     "varek": "reader/medieval/references/individual/varek.png",
     "adra": "reader/medieval/references/individual/adra.png",
     "eda": "reader/medieval/references/individual/eda.png",
-    "beren": "reader/medieval/references/individual/beren.png"
+    "beren": "reader/medieval/references/individual/beren.png",
+    "ysra": "reader/medieval/references/individual/ysra.png"
   },
   "characters": {
     "ilyan": {
@@ -172,6 +173,12 @@
       "fixed_appearance": "Elfo adulto de pele bronze-clara, cabelo castanho-avermelhado CURTO, orelhas pontudas e cicatriz fina em forma de folha na bochecha DIREITA. Não tem a trança branca de Sere.",
       "fixed_clothing": "Manto ocre de guardião, roupa de viagem castanha e cajado de freixo sem lâmina."
     },
+    "ysra": {
+      "name": "Ysra",
+      "role": "emissária escolhida para os acordos de passagem do Bosque da Vidraça; não governa todas as criaturas",
+      "fixed_appearance": "Feérica adulta de pele castanho-terra úmida, olhos inteiramente dourados sem branco aparente, cabelo longo escuro com textura de fibras de casca e dois pequenos galhos vivos junto às têmporas. Nunca envelhece ou muda de espécie entre páginas.",
+      "fixed_clothing": "Vestes medievais de musgo e umbra, fibras e casca discretas."
+    },
     "daro": {
       "name": "Daro",
       "age": 34,
@@ -240,7 +247,11 @@
     "comporta-pedraverde": "Comporta antiga a LESTE do posto; só observação externa antes do consentimento do conselho orc.",
     "ponte-faias": "Ponte comunitária a oeste com duas fileiras de pilares de pedra e tábuas de idades diferentes. A margem oeste chega a uma casa de pedágio e assembleia pública. A cheia deslocou apoio e a travessia de carros permanece condicionada à vistoria.",
     "alojamento-faias": "Casa de hóspedes cedida pela comunidade da Ponte das Faias: banco baixo junto ao fogareiro, um quarto de instrumentos e janela para a ponte. Não pertence à Escola dos Diques.",
-    "estrada-faias": "Rota pública por terra entre Ponte das Faias e Valecobre; caravana percorre dois dias com paradas, chuva e alojamento. Não há portal ou teletransporte."
+    "estrada-faias": "Rota pública por terra entre Ponte das Faias e Valecobre; caravana percorre dois dias com paradas, chuva e alojamento. Não há portal ou teletransporte.",
+    "bosque-vidraca": "Bosque a norte das Faias, de folhas de salgueiro translúcidas quando secas. A trilha comum termina numa clareira; além dela o acesso depende de guardiões locais e acordo com a emissária Ysra.",
+    "posto-guardioes-ambar": "Posto simples de uma família de guardiões na Escada de Âmbar. Visitantes pagam por comida e cama, guardam instrumentos e só partem à clareira na manhã seguinte.",
+    "clareira-margem-vidraca": "Clareira terminal da trilha pública junto a raízes limítrofes do Bosque da Vidraça. Ysra encontra visitantes ali a pé; nenhum consentimento é presumido.",
+    "pedra-medicao-vidraca": "Pedra antiga de medição vista da trilha licenciada. Tem líquen até a metade, dois traços em épocas diferentes e uma fenda acima; Ysra autoriza limpar somente uma estreita faixa, sob acompanhamento."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -346,7 +357,9 @@
     "Dias 363–387: páginas 385–387 — passa cerca de um ano de estudo; Runa faz 18 anos no dia 363 e Ilyan no dia 387. Nenhuma fisionomia é alterada pelo aniversário.",
     "Dias 388–411: páginas 388–399 — Nima adulta confessa sentimento surgido com a distância por carta de Pedra-Mansa; quatro dias de entrega, Ilyan responde amizade sem promessa, seis dias de retorno. As marcas do oeste e o mecanismo seguem provas separadas.",
     "Dias 412–424: páginas 400–412 — seta tardia no livro, aula de solo de Oru, oferta dos Diques, proposta exclusiva de Maelor contestada, recusa da bolsa e aprovação de ensaio público; equipe viaja fisicamente de balsa até as Faias.",
-    "Dias 425–432: páginas 413–420 — Beren e o conselho vistoriaram ponte; após retorno de dois dias, Avel supervisiona observatório e desce. Ilyan e Runa, ambos 18, consentem com primeiro beijo na noite do dia 431. Na manhã seguinte correção de mapa e selo de Maelor não viram prova automática."
+    "Dias 425–432: páginas 413–420 — Beren e o conselho vistoriaram ponte; após retorno de dois dias, Avel supervisiona observatório e desce. Ilyan e Runa, ambos 18, consentem com primeiro beijo na noite do dia 431. Na manhã seguinte correção de mapa e selo de Maelor não viram prova automática.",
+    "Dias 432–436: páginas 421–427 — Ordelia registra o selo como pista; chega notícia da segunda marca ao norte das Faias. Talin pede conversa formal aos guardiões, Oru e Beren ajudam a preparar medições e Runa e Ilyan entregam observações independentes. Quatro dias de espera não equivalem a autorização de entrada.",
+    "Dias 437–439: páginas 428–435 — licença limitada à pedra visível; Ilyan, Runa e Adra vão a pé ao cais leste, cruzam na balsa para a Enseada e pernoitam. No dia seguinte caminham até Escada de Âmbar, onde Talin se junta, e dormem no posto de guardiões. Ysra encontra os quatro na clareira pública, concede medição acompanhada após registrar restrições. A pedra tem dois traços e fenda; a lembrança de uma cartógrafa não confirma Mira."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
