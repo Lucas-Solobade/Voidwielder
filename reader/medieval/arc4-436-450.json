@@ -1,0 +1,289 @@
+{
+  "chapters": [
+    {
+      "title": "O espelho de sal",
+      "start": 450,
+      "end": 450
+    }
+  ],
+  "pages": [
+    {
+      "number": 436,
+      "title": "A palavra do corvo",
+      "time": "Dia 439 · tarde",
+      "place": "pedra-medicao-vidraca",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "talin"
+      ],
+      "scene": "Corvo de turfa imita 'oeste'; Ilyan dá um passo, Talin o detém. A ave recolhe inseto e vai embora; imitação não indica trilha.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Ele imita sons. Não siga uma palavra.",
+          "balloon": {
+            "x": 3,
+            "y": 61,
+            "w": 35,
+            "target_x": 17,
+            "target_y": 72
+          }
+        }
+      ]
+    },
+    {
+      "number": 437,
+      "title": "A semente e a fita",
+      "time": "Dia 439 · tarde",
+      "place": "bosque-vidraca",
+      "layout": "four-panels",
+      "cast": [
+        "runa",
+        "ysra"
+      ],
+      "scene": "Pequena fada tenta levar fita vermelha do estojo de Runa; aceita semente caída e solta a fita. Ysra lembra que a fada decide por si e não integra o acordo.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "A fada aceitou a semente e soltou a fita. Ysra lembrou que o gesto fora escolha da criatura, não uma promessa do bosque."
+    },
+    {
+      "number": 438,
+      "title": "O mapa nas mãos do duende",
+      "time": "Dia 439 · fim da tarde",
+      "place": "bosque-vidraca",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "talin",
+        "ysra"
+      ],
+      "scene": "Duende da margem encontra o mapa de pano que Ilyan perdera e indica pegadas fora do caminho demarcado; Ysra traduz sua queixa.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "Um duende trouxe o mapa que Ilyan perdera. O canto já estava rasgado, e as pegadas fora da trilha exigiam uma explicação."
+    },
+    {
+      "number": 439,
+      "title": "Dois passos ao sul",
+      "time": "Dia 439 · fim da tarde",
+      "place": "bosque-vidraca",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "ysra",
+        "talin"
+      ],
+      "scene": "Chuva apagou sinais de casca; Ysra mostra trilha dois passos ao sul. Ilyan pede desculpas por pisar no musgo. Duende aponta três estacas derrubadas.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "A chuva apagara os sinais de casca clara. Ilyan pisara no musgo novo; para reparar o dano, o grupo teria de recolocar três estacas."
+    },
+    {
+      "number": 440,
+      "title": "Três estacas antes do escuro",
+      "time": "Dia 439 · crepúsculo",
+      "place": "bosque-vidraca",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin"
+      ],
+      "scene": "O grupo recoloca três estacas da guia sem pisar mais no musgo; só então o duende devolve mapa rasgado e enlameado.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "O trabalho tomou o resto da luz. Só depois das três estacas firmes o duende devolveu o mapa enlameado."
+    },
+    {
+      "number": 441,
+      "title": "O canto que falta",
+      "time": "Dia 439 · noite",
+      "place": "posto-guardioes-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "ysra"
+      ],
+      "scene": "No posto, Runa redesenha curvas do mapa registrando canto perdido. Adra envia cópias a guardiões e conselho; Ysra pede que conste o pisoteio reparado.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "Runa redesenhou a curva sem esconder o canto perdido. Adra preparou cópias para o conselho e para os guardiões, incluindo o erro na trilha."
+    },
+    {
+      "number": 442,
+      "title": "Escolha à janela",
+      "time": "Dia 439 · noite",
+      "place": "posto-guardioes-ambar",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "No pequeno quarto do posto, Ilyan pede para retirar poeira do cabelo de Runa. Ela consente; se beijam sem pressa e depois discutem se a fenda da pedra precede a segunda marca.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "No quarto do posto, Runa consentiu com a aproximação. O beijo não encerrou a conversa: a fenda da pedra continuava sem data certa."
+    },
+    {
+      "number": 443,
+      "title": "A visita suspensa",
+      "time": "Dia 440 · manhã",
+      "place": "posto-guardioes-ambar",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin",
+        "ysra"
+      ],
+      "scene": "Conselho dos guardiões suspende novas visitas ao canal seco até rever as estacas e o mapa; o grupo aceita a decisão e prepara retorno.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "Na manhã seguinte, os guardiões suspenderam a visita ao canal seco até verificar a trilha e o mapa. Ilyan aceitou o atraso que seu erro ajudara a causar."
+    },
+    {
+      "number": 444,
+      "title": "Pelo caminho certo",
+      "time": "Dia 440 · manhã",
+      "place": "bosque-vidraca",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin"
+      ],
+      "scene": "Equipe segue trilha correta de volta, passando as três estacas. Ilyan pede a Talin notícia da revisão; Talin aceita sem conceder nova autorização.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "O retorno seguiu o caminho delimitado. Talin enviaria notícia da vistoria, sem tratar isso como licença para entrar novamente."
+    },
+    {
+      "number": 445,
+      "title": "Três lotes na Enseada",
+      "time": "Dia 440 · tarde",
+      "place": "enseada-das-conchas",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin"
+      ],
+      "scene": "No cais da Enseada, mensageiro entrega notícia de três lotes próximos ao leito seco vendidos por preço baixo no mês da segunda marca; compradores finais desconhecidos.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Três lotes. Pedirei o livro de vendas.",
+          "balloon": {
+            "x": 45,
+            "y": 8,
+            "w": 41,
+            "target_x": 70,
+            "target_y": 19
+          }
+        }
+      ]
+    },
+    {
+      "number": 446,
+      "title": "Datas não são culpados",
+      "time": "Dia 440 · tarde",
+      "place": "enseada-das-conchas",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra"
+      ],
+      "scene": "Adra redige pedido formal ao conselho; Runa compara datas da marca e das vendas, mas anota hipótese, não acusação. Ilyan guarda mapa rasgado.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "A data das vendas coincidia com a nova marca em algumas cópias. Runa registrou a coincidência como hipótese, não como prova contra alguém."
+    },
+    {
+      "number": 447,
+      "title": "Reparo também se mede",
+      "time": "Dia 440 · tarde",
+      "place": "enseada-das-conchas",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "talin",
+        "adra",
+        "runa"
+      ],
+      "scene": "Pim, gnomo da Enseada, examina esboço da estaca e explica como o musgo revelará se a trilha voltou a ser seguida. Talin promete enviar verificação.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "Pim explicou como o musgo mostraria se o reparo funcionara. Talin ficou responsável por buscar a verificação dos guardiões."
+    },
+    {
+      "number": 448,
+      "title": "Carta sem cobrança",
+      "time": "Dia 440 · entardecer",
+      "place": "balsa-do-sal",
+      "layout": "two-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra"
+      ],
+      "scene": "Balsa cruza de volta da Enseada para leste. Runa e Ilyan conversam sobre interpretação da fada e sobre carta a Nima, respeitando o tempo da amiga em Pedra-Mansa.",
+      "novel_chapter": 29,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você vai escrever à Nima?",
+          "balloon": {
+            "x": 56,
+            "y": 8,
+            "w": 42,
+            "target_x": 72,
+            "target_y": 19
+          }
+        }
+      ]
+    },
+    {
+      "number": 449,
+      "title": "Regresso à Casa",
+      "time": "Dia 441 · tarde",
+      "place": "casa-das-quatro-luas",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra",
+        "talin"
+      ],
+      "scene": "Depois de pernoite na estrada, quatro viajantes chegam à Casa; Adra entrega cópias a uma escrivã do arquivo escolar para registro e remessa a Ordelia.",
+      "novel_chapter": 29,
+      "lines": [],
+      "narration": "Após pernoite e mais um dia de estrada, a equipe chegou à Casa. A escrivã recebeu as cópias das duas comunidades para registro."
+    },
+    {
+      "number": 450,
+      "title": "O livro público",
+      "time": "Dia 442 · manhã",
+      "place": "valecobre",
+      "layout": "four-panels",
+      "cast": [
+        "ilyan",
+        "runa",
+        "adra"
+      ],
+      "scene": "Após Eda obter horário por petição registrada, o grupo consulta o arquivo municipal de Valecobre. Uma escrivã apresenta o livro de vendas e outro escrivão numera folhas; ninguém leva originais.",
+      "novel_chapter": 30,
+      "lines": [],
+      "narration": "A petição abriu o livro municipal à consulta. A escrivã apresentou os originais, e um segundo funcionário numerou as folhas antes das cópias."
+    }
+  ]
+}

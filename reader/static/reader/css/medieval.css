@@ -104,6 +104,7 @@
    into a face. The scrollable canvas keeps the scaled type readable. */
 .twilight-page-stage{container-type:inline-size;min-width:760px}
 .twilight-page-speech{font-size:1.952cqw;padding:1.089cqw 1.634cqw;border-width:.218cqw;border-radius:1.961cqw 1.961cqw 1.743cqw 1.743cqw}
+.twilight-page-narration{max-width:72ch;margin:16px auto 26px;padding:0 18px;color:#e6d9c5;font:italic clamp(.98rem,1.45vw,1.13rem)/1.6 Georgia,"Times New Roman",serif;text-align:center}
 .twilight-page-speech.twilight-speech--thought{padding:1.307cqw 1.852cqw}
 .twilight-page-speech.twilight-speech--shout{padding:.871cqw 1.307cqw;border-width:.327cqw}
 .twilight-panel-new .twilight-panel-art{container-type:inline-size}

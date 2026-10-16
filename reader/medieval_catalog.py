@@ -26,6 +26,10 @@ ARC_FOUR["pages"].extend(ARC_FOUR_CONTINUED["pages"])
 ARC_FOUR_NEW = json.loads((STORY_DIR / "arc4-421-435.json").read_text(encoding="utf-8"))
 ARC_FOUR["arc"]["chapters"].extend(ARC_FOUR_NEW["chapters"])
 ARC_FOUR["pages"].extend(ARC_FOUR_NEW["pages"])
+ARC_FOUR_LAST = json.loads((STORY_DIR / "arc4-436-450.json").read_text(encoding="utf-8"))
+ARC_FOUR["arc"]["chapters"][-1]["end"] = 449
+ARC_FOUR["arc"]["chapters"].extend(ARC_FOUR_LAST["chapters"])
+ARC_FOUR["pages"].extend(ARC_FOUR_LAST["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
