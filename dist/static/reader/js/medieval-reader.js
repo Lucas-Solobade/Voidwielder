@@ -61,7 +61,7 @@
           });
           return;
         }
-        const directTail = art.classList.contains('twilight-page-stage--direct-tails');
+        const directTail = Number(panel.dataset.pageNumber) < 451 && art.classList.contains('twilight-page-stage--direct-tails');
         const length = directTail ? distance : Math.min(distance, clamp(artBox.width * .035, 18, 34));
         const tipX = startX + deltaX / distance * length;
         const tipY = startY + deltaY / distance * length;

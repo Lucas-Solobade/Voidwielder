@@ -25,21 +25,21 @@
           "text": "O pomar caiu para menos da metade.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 9,
             "w": 40,
-            "target_x": 24,
-            "target_y": 27
+            "target_x": 33,
+            "target_y": 34
           }
         },
         {
-          "speaker": "Escrivã",
+          "speaker": "Escrivã municipal",
           "text": "A venda e o aviso têm datas nesta folha.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
-            "target_x": 76,
-            "target_y": 27
+            "target_x": 79,
+            "target_y": 41
           }
         }
       ]
@@ -62,10 +62,10 @@
           "text": "O aviso chegou na semana da venda.",
           "balloon": {
             "x": 4,
-            "y": 12,
-            "w": 42,
-            "target_x": 25,
-            "target_y": 27
+            "y": 9,
+            "w": 40,
+            "target_x": 34,
+            "target_y": 38
           }
         },
         {
@@ -73,10 +73,10 @@
           "text": "Isso levanta uma pergunta. Ainda não responde quem o enviou.",
           "balloon": {
             "x": 55,
-            "y": 62,
-            "w": 41,
-            "target_x": 77,
-            "target_y": 77
+            "y": 9,
+            "w": 40,
+            "target_x": 72,
+            "target_y": 37
           }
         }
       ]
@@ -98,22 +98,22 @@
           "speaker": "Runa",
           "text": "Se eu alinhar pelas bordas, a saída do rio some.",
           "balloon": {
-            "x": 5,
-            "y": 12,
-            "w": 41,
-            "target_x": 26,
-            "target_y": 27
+            "x": 4,
+            "y": 9,
+            "w": 40,
+            "target_x": 30,
+            "target_y": 38
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Então marca a escala antes de copiar a curva.",
           "balloon": {
-            "x": 54,
-            "y": 64,
-            "w": 41,
-            "target_x": 76,
-            "target_y": 79
+            "x": 55,
+            "y": 9,
+            "w": 40,
+            "target_x": 72,
+            "target_y": 38
           }
         }
       ]
@@ -125,32 +125,32 @@
       "place": "arquivo-municipal-valecobre",
       "layout": "wide",
       "cast": [
-        "adra",
-        "runa"
+        "runa",
+        "adra"
       ],
-      "scene": "Adra points to the empty area on the new municipal plan where the old plan showed the oar workshop; Runa compares.",
+      "scene": "Runa points to the empty area on the new municipal plan where the old plan showed the oar workshop; Adra compares.",
       "novel_chapter": 30,
       "lines": [
-        {
-          "speaker": "Adra",
-          "text": "A oficina da Enseada ficava exatamente aqui.",
-          "balloon": {
-            "x": 4,
-            "y": 12,
-            "w": 41,
-            "target_x": 25,
-            "target_y": 27
-          }
-        },
         {
           "speaker": "Runa",
           "text": "Na planta nova, deixaram esse espaço em branco.",
           "balloon": {
-            "x": 55,
-            "y": 12,
+            "x": 4,
+            "y": 10,
             "w": 40,
-            "target_x": 76,
-            "target_y": 27
+            "target_x": 28,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A oficina da Enseada ficava exatamente aqui.",
+          "balloon": {
+            "x": 55,
+            "y": 10,
+            "w": 40,
+            "target_x": 72,
+            "target_y": 39
           }
         }
       ]
@@ -173,10 +173,10 @@
           "text": "O curso sazonal virou vala permanente no papel.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -184,10 +184,10 @@
           "text": "E o aviso de risco chegou antes aos compradores.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -210,21 +210,21 @@
           "text": "A compradora é uma sociedade de sal.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
-          "speaker": "Escrivã",
+          "speaker": "Escrivã municipal",
           "text": "Copie o nome inteiro, não apenas a marca.",
           "balloon": {
             "x": 55,
-            "y": 62,
-            "w": 41,
+            "y": 10,
+            "w": 40,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 42
           }
         }
       ]
@@ -236,32 +236,32 @@
       "place": "arquivo-municipal-valecobre",
       "layout": "asymmetric",
       "cast": [
-        "adra",
-        "runa"
+        "runa",
+        "adra"
       ],
-      "scene": "Adra and Runa compare the signatures on the bridge finance contract and salt company purchase.",
+      "scene": "Runa and Adra compare the signatures on the bridge finance contract and salt company purchase.",
       "novel_chapter": 30,
       "lines": [
         {
-          "speaker": "Adra",
-          "text": "Este procurador assinou os dois contratos.",
+          "speaker": "Runa",
+          "text": "O selo reaparece aqui. Ainda não é culpa provada.",
           "balloon": {
-            "x": 5,
-            "y": 12,
-            "w": 41,
-            "target_x": 26,
-            "target_y": 27
+            "x": 4,
+            "y": 10,
+            "w": 40,
+            "target_x": 28,
+            "target_y": 39
           }
         },
         {
-          "speaker": "Runa",
-          "text": "Ligação de negócios. Ainda não é culpa provada.",
+          "speaker": "Adra",
+          "text": "Mas o mesmo procurador assinou os dois contratos.",
           "balloon": {
-            "x": 54,
-            "y": 64,
-            "w": 41,
-            "target_x": 76,
-            "target_y": 79
+            "x": 55,
+            "y": 10,
+            "w": 40,
+            "target_x": 72,
+            "target_y": 39
           }
         }
       ]
@@ -273,21 +273,21 @@
       "place": "arquivo-municipal-valecobre",
       "layout": "wide",
       "cast": [
-        "escrivao-municipal",
+        "escriva-municipal",
         "ilyan"
       ],
-      "scene": "The male municipal clerk stamps the page sequence while Ilyan writes the folio number in his notebook.",
+      "scene": "The female municipal clerk stamps the page sequence while Ilyan writes the folio number in his notebook.",
       "novel_chapter": 30,
       "lines": [
         {
-          "speaker": "Escrivão",
+          "speaker": "Escrivã municipal",
           "text": "Fólio cento e doze. A cópia cita esta origem.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -295,10 +295,10 @@
           "text": "E o original permanece com vocês.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -310,21 +310,21 @@
       "place": "arquivo-municipal-valecobre",
       "layout": "split",
       "cast": [
-        "escrivao-municipal",
+        "escriva-municipal",
         "ilyan"
       ],
-      "scene": "The male clerk closes the ledger gently at the scheduled end of consultation while Ilyan has one unfinished line.",
+      "scene": "The female municipal clerk closes the ledger gently at the scheduled end of consultation while Ilyan has one unfinished line.",
       "novel_chapter": 30,
       "lines": [
         {
-          "speaker": "Escrivão",
+          "speaker": "Escrivã municipal",
           "text": "O turno terminou. Há outra consulta agora.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -332,10 +332,10 @@
           "text": "Voltaremos amanhã para completar a transcrição.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -358,10 +358,10 @@
           "text": "Podem esconder a verdade enquanto esperamos.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -369,10 +369,10 @@
           "text": "Uma prova sem registro seria fácil de contestar.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 10,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -395,10 +395,10 @@
           "text": "Veja este canto: a matriz não parece igual.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -406,10 +406,10 @@
           "text": "Ou a impressão saiu falha. Precisamos examinar a cera.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 10,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -432,21 +432,21 @@
           "text": "Duas cópias independentes e exame da cera, por favor.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
-          "speaker": "Escrivã",
+          "speaker": "Escrivã municipal",
           "text": "Registrarei o pedido. Nada sai desta sala sem recibo.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -469,10 +469,10 @@
           "text": "Hessa aceitou nos receber no pomar.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -480,10 +480,10 @@
           "text": "Vamos ouvir antes de completar o mapa.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -506,10 +506,10 @@
           "text": "Vendi o pomar. A escolha foi minha.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -517,10 +517,10 @@
           "text": "Quero registrar por que a escolha pareceu necessária.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 10,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -543,10 +543,10 @@
           "text": "Foram duas colheitas ruins. Meu irmão precisava de tratamento.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -554,10 +554,10 @@
           "text": "Vou registrar as duas razões, sem reduzir sua decisão.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 10,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -580,10 +580,10 @@
           "text": "Anote também o preço que consegui.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -591,10 +591,10 @@
           "text": "Ninguém vai resumir você como alguém que não soube negociar.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -617,10 +617,10 @@
           "text": "Esta saída sazonal existia na planta antiga.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 5,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -628,10 +628,10 @@
           "text": "Se a tivessem mostrado, eu teria negociado diferente.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 5,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -646,18 +646,18 @@
         "moradora-pomar",
         "adra"
       ],
-      "scene": "Adra speaks with an unnamed resident from the public roadside; the resident remains behind a closed half-door, face not shown.",
+      "scene": "Adra speaks with an unnamed resident from the public roadside; the resident remains behind a half-door, face partly in shadow.",
       "novel_chapter": 30,
       "lines": [
         {
-          "speaker": "Moradora",
+          "speaker": "Moradora da margem",
           "text": "Não quero meu nome numa acusação.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 5,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -665,10 +665,10 @@
           "text": "Entendo. Não publicaremos seu depoimento.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 5,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -691,10 +691,10 @@
           "text": "Ela recusou falar. A casa continua habitada.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -702,10 +702,10 @@
           "text": "E permanece no mapa, sem inventarmos testemunho.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 10,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -728,10 +728,10 @@
           "text": "Líria enviou a análise da terra das Faias.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -739,10 +739,10 @@
           "text": "A amostra chegou com o método registrado?",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -765,10 +765,10 @@
           "text": "Há água de montante onde a corrente natural não a deixaria.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -776,10 +776,10 @@
           "text": "Isso indica intervenção. Não quem a fez.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -802,10 +802,10 @@
           "text": "Oru confirmou o método, mas não a data.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -813,10 +813,10 @@
           "text": "Essa ressalva vai junto com a descoberta.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 10,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -839,10 +839,10 @@
           "text": "Você vai agradecer à Líria?",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -850,10 +850,10 @@
           "text": "Pelo dado útil, sim. Nossa rivalidade não desapareceu.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 10,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -876,10 +876,10 @@
           "text": "Ela ainda prende o caderno àquela corrente.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -887,10 +887,10 @@
           "text": "Continua sendo ela. Isso me ajuda a confiar na autoria.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -905,18 +905,18 @@
         "escriva-municipal",
         "eda"
       ],
-      "scene": "On the next morning, the clerk receives Eda at the municipal archive; Maelor arrives with an assistant behind him.",
+      "scene": "On the next morning, the clerk receives Eda at the municipal archive; Maelor arrives alone behind them.",
       "novel_chapter": 30,
       "lines": [
         {
-          "speaker": "Escrivã",
+          "speaker": "Escrivã municipal",
           "text": "A consulta de hoje está registrada.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -924,10 +924,10 @@
           "text": "E as comunidades receberão cópias do que for encontrado.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -950,10 +950,10 @@
           "text": "O vale precisa da obra antes das próximas chuvas.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -961,10 +961,10 @@
           "text": "E precisa de um laudo que resista à leitura pública.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 10,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -987,10 +987,10 @@
           "text": "Alguém daqui morou junto à saída do rio?",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -998,10 +998,10 @@
           "text": "Eu morei. Durante anos.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 10,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -1024,10 +1024,10 @@
           "text": "Adra da Enseada das Conchas. Anote meu nome.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1035,10 +1035,10 @@
           "text": "Seu conhecimento local ficará registrado.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1061,10 +1061,10 @@
           "text": "Ele tratou a moradia como erro de mapa.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1072,10 +1072,10 @@
           "text": "A experiência de Adra é dado, não ruído.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1087,21 +1087,21 @@
       "place": "arquivo-municipal-valecobre",
       "layout": "stack",
       "cast": [
-        "escrivao-municipal",
+        "escriva-municipal",
         "ilyan"
       ],
-      "scene": "The male clerk turns to a payment entry in the separate remittance ledger; Ilyan copies its folio number.",
+      "scene": "The female clerk turns to a payment entry in the separate remittance ledger; Ilyan copies its folio number.",
       "novel_chapter": 30,
       "lines": [
         {
-          "speaker": "Escrivão",
+          "speaker": "Escrivã municipal",
           "text": "Aqui: pagamento do levantamento ao gabinete.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1109,10 +1109,10 @@
           "text": "Quem assinou a entrega do trabalho?",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 10,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -1135,10 +1135,10 @@
           "text": "O valor cobriria uma equipe de medição.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1146,10 +1146,10 @@
           "text": "Mas ainda não diz para onde foi cada moeda.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 10,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -1162,9 +1162,9 @@
       "layout": "wide",
       "cast": [
         "eda",
-        "escrivao-municipal"
+        "escriva-municipal"
       ],
-      "scene": "Eda and the clerk inspect an empty receipt field in the municipal remittance index.",
+      "scene": "Eda and the female clerk inspect an empty receipt field in the municipal remittance index.",
       "novel_chapter": 30,
       "lines": [
         {
@@ -1172,21 +1172,21 @@
           "text": "Não encontro o recibo de entrega.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
-          "speaker": "Escrivão",
+          "speaker": "Escrivã municipal",
           "text": "Fica em outro livro. A consulta exige novo pedido.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1209,10 +1209,10 @@
           "text": "Peço verificação independente. O prazo é de dez dias.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1220,10 +1220,10 @@
           "text": "Então levamos as cópias às comunidades enquanto esperamos.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 10,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1246,10 +1246,10 @@
           "text": "Uma cópia vai à Enseada; outra, às Faias.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 10,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1257,10 +1257,10 @@
           "text": "O protocolo terá dois destinatários.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 10,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -1283,10 +1283,10 @@
           "text": "O mapa de minha mãe é anterior às vendas.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 15,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1294,10 +1294,10 @@
           "text": "Isso separa a obra antiga das compras recentes.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 15,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -1320,10 +1320,10 @@
           "text": "Por que alteraram uma cópia do traçado dela?",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 15,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1331,10 +1331,10 @@
           "text": "Ainda não temos o elo. Deixe a pergunta aberta.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 15,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1357,10 +1357,10 @@
           "text": "Você acha que a Casa vai se calar?",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 18,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1368,10 +1368,10 @@
           "text": "Temo que prefira parecer infalível.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 18,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1394,10 +1394,10 @@
           "text": "Pode ficar mais um instante?",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 18,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1405,10 +1405,10 @@
           "text": "Posso. E quero.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 18,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -1431,10 +1431,10 @@
           "text": "Caio voltou da ronda.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 18,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1442,10 +1442,10 @@
           "text": "Então amanhã, café antes da consulta?",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 18,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -1468,10 +1468,10 @@
           "text": "Café primeiro. Depois, mais números.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1479,10 +1479,10 @@
           "text": "Combinado. E eu carrego as cópias.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1505,10 +1505,10 @@
           "text": "Recebo as cópias, com origem e limite de uso.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1516,10 +1516,10 @@
           "text": "Hessa ainda precisa conferir o próprio depoimento.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1527,7 +1527,7 @@
     {
       "number": 492,
       "title": "As duas palavras",
-      "time": "Dias 447–449 · arquivo da Casa",
+      "time": "Dia 447–449 · arquivo da Casa",
       "place": "casa-das-quatro-luas",
       "layout": "stack",
       "cast": [
@@ -1542,10 +1542,10 @@
           "text": "Ela trocou duas palavras que mudavam o sentido.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1553,10 +1553,10 @@
           "text": "A versão corrigida substituirá a anterior no resumo.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 17,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -1564,7 +1564,7 @@
     {
       "number": 493,
       "title": "Três colunas",
-      "time": "Dias 447–449 · arquivo da Casa",
+      "time": "Dia 447–449 · arquivo da Casa",
       "place": "casa-das-quatro-luas",
       "layout": "asymmetric",
       "cast": [
@@ -1579,10 +1579,10 @@
           "text": "Observado, hipótese, falta testar.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 17,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1590,10 +1590,10 @@
           "text": "E nenhuma pista atravessa as colunas sem prova.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 17,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -1601,7 +1601,7 @@
     {
       "number": 494,
       "title": "Crédito a Nima",
-      "time": "Dias 447–449 · arquivo da Casa",
+      "time": "Dia 447–449 · arquivo da Casa",
       "place": "casa-das-quatro-luas",
       "layout": "wide",
       "cast": [
@@ -1616,10 +1616,10 @@
           "text": "O mecanismo de oito dentes leva o nome de Nima.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1627,10 +1627,10 @@
           "text": "A cópia seguirá a ela pelo correio comum.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1653,10 +1653,10 @@
           "text": "Braka aceitou publicar o que viu na comporta.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1664,10 +1664,10 @@
           "text": "Isso mostra um padrão, sem inventar um autor único.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1690,10 +1690,10 @@
           "text": "Maelor contestou a publicação.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1701,10 +1701,10 @@
           "text": "Mas não negou os números de registro.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 17,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -1727,10 +1727,10 @@
           "text": "Outra viagem precisa de transporte e refeições. Quem paga?",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 17,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1738,10 +1738,10 @@
           "text": "Vamos propor turnos e treino de copistas, com custo anotado.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 17,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -1764,10 +1764,10 @@
           "text": "Querem abrir via de carroças até o espelho de sal.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1775,10 +1775,10 @@
           "text": "Isso mudaria a saída sazonal outra vez.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1801,10 +1801,10 @@
           "text": "Ysra diz que não receberam pedido de passagem.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 24,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1812,10 +1812,10 @@
           "text": "Sem consentimento, não há vistoria além da pedra.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]
@@ -1827,32 +1827,32 @@
       "place": "arquivo-municipal-valecobre",
       "layout": "stack",
       "cast": [
-        "escrivao-municipal",
-        "eda"
+        "eda",
+        "escriva-municipal"
       ],
       "scene": "On the tenth day, Eda and the clerk at the municipal desk inspect a newly obtained accounting receipt with two signatures and an unknown rubric.",
       "novel_chapter": 30,
       "lines": [
         {
-          "speaker": "Escrivão",
-          "text": "Duas assinaturas válidas e uma rubrica por identificar.",
+          "speaker": "Eda",
+          "text": "Vejo duas assinaturas válidas e uma rubrica por identificar.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 42,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
-          "speaker": "Eda",
-          "text": "Registre essa distinção no protocolo.",
+          "speaker": "Escrivã municipal",
+          "text": "Vou registrar essa distinção no protocolo.",
           "balloon": {
             "x": 55,
-            "y": 62,
+            "y": 17,
             "w": 41,
             "target_x": 77,
-            "target_y": 77
+            "target_y": 34
           }
         }
       ]
@@ -1875,10 +1875,10 @@
           "text": "Há vínculo financeiro que exige investigação formal.",
           "balloon": {
             "x": 5,
-            "y": 12,
+            "y": 17,
             "w": 41,
             "target_x": 26,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1886,10 +1886,10 @@
           "text": "Não prova quem armou o cervo nem quem cortou o sino.",
           "balloon": {
             "x": 54,
-            "y": 64,
+            "y": 17,
             "w": 41,
             "target_x": 76,
-            "target_y": 79
+            "target_y": 34
           }
         }
       ]
@@ -1912,10 +1912,10 @@
           "text": "Quero respostas sobre Mira, mas não vou inventá-las.",
           "balloon": {
             "x": 4,
-            "y": 12,
+            "y": 17,
             "w": 41,
             "target_x": 25,
-            "target_y": 27
+            "target_y": 34
           }
         },
         {
@@ -1923,10 +1923,10 @@
           "text": "Então escutamos quem vive na margem antes de desenhar a estrada.",
           "balloon": {
             "x": 55,
-            "y": 12,
+            "y": 17,
             "w": 40,
             "target_x": 76,
-            "target_y": 27
+            "target_y": 34
           }
         }
       ]

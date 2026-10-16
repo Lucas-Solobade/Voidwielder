@@ -8,10 +8,10 @@ PAGES = json.loads((ROOT / "reader/medieval/arc4-451-502.json").read_text(encodi
 CANON = json.loads((ROOT / "reader/medieval/canon.json").read_text(encoding="utf-8"))
 
 LAYOUTS = {
-    "split": "Two unequal vertical comic panels. The first speaker appears in the left panel, with mouth around (24%, 27%) of the full canvas; second speaker appears in the right panel, mouth around (76%, 27%). Leave (4–44%, 12–20%) and (55–95%, 12–20%) as open wall or sky for small speech balloons with very short tails. Smaller evidence/action inserts may occupy the bottom, without new speakers.",
-    "stack": "Two asymmetric horizontal comic scenes. First speaker is in the upper scene, mouth around (25%, 27%) of the full canvas; second speaker is in the lower scene, mouth around (77%, 77%). Leave clear plain wall/sky at upper-left (4–46%, 12–20%) and in lower scene upper-right (55–96%, 62–70%) for later speech balloons with very short tails. Do not put faces in those clear areas.",
-    "asymmetric": "An asymmetrical comic page: larger top-left conversation scene with first speaker mouth around (26%, 27%); an offset lower-right scene with second speaker mouth around (76%, 79%); one narrow object/detail inset. Reserve clear scenery at (5–46%, 12–20%) and (54–95%, 64–72%) for later speech balloons with very short tails.",
-    "wide": "A cinematic wide conversation panel in the upper half, first speaker on left mouth at (25%, 27%), second on right mouth at (76%, 27%), with irregular smaller evidence/action panels below. Reserve clear architecture or sky at (4–45%, 12–20%) and (55–95%, 12–20%) for later speech balloons with very short tails. Do not place heads or hands in those regions.",
+    "split": "Two unequal vertical comic panels. The first speaker appears in the left panel, with mouth around (24%, 34%) of the full canvas; second speaker appears in the right panel, mouth around (76%, 34%). Preserve a generous EMPTY architectural zone above both heads; all hair begins below 28% of full page height. Leave (4–44%, 18–26%) and (55–95%, 18–26%) as open wall or sky for small speech balloons with very short tails. Smaller evidence/action inserts may occupy the bottom, without new speakers.",
+    "stack": "Two asymmetric horizontal comic scenes. First speaker is in the upper scene, mouth around (25%, 34%) of the full canvas; second speaker is in the lower scene, mouth around (77%, 83%). Keep first hair below 28%, lower speaker hair below 77%. Leave clear plain wall/sky at upper-left (4–46%, 18–26%) and in lower scene upper-right (55–96%, 67–75%) for later speech balloons with very short tails. Do not put faces in those clear areas.",
+    "asymmetric": "An asymmetrical comic page: larger top-left conversation scene with first speaker mouth around (26%, 34%); an offset lower-right scene with second speaker mouth around (76%, 83%); one narrow object/detail inset. Keep hair below 28% and 77% respectively. Reserve clear scenery at (5–46%, 18–26%) and (54–95%, 67–75%) for later speech balloons with very short tails.",
+    "wide": "A cinematic wide conversation panel in the upper half, first speaker on left mouth at (25%, 34%), second on right mouth at (76%, 34%), with irregular smaller evidence/action panels below. Preserve a generous EMPTY architectural zone above both heads; all hair begins below 28% of full page height. Reserve clear architecture or sky at (4–45%, 18–26%) and (55–95%, 18–26%) for later speech balloons with very short tails. Do not place heads or hands in those regions.",
 }
 
 STYLE = (
@@ -32,13 +32,15 @@ def appearance(character_id):
 
 def references_for(page):
     number = page["number"]
-    refs = ["reader/medieval/art/page-450.png"]
+    refs = ["reader/medieval/art/page-450.png" if number == 451 else "reader/medieval/art/page-451.png"]
     if 464 < number <= 469:
         refs.append("reader/medieval/art/page-464.png")
     if 476 <= number <= 478:
         refs.append("reader/medieval/art/page-168.png")
     if 487 <= number <= 490:
         refs.append("reader/medieval/art/page-442.png")
+    if "runa" in page["cast"]:
+        refs.append("reader/medieval/references/runa-sheet.png")
     for character_id in page["cast"]:
         path = f"reader/medieval/references/individual/{character_id}.png"
         if (ROOT / path).exists() and path not in refs:
