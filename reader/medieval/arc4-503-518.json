@@ -1,0 +1,585 @@
+{
+  "chapters": [
+    {
+      "title": "Cada margem responde",
+      "start": 503,
+      "end": 518
+    }
+  ],
+  "pages": [
+    {
+      "number": 503,
+      "title": "Três condições",
+      "time": "Dia 454 · tarde",
+      "place": "casa-das-quatro-luas-conselho",
+      "layout": "wide",
+      "cast": [
+        "eda",
+        "adra"
+      ],
+      "scene": "Eda holds the numbered council minutes while Adra points to three distinct conditions on a blank route map; no signatures have been invented.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Sem convite dos guardiões, não passamos da pedra.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E ninguém publica a voz de um morador sem permissão.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 504,
+      "title": "O custo escrito",
+      "time": "Dia 454 · tarde",
+      "place": "casa-das-quatro-luas-conselho",
+      "layout": "split",
+      "cast": [
+        "tovo",
+        "ordelia"
+      ],
+      "scene": "Tovo and Ordelia compare food and ferry costs in the House expense ledger, seated on opposite sides of the oak council table.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "A balsa e a comida precisam entrar na conta.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Cada turno terá custo e responsável anotados.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 505,
+      "title": "Mãos para a tarefa",
+      "time": "Dia 454 · tarde",
+      "place": "casa-das-quatro-luas-conselho",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan indicates the east-forge shift on a timetable; Runa indicates supervised map-copy training on a separate sheet.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Posso assumir turnos na forja.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E eu ensino cópias sem tirar os originais do arquivo.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 506,
+      "title": "Resposta lacrada",
+      "time": "Dia 455 · manhã",
+      "place": "biblioteca-galeria",
+      "layout": "stack",
+      "cast": [
+        "ordelia",
+        "eda"
+      ],
+      "scene": "A real messenger has delivered Maelor's sealed preliminary reply; Ordelia opens it at the public archive desk with Eda present, documents in their hands.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A carta chegou hoje. Os anexos ainda não vieram.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Registro o recebimento e cobro os livros prometidos.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 507,
+      "title": "Três frases diferentes",
+      "time": "Dia 455 · manhã",
+      "place": "biblioteca-galeria",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa lays three separate note cards by the archive desk: proven payment, denied personal interest, unknown final destination; Ilyan studies them.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Pagamento confirmado. Interesse negado. Destino desconhecido.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não vou chamar a terceira frase de prova sobre Mira.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 508,
+      "title": "A linha que falta",
+      "time": "Dia 455 · tarde",
+      "place": "biblioteca-galeria",
+      "layout": "split",
+      "cast": [
+        "ilyan",
+        "eda"
+      ],
+      "scene": "Ilyan points at Mira's earlier dated plan while Eda marks the unanswered link between that plan and later sales in the public work ledger.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "O mapa dela veio antes das compras.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Então precisamos do procurador e dos anexos; não de um palpite.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 509,
+      "title": "O caminho da ala oeste",
+      "time": "Dia 455 · anoitecer",
+      "place": "patio-central",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa and Ilyan walk physically from the central reflecting pool along the west limestone path toward the established dormitory building at sunset.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O dia acabou. Posso caminhar com você?",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Até meu quarto. Queria ficar mais um pouco ao seu lado.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 510,
+      "title": "Uma escolha dita em voz alta",
+      "time": "Dia 455 · noite",
+      "place": "dormitorio-cedro",
+      "layout": "wide",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Inside Ilyan's established single dorm room: narrow bed under north window, cedar trunk and dull training sword beside it. Both adults stand apart at first, making room for an explicit mutual invitation.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Você quer ficar? Quero ter certeza.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Quero. E quero que me diga se algo não estiver bem.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 511,
+      "title": "Mais perto",
+      "time": "Dia 455 · noite",
+      "place": "dormitorio-cedro",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "The two adults share an unhurried consensual kiss beside the cedar trunk; Ilyan's vest and Runa's outer coat are neatly folded on the trunk, both still wearing opaque medieval underlayers.",
+      "novel_chapter": 30,
+      "lines": []
+    },
+    {
+      "number": 512,
+      "title": "A lamparina baixa",
+      "time": "Dia 455 · noite",
+      "place": "dormitorio-cedro",
+      "layout": "asymmetric",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Warm lamplight: Ilyan and Runa embrace on the edge of the narrow bed, fully covered from shoulders downward by an ivory quilt, their faces close and anatomically natural; a smaller inset shows the lamp being lowered. No nudity or explicit act.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Fica comigo esta noite.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Fico. Se você também quiser, a cada passo.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 513,
+      "title": "Antes da manhã",
+      "time": "Dia 455 · noite",
+      "place": "dormitorio-cedro",
+      "layout": "wide",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Quiet aftermath of their consensual first night together: two adult silhouettes under one quilt below the north window, only faces and shoulders visible in soft moonlight; no graphic intimacy, one sleeping lamp on the table.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ainda está acordado?",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Estou. E estou feliz por estar aqui com você.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ],
+      "narration": "Passaram a noite juntos. A porta guardou o que pertencia somente aos dois."
+    },
+    {
+      "number": 514,
+      "title": "A luz do norte",
+      "time": "Dia 456 · manhã",
+      "place": "dormitorio-cedro",
+      "layout": "stack",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Morning in the same room and same bed: both young adults sit upright wrapped in the quilt, hair and fixed facial traits intact, looking toward the north window; sword remains safely beside the cedar trunk.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Bom dia. Não quero fingir que ontem não mudou nada.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Mudou. Mas nós ainda escolhemos o próximo passo.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 515,
+      "title": "Sem promessas fáceis",
+      "time": "Dia 456 · manhã",
+      "place": "dormitorio-cedro",
+      "layout": "split",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Now fully dressed in established clothes, Runa and Ilyan talk by the north window, with respectful space between them; her left-arm floral tattoo and silver septum visible.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Gosto de você. E do meu próprio trabalho.",
+          "balloon": {
+            "x": 7,
+            "y": 3,
+            "w": 31,
+            "target_x": 26,
+            "target_y": 35,
+            "embedded": true
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não vou pedir que abandone nenhum dos dois.",
+          "balloon": {
+            "x": 50,
+            "y": 3,
+            "w": 41,
+            "target_x": 76,
+            "target_y": 35,
+            "embedded": true
+          }
+        }
+      ]
+    },
+    {
+      "number": 516,
+      "title": "Dois turnos",
+      "time": "Dia 456 · manhã",
+      "place": "patio-central",
+      "layout": "asymmetric",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "The two adults exit the west dormitory along the same limestone path; Ilyan turns toward the east forge, Runa toward the northeastern library, both visibly carrying their separate work tools.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Vou para a forja. Nos vemos na mesa de cópias?",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Depois do meu turno. Sem atalhos no mapa.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 517,
+      "title": "A verificação",
+      "time": "Dia 456 · tarde",
+      "place": "casa-das-quatro-luas-conselho",
+      "layout": "split",
+      "cast": [
+        "eda",
+        "adra"
+      ],
+      "scene": "Eda shows Adra the numbered reply, blank space for its missing accounting attachments, and formal independent verification request at the oak council table.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Maelor negou lucro próprio. Ainda deve os anexos.",
+          "balloon": {
+            "x": 13,
+            "y": 3,
+            "w": 28,
+            "target_x": 26,
+            "target_y": 35,
+            "embedded": true
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A ata distingue resposta e prova.",
+          "balloon": {
+            "x": 61,
+            "y": 3,
+            "w": 30,
+            "target_x": 76,
+            "target_y": 35,
+            "embedded": true
+          }
+        }
+      ]
+    },
+    {
+      "number": 518,
+      "title": "Cada margem responde",
+      "time": "Dia 456 · tarde",
+      "place": "casa-das-quatro-luas-conselho",
+      "layout": "wide",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "scene": "Adra seals two ordinary messenger packets for the Enseada and the Faias on the council table; Ilyan stands by the unfinished western salt-mirror map, with no new road line inked.",
+      "novel_chapter": 30,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "As cartas pedem decisão às comunidades.",
+          "balloon": {
+            "x": 4,
+            "y": 4,
+            "w": 40,
+            "target_x": 26,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A estrada espera. Nenhuma margem será apagada por nós.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 35
+          }
+        }
+      ]
+    }
+  ]
+}

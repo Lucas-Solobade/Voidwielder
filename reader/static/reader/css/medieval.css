@@ -110,3 +110,6 @@
 .twilight-panel-new .twilight-panel-art{container-type:inline-size}
 .twilight-panel-new .twilight-speech{font-size:1.708cqw;padding:.871cqw 1.307cqw;border-width:.218cqw}
 .twilight-panel-new .twilight-speech--thought{padding:1.307cqw 1.852cqw}
+
+/* Text sits inside the two empty balloons painted in pages 515 and 517. */
+.twilight-page-speech.twilight-speech--embedded{background:transparent;border:0;box-shadow:none;padding:0 1cqw;border-radius:0;text-align:center}

@@ -82,13 +82,13 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 27. **Runa escolhe ficar** — Líria oferece um atalho de prestígio que excluiria Ilyan. Runa recusa pelo método e pelos moradores, sem abrir mão de seu próprio futuro.
 28. **O beijo no observatório** — Depois de confiança, conflito e conversa, Ilyan e Runa se beijam pela primeira vez. Eles definem o que desejam e o que ainda temem; o mundo não para.
 29. **A língua das folhas** — Fada, duende e cervo-lúmen apresentam regras de passagem e reciprocidade; falha em compreender uma delas custa um mapa e tempo.
-30. **O espelho de sal** — A equipe descobre que Maelor desloca níveis de água para comprar terras desvalorizadas. Há provas parciais, vítimas e cúmplices com motivos distintos.
+30. **O espelho de sal** — A equipe documenta vendas desvalorizadas, mapas que apagam moradores e um vínculo financeiro entre a sociedade de sal e o gabinete de Maelor; a autoria do desvio de água e o destino de Mira ainda exigem prova. Depois do conselho, Ilyan e Runa, ambos adultos, escolhem passar uma primeira noite juntos. A intimidade é consensual e não substitui o trabalho das comunidades.
 
 ### Parte VI — As quatro correntes (capítulos 31–36, páginas 601–720)
 
 31. **Aula sem mestre** — Oru adoece após conter uma ruptura; alunos aplicam método com limites, sem ganhar superpoderes.
 32. **Arcos sob chuva** — Sere ensina evacuação; Ilyan enfrenta combate de espada em terreno ruim e vence por proteção e coordenação.
-33. **Pele, promessa, manhã** — Ilyan e Runa, adultos, escolhem uma noite juntos. A cena é sensual e íntima, centrada em consentimento, cuidado e consequências, sem descrição anatômica gráfica.
+33. **Pele, promessa, manhã** — Ilyan e Runa aprofundam a relação já iniciada no capítulo 30. A cena é sensual e íntima, centrada em consentimento, cuidado e consequências, sem descrição anatômica gráfica.
 34. **A escola divide-se** — Líria vê parte da verdade sobre Maelor e precisa decidir se conserva a carreira ou entrega seus próprios registros de culpa.
 35. **O cerco da eclusa** — Orcs, elfos, gnomos e humanos cooperam sem exército homogêneo; arcos, forja e quatro ritmos resolvem problemas diferentes.
 36. **A margem vazia** — A vitória local expõe canal mais antigo. Mira pode estar viva, mas a pista é testemunho falível, não reaparição instantânea.

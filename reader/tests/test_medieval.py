@@ -8,7 +8,7 @@ from reader.medieval_catalog import ARCS, CANON, PAGES, STORY, page_art
 
 
 def test_medieval_canon_and_page_sequence():
-    assert [page["number"] for page in PAGES] == list(range(1, 503))
+    assert [page["number"] for page in PAGES] == list(range(1, 519))
     assert all(len(page["panels"]) == 3 for page in PAGES[:25])
     assert len({page["layout"] for page in PAGES[25:]}) >= 5
     assert all(set(page["cast"]) <= set(CANON["characters"]) for page in PAGES)
@@ -24,8 +24,8 @@ def test_medieval_canon_and_page_sequence():
     assert ARCS[2]["start"] == 172
     assert ARCS[2]["status"] == "Concluído"
     assert ARCS[3]["start"] == 356
-    assert ARCS[3]["end"] == 502
-    assert ARCS[3]["status"] == "Em andamento"
+    assert ARCS[3]["end"] == 518
+    assert ARCS[3]["status"] == "Concluído"
     assert "porta" in PAGES[24]["title"].lower()
     assert "vestibule" in PAGES[25]["scene"].lower()
     assert "cart" in PAGES[31]["scene"].lower()
@@ -42,9 +42,9 @@ def test_medieval_canon_and_page_sequence():
     )
     assert [number for chapter in ARCS[1]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(26, 172))
     assert [number for chapter in ARCS[2]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(172, 356))
-    assert [number for chapter in ARCS[3]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(356, 503))
+    assert [number for chapter in ARCS[3]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(356, 519))
     assert "Dia 50" in PAGES[171]["time"] and "Dia 72" in PAGES[354]["time"]
-    assert "Dia 73" in PAGES[355]["time"] and "Dia 454" in PAGES[-1]["time"]
+    assert "Dia 73" in PAGES[355]["time"] and "Dia 456" in PAGES[-1]["time"]
     assert PAGES[178]["title"] == "A licença tem limites"
     assert PAGES[188]["title"] == "A armadilha fica"
     assert PAGES[189]["title"] == "O ferro embrulhado"
@@ -157,11 +157,11 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert arc.content.decode().count('class="twilight-page-card"') == 25
     assert arc2.content.decode().count('class="twilight-page-card"') == 146
     assert arc3.content.decode().count('class="twilight-page-card"') == 184
-    assert arc4.content.decode().count('class="twilight-page-card"') == 147
+    assert arc4.content.decode().count('class="twilight-page-card"') == 163
     assert arc2.content.decode().count('data-episode-tab') == len(ARCS[1]["chapters"])
 
     first = client.get(reverse("reader:medieval_read", args=(1,)))
-    last = client.get(reverse("reader:medieval_read", args=(502,)))
+    last = client.get(reverse("reader:medieval_read", args=(518,)))
     assert first.status_code == last.status_code == 200
     assert first.content.decode().count('class="twilight-panel twilight-panel-') == 3
     assert 'rel="next"' in first.content.decode()
@@ -182,4 +182,21 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert client.get(reverse("reader:medieval_read", args=(312,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(421,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(451,))).status_code == 200
-    assert client.get(reverse("reader:medieval_read", args=(503,))).status_code == 404
+    assert client.get(reverse("reader:medieval_read", args=(519,))).status_code == 404
+
+
+def test_arc_four_coda_preserves_document_chain_and_speaker_balloon_assignment(client):
+    pages = {page["number"]: page for page in PAGES}
+    assert [pages[number]["place"] for number in range(509, 516)] == [
+        "patio-central", *(["dormitorio-cedro"] * 6)
+    ]
+    assert pages[511]["lines"] == []  # The kiss is a deliberately silent comic page.
+    assert pages[515]["lines"][0]["speaker"] == "Runa"
+    assert pages[515]["lines"][1]["speaker"] == "Ilyan"
+    assert all(line["balloon"]["embedded"] for number in (515, 517) for line in pages[number]["lines"])
+    assert all("nima" not in pages[number]["cast"] for number in range(503, 519))
+    assert [pages[number]["time"].split(" · ")[0] for number in range(503, 519)] == sorted(
+        pages[number]["time"].split(" · ")[0] for number in range(503, 519)
+    )
+    html = client.get(reverse("reader:medieval_read", args=(515,))).content.decode()
+    assert html.count('data-embedded="true"') == 2

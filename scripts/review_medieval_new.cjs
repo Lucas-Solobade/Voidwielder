@@ -15,6 +15,10 @@ fs.mkdirSync(out, { recursive: true });
       const page = await browser.newPage({viewport:{width,height},deviceScaleFactor:1});
       const response = await page.goto(root + number + '/', {waitUntil:'networkidle'});
       if (response.status() !== 200) throw new Error(`${number} HTTP ${response.status()}`);
+      // The fixed global header can cover the top of an element screenshot
+      // after Playwright scrolls it to the viewport origin. Hide it in this
+      // review capture so the complete lettering is visible for inspection.
+      await page.addStyleTag({content:'.site-header{display:none!important}'});
       const stage = page.locator('.twilight-page-stage');
       await stage.locator('img').waitFor();
       await stage.screenshot({path:path.join(out,`${number}-${mode}.png`)});

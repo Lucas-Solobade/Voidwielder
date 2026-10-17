@@ -9,7 +9,7 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
 number = int(sys.argv[1])
 source = Path(sys.argv[2]).resolve()
-assert 451 <= number <= 502
+assert 451 <= number <= 518
 assert source.is_file() and source.suffix.lower() == ".png"
 target = ROOT / f"reader/medieval/art/page-{number}.png"
 static = ROOT / f"reader/static/reader/images/medieval/page-{number}.webp"

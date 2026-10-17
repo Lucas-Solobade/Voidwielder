@@ -17,7 +17,7 @@
       svg.setAttribute('viewBox', `0 0 ${artBox.width} ${artBox.height}`);
       svg.replaceChildren();
       art.querySelectorAll('.twilight-speech').forEach((balloon) => {
-        if (balloon.dataset.offPanel === 'true') return;
+        if (balloon.dataset.offPanel === 'true' || balloon.dataset.embedded === 'true') return;
         const box = balloon.getBoundingClientRect();
         const targetX = artBox.width * Number(balloon.dataset.targetX) / 100;
         const targetY = artBox.height * Number(balloon.dataset.targetY) / 100;

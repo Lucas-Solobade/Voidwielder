@@ -33,6 +33,10 @@ ARC_FOUR["pages"].extend(ARC_FOUR_LAST["pages"])
 ARC_FOUR_NEXT = json.loads((STORY_DIR / "arc4-451-502.json").read_text(encoding="utf-8"))
 ARC_FOUR["arc"]["chapters"][-1]["end"] = 502
 ARC_FOUR["pages"].extend(ARC_FOUR_NEXT["pages"])
+ARC_FOUR_END = json.loads((STORY_DIR / "arc4-503-518.json").read_text(encoding="utf-8"))
+ARC_FOUR["arc"]["chapters"].extend(ARC_FOUR_END["chapters"])
+ARC_FOUR["pages"].extend(ARC_FOUR_END["pages"])
+ARC_FOUR["arc"]["status"] = "Concluído"
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
