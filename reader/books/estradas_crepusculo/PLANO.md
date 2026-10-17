@@ -86,12 +86,12 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 
 ### Parte VI — As quatro correntes (capítulos 31–36, páginas 601–720)
 
-31. **Aula sem mestre** — Oru adoece após conter uma ruptura; alunos aplicam método com limites, sem ganhar superpoderes.
-32. **Arcos sob chuva** — Sere ensina evacuação; Ilyan enfrenta combate de espada em terreno ruim e vence por proteção e coordenação.
-33. **Pele, promessa, manhã** — Ilyan e Runa aprofundam a relação já iniciada no capítulo 30. A cena é sensual e íntima, centrada em consentimento, cuidado e consequências, sem descrição anatômica gráfica.
-34. **A escola divide-se** — Líria vê parte da verdade sobre Maelor e precisa decidir se conserva a carreira ou entrega seus próprios registros de culpa.
-35. **O cerco da eclusa** — Orcs, elfos, gnomos e humanos cooperam sem exército homogêneo; arcos, forja e quatro ritmos resolvem problemas diferentes.
-36. **A margem vazia** — A vitória local expõe canal mais antigo. Mira pode estar viva, mas a pista é testemunho falível, não reaparição instantânea.
+31. **Aula sem mestre** — Dia 457–459. Runa supera Líria ao conduzir água existente, mas a disputa fora das regras termina com Líria ferindo-a no combate físico. Oru interrompe e adoece por exaustão. As duas recebem sanções distintas; Ilyan cuida de Runa sem agredir a rival. A tomada sob a escola exige novas leituras.
+32. **Arcos sob chuva** — Dias 460–464. Autorização limitada da Enseada, viagem por estrada e barca, evacuação de casas, cortadores de lodo deslocados pela cheia; Ilyan e Sere defendem moradores com espada sem fio, arcos, corda e rota segura. Guardiões autorizam apenas observar a borda norte.
+33. **Pele, promessa, manhã** — Dias 465–468. Runa treina sua telecinese restrita a impulso conduzido por água presente; Líria propõe exame físico da soleira, sem perdão ou suspensão anulada. Ilyan e Runa aprofundam o vínculo por escolha, cuidado e intimidade não gráfica.
+34. **A escola divide-se** — Dias 469–472. Anexos ligam a sociedade de sal ao financiamento da bolsa de Líria e à cota alterada. Ela entrega registros próprios que mostram também seu silêncio; documentos e conselho não provam todos os crimes de Maelor. Três margens autorizam uma resposta coordenada, sem ceder a própria autoridade.
+35. **O cerco da eclusa** — Dias 473–475. Depois das autorizações, equipes cruzam por barca, evacuam famílias e aliviam a pressão em etapas. Orcs, elfos, gnomos e humanos assumem tarefas distintas; Ilyan defende aliados de predadores de lodo com espada sem fio, Runa guia água de jarros, Líria examina a pedra sob supervisão. A cheia recua com perdas materiais e feridos, sem mortes.
+36. **A margem vazia** — Dias 476–480. A obra fica sob exame independente, casas são reparadas e o financiamento da escola é publicado. Líria conclui a sanção sem rivalidade apagada; Runa recupera-se e aperfeiçoa o controle. Uma linha de canal mais antigo e o depoimento corrigido de Ereno apontam a Porto das Cinzas, mas não confirmam que Mira esteja viva. **Encerra-se o arco 5 do livro na página 720.**
 
 ### Parte VII — O preço do mapa (capítulos 37–42, páginas 721–840)
 
@@ -113,7 +113,7 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 
 ## Direção das gravuras em Canvas
 
-Preto de nanquim, cinzas de hachura e papel marfim. **Exatamente uma gravura principal por capítulo publicado**, centralizada, completa e sem corte. As trinta gravuras dos capítulos 1–30 abrem suas respectivas partes de leitura. As gravuras panorâmicas dos capítulos 21–24 substituem desenhos antigos de traço simples para manter a mesma linguagem visual dos capítulos anteriores. O livro é centrado na leitura e não terá recortes, ampliações de detalhe nem imagens adicionais por cena. Rostos recorrentes derivam das fichas de `canon.json`; traços fixos nunca variam por semente aleatória. Mira permanece sem retrato até a ficha visual existir. As artes acompanham a prosa e jamais substituem páginas de texto.
+Preto de nanquim, cinzas de hachura e papel marfim. **Exatamente uma gravura principal por capítulo publicado**, centralizada, completa e sem corte. As trinta e seis gravuras dos capítulos 1–36 abrem suas respectivas partes de leitura. As gravuras panorâmicas dos capítulos 21–24 substituem desenhos antigos de traço simples para manter a mesma linguagem visual dos capítulos anteriores. O livro é centrado na leitura e não terá recortes, ampliações de detalhe nem imagens adicionais por cena. Rostos recorrentes derivam das fichas de `canon.json`; traços fixos nunca variam por semente aleatória. Mira permanece sem retrato até a ficha visual existir. As artes acompanham a prosa e jamais substituem páginas de texto.
 
 ## Referências de pesquisa (não fontes de trama)
 
