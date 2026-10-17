@@ -38,5 +38,6 @@ def test_novel_routes_and_catalog(client) -> None:
     last = client.get(reverse("reader:read_novel", args=(720,)))
     assert first.status_code == last.status_code == 200
     assert "CONTINUA" in last.content.decode("utf-8")
+    assert "FIM DO ATO 5" in last.content.decode("utf-8")
     assert client.get(reverse("reader:read_novel", args=(721,))).status_code == 404
     assert "As Estradas do Crepúsculo" in client.get("/buscar/?tipo=livros").content.decode("utf-8")

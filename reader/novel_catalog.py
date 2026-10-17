@@ -129,6 +129,7 @@ NOVEL = {
     "url": "/livros/as-estradas-do-crepusculo/",
     "page_count": len(get_novel_pages()),
     "chapter_count": len(list(CHAPTER_DIR.glob("[0-9][0-9].md"))),
+    "published_arc": max(1, (len(list(CHAPTER_DIR.glob("[0-9][0-9].md"))) - 1) // 6),
     "target_pages": TARGET_PAGES,
     "complete": len(get_novel_pages()) == TARGET_PAGES,
 }

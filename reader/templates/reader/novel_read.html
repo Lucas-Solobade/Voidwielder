@@ -4,7 +4,7 @@
 {% block og_image %}{% endblock %}
 {% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/novel.css' %}?v=3">{% endblock %}
 {% block content %}
-<article class="book-reader novel-reader" data-novel-reader data-page="{{ page.number }}" data-total="{{ book.page_count }}" data-complete="{{ book.complete|yesno:'true,false' }}">
+<article class="book-reader novel-reader" data-novel-reader data-page="{{ page.number }}" data-total="{{ book.page_count }}" data-arc="{{ book.published_arc }}" data-complete="{{ book.complete|yesno:'true,false' }}">
   <div class="book-reader-bar section-shell">
     <a class="book-back" href="{% url 'reader:novel_detail' %}">← {{ book.title }}</a>
     <div class="book-reader-position"><span data-reader-chapter>{{ page.chapter_title }}</span><span data-reader-position>Página {{ page.number }} de {{ book.page_count }}</span></div>
@@ -15,7 +15,7 @@
       {% if page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ page.chapter_number|stringformat:"02d" }}</span><h1>{{ page.chapter_title }}</h1>{% endif %}
       {% if page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ page.illustration }}" width="600" height="200" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ page.chapter_number }}"></canvas>{% endif %}
       {% for paragraph in page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}
-      {% if not next_page %}<p class="book-endmark">{% if book.complete %}FIM{% else %}FIM DO ATO 4 · O ROMANCE CONTINUA{% endif %}</p>{% endif %}<span class="book-page-number">{{ page.number }}</span>
+      {% if not next_page %}<p class="book-endmark">{% if book.complete %}FIM{% else %}FIM DO ATO {{ book.published_arc }} · O ROMANCE CONTINUA{% endif %}</p>{% endif %}<span class="book-page-number">{{ page.number }}</span>
     </div></section>
     <section class="book-sheet book-sheet-right" data-sheet-right {% if not next_page %}hidden{% endif %} aria-label="Página {% if next_page %}{{ next_page.number }}{% endif %}"><div class="book-sheet-inner" data-page-content="right">
       {% if next_page %}{% if next_page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ next_page.chapter_number|stringformat:"02d" }}</span><h1>{{ next_page.chapter_title }}</h1>{% endif %}{% if next_page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ next_page.illustration }}" width="600" height="200" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ next_page.chapter_number }}"></canvas>{% endif %}{% for paragraph in next_page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}<span class="book-page-number">{{ next_page.number }}</span>{% endif %}
@@ -31,4 +31,4 @@
   <p class="book-reader-help">Use as setas do teclado ou deslize para virar as páginas. O texto pode ser selecionado.</p>
 </article>
 {% endblock %}
-{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=3"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=3"></script>{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=3"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=4"></script>{% endblock %}

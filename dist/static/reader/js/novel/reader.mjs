@@ -69,7 +69,7 @@ if (root) {
     });
     if (page.number === total) {
       const end = document.createElement('p'); end.className = 'book-endmark';
-      end.textContent = complete ? 'FIM' : 'FIM DO ATO 4 · O ROMANCE CONTINUA';
+      end.textContent = complete ? 'FIM' : `FIM DO ATO ${root.dataset.arc} · O ROMANCE CONTINUA`;
       container.append(end);
     }
     const number = document.createElement('span');
