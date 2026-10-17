@@ -1,6 +1,6 @@
 # Cânone visual e narrativo — As Estradas do Crepúsculo
 
-Esta pasta é a referência permanente da HQ. `canon.json` fixa a aparência, roupas, locais, regras da magia e cronologia. `story.json` contém a narração e os diálogos exatos de cada quadro. As fichas de `references/` são referências visuais para todas as artes futuras. Antes de adicionar páginas, conferir esses arquivos e as páginas anteriores.
+Esta pasta é a referência permanente da HQ. `canon.json` fixa a aparência, roupas, locais, regras da magia e cronologia. `story.json` e os arquivos `arc*.json` contêm a narração e os diálogos exatos de cada quadro. As fichas de `references/` são referências visuais para todas as artes futuras. Antes de adicionar páginas, conferir esses arquivos e as páginas anteriores.
 
 Ilyan tem 17 anos nas páginas 1–12. O rosto preserva a estrutura da foto fornecida para a série, mas sem barba ou bigode nesta fase adolescente. Não publicar a foto original no site. Mira ainda não tem rosto definido e não deve ser ilustrada até receber uma ficha própria.
 
@@ -17,3 +17,5 @@ O arco 4 começa na página 356, na manhã do dia 73. As páginas 356–366 adap
 As páginas 367–420 continuam o mesmo arco e adaptam os capítulos 25–28 do romance: relatório público, meses de estudo, visita física de Ilyan a Pedra-Mansa, cartas de Nima, disputa sobre os mapas e inspeção da Ponte das Faias. Runa completa 18 anos na página 385 (dia 363), Ilyan na página 387 (dia 387), ambos **sem mudança de rosto**. O primeiro beijo ocorre apenas na página 419, após o trabalho no observatório e escolha mútua. Nima só é desenhada em Pedra-Mansa; cartas levam dias. A página 420 deixa a investigação aberta. O encadeamento está em `continuity-367-420.md`.
 
 `arc4-367-420.json` está no catálogo publicado. Cada página possui arte em `art/`, WebP no diretório estático e balões posicionados sobre a composição sem cobrir os rostos. A ficha canônica de Avel em `references/individual/avel.png` mantém pele castanha escura, tranças brancas altas e manto azul. Ao continuar o arco, conferir o texto e os quadros anteriores antes de criar novas cenas.
+
+O arco 4 termina na página 518, dia 456. O arco 5 começa nas páginas 519–524 do dia 457 e adapta apenas a abertura do capítulo 31. `continuity-519-524.md` registra cada transição, o mapa da Sala dos Elementos e os limites da magia. O capítulo 31 do livro foi ampliado para sustentar o confronto completo; a HQ ainda não chegou à agressão física ou às sanções.

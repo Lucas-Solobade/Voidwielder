@@ -1,0 +1,97 @@
+{
+  "arc": {
+    "number": 5,
+    "title": "As Quatro Correntes",
+    "slug": "as-quatro-correntes",
+    "description": "Uma medição sob a escola expõe o conflito entre Runa e Líria enquanto as comunidades decidem o futuro da eclusa. O que acontece na aula terá consequências fora dela.",
+    "status": "Em andamento",
+    "start": 519,
+    "chapters": [
+      {"title": "Aula sem mestre", "start": 519, "end": 524}
+    ]
+  },
+  "pages": [
+    {
+      "number": 519,
+      "title": "Duas respostas, nenhuma licença",
+      "time": "Dia 457 · manhã",
+      "place": "biblioteca-galeria",
+      "layout": "wide-and-detail",
+      "cast": ["ordelia"],
+      "scene": "Ordelia recebe duas cartas distintas na mesa de registro: a Enseada aceita discutir a vistoria com seus medidores; as Faias pedem três dias de consulta. A auxiliar do arquivo confere o livro ao lado. Nenhuma carta abre a eclusa.",
+      "novel_chapter": 31,
+      "lines": [
+        {"speaker": "Ordelia", "text": "A Enseada aceita conversar. As Faias pedem três dias.", "balloon": {"x": 4, "y": 3, "w": 43, "target_x": 28, "target_y": 25}}
+      ],
+      "narration": "Ordelia registrou cada resposta. Ainda faltavam autorizações para qualquer intervenção na eclusa."
+    },
+    {
+      "number": 520,
+      "title": "O turno da forja",
+      "time": "Dia 457 · manhã",
+      "place": "forja-leste",
+      "layout": "asymmetric-forge",
+      "cast": ["ilyan"],
+      "scene": "Ilyan segue seu turno regular na forja leste; o sino da aula toca ao longe enquanto uma estudante sem nome aponta para a escola. Ele ainda não sabe do que acontecerá na Sala dos Elementos.",
+      "novel_chapter": 31,
+      "lines": [
+        {"speaker": "Ilyan", "text": "Ouvi o sino. Termino a peça antes de sair.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 27, "target_y": 29}}
+      ]
+    },
+    {
+      "number": 521,
+      "title": "O que existe na mesa",
+      "time": "Dia 457 · antes da aula",
+      "place": "sala-elementos",
+      "layout": "wide-with-insets",
+      "cast": ["oru", "runa", "liria"],
+      "scene": "Oru mostra as fontes reais da aula na mesma sala: calha de água a leste, caixa de areia a oeste, braseiro protegido ao norte e ar vindo das janelas altas. Runa e Líria observam em lados opostos da mesa quadrada.",
+      "novel_chapter": 31,
+      "lines": [
+        {"speaker": "Líria", "text": "E se a areia acabar no meio do gesto?", "balloon": {"x": 4, "y": 3, "w": 41, "target_x": 20, "target_y": 35}},
+        {"speaker": "Oru", "text": "A condução cessa. Não existe reserva invisível.", "balloon": {"x": 54, "y": 3, "w": 41, "target_x": 50, "target_y": 34}}
+      ]
+    },
+    {
+      "number": 522,
+      "title": "Uma leitura urgente",
+      "time": "Dia 457 · começo da aula",
+      "place": "sala-elementos",
+      "layout": "asymmetric-door",
+      "cast": ["oru", "runa", "liria"],
+      "scene": "Beren chama Oru para conferir a vazão do reservatório. O gnomo sai pela porta sul e deixa a assistente encarregada. Runa e Líria permanecem na bancada, com os elementos ainda contidos.",
+      "novel_chapter": 31,
+      "lines": [
+        {"speaker": "Oru", "text": "Beren precisa de mim no reservatório. A assistente fica.", "balloon": {"x": 52, "y": 3, "w": 43, "target_x": 75, "target_y": 30}}
+      ]
+    },
+    {
+      "number": 523,
+      "title": "A correção à vista",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "large-and-two-details",
+      "cast": ["runa", "liria"],
+      "scene": "Runa pede conferência do desnível. Líria vê que a data da amostra foi corrigida, mas a nota pública sobre sua antiga punição permanece ao lado de seu ensaio. A divergência de método torna-se acusação pessoal.",
+      "novel_chapter": 31,
+      "lines": [
+        {"speaker": "Líria", "text": "Corrigiu a chuva, mas deixou minha punição ao lado.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 27, "target_y": 30}},
+        {"speaker": "Runa", "text": "Seu ensaio está no registro. A correção também.", "balloon": {"x": 55, "y": 3, "w": 40, "target_x": 75, "target_y": 30}}
+      ]
+    },
+    {
+      "number": 524,
+      "title": "Areia e água",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "diagonal-reveal",
+      "cast": ["liria", "runa"],
+      "scene": "Líria ergue um fio de grãos da caixa de areia para defender sua hipótese de umidade. Runa guia um arco curto da água já presente na bacia para mostrar a direção oposta. As alunas ainda não se tocam; a assistente percebe que a discussão saiu do método.",
+      "novel_chapter": 31,
+      "lines": [
+        {"speaker": "Líria", "text": "A minha amostra responde antes. Olhe a areia!", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 27, "target_y": 28, "kind": "shout"}},
+        {"speaker": "Runa", "text": "A água mostra outra direção. Veja a marca.", "balloon": {"x": 55, "y": 3, "w": 40, "target_x": 75, "target_y": 28}}
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## Contrato editorial
 
-Romance de fantasia medieval ilustrado, planejado para **956 páginas de leitura real** em 48 capítulos. Os capítulos 1–47 ocupam vinte páginas cada; o capítulo 48 ocupa dezesseis. A contagem é meta de manuscrito, nunca autorização para repetir texto ou adicionar páginas vazias. O leitor do site só deve anunciar a contagem efetivamente redigida e revisada. Os capítulos 21–24 aprofundam o arco 3 da HQ até a página 355. Os capítulos 25–30 concluem o ato 4 do livro; as páginas iniciais da HQ adaptam apenas a abertura cronológica desse ato. O livro preserva os acontecimentos anteriores, inclusive licenças, tempos de viagem e pessoas presentes.
+Romance de fantasia medieval ilustrado, concluído como primeiro volume com **728 páginas de leitura real** em 36 capítulos. Os capítulos comuns ocupam vinte páginas; o capítulo 31 recebe vinte e oito para a disputa elemental, a agressão e suas consequências respirarem em cena. A contagem é meta de manuscrito, nunca autorização para repetir texto ou adicionar páginas vazias. O leitor do site só deve anunciar a contagem efetivamente redigida e revisada. Os capítulos 21–24 aprofundam o arco 3 da HQ até a página 355. Os capítulos 25–30 concluem o ato 4 do livro; as páginas iniciais da HQ adaptam apenas a abertura cronológica desse ato. O livro preserva os acontecimentos anteriores, inclusive licenças, tempos de viagem e pessoas presentes.
 
 O romance inicia-se em Pedra-Mansa no dia 1 e preserva os acontecimentos, deslocamentos, custos, permissões e relações da HQ até a chegada ao Vale do Junco no dia 18. O **arco 2, A Casa das Quatro Luas, termina no capítulo 20**: a escola abre seu arquivo, aplica consequências às infrações, reconhece o trabalho de Runa e admite Ilyan para o restante do período. A responsabilidade pelo canal e o paradeiro de Mira permanecem questões do arco seguinte. Uma adaptação em prosa pode ampliar a interioridade e os intervalos dessas cenas, mas não antecipa revelações nem muda quem estava presente. O arquivo `reader/medieval/canon.json` e as fichas visuais nele referidas fixam a aparência dos personagens existentes.
 
@@ -37,7 +37,7 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 
 **A mãe ausente, Mira.** Rosto e aparência ainda não registrados visualmente no cânone da HQ. Antes de qualquer gravura dela, criar e aprovar ficha com idade, feições, cabelo, vestimenta e marcas; até lá, ilustrar sua caligrafia, mapas e ferramentas, não inventar seu retrato. Sua investigação deixou rastros contraditórios porque foi interrompida e porque outras mãos modificaram documentos depois.
 
-## Estrutura de 956 páginas
+## Estrutura do primeiro volume · 728 páginas
 
 ### Parte I — O vale e a porta (capítulos 1–6, páginas 1–120)
 
@@ -84,32 +84,18 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 29. **A língua das folhas** — Fada, duende e cervo-lúmen apresentam regras de passagem e reciprocidade; falha em compreender uma delas custa um mapa e tempo.
 30. **O espelho de sal** — A equipe documenta vendas desvalorizadas, mapas que apagam moradores e um vínculo financeiro entre a sociedade de sal e o gabinete de Maelor; a autoria do desvio de água e o destino de Mira ainda exigem prova. Depois do conselho, Ilyan e Runa, ambos adultos, escolhem passar uma primeira noite juntos. A intimidade é consensual e não substitui o trabalho das comunidades.
 
-### Parte VI — As quatro correntes (capítulos 31–36, páginas 601–720)
+### Parte VI — As quatro correntes (capítulos 31–36, páginas 601–728)
 
-31. **Aula sem mestre** — Dia 457–459. Runa supera Líria ao conduzir água existente, mas a disputa fora das regras termina com Líria ferindo-a no combate físico. Oru interrompe e adoece por exaustão. As duas recebem sanções distintas; Ilyan cuida de Runa sem agredir a rival. A tomada sob a escola exige novas leituras.
+31. **Aula sem mestre** — Dias 457–459, páginas 601–628. A rivalidade ganha tempo de cena: discussão da fonte e da medida, escalada de areia e água, falha dos meios disponíveis, agressão física e apuração separada. A primeira parte da HQ usa apenas a abertura desse conflito. Runa supera Líria ao conduzir água existente, mas a disputa fora das regras termina com Líria ferindo-a no combate físico. Oru interrompe e adoece por exaustão. As duas recebem sanções distintas; Ilyan cuida de Runa sem agredir a rival. A tomada sob a escola exige novas leituras.
 32. **Arcos sob chuva** — Dias 460–464. Autorização limitada da Enseada, viagem por estrada e barca, evacuação de casas, cortadores de lodo deslocados pela cheia; Ilyan e Sere defendem moradores com espada sem fio, arcos, corda e rota segura. Guardiões autorizam apenas observar a borda norte.
 33. **Pele, promessa, manhã** — Dias 465–468. Runa treina sua telecinese restrita a impulso conduzido por água presente; Líria propõe exame físico da soleira, sem perdão ou suspensão anulada. Ilyan e Runa aprofundam o vínculo por escolha, cuidado e intimidade não gráfica.
 34. **A escola divide-se** — Dias 469–472. Anexos ligam a sociedade de sal ao financiamento da bolsa de Líria e à cota alterada. Ela entrega registros próprios que mostram também seu silêncio; documentos e conselho não provam todos os crimes de Maelor. Três margens autorizam uma resposta coordenada, sem ceder a própria autoridade.
 35. **O cerco da eclusa** — Dias 473–475. Depois das autorizações, equipes cruzam por barca, evacuam famílias e aliviam a pressão em etapas. Orcs, elfos, gnomos e humanos assumem tarefas distintas; Ilyan defende aliados de predadores de lodo com espada sem fio, Runa guia água de jarros, Líria examina a pedra sob supervisão. A cheia recua com perdas materiais e feridos, sem mortes.
-36. **A margem vazia** — Dias 476–480. A obra fica sob exame independente, casas são reparadas e o financiamento da escola é publicado. Líria conclui a sanção sem rivalidade apagada; Runa recupera-se e aperfeiçoa o controle. Uma linha de canal mais antigo e o depoimento corrigido de Ereno apontam a Porto das Cinzas, mas não confirmam que Mira esteja viva. **Encerra-se o arco 5 do livro na página 720.**
+36. **A margem vazia** — Dias 476–480. A obra fica sob exame independente, casas são reparadas e o financiamento da escola é publicado. Líria conclui a sanção sem rivalidade apagada; Runa recupera-se e aperfeiçoa o controle. Uma linha de canal mais antigo e o depoimento corrigido de Ereno apontam a Porto das Cinzas, mas não confirmam que Mira esteja viva. **Encerra-se o arco 5 do livro na página 728.**
 
-### Parte VII — O preço do mapa (capítulos 37–42, páginas 721–840)
+## Próxima cronologia
 
-37. **O nome sob a cera** — Cadeia de documentos liga Maelor a contratos e funcionários, mas não ao desaparecimento de Mira de forma definitiva.
-38. **Nima na estrada** — Nima viaja de fato com caravana e pernoites mostrados. O encontro com Runa traz ciúme, respeito difícil e trabalho compartilhado, sem pacto romântico forçado.
-39. **A corte das raízes** — Ysra revela como canais foram traçados sobre território feérico; negociar reparação exige abrir mão de uma rota lucrativa.
-40. **O inverno de Mira** — Mira surge primeiro por testemunho, depois em pessoa; a aparência precisa de ficha visual aprovada antes de gravura ou HQ. Ela não retorna como solução de todas as perguntas.
-41. **O último recibo** — Caio encontra prova que envolve o irmão sem torná-lo vilão absoluto. Líria confessa sabotagem e ajuda a reconstruir um arquivo público verificável.
-42. **A noite das oito luzes** — Festa sazonal interrompida por rompimento hidráulico calculado. A reação salva gente, mas perde parte do acervo e cobra um preço pessoal.
-
-### Parte VIII — Estradas que ficam (capítulos 43–48, páginas 841–956)
-
-43. **A marcha das balsas** — Adra reúne comunidades afetadas e impõe uma estratégia de proteção civil. Ilyan aprende a obedecer a quem conhece o terreno.
-44. **A espada sem fio** — A lâmina dada por Bram volta como instrumento de travar mecanismo, não espada eleita. Confronto com Maelor exige decisão ética sob pressão.
-45. **O vale inteiro** — Batalha distribuída por pontes, torres e canais; cada frente comunica atrasos reais. Maelor perde controle quando mapas e testemunhos se tornam públicos.
-46. **Mira e o que faltou** — Mãe e filho conversam sobre ausência, escolha e dano. A reconciliação não é automática; os arquivos revelam o que ela pôde salvar e o que não pôde.
-47. **O julgamento das águas** — Responsabilidades de Maelor e de agentes da escola são apuradas. Reparar canais, devolver terras e ensinar publicamente importam mais que execução triunfal.
-48. **A estrada comum** — Dezesseis páginas. Ilyan escolhe ser guerreiro que escuta e protege. Runa segue seu ofício sem perder sua autonomia; Nima preserva amizade e vida própria. A Casa ganha arquivo aberto e o mundo continua, com um caminho legítimo para novas HQs.
+A pista de Porto das Cinzas continua em outro livro, com numeração própria. O planejamento está em `PLANO_LIVRO_II.md`.
 
 ## Direção das gravuras em Canvas
 

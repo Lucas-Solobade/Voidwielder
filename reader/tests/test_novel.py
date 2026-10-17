@@ -9,11 +9,11 @@ from reader.novel_catalog import CHAPTER_DIR, NOVEL, get_novel_pages
 
 def test_novel_pages_are_real_and_contiguous() -> None:
     pages = get_novel_pages()
-    assert len(pages) == NOVEL["page_count"] == 720
-    assert [page.number for page in pages] == list(range(1, 721))
+    assert len(pages) == NOVEL["page_count"] == 728
+    assert [page.number for page in pages] == list(range(1, 729))
     assert all(page.paragraphs and 42 <= page.word_count <= 155 for page in pages)
     assert len([page for page in pages if page.illustration]) == 36
-    assert [page.number for page in pages if page.chapter_start] == list(range(1, 721, 20))
+    assert [page.number for page in pages if page.chapter_start] == [*range(1, 601, 20), 601, 629, 649, 669, 689, 709]
     assert all(page.illustration is None or page.chapter_start for page in pages)
     assert all(page.word_count >= 75 for page in pages if page.chapter_number >= 21)
     manuscript = "\n".join(path.read_text(encoding="utf-8") for path in sorted(CHAPTER_DIR.glob("*.md")))
@@ -35,9 +35,9 @@ def test_novel_has_chapter_plates() -> None:
 def test_novel_routes_and_catalog(client) -> None:
     assert client.get(reverse("reader:novel_detail")).status_code == 200
     first = client.get(reverse("reader:read_novel", args=(1,)))
-    last = client.get(reverse("reader:read_novel", args=(720,)))
+    last = client.get(reverse("reader:read_novel", args=(728,)))
     assert first.status_code == last.status_code == 200
-    assert "CONTINUA" in last.content.decode("utf-8")
-    assert "FIM DO ATO 5" in last.content.decode("utf-8")
-    assert client.get(reverse("reader:read_novel", args=(721,))).status_code == 404
+    assert "FIM" in last.content.decode("utf-8")
+    assert "FIM DO ATO" not in last.content.decode("utf-8")
+    assert client.get(reverse("reader:read_novel", args=(729,))).status_code == 404
     assert "As Estradas do Crepúsculo" in client.get("/buscar/?tipo=livros").content.decode("utf-8")

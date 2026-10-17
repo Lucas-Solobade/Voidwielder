@@ -9,8 +9,8 @@ from .book_catalog import SENTENCE_BOUNDARY
 CHAPTER_DIR = Path(__file__).resolve().parent / "books" / "estradas_crepusculo" / "chapters"
 PLATE_DIR = Path(__file__).resolve().parent / "static" / "reader" / "images" / "novel"
 ILLUSTRATED_LEAVES = frozenset({0})
-EXPECTED_CHAPTERS = 48
-TARGET_PAGES = 956
+EXPECTED_CHAPTERS = 36
+TARGET_PAGES = 728
 
 
 @dataclass(frozen=True)
@@ -96,7 +96,7 @@ def get_novel_pages() -> tuple[NovelPage, ...]:
         if chapter_path.stem != f"{chapter_number:02}":
             raise ValueError("Os capítulos devem ser sequenciais")
         title, sentences = _sentences(chapter_path.read_text(encoding="utf-8"))
-        count = 16 if chapter_number == EXPECTED_CHAPTERS else 20
+        count = 28 if chapter_number == 31 else 20
         plate_available = (PLATE_DIR / f"chapter-{chapter_number:02}.webp").is_file()
         bounds = _boundaries(sentences, count, 75 if chapter_number >= 21 else 55)
         for leaf in range(count):
@@ -111,7 +111,7 @@ def get_novel_pages() -> tuple[NovelPage, ...]:
                 word_count=sum(len(paragraph.split()) for paragraph in content),
             ))
     if len(chapters) == EXPECTED_CHAPTERS and len(pages) != TARGET_PAGES:
-        raise ValueError("O romance completo deve ter 956 páginas reais")
+        raise ValueError("O primeiro volume completo deve ter 728 páginas reais")
     return tuple(pages)
 
 
