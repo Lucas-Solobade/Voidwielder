@@ -1,0 +1,88 @@
+{
+  "chapters": [
+    {"title": "Sem fonte, sem desculpa", "start": 533, "end": 544},
+    {"title": "O registro dos golpes", "start": 545, "end": 550},
+    {"title": "O nível sem chuva", "start": 551, "end": 554}
+  ],
+  "pages": [
+    {"number":533,"title":"O último punhado","time":"Dia 457 · aula","place":"sala-elementos","layout":"diagonal-sand","cast":["liria","runa"],"novel_chapter":31,"scene":"Da areia seca retirada da caixa oeste, Líria lança uma faixa estreita ao braço de Runa. O caderno rasgado continua na mesa.","lines":[
+      {"speaker":"Líria","text":"Você apagou meu trabalho!","balloon":{"x":5,"y":3,"w":36,"target_x":28,"target_y":22,"kind":"shout"}},
+      {"speaker":"Runa","text":"O caderno não era o alvo.","balloon":{"x":58,"y":3,"w":35,"target_x":75,"target_y":29}}
+    ]},
+    {"number":534,"title":"A torneira se fecha","time":"Dia 457 · aula","place":"sala-elementos","layout":"water-break","cast":["liria","runa"],"novel_chapter":31,"scene":"Runa conduz água real da calha para deter a areia. A assistente fecha a torneira e a película se rompe em gotas.","lines":[
+      {"speaker":"Runa","text":"A água está acabando.","balloon":{"x":56,"y":3,"w":38,"target_x":71,"target_y":27}},
+      {"speaker":"Líria","text":"Então termine sem ela.","balloon":{"x":4,"y":3,"w":35,"target_x":25,"target_y":28}}
+    ]},
+    {"number":535,"title":"Oru volta à sala","time":"Dia 457 · aula","place":"sala-elementos","layout":"doorway-intervention","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"Oru entra pela porta sul, abre caminho para a saída e impede que Líria alcance a alvenaria ou mais areia da caixa.","lines":[
+      {"speaker":"Oru","text":"Afastem-se das fontes. A parede não é amostra!","balloon":{"x":35,"y":4,"w":43,"target_x":50,"target_y":44,"kind":"shout"}}
+    ]},
+    {"number":536,"title":"Mostrem as mãos","time":"Dia 457 · aula","place":"sala-elementos","layout":"source-limits","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"A câimbra interrompe a precisão dos dedos de Líria. A água no piso está misturada a tinta e areia, sem ligação segura com a bacia.","lines":[
+      {"speaker":"Oru","text":"Líria, largue os grãos. Runa, mostre as mãos.","balloon":{"x":31,"y":3,"w":42,"target_x":51,"target_y":28}}
+    ]},
+    {"number":537,"title":"A gota cai","time":"Dia 457 · aula","place":"sala-elementos","layout":"last-droplet","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"Runa fecha a mão para não lançar a gota que resta. Líria interpreta a pausa como rendição e avança pelo lado seco da mesa.","lines":[
+      {"speaker":"Runa","text":"Chega.","balloon":{"x":62,"y":3,"w":25,"target_x":78,"target_y":29}},
+      {"speaker":"Líria","text":"Agora você quer parar?","balloon":{"x":5,"y":4,"w":33,"target_x":26,"target_y":33}}
+    ]},
+    {"number":538,"title":"O ar que faltou","time":"Dia 457 · confronto","place":"sala-elementos","layout":"rib-strike","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"Líria segura o casaco de Runa e acerta um golpe curto sob a costela. Runa perde o fôlego; Oru se aproxima, sem ainda alcançá-las.","lines":[
+      {"speaker":"Líria","text":"Olhe para mim!","balloon":{"x":7,"y":3,"w":33,"target_x":36,"target_y":20,"kind":"shout"}},
+      {"speaker":"Runa","text":"Ah—!","balloon":{"x":68,"y":3,"w":23,"target_x":79,"target_y":20,"kind":"shout"}}
+    ]},
+    {"number":539,"title":"A palma aberta","time":"Dia 457 · confronto","place":"sala-elementos","layout":"open-palm","cast":["liria","runa"],"novel_chapter":31,"scene":"Sem fonte elemental, Runa atinge o queixo de Líria com a palma aberta para se desvencilhar. Líria recua um passo e recupera o equilíbrio.","lines":[
+      {"speaker":"Runa","text":"Me solte!","balloon":{"x":58,"y":3,"w":31,"target_x":77,"target_y":20,"kind":"shout"}},
+      {"speaker":"Líria","text":"Não acabou.","balloon":{"x":8,"y":3,"w":29,"target_x":26,"target_y":19}}
+    ]},
+    {"number":540,"title":"A costura do ombro","time":"Dia 457 · confronto","place":"sala-elementos","layout":"pivot-grip","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"Líria segura a costura do ombro de Runa. As duas giram para o lado seco da mesa enquanto Runa puxa a manga para escapar.","lines":[
+      {"speaker":"Runa","text":"Pare, Líria!","balloon":{"x":62,"y":3,"w":31,"target_x":76,"target_y":20,"kind":"shout"}},
+      {"speaker":"Líria","text":"Você me obrigou a olhar.","balloon":{"x":6,"y":3,"w":36,"target_x":29,"target_y":20}}
+    ]},
+    {"number":541,"title":"O ombro na pedra","time":"Dia 457 · confronto","place":"sala-elementos","layout":"fall-and-notebook","cast":["liria","runa"],"novel_chapter":31,"scene":"Runa cai de lado. Após o impacto do ombro, apoia a mão esquerda no piso para se levantar; o caderno preso por corrente desliza sob o banco.","lines":[],"narration":"O ombro tocou a pedra. Runa apoiou a mão no piso para conseguir se erguer."},
+    {"number":542,"title":"O golpe no rosto","time":"Dia 457 · confronto","place":"sala-elementos","layout":"face-strike","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"Líria acerta uma vez o nariz de Runa no chão. Runa tenta proteger os olhos e uma estudante chama Oru; a agressão não é tratada como vitória.","lines":[
+      {"speaker":"Líria","text":"Você ainda se acha intocável?","balloon":{"x":65,"y":2,"w":31,"target_x":42,"target_y":20,"kind":"shout"}},
+      {"speaker":"Estudante","text":"Professor Oru! Ela caiu!","balloon":{"x":5,"y":49,"w":33,"target_x":16,"target_y":47,"kind":"shout"}}
+    ]},
+    {"number":543,"title":"A mão de Oru","time":"Dia 457 · confronto","place":"sala-elementos","layout":"blocked-strike","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"O segundo golpe atinge o antebraço esquerdo que Runa ergueu. Oru segura o cinto de Líria antes de um terceiro golpe e a assistente ampara Runa.","lines":[
+      {"speaker":"Oru","text":"Acabou. Solte-a!","balloon":{"x":54,"y":47,"w":36,"target_x":57,"target_y":40,"kind":"shout"}}
+    ]},
+    {"number":544,"title":"Não foi empate","time":"Dia 457 · depois da luta","place":"sala-elementos","layout":"aftermath","cast":["liria","runa","oru"],"novel_chapter":31,"scene":"Separadas, Líria vê o próprio sangue nos nós dos dedos e Runa dobra o corpo pela dor. Oru lacra as fontes e registra testemunhas enquanto chamam a curandeira.","lines":[
+      {"speaker":"Oru","text":"Ninguém toca nos recipientes. Quero testemunhas.","balloon":{"x":55,"y":3,"w":40,"target_x":43,"target_y":17}},
+      {"speaker":"Runa","text":"Não consigo endireitar o corpo.","balloon":{"x":57,"y":22,"w":38,"target_x":78,"target_y":33}}
+    ]},
+    {"number":545,"title":"O sino da enfermaria","time":"Dia 457 · tarde","place":"forja-leste","layout":"bell-and-route","cast":["ilyan","teren"],"novel_chapter":31,"scene":"O sino alcança a forja leste. Ilyan deixa a peça com Teren e percorre o corredor comum até a ala da enfermaria.","lines":[
+      {"speaker":"Ilyan","text":"Runa estava na aula...","balloon":{"x":45,"y":2,"w":28,"target_x":34,"target_y":13}}
+    ]},
+    {"number":546,"title":"A raiva contida","time":"Dia 457 · tarde","place":"corredor-ala-leste","layout":"corridor-crossing","cast":["ilyan","liria"],"novel_chapter":31,"scene":"Ilyan cruza Líria no corredor, vê os nós dos dedos feridos e mantém as mãos abaixadas. Ele segue para a enfermaria sem agredi-la.","lines":[
+      {"speaker":"Ilyan","text":"Onde está Runa?","balloon":{"x":56,"y":3,"w":34,"target_x":68,"target_y":19}},
+      {"speaker":"Líria","text":"Na enfermaria.","balloon":{"x":6,"y":3,"w":31,"target_x":20,"target_y":20}}
+    ]},
+    {"number":547,"title":"Permissão para ficar","time":"Dia 457 · tarde","place":"enfermaria-leste","layout":"healer-and-visit","cast":["ilyan","runa"],"novel_chapter":31,"scene":"A curandeira examina sobrancelha, nariz, braço esquerdo e costela de Runa. Ilyan entra e pede licença antes de permanecer.","lines":[
+      {"speaker":"Ilyan","text":"Posso ficar?","balloon":{"x":5,"y":3,"w":32,"target_x":16,"target_y":20}},
+      {"speaker":"Runa","text":"Pode. Não brigue por mim.","balloon":{"x":38,"y":2,"w":37,"target_x":54,"target_y":16}}
+    ]},
+    {"number":548,"title":"O pano limpo","time":"Dia 457 · tarde","place":"enfermaria-leste","layout":"care-and-confession","cast":["ilyan","runa"],"novel_chapter":31,"scene":"Ilyan troca o pano no nariz de Runa enquanto a curandeira examina as costelas. Runa admite a provocação com a régua sem justificar as pancadas.","lines":[
+      {"speaker":"Runa","text":"Quis vencê-la diante de todos. Não merecia aquilo.","balloon":{"x":50,"y":3,"w":43,"target_x":60,"target_y":20}},
+      {"speaker":"Ilyan","text":"Minha raiva não me dá direito de feri-la.","balloon":{"x":5,"y":3,"w":41,"target_x":33,"target_y":20}}
+    ]},
+    {"number":549,"title":"Depoimentos separados","time":"Dia 457 · audiência","place":"arquivo-escola","layout":"testimony","cast":["ordelia","runa","liria"],"novel_chapter":31,"scene":"Ordelia ouve as testemunhas em separado e distingue a provocação, a ordem ignorada e os golpes depois da perda das fontes.","lines":[
+      {"speaker":"Ordelia","text":"As faltas não são iguais. Os registros também não serão.","balloon":{"x":38,"y":2,"w":52,"target_x":25,"target_y":22}}
+    ]},
+    {"number":550,"title":"Escolhi continuar","time":"Dia 457 · noite","place":"quarto-liria","layout":"sanction-and-diary","cast":["liria","ordelia"],"novel_chapter":31,"scene":"Ordelia registra sanções distintas: vinte e dois dias sem prática para Líria e seis para Runa. No quarto, Líria escreve que escolheu continuar quando Runa já não a ameaçava.","lines":[
+      {"speaker":"Líria","text":"Eu escolhi continuar.","balloon":{"x":62,"y":53,"w":30,"target_x":54,"target_y":48,"kind":"thought"}}
+    ]},
+    {"number":551,"title":"O professor não abre a aula","time":"Dia 458 · manhã","place":"enfermaria-leste","layout":"fever-and-gauge","cast":["oru","beren"],"novel_chapter":31,"scene":"Oru adoece de febre e exaustão. Beren mede a subida do reservatório em manhã seca; o encaixe pode ter mudado, mas não há autoria provada.","lines":[
+      {"speaker":"Curandeira","text":"Oru precisa de repouso. A leitura fica com Beren.","balloon":{"x":54,"y":2,"w":40,"target_x":77,"target_y":19}},
+      {"speaker":"Beren","text":"Subiu sem chuva suficiente.","balloon":{"x":49,"y":48,"w":39,"target_x":37,"target_y":57}}
+    ]},
+    {"number":552,"title":"Três pontos de leitura","time":"Dia 458 · manhã","place":"enfermaria-leste","layout":"dictated-measurement","cast":["runa","ilyan"],"novel_chapter":31,"scene":"Runa não se levanta. Ditando da cama, indica três pontos de medição; Ilyan anota hora e assinatura para levar a Beren.","lines":[
+      {"speaker":"Runa","text":"Marque três pontos. A hora também importa.","balloon":{"x":6,"y":3,"w":42,"target_x":25,"target_y":19}},
+      {"speaker":"Ilyan","text":"Levarei a Beren. Depois você descansa.","balloon":{"x":51,"y":3,"w":43,"target_x":70,"target_y":20}}
+    ]},
+    {"number":553,"title":"A observação permitida","time":"Dia 459 · manhã","place":"reservatorio-escola","layout":"gauge-and-bench","cast":["beren","caio","liria"],"novel_chapter":31,"scene":"Beren mede a vazão com régua e estaca. Líria, suspensa, observa do banco público sem tocar nas amostras e entrega a Caio uma discrepância do desenho.","lines":[
+      {"speaker":"Beren","text":"Repita a leitura na marca de baixo.","balloon":{"x":3,"y":31,"w":39,"target_x":33,"target_y":27}},
+      {"speaker":"Líria","text":"Esta linha não acompanha o nível.","balloon":{"x":5,"y":48,"w":43,"target_x":28,"target_y":69}}
+    ]},
+    {"number":554,"title":"Ainda falta uma assinatura","time":"Dia 459 · tarde","place":"enfermaria-leste","layout":"soup-and-consent","cast":["ilyan","runa"],"novel_chapter":31,"scene":"Ilyan retorna com a resposta de Beren, sopa e pão. Runa lê o pedido de Eda: a eclusa não pode ser aberta sem consentimento das margens.","lines":[
+      {"speaker":"Runa","text":"Aprendi que talento não me torna invulnerável.","balloon":{"x":47,"y":3,"w":45,"target_x":67,"target_y":22}},
+      {"speaker":"Ilyan","text":"Fico com você, sem decidir por você.","balloon":{"x":5,"y":27,"w":39,"target_x":26,"target_y":16}}
+    ],"narration":"Sob a escola, a água continuava a subir. Sobre a mesa, ainda faltava a assinatura que permitiria investigar sem decidir pelas comunidades."}
+  ]
+}

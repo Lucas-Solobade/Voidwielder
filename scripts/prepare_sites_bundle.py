@@ -2,8 +2,8 @@
 
 GitHub Pages builds the complete static export from source. Sites has a 256 MB
 expanded package limit, so its build uses the same published images for the
-original 96-page comic and two established vector pages while retaining all
-new medieval art locally.
+original 96-page comic, the first 96 medieval pages and two established vector
+pages while retaining all new medieval art locally.
 """
 
 import re
@@ -57,4 +57,24 @@ saved = sum(path.stat().st_size for path in [*images, *vector_pages])
 for path in [*images, *vector_pages]:
     path.unlink()
 ART.rmdir()
-print(f"Sites bundle: {rewrites + sum(vector_rewrites.values())} references use GitHub Pages; saved {saved / 1048576:.1f} MiB")
+
+early_medieval = [MEDIEVAL_ART / f"page-{number:02}.webp" for number in range(1, 97)]
+if any(not path.is_file() for path in early_medieval):
+    raise SystemExit("Expected the first 96 medieval pages before slimming the Sites bundle")
+early_rewrites = 0
+for page in DIST.rglob("*.html"):
+    html = page.read_text(encoding="utf-8")
+    changed = html
+    for art in early_medieval:
+        local = f"/static/reader/images/medieval/{art.name}"
+        early_rewrites += changed.count(local)
+        changed = changed.replace(local, MIRROR + local)
+    if changed != html:
+        page.write_text(changed, encoding="utf-8")
+if early_rewrites < len(early_medieval):
+    raise SystemExit("Too few medieval image references were rewritten")
+
+saved += sum(path.stat().st_size for path in early_medieval)
+for path in early_medieval:
+    path.unlink()
+print(f"Sites bundle: {rewrites + sum(vector_rewrites.values()) + early_rewrites} references use GitHub Pages; saved {saved / 1048576:.1f} MiB")

@@ -1,12 +1,12 @@
-# Arco 5 — sequência de produção das páginas 525–550
+# Arco 5 — sequência das páginas 525–554
 
-Fonte: capítulo 31, **Aula sem mestre**, do primeiro volume. O texto do livro já estabelece a ordem de causas, ferimentos e consequências. As páginas 525–532 estão ilustradas e no catálogo; as páginas 533–550 abaixo são roteiro de continuidade **ainda não publicado**, aguardando arte própria aprovada. Não usar duplicatas, recortes repetidos ou imagem vazia para simular páginas prontas.
+Fonte: capítulo 31, **Aula sem mestre**, do primeiro volume. O texto do livro estabelece a ordem de causas, ferimentos e consequências. As páginas 525–554 estão ilustradas e no catálogo. Os quadros 538–541 foram refeitos para que golpe, defesa e queda tenham braços e mãos proporcionais e conectados; os balões foram conferidos na renderização da página.
 
 ## Estado na página 532
 
 Dia 457, aula na Sala dos Elementos. Runa e Líria estão em lados opostos da mesa quadrada; o caderno acorrentado de Líria foi molhado e rasgado. Líria ainda tem uma porção de areia seca da caixa OESTE; Runa ainda alcança a água da calha LESTE. A assistente fechou o braseiro ao NORTE e começou a evacuação pela porta SUL. Oru saiu antes para examinar a vazão do reservatório com Beren e voltará pela mesma porta. Ilyan continua no turno da forja e não conhece a briga. Nima está em Pedra-Mansa.
 
-## Páginas seguintes, fiéis ao livro
+## Páginas publicadas, fiéis ao livro
 
 | Página | Imagem e ação | Fala planejada / emoção |
 | --- | --- | --- |
@@ -18,8 +18,8 @@ Dia 457, aula na Sala dos Elementos. Runa e Líria estão em lados opostos da me
 | 538 | Líria segura o casaco ameixa e acerta um golpe CURTO **sob a costela de Runa**. Mostrar impacto e perda de ar sem deformar tronco ou braços. | Runa: “Ah—!” Líria: “Olhe para mim!” |
 | 539 | Sem fonte para magia, Runa reage com a palma aberta no queixo de Líria e tenta sair. Líria cede um passo, mantendo as duas tranças e a cicatriz. | Runa: “Me solte!” Líria: “Não acabou.” |
 | 540 | Líria segura a costura do ombro; as duas giram para o lado seco da mesa. Runa puxa a manga para escapar. Corpo e rotação plausíveis. | Runa: “Pare, Líria!” |
-| 541 | Runa cai de lado; ombro toca pedra e caderno desliza sob banco. Ela põe o braço tatuado diante do rosto. | Narração curta: “O ombro encontrou o piso antes do joelho.” |
-| 542 | Líria acerta **o rosto/nariz de Runa** uma vez; sangue discreto, expressão legível. Runa não vence por magia, tenta proteger os olhos. Enquadrar sem glamourizar agressão. | Líria: “Você ainda se acha intocável?” Runa: “Saia de cima de mim!” |
+| 541 | Runa cai de lado; após o impacto do ombro, apoia a mão tatuada no piso para se levantar; o caderno desliza sob banco. | Narração curta: “O ombro tocou a pedra. Runa apoiou a mão no piso para conseguir se erguer.” |
+| 542 | Líria acerta **o rosto/nariz de Runa** uma vez; sangue discreto, expressão legível. Runa tenta proteger os olhos. | Líria: “Você ainda se acha intocável?” Um estudante chama Oru. |
 | 543 | Segunda pancada encontra o antebraço erguido; Oru segura o cinto de Líria antes de outro golpe. A assistente guia Runa sem puxar o braço ferido. | Oru: “Acabou. Solte-a.” |
 | 544 | Separação física: Líria vê sangue no rosto e no papel; Runa dobra o corpo pela dor. Aluna vai buscar curandeira; Oru registra testemunhas e lacra fontes. | Oru: “Ninguém toca nesses recipientes.” |
 | 545 | Só então o sino de enfermaria chega à FORJA LESTE. Ilyan larga a peça com Teren, atravessa o caminho comum, avental de carvão. | Ilyan: “Onde está Runa?” |
@@ -28,8 +28,12 @@ Dia 457, aula na Sala dos Elementos. Runa e Líria estão em lados opostos da me
 | 548 | Ilyan troca pano ensanguentado, compressa fria; Runa admite que moveu a régua para humilhar Líria, sem justificar golpes recebidos. | Runa: “Eu quis vencê-la diante de todos. Não merecia aquilo.” Ilyan: “Minha raiva não me dá direito de feri-la.” |
 | 549 | Ordelia ouve testemunhas separadamente no arquivo. Registra demonstração imprudente, provocação de Runa, ordem ignorada e agressão depois da perda das fontes. | Ordelia: “As faltas não são iguais. Os registros também não serão.” |
 | 550 | Sanções distintas: Líria suspensa das práticas por 22 dias e amostras só sob supervisão; Runa perde seis dias e refaz demonstração quando sarar. Líria, sozinha, anota que escolheu continuar quando Runa já não a ameaçava. | Líria, pensamento: “Eu escolhi continuar.” |
+| 551 | Oru adoece de febre e exaustão; Beren lê o reservatório em manhã seca. | Curandeira pede repouso. Beren registra a subida sem chuva suficiente. |
+| 552 | Runa dita da cama três pontos de medição; Ilyan anota hora e assinatura. | A medição segue sem obrigá-la a levantar ou praticar magia. |
+| 553 | Beren mede com Caio; Líria observa do banco público, sem tocar em amostras durante a suspensão. | Líria nota uma discrepância no desenho e a mostra a Caio. |
+| 554 | Ilyan leva sopa e a resposta de Beren à enfermaria; Runa lê o pedido de Eda. | Os dois reconhecem as próprias escolhas. Ainda falta consentimento das margens para abrir a eclusa. |
 
-A página 550 **não encerra o arco**. Oru adoece no dia 458; o reservatório sobe sem chuva suficiente; Runa permanece em repouso e envia a Beren uma lista de pontos de medição por Ilyan. No dia 459, Líria pode observar do banco público, sem manejar as amostras enquanto suspensa. Nada autoriza abrir a eclusa sem os moradores e o município.
+A página 554 **não encerra o arco**. Nada autoriza abrir a eclusa sem os moradores e o município.
 
 ## Geografia e visual obrigatórios
 

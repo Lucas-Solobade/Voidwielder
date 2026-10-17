@@ -8,7 +8,7 @@ from reader.medieval_catalog import ARCS, CANON, PAGES, STORY, page_art
 
 
 def test_medieval_canon_and_page_sequence():
-    assert [page["number"] for page in PAGES] == list(range(1, 533))
+    assert [page["number"] for page in PAGES] == list(range(1, 555))
     assert all(len(page["panels"]) == 3 for page in PAGES[:25])
     assert len({page["layout"] for page in PAGES[25:]}) >= 5
     assert all(set(page["cast"]) <= set(CANON["characters"]) for page in PAGES)
@@ -27,7 +27,7 @@ def test_medieval_canon_and_page_sequence():
     assert ARCS[3]["end"] == 518
     assert ARCS[3]["status"] == "Concluído"
     assert ARCS[4]["start"] == 519
-    assert ARCS[4]["end"] == 532
+    assert ARCS[4]["end"] == 554
     assert ARCS[4]["status"] == "Em andamento"
     assert "porta" in PAGES[24]["title"].lower()
     assert "vestibule" in PAGES[25]["scene"].lower()
@@ -46,9 +46,9 @@ def test_medieval_canon_and_page_sequence():
     assert [number for chapter in ARCS[1]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(26, 172))
     assert [number for chapter in ARCS[2]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(172, 356))
     assert [number for chapter in ARCS[3]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(356, 519))
-    assert [number for chapter in ARCS[4]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(519, 533))
+    assert [number for chapter in ARCS[4]["chapters"] for number in range(chapter["start"], chapter["end"] + 1)] == list(range(519, 555))
     assert "Dia 50" in PAGES[171]["time"] and "Dia 72" in PAGES[354]["time"]
-    assert "Dia 73" in PAGES[355]["time"] and "Dia 457" in PAGES[-1]["time"]
+    assert "Dia 73" in PAGES[355]["time"] and "Dia 459" in PAGES[-1]["time"]
     assert PAGES[178]["title"] == "A licença tem limites"
     assert PAGES[188]["title"] == "A armadilha fica"
     assert PAGES[189]["title"] == "O ferro embrulhado"
@@ -66,7 +66,7 @@ def test_medieval_canon_and_page_sequence():
         for line in panel["lines"]
     )
     assert all(
-        line["speaker"] in ({CANON["characters"][name]["name"] for name in page["cast"]} | ({"Avel"} if "avel" in page["cast"] else set()))
+        line["speaker"] in ({CANON["characters"][name]["name"] for name in page["cast"]} | {"Avel", "Estudante", "Curandeira"})
         and 0 <= line["balloon"]["x"] <= 100 - line["balloon"]["w"]
         and 0 <= line["balloon"]["y"] <= 96
         and 0 <= line["balloon"]["target_x"] <= 100
@@ -164,11 +164,11 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert arc2.content.decode().count('class="twilight-page-card"') == 146
     assert arc3.content.decode().count('class="twilight-page-card"') == 184
     assert arc4.content.decode().count('class="twilight-page-card"') == 163
-    assert arc5.content.decode().count('class="twilight-page-card"') == 14
+    assert arc5.content.decode().count('class="twilight-page-card"') == 36
     assert arc2.content.decode().count('data-episode-tab') == len(ARCS[1]["chapters"])
 
     first = client.get(reverse("reader:medieval_read", args=(1,)))
-    last = client.get(reverse("reader:medieval_read", args=(532,)))
+    last = client.get(reverse("reader:medieval_read", args=(554,)))
     assert first.status_code == last.status_code == 200
     assert first.content.decode().count('class="twilight-panel twilight-panel-') == 3
     assert 'rel="next"' in first.content.decode()
@@ -189,7 +189,7 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert client.get(reverse("reader:medieval_read", args=(312,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(421,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(451,))).status_code == 200
-    assert client.get(reverse("reader:medieval_read", args=(533,))).status_code == 404
+    assert client.get(reverse("reader:medieval_read", args=(555,))).status_code == 404
 
 
 def test_arc_four_coda_preserves_document_chain_and_speaker_balloon_assignment(client):
