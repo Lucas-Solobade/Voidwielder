@@ -1,0 +1,311 @@
+{
+  "chapters": [
+    {
+      "title": "A folha rasgada",
+      "start": 525,
+      "end": 532
+    }
+  ],
+  "pages": [
+    {
+      "number": 525,
+      "title": "A água no caderno",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "wide-and-detail",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "A água de Runa cai sobre o caderno de Líria na mesa. Líria agarra a corrente de latão antes que o volume escorregue. Runa percebe o dano e procura interromper o arco, sem atacar a rival.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Meu caderno!",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu não queria atingir as folhas.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 526,
+      "title": "A folha rasgada",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "broken-edge",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "Líria ergue a capa encharcada e uma folha molhada se rasga junto ao desenho. A tinta escorre sobre o mapa. Runa vê a consequência do próprio gesto.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A água obedeceu exatamente à sua mão.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu devia tê-la recolhido antes.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 527,
+      "title": "A primeira lâmina",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "diagonal-action",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "Líria guia grãos reais da caixa oeste em faixa estreita. Eles raspam a manga ameixa de Runa sem ferir a pele. A discussão passou de método a ataque.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Agora olhe para a minha medida!",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Você atingiu minha manga. Pare.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 528,
+      "title": "Película contra grãos",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "shield-and-impact",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "Runa recua para a calha leste e ergue da bacia uma película de água do tamanho de um prato. A areia bate nela, perde velocidade e cai em ilhas úmidas sobre a mesa.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Você acha que pode deter tudo?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Esta água basta para deter os grãos.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 529,
+      "title": "As escalas cobertas",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "low-and-wide",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "Líria empurra areia seca restante pela borda da mesa, buscando a mão de Runa. Runa retira os dedos e faz água cair verticalmente; a areia pesa e cobre as duas escalas do mapa.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Ainda tenho areia seca.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Afaste-se da minha mão!",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 530,
+      "title": "A régua e o fio",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "ruler-detail",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "A massa de areia molhada de Líria cai sem responder. Runa conduz uma película contínua da bacia leste por baixo de uma régua de madeira e a desloca poucos dedos: seu impulso depende da água real.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A areia molhada não me acompanha.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A régua acompanha o fio de água.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 531,
+      "title": "Diante de todos",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "asymmetric-reaction",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "Runa deposita a régua diante de Líria com precisão teatral; colegas murmuram. A película sob a madeira áspera começa a romper e a régua gira antes de Runa pousá-la.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Você precisava de plateia para isso?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu queria que vissem a diferença.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 532,
+      "title": "A saída ao sul",
+      "time": "Dia 457 · aula",
+      "place": "sala-elementos",
+      "layout": "evacuation",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "A assistente fecha a tampa do braseiro ao norte e manda os colegas saírem em pequenos grupos pela porta sul. Runa e Líria continuam em lados opostos da mesa, apesar da ordem.",
+      "novel_chapter": 31,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Você vai deixar minha nota exposta.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 28,
+            "target_y": 24
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vamos levar as duas folhas a Ordelia.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 40,
+            "target_x": 74,
+            "target_y": 24
+          }
+        }
+      ],
+      "narration": "A assistente protegeu o braseiro e abriu a saída. Ainda havia tempo de encerrar a disputa."
+    }
+  ]
+}

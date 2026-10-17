@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const numbers = process.argv.slice(2).map(Number).filter(Number.isInteger);
-const root = 'http://127.0.0.1:8976/hqs/estradas-do-crepusculo/ler/';
+const root = process.env.MEDIEVAL_REVIEW_ROOT || 'http://127.0.0.1:8976/hqs/estradas-do-crepusculo/ler/';
 const out = path.join(__dirname, '..', '..', 'arc-audit', 'review-451-502');
 fs.mkdirSync(out, { recursive: true });
 

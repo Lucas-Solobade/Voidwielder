@@ -2,9 +2,9 @@
 {% block title %}{{ arc.title }} · {{ story.title }}{% endblock %}
 {% block description %}{{ arc.description }}{% endblock %}
 {% block og_image %}<meta property="og:image" content="{% static arc.art %}">{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=6">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=7">{% endblock %}
 {% block content %}
-<section class="twilight-subhero">
+<section class="twilight-subhero twilight-subhero--arc-{{ arc.number }}">
   <img src="{% static arc.art %}" alt="Arte do arco {{ arc.number }} de As Estradas do Crepúsculo" fetchpriority="high" width="1024" height="1536">
   <div class="twilight-subhero-copy">
     <nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><span>Arco {{ arc.number }}</span></nav>
