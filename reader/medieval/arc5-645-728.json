@@ -1,0 +1,3302 @@
+{
+  "chapters": [
+    {
+      "title": "Farpas e condições",
+      "start": 645,
+      "end": 656
+    },
+    {
+      "title": "A soleira e as casas",
+      "start": 657,
+      "end": 676
+    },
+    {
+      "title": "O cerco da eclusa",
+      "start": 677,
+      "end": 714
+    },
+    {
+      "title": "A margem vazia",
+      "start": 715,
+      "end": 728
+    }
+  ],
+  "pages": [
+    {
+      "number": 645,
+      "title": "Farpas na galeria",
+      "time": "Dia 469 · fim de tarde",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "scene": "Runa folds the witnessed drawing at the upper library gallery table while Líria remains across the table, both visibly tense and apart.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Vou entregar a cópia ao conselho.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Depois de fazer todos me olharem como culpada?",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 646,
+      "title": "A palavra que fere",
+      "time": "Dia 469 · fim de tarde",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "scene": "Líria clenches her brass chained notebook with anger while Runa stands her ground beside the library rail, no touching.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O registro fala do que você fez, Líria.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Você adora ter a última palavra.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 647,
+      "title": "A ameaça",
+      "time": "Dia 469 · fim de tarde",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "scene": "Líria leans forward with two fists clenched but stays a full step from Runa, who looks shocked but unbowed.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Tenho vontade de socar sua cara até desfigurá-la!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então vai repetir a agressão diante de testemunhas?",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 648,
+      "title": "A voz de Ilyan",
+      "time": "Dia 469 · fim de tarde",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ilyan",
+        "liria"
+      ],
+      "scene": "Ilyan enters from the upper library stair and stops between the rivals without touching Líria, his stance stern and sword sheathed.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Chega! Você já feriu Runa uma vez. Ameaçá-la de novo é vergonhoso.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Saia da minha frente.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 649,
+      "title": "Sem desculpa",
+      "time": "Dia 469 · fim de tarde",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ilyan",
+        "liria"
+      ],
+      "scene": "Ilyan faces Líria squarely with open hands and no physical threat, while she holds back her fury at the gallery table.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A cópia pode ajudar a todos. Não compra o direito de intimidá-la.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Eu não pedi a sua aprovação.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 650,
+      "title": "Sair juntos",
+      "time": "Dia 469 · fim de tarde",
+      "place": "escada-biblioteca",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa independently descends the familiar library stairs beside Ilyan who offers a hand without grabbing her, warm light below.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Eu podia responder por mim.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Podia. Eu devia impedir outra ameaça.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 651,
+      "title": "A anotação",
+      "time": "Dia 469 · noite",
+      "place": "arquivo-escola",
+      "cast": [
+        "ordelia",
+        "liria"
+      ],
+      "scene": "Ordelia writes down the new verbal threat at the established archive oak desk while Líria remains standing on the visitor side, no absolution.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Registro também a ameaça. Sua suspensão continua.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Não vou negar o que eu disse.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 652,
+      "title": "O valor de um dado",
+      "time": "Dia 469 · noite",
+      "place": "sala-conselho",
+      "cast": [
+        "oru",
+        "ordelia"
+      ],
+      "scene": "Oru sits recovering at the long council table and compares the dated correction with the old school exercise while Ordelia checks the ledger.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "A cota aparece no exercício antigo, sem explicação.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Então precisamos da folha anterior.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 653,
+      "title": "Vistoria com limites",
+      "time": "Dia 469 · noite",
+      "place": "sala-conselho",
+      "cast": [
+        "beren",
+        "talin"
+      ],
+      "scene": "Beren sets a rigid ruler and a drawing on the council table while Talin points to the guardian boundary marked on the plan.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Examino a soleira sem mover a junta.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Eu acompanho, mas não autorizo além da margem.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 654,
+      "title": "Uma votação apertada",
+      "time": "Dia 469 · noite",
+      "place": "sala-conselho",
+      "cast": [
+        "ordelia",
+        "eda"
+      ],
+      "scene": "Ordelia counts raised hands around the council table while Eda writes the safety conditions beneath the west map mural.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Passou por um voto. Registrem os contrários.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Sem tocar no mecanismo; recuo sinalizado.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 655,
+      "title": "Boatos na forja",
+      "time": "Dia 469 · noite",
+      "place": "forja-leste",
+      "cast": [
+        "caio",
+        "ilyan"
+      ],
+      "scene": "Caio speaks to Ilyan beside Teren's existing forge fire, both young adults in work gear, no magic creating flame.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Uns chamam Líria de espiã. Outros negam a agressão.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O relatório está no arquivo. Vou apontar para ele.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 656,
+      "title": "Chapa de reforço",
+      "time": "Dia 469 · noite",
+      "place": "forja-leste",
+      "cast": [
+        "teren",
+        "ilyan"
+      ],
+      "scene": "Teren heats one measured iron plate in the east forge wall furnace while Ilyan holds long tongs safely, sparks and anvils grounded.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "Esta chapa sustenta a vistoria, não a comporta.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Marcarei cada furo antes de dobrar.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 657,
+      "title": "A barca de equipamento",
+      "time": "Dia 470 · manhã",
+      "place": "cais-leste",
+      "cast": [
+        "beren",
+        "sere"
+      ],
+      "scene": "Beren supervises the first ordinary ferry crossing for tools at the east pier while Sere counts people waiting behind the marked rail.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Primeiro vão as peças. Pessoas, na segunda barca.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Ninguém cruza antes da chamada.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 658,
+      "title": "Linha de segurança",
+      "time": "Dia 470 · manhã",
+      "place": "posto-eclusa",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "scene": "Sere stretches a safety cord at the familiar sluice post while recovering Runa stands behind it with her notebook, no magic performed.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Observação leve, atrás desta linha.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Daqui consigo ler a régua.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 659,
+      "title": "Dois dedos na pedra",
+      "time": "Dia 470 · manhã",
+      "place": "soleira-eclusa",
+      "cast": [
+        "liria",
+        "beren"
+      ],
+      "scene": "Under supervised permission Líria touches the exposed mineral sill with exactly two fingertips, Beren holding a rigid ruler beside her; wooden evidence absent.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A fratura desce para o lado oposto da planta.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "Vou confirmar pelo som.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 660,
+      "title": "O eco da falha",
+      "time": "Dia 470 · manhã",
+      "place": "soleira-eclusa",
+      "cast": [
+        "beren",
+        "talin"
+      ],
+      "scene": "Beren taps the exposed sill once with a small wooden mallet and Talin marks the crack with washable chalk, leaving masonry intact.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "O eco confirma a direção.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Só giz lavável. Nada de abrir a pedra.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 661,
+      "title": "Outra altura",
+      "time": "Dia 470 · manhã",
+      "place": "posto-eclusa",
+      "cast": [
+        "runa",
+        "eda"
+      ],
+      "scene": "Runa writes the real sill measurement while Eda checks the corrected municipal water level on a separate sheet at the post table.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A cota do gabinete não acompanha a fratura.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Teremos de rever a rua baixa.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 662,
+      "title": "O estalo de baixo",
+      "time": "Dia 470 · meio-dia",
+      "place": "passarela-eclusa",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "A sharp crack sounds beneath the sluice footbridge; Sere points everyone back along the dry passage while Ilyan guards the rear with blunt sword sheathed.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Retirada agora. Depois interpretamos o som.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou contar os últimos.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 663,
+      "title": "Casas fora do mapa",
+      "time": "Dia 470 · tarde",
+      "place": "posto-eclusa",
+      "cast": [
+        "adra",
+        "eda"
+      ],
+      "scene": "Adra shows Eda a current handwritten list of two seasonal homes missing from the municipal flood plan, both at the sluice command table.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Estas famílias moram aqui agora.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "A rota antiga não serve mais.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 664,
+      "title": "Regresso sem peça",
+      "time": "Dia 470 · tarde",
+      "place": "cais-leste",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa and Ilyan return by ferry to the east pier with notebooks only, leaving the visible wedge untouched under supervision.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não trouxemos a cunha.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Trouxemos uma medida que muda a retirada.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 665,
+      "title": "Convocação na praça",
+      "time": "Dia 470 · entardecer",
+      "place": "praca-valecobre",
+      "cast": [
+        "eda",
+        "adra"
+      ],
+      "scene": "Eda nails a meeting notice to the public board in Valecobre while Adra shows the seasonal houses on a rough map, villagers watching in background.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A assembleia será amanhã.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "As três margens precisam saber.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 666,
+      "title": "A horta emprestada",
+      "time": "Dia 471 · manhã",
+      "place": "salao-valecobre",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "scene": "Adra listens to an elven shore delegate explaining borrowed vegetable plots on the public hall map while Talin records the guardian boundary.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A horta fica na linha de cheia.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "O mapa deve mostrar quem vive nela.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 667,
+      "title": "A oficina orc",
+      "time": "Dia 471 · manhã",
+      "place": "salao-valecobre",
+      "cast": [
+        "braka",
+        "eda"
+      ],
+      "scene": "Braka the adult orc smith points out why the workshop stands by the water, while Eda adds its evacuation route to the public hall map.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Minha forja precisa do canal. Minha equipe precisa sair viva.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Marcaremos os dois caminhos.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 668,
+      "title": "E se o sino falhar?",
+      "time": "Dia 471 · manhã",
+      "place": "salao-valecobre",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "scene": "Sere demonstrates flag and foot messenger signals before an attentive mixed audience; Caio traces two distinct retreat routes on the hall board.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Se o sino falhar, usamos bandeira e mensageiro.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "A ponte alagada exige outra rota.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 669,
+      "title": "Três margens, três vozes",
+      "time": "Dia 471 · tarde",
+      "place": "salao-valecobre",
+      "cast": [
+        "eda",
+        "talin"
+      ],
+      "scene": "Eda reads the emergency protocol beside the hall's large map; Talin points to the guardian section without assuming others' authority.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Nenhuma margem perde o direito de interromper.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Assim posso levar o acordo aos guardiões.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 670,
+      "title": "A resposta de Maelor",
+      "time": "Dia 471 · tarde",
+      "place": "salao-valecobre",
+      "cast": [
+        "eda",
+        "maelor"
+      ],
+      "scene": "Maelor in short white hair and dark green inspector coat accepts Eda's written questions in the hall; his rigid left fingers and square copper ring remain visible.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Explique por escrito a mudança de cota.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Maelor",
+          "text": "O comércio pagou por mapas confiáveis.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 671,
+      "title": "O custo de uma casa",
+      "time": "Dia 471 · tarde",
+      "place": "salao-valecobre",
+      "cast": [
+        "maelor",
+        "adra"
+      ],
+      "scene": "Maelor glances away when Adra indicates the low street's occupied homes on the hall map, the tense crowd behind them.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Maelor",
+          "text": "A suspensão será cara.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Calcule também o preço de uma casa cheia.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 672,
+      "title": "A folha de Líria",
+      "time": "Dia 472 · manhã",
+      "place": "arquivo-escola",
+      "cast": [
+        "liria",
+        "ordelia"
+      ],
+      "scene": "Líria voluntarily submits her old brass chained notebook with a dated marginal warning about the high quota to Ordelia at the archive desk.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Anotei a dúvida e não a entreguei.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Registrarei as duas datas, sem apagar seu silêncio.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 673,
+      "title": "Mérito e silêncio",
+      "time": "Dia 472 · manhã",
+      "place": "arquivo-escola",
+      "cast": [
+        "ordelia",
+        "liria"
+      ],
+      "scene": "Ordelia fastens the note to the evidence ledger while Líria stands uncomfortably beside the visitor counter, both separate and serious.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Isso não a torna autora da correção.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Mas me torna responsável por calar.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 674,
+      "title": "A margem vazia",
+      "time": "Dia 472 · noite",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa and Ilyan compare Mira's old route curve with a real current canal plan on the upper library table, lantern lit, with uncertainty still marked.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A curva segue sob a margem sem nome.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Ela não prova que Mira esteve lá depois.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 675,
+      "title": "Duas perguntas",
+      "time": "Dia 472 · noite",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan writes two separate questions on paper while Runa studies the rising water chart, no apparition of Mira.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Quem mudou a cota? Para onde vai a cheia?",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A segunda pergunta não pode esperar.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 676,
+      "title": "Bandeiras na chuva",
+      "time": "Dia 472 · noite",
+      "place": "patio-central",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Sere and Ilyan hurry across the round school courtyard pool under rain to check watch flags, each carrying practical coats and no magic.",
+      "layout": "single-cinematic",
+      "novel_chapter": 34,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Os vigias receberam os sinais?",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou confirmar no portão sul.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 677,
+      "title": "Mensagem de Folealto",
+      "time": "Dia 473 · manhã",
+      "place": "sala-conselho",
+      "cast": [
+        "adra",
+        "ordelia"
+      ],
+      "scene": "A damp ordinary courier letter from Vessa arrives at the council oak table; Adra reads the raised upstream water and Ordelia dates the receipt.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Folealto baixou a tomada. Perderá a roda.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Registre a hora da mensagem.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 678,
+      "title": "Consentimento limitado",
+      "time": "Dia 473 · tarde",
+      "place": "sala-conselho",
+      "cast": [
+        "talin",
+        "eda"
+      ],
+      "scene": "Talin presents the guardians' written consent for gradual relief to Eda who holds municipal emergency authorization, both at the west map mural.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Só o alívio gradual, diante de mim.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "E apenas na marca combinada.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 679,
+      "title": "Preparar a partida",
+      "time": "Dia 473 · noite",
+      "place": "patio-leste",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Sere counts ropes and people in the east training yard while Ilyan holds the seasonal house list and a wooden shield.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Conte cada pessoa e equipamento.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Primeiro tiramos os moradores do caminho.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 680,
+      "title": "Jarros e atadura",
+      "time": "Dia 474 · amanhecer",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "scene": "Oru seated in the square elemental classroom gives a final caution while Runa packs four actual clean water jars and her left arm bandage.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Não use água do leito sujo.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Quatro jarros, impulso curto e parada clara.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 681,
+      "title": "Uma licença específica",
+      "time": "Dia 474 · amanhecer",
+      "place": "arquivo-escola",
+      "cast": [
+        "ordelia",
+        "liria"
+      ],
+      "scene": "Ordelia hands Líria a narrow written permission to inspect only the mineral sill with an assistant, not to cast or start a duel.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Só observará a soleira, acompanhada.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Entendi o limite.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 682,
+      "title": "Pelo portão sul",
+      "time": "Dia 474 · manhã",
+      "place": "portao-sul",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan and Runa depart through the established school south gate with the team visibly ahead, four water jars and shield secured to the cart.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Daqui ao cais leste, depois duas barcas.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Chegaremos antes da leitura do meio-dia.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 683,
+      "title": "Duas travessias",
+      "time": "Dia 474 · manhã",
+      "place": "cais-leste",
+      "cast": [
+        "sere",
+        "beren"
+      ],
+      "scene": "At the east pier Sere counts the arriving team as Beren helps load numbered iron plates onto the first ferry, a second ferry visible waiting.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Equipamento primeiro. Todos contam na chegada.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "A régua vai comigo, não no fundo da barca.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 684,
+      "title": "Braka no posto",
+      "time": "Dia 474 · manhã",
+      "place": "posto-eclusa",
+      "cast": [
+        "braka",
+        "beren"
+      ],
+      "scene": "Braka meets Beren at the sluice command post with two adult orc smiths and a reinforced plate, while Beren points to the safer south face.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Folealto aguenta mais uma hora.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "Fixaremos esta chapa ao sul.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 685,
+      "title": "O direito de recuar",
+      "time": "Dia 474 · manhã",
+      "place": "posto-eclusa",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "scene": "Adra explains the black retreat flag to workers at the sluice post while Talin marks the guardian limit with charcoal; neither controls the other community.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Bandeira preta: larguem as ferramentas.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Todos repetirão o sinal.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 686,
+      "title": "A soleira cede",
+      "time": "Dia 474 · meio-dia",
+      "place": "soleira-eclusa",
+      "cast": [
+        "liria",
+        "beren"
+      ],
+      "scene": "Líria briefly tests the mineral sill under supervision; Beren reads a crack less than one finger wide with rigid ruler, no broken masonry pulled free.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "O estalo vem de baixo da face norte.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "Então apoio e peso vão para o sul.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 687,
+      "title": "Um quarto de volta",
+      "time": "Dia 474 · meio-dia",
+      "place": "mecanismo-eclusa",
+      "cast": [
+        "braka",
+        "adra"
+      ],
+      "scene": "Braka turns the existing large sluice wheel only one quarter rotation under Adra's signal, workers behind marked safety line.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Um quarto. Depois paramos.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Duas leituras em cada margem antes de decidir.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 688,
+      "title": "Lodo e carapaças",
+      "time": "Dia 474 · meio-dia",
+      "place": "passarela-eclusa",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Dark floodwater releases three mud cutters toward the walkway; Sere points retreat while Ilyan raises wooden shield before workers, no duplicate creatures.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Três cortadores! Recuem da borda!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Fiquem atrás do escudo!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 689,
+      "title": "Duas flechas no barro",
+      "time": "Dia 474 · meio-dia",
+      "place": "passarela-eclusa",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "scene": "Sere plants exactly two arrows in the mud ahead of one mud cutter to divert it; Ilyan braces behind shield on safe boards.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Desvio o primeiro. O segundo vem por você.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Estou firme.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 690,
+      "title": "A junta da casca",
+      "time": "Dia 474 · meio-dia",
+      "place": "passarela-eclusa",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "An adult Ilyan strikes one mud cutter's shell joint with his BLUNT short sword while Sere signals a clear retreat line, natural anatomy.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A junta! Saiam da passarela!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "A retaguarda está livre!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 691,
+      "title": "O ferreiro preso",
+      "time": "Dia 474 · meio-dia",
+      "place": "passarela-eclusa",
+      "cast": [
+        "braka",
+        "ilyan"
+      ],
+      "scene": "Braka uses a real smith's hammer to free an adult orc worker's caught leg from a mud cutter, while Ilyan guards them with shield.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Solta a perna dele!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O caminho está aberto.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 692,
+      "title": "Da grelha funda",
+      "time": "Dia 474 · tarde",
+      "place": "mecanismo-eclusa",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "scene": "A single large chalk armored sluice eel forces its lateral jaws through the grate below a timber walkway; Sere warns Caio on the sound boards.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Caio, não pise naquela tábua!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Ela já cedeu!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 693,
+      "title": "A tira do colete",
+      "time": "Dia 474 · tarde",
+      "place": "passarela-eclusa",
+      "cast": [
+        "ilyan",
+        "caio"
+      ],
+      "scene": "Ilyan grabs the leather BACK strap of Caio's teal adult vest as a rotten walkway board collapses beneath Caio, both heads natural and bodies plausible.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Segure meu braço, Caio!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Peguei a borda!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 694,
+      "title": "Bandeira amarela",
+      "time": "Dia 474 · tarde",
+      "place": "posto-eclusa",
+      "cast": [
+        "adra",
+        "sere"
+      ],
+      "scene": "Adra raises the yellow pause flag at the post while Sere marks the broken plank with an arrow tied to support, the eel still below.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Parem a roda. Mantemos só o alívio obtido.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Ninguém pisa na madeira marcada.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 695,
+      "title": "Água de jarro",
+      "time": "Dia 474 · tarde",
+      "place": "passarela-eclusa",
+      "cast": [
+        "runa",
+        "caio"
+      ],
+      "scene": "Runa pours water from ONE clean jar along a safe intact plank to show Caio a visible line; he crawls toward firm support, no conjured water.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Siga a faixa clara. Ela termina no apoio.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Estou vendo!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 696,
+      "title": "O limite do braço",
+      "time": "Dia 474 · tarde",
+      "place": "passarela-eclusa",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa stops her short water guidance and steadies her healing left arm while Ilyan faces the eel with shield, separate safe positions.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Chega. Meu braço não segura mais.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Você já nos deu o caminho.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 697,
+      "title": "Dentes na manga",
+      "time": "Dia 474 · tarde",
+      "place": "passarela-eclusa",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "The single chalk eel rips Ilyan's sleeve with lateral teeth as he turns it using the broad face of his blunt short sword; three shallow forearm cuts visible.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela abriu a minha manga!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Recuo pela direita, agora!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 698,
+      "title": "Grade portátil",
+      "time": "Dia 474 · tarde",
+      "place": "mecanismo-eclusa",
+      "cast": [
+        "braka",
+        "sere"
+      ],
+      "scene": "Braka drops one portable iron grate across the eel's exit while Sere shoots a single arrow at a ROPE fixing a covering net, no arrow across allies.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Grade no chão!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "A rede cai pelo flanco, sem atingir ninguém.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 699,
+      "title": "Debaixo da mandíbula",
+      "time": "Dia 474 · tarde",
+      "place": "mecanismo-eclusa",
+      "cast": [
+        "ilyan",
+        "braka"
+      ],
+      "scene": "The eel strikes the grate and exposes a soft jaw underside; Ilyan flanks behind shield and Braka positions his hammer, two arms each, clear action geometry.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A parte mole ficou exposta!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Entre pelo lado do escudo!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 700,
+      "title": "Dois golpes",
+      "time": "Dia 474 · tarde",
+      "place": "mecanismo-eclusa",
+      "cast": [
+        "ilyan",
+        "braka"
+      ],
+      "scene": "Ilyan lands exactly two controlled blows with his BLUNT sword to the eel's exposed jaw underside; Braka readies the hammer at the already broken support.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Um... dois! Agora, Braka!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Apoio abaixo dela!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 701,
+      "title": "A vala funda",
+      "time": "Dia 474 · tarde",
+      "place": "mecanismo-eclusa",
+      "cast": [
+        "braka",
+        "ilyan"
+      ],
+      "scene": "Braka smashes the already damaged support so grate and eel fall into the deep flood channel; Ilyan retreats safely, eel not shown slain.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Caiu na vala!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não vi se morreu. A passagem está livre.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 702,
+      "title": "Pano fervido",
+      "time": "Dia 474 · tarde",
+      "place": "posto-eclusa",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "At the post Runa cleans exactly three cuts on Ilyan's forearm with clean jar water and boiled cloth, his blunt sword laid aside.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Primeiro limpamos isto. A água do leito está suja.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu queria voltar à roda.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 703,
+      "title": "Defender também é esperar",
+      "time": "Dia 474 · tarde",
+      "place": "posto-eclusa",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa ties a clean bandage on Ilyan's arm while he sits and reluctantly accepts that other workers read the levels, no romantic pose hiding injuries.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Defender inclui deixar outra pessoa medir.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Por cinco minutos. Você tem razão.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 704,
+      "title": "Outra leitura",
+      "time": "Dia 474 · entardecer",
+      "place": "posto-eclusa",
+      "cast": [
+        "beren",
+        "adra"
+      ],
+      "scene": "Beren reads the rigid scale at the sluice while Adra repeats each level figure at the lower post to confirm the relief's limited effect.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A subida desacelerou. Não parou.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Repetido. Esperamos a resposta de Folealto.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 705,
+      "title": "O preço rio acima",
+      "time": "Dia 474 · entardecer",
+      "place": "posto-eclusa",
+      "cast": [
+        "braka",
+        "teren"
+      ],
+      "scene": "A visible hill signal flag relays Vessa's distant warning while Braka and Teren replace the broken plank with counted nails at the post.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Mais um quarto pode alagar o moinho.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Teren",
+          "text": "Conserto a tábua enquanto esperamos.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 706,
+      "title": "A bandeira preta",
+      "time": "Dia 474 · noite",
+      "place": "rua-baixa",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "scene": "Black retreat flag rises above the flooded low street; adult Caio and Sere guide two seasonal families toward the previously marked high path.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Rua baixa, por aqui!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Larguem as coisas pesadas!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 707,
+      "title": "A avó e a neta",
+      "time": "Dia 474 · noite",
+      "place": "rua-baixa",
+      "cast": [
+        "caio",
+        "adra"
+      ],
+      "scene": "Caio escorts an elderly human woman and her granddaughter over the mapped high crossing while Adra checks houses at the lane entrance.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "As duas passaram. Quem falta?",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Mais uma casa, já avisada.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 708,
+      "title": "Ficar no posto",
+      "time": "Dia 474 · noite",
+      "place": "posto-eclusa",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "scene": "Bandaged Ilyan stands on the sluice shield line as Sere keeps him there while the rescue is visible far away on its own route, no teleportation.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Queria descer até as casas.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Caio tem a rota. Aqui precisamos do seu escudo.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 709,
+      "title": "Sinal das colinas",
+      "time": "Dia 474 · noite",
+      "place": "posto-eclusa",
+      "cast": [
+        "talin",
+        "braka"
+      ],
+      "scene": "Talin watches the delayed hill flags and grants only the agreed minimal second relief after Braka sees the Folealto workshop signal.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "O sinal chegou. Alívio mínimo autorizado.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Só agora movemos a roda.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 710,
+      "title": "Vazamento visível",
+      "time": "Dia 474 · noite",
+      "place": "soleira-eclusa",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "scene": "Runa conducts a thin stream from an actual jar through a measuring groove while Líria monitors the mineral sill under assistant supervision; both keep distance.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A água mudou de rumo. Parem!",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "A pedra ainda sustenta, mas não forcem.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 711,
+      "title": "Antes do amanhecer",
+      "time": "Dia 475 · madrugada",
+      "place": "posto-eclusa",
+      "cast": [
+        "adra",
+        "sere"
+      ],
+      "scene": "The flood level finally steadies at the marked post before dawn; exhausted Adra reads the scale and Sere counts all returning workers.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Parou de subir.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Conto todos os que voltaram.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 712,
+      "title": "O custo dito em voz alta",
+      "time": "Dia 475 · manhã",
+      "place": "posto-eclusa",
+      "cast": [
+        "adra",
+        "braka"
+      ],
+      "scene": "Adra publicly records a broken mill wheel and walkway, three injured workers, two houses needing inspection; Braka stands beside the written cost sheet.",
+      "layout": "single-cinematic",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Sem mortos. Ainda há prejuízo e feridos.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Braka",
+          "text": "Folealto precisa de ferro novo.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 713,
+      "title": "Pedras sob a lama",
+      "time": "Dia 475 · manhã",
+      "place": "margem-vazia",
+      "cast": [
+        "beren",
+        "talin"
+      ],
+      "scene": "Beren sketches a newly exposed older stone line under receding mud without excavating; Talin marks the boundary of guardian permission.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A linha segue além da planta recente.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Desenhem a superfície. Não cavem.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 714,
+      "title": "A marca triangular",
+      "time": "Dia 475 · manhã",
+      "place": "margem-vazia",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan notices one small triangular mark on a stone at the unexcavated margin while Runa compares a sketch from Mira's old notebook, both skeptical.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 35,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A forma lembra o caderno de Mira.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Uma convenção também pode ser copiada.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 715,
+      "title": "Três relatórios",
+      "time": "Dia 476 · manhã",
+      "place": "arquivo-escola",
+      "cast": [
+        "eda",
+        "ordelia"
+      ],
+      "scene": "At the archive oak desk Eda receives separate signed reports from Adra, Braka and Talin, hours and losses clearly listed; Ordelia dates each copy.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Três margens, três relatos assinados.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Nenhum substitui o outro.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 716,
+      "title": "Exame independente",
+      "time": "Dia 476 · tarde",
+      "place": "praca-valecobre",
+      "cast": [
+        "eda",
+        "ilyan"
+      ],
+      "scene": "Eda reads the municipal suspension of new sluice changes in the public square while bandaged Ilyan carries the evacuation list.",
+      "layout": "single-cinematic",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Obra suspensa para exame independente.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E as famílias só voltam após vistoria.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 717,
+      "title": "A resposta incompleta",
+      "time": "Dia 476 · tarde",
+      "place": "arquivo-escola",
+      "cast": [
+        "ordelia",
+        "runa"
+      ],
+      "scene": "Ordelia shows Maelor's written defense missing its earlier calculation sheets, and Runa marks that absence on a dated copy, no Maelor physically present.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Ele enviou apenas a conclusão.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vamos pedir as páginas anteriores.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 718,
+      "title": "A aula retomada",
+      "time": "Dia 477 · manhã",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "scene": "Recovering Oru teaches seated by the square elemental table with a real saucer, wet thread and wood piece; Runa demonstrates two-finger movement then stops.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Mostre onde termina a fonte.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A peça para quando o fio seca.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 719,
+      "title": "A sanção termina",
+      "time": "Dia 479 · manhã",
+      "place": "arquivo-escola",
+      "cast": [
+        "ordelia",
+        "liria"
+      ],
+      "scene": "Ordelia records the end of Líria's suspension and the separate admission of assault at the archive desk; Líria retains two braids, chin scar and brass notebook chain.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A suspensão termina. O registro da agressão fica.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Pagarei parte do tratamento com meus turnos.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 720,
+      "title": "Rivais, ainda",
+      "time": "Dia 479 · tarde",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "scene": "In an open school corridor Runa and Líria face each other across a respectful distance, neither smiling or touching, other students far away.",
+      "layout": "single-cinematic",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Seu talento não justificou bater em mim.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Sei disso. Ainda quero vencê-la na aula.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 721,
+      "title": "O barqueiro Ereno",
+      "time": "Dia 479 · tarde",
+      "place": "cais-leste",
+      "cast": [
+        "ereno",
+        "talin"
+      ],
+      "scene": "Ereno, elderly ferry boatman with weathered face and gray cropped hair, shows Talin a rough sketch of old west mooring stakes at the east pier.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ereno",
+          "text": "Vi uma agrimensora de cabelo escuro naquela rota.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Anotarei o que viu, sem dar a ela um nome.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 722,
+      "title": "Uma data corrigida",
+      "time": "Dia 479 · tarde",
+      "place": "cais-leste",
+      "cast": [
+        "ereno",
+        "adra"
+      ],
+      "scene": "Ereno corrects his initial winter date when Adra shows an old ferry cargo calendar, preserving both versions on separate visible notes.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ereno",
+          "text": "Talvez tenha sido no inverno anterior.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Registrarei sua correção, não apagarei a primeira.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 723,
+      "title": "Porto das Cinzas",
+      "time": "Dia 479 · entardecer",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "Ilyan and Runa compare the old ferry tariff naming Porto das Cinzas with Ereno's independently drawn stakes at the upper library desk.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Duas distâncias coincidem. A terceira, não.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "É uma pista, não o destino de Mira.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 724,
+      "title": "O acordo das margens",
+      "time": "Dia 480 · manhã",
+      "place": "salao-valecobre",
+      "cast": [
+        "braka",
+        "adra"
+      ],
+      "scene": "Braka and Adra discuss paid timber, metal and safe load for repairs at the public hall table while other communities remain distinct and present.",
+      "layout": "single-cinematic",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Pagaremos preço justo pela madeira.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E a passarela entrará no calendário.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 725,
+      "title": "O mapa honesto",
+      "time": "Dia 480 · manhã",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ordelia",
+        "caio"
+      ],
+      "scene": "Ordelia posts a revised public map with seasonal houses and a white unexamined margin; adult Caio fastens copies to the familiar west wall.",
+      "layout": "wide-and-asymmetric-inset",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A área vazia terá legenda, não estrada inventada.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "As famílias poderão conferir seus nomes.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 726,
+      "title": "Cartas para casa",
+      "time": "Dia 480 · tarde",
+      "place": "quarto-cedro",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "In Ilyan's established cedar room he writes ordinary sealed letters to Bram and Nima about injuries and uncertain evidence while Runa reads beside the north window.",
+      "layout": "tall-and-detail",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Contarei a Nima a data duvidosa. A Bram, meu medo.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E o correio levará quando partir amanhã.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 727,
+      "title": "O que fica entre nós",
+      "time": "Dia 480 · entardecer",
+      "place": "patio-central",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "scene": "Runa and Ilyan stand under the covered edge of the round school courtyard in light rain, share a fully consensual gentle kiss, both adult and naturally posed.",
+      "layout": "wide-over-two-unequal",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não quero ser resposta à ausência de Mira.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu a amo também quando não temos resposta.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 728,
+      "title": "A estrada por descobrir",
+      "time": "Dia 480 · pôr do sol",
+      "place": "observatorio-escola",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "scene": "From the school's established observatory Ilyan and Runa look over the unexcavated western margin on a map, future route unresolved; warm dusk, no new voyage yet.",
+      "layout": "single-cinematic",
+      "novel_chapter": 36,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Porto das Cinzas espera uma investigação com licença.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 40,
+            "target_x": 10,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E com quem vive às margens ouvido primeiro.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 40,
+            "target_x": 90,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    }
+  ]
+}
