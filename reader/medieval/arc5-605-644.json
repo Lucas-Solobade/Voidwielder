@@ -827,22 +827,22 @@
           "speaker": "Ordelia",
           "text": "Registro a proposta. Sua sanção permanece.",
           "balloon": {
-            "x": 5,
+            "x": 57,
             "y": 2,
             "w": 38,
-            "target_x": 24,
-            "target_y": 28
+            "target_x": 75,
+            "target_y": 29
           }
         },
         {
           "speaker": "Líria",
           "text": "Eu sei.",
           "balloon": {
-            "x": 57,
-            "y": 2,
+            "x": 5,
+            "y": 13,
             "w": 38,
-            "target_x": 76,
-            "target_y": 28
+            "target_x": 25,
+            "target_y": 30
           }
         }
       ]
@@ -864,22 +864,22 @@
           "speaker": "Oru",
           "text": "Preferiria uma medição falsa?",
           "balloon": {
-            "x": 5,
+            "x": 57,
             "y": 2,
             "w": 38,
-            "target_x": 24,
-            "target_y": 28
+            "target_x": 75,
+            "target_y": 36
           }
         },
         {
           "speaker": "Runa",
           "text": "Não. Ainda estou com raiva.",
           "balloon": {
-            "x": 57,
-            "y": 2,
+            "x": 5,
+            "y": 13,
             "w": 38,
-            "target_x": 76,
-            "target_y": 28
+            "target_x": 26,
+            "target_y": 36
           }
         }
       ]
