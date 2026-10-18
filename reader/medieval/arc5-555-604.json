@@ -1,0 +1,1650 @@
+{
+  "chapters": [
+    {
+      "title": "A licença e o caminho",
+      "start": 555,
+      "end": 566
+    },
+    {
+      "title": "A rua baixa",
+      "start": 567,
+      "end": 582
+    },
+    {
+      "title": "A vigília do dique",
+      "start": 583,
+      "end": 596
+    },
+    {
+      "title": "O marco das Faias",
+      "start": 597,
+      "end": 604
+    }
+  ],
+  "pages": [
+    {
+      "number": 555,
+      "title": "Três assinaturas",
+      "time": "Dia 460 · manhã",
+      "place": "arquivo-escola",
+      "layout": "wide-document",
+      "cast": [
+        "adra",
+        "eda",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Adra places the coastal community's signed letter on Eda's oak desk; three signatures are visible as marks, not legible text.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A Enseada permite medir a eclusa exterior.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 17,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Somente nesse corredor.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 51,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 556,
+      "title": "A pedra de limite",
+      "time": "Dia 460 · manhã",
+      "place": "arquivo-escola",
+      "layout": "map-closeup",
+      "cast": [
+        "eda",
+        "adra",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Eda uses a wooden ruler to mark the municipal strip and the stone boundary of Ysra on a large map. The restricted north bank remains beyond the line.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Sem licença das Faias, não cruzem esta pedra.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 52,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Entendi o limite.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 78,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 557,
+      "title": "Quem fica",
+      "time": "Dia 460 · manhã",
+      "place": "enfermaria-leste",
+      "layout": "quiet-two-shot",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 32,
+      "scene": "Ilyan, travel bag in hand, informs resting Runa of the authorized mission; her bruised left arm is bandaged and she stays in the infirmary.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Vou contar cada medida quando voltar.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não posso ir com você desta vez.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 77,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 558,
+      "title": "Sem atalhos",
+      "time": "Dia 460 · manhã",
+      "place": "patio-leste",
+      "layout": "route-board",
+      "cast": [
+        "sere",
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Sere sketches three routes in chalk on a board in the east training yard; Caio and Ilyan study it, archery fence behind.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "A rua baixa some primeiro na chuva.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 17,
+            "target_y": 26
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Então a subida de pedra é a saída.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 83,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 559,
+      "title": "O aço sem fio",
+      "time": "Dia 460 · manhã",
+      "place": "patio-leste",
+      "layout": "practice-diagonal",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "novel_chapter": 32,
+      "scene": "Ilyan practices a blocking stance with Bram's short blunt training sword while Sere checks his footing, no one injured.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Esta espada serve para conter uma retirada?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 34,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Sim. Não persiga o que recuar.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 82,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 560,
+      "title": "Flechas de contenção",
+      "time": "Dia 460 · manhã",
+      "place": "cerca-norte",
+      "layout": "archery-split",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Behind the safe north fence, Sere demonstrates an arrow at a hanging rope and Caio readies an arrow at a ground marker, not people.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Primeiro desviar; só acertar se alguém for atacado.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 18,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 561,
+      "title": "Peso da medida",
+      "time": "Dia 460 · meio-dia",
+      "place": "patio-leste",
+      "layout": "equipment-detail",
+      "cast": [
+        "adra",
+        "caio",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Adra checks a brass survey tripod, coil of rope and medical kit. Caio realizes the equipment exceeds one ferry load.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Faremos duas travessias.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 23,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "O tripé pesa mais do que parece.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 79,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 562,
+      "title": "Pelo portão sul",
+      "time": "Dia 460 · meio-dia",
+      "place": "portao-sul",
+      "layout": "departure-wide",
+      "cast": [
+        "adra",
+        "sere",
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "The team departs the school through its south gate on foot, equipment counted, two coastal workers with them; Runa stays behind.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Seis pessoas, três volumes. Vamos.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 39,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 563,
+      "title": "Valecobre a pé",
+      "time": "Dia 460 · tarde",
+      "place": "valecobre",
+      "layout": "street-asymmetric",
+      "cast": [
+        "ilyan",
+        "caio",
+        "adra"
+      ],
+      "novel_chapter": 32,
+      "scene": "The group walks through Valecobre's market street toward the east quay; Ilyan carries the blunt sword, Caio carries survey rods.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Seguimos a pé até o cais.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 23,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Além da rua dos oleiros.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 77,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 564,
+      "title": "Primeira barca",
+      "time": "Dia 460 · tarde",
+      "place": "cais-leste",
+      "layout": "ferry-overhead",
+      "cast": [
+        "adra",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "At the east quay, Adra and Caio load the heavy tripod onto the first low wooden ferry; Sere and Ilyan wait ashore with remaining gear.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Tripé e caixas comigo. Vocês vêm na segunda.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 27,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 565,
+      "title": "Segunda travessia",
+      "time": "Dia 460 · tarde",
+      "place": "barca-enseada",
+      "layout": "river-wide",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Ilyan and Sere ride the second ferry through grey water; the first ferry and its unloaded equipment are visible at the far bank.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "O vento virou para o norte.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 26,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E a chuva vem com ele.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 71,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 566,
+      "title": "O corredor concedido",
+      "time": "Dia 460 · tarde",
+      "place": "estrada-enseada",
+      "layout": "path-depth",
+      "cast": [
+        "adra",
+        "sere",
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "After reuniting on the opposite bank, the team walks along the clearly marked public corridor to the outer sluice; no one crosses the Ysra boundary.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Daqui em diante, somente pelo corredor marcado.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 22,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 567,
+      "title": "A marca da ponte",
+      "time": "Dia 460 · fim de tarde",
+      "place": "ponte-enseada",
+      "layout": "bridge-gauge",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Adra reads the water gauge at a stone bridge as rain darkens its stones; Ilyan records the reading on a notebook.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A marca baixa já está perto.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 24,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Registrei a hora.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 69,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 568,
+      "title": "Aviso, não pânico",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "doorway-montage",
+      "cast": [
+        "adra",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "A bell rings in the low street as Adra and Caio calmly knock on cottage doors and advise residents to carry medicine to high ground.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Subam antes da próxima marca.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 51,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Há tempo para buscar os remédios.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 79,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 569,
+      "title": "Seis pernas no capim",
+      "time": "Dia 460 · fim de tarde",
+      "place": "vala-enseada",
+      "layout": "creature-reveal",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "A dark mud-cutter emerges from grass by the ditch: crablike leather carapace scored with salt, six narrow legs and bone teeth. Ilyan spots it from a safe distance.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Sere... há algo se movendo na vala.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 570,
+      "title": "O saco da criança",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "sudden-action",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "A mud-cutter lunges toward a child's food sack; Ilyan steps between them, blunt short sword ready, child behind him.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Para trás de mim!",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 30,
+            "target_y": 30,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 571,
+      "title": "A face do aço",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "impact-close",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Ilyan pushes the sack away with the flat of his blunt sword and strikes the mud-cutter's shell; its six legs remain distinct, no duplicate sword or arms.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Largue!",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 46,
+            "target_y": 30,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 572,
+      "title": "Linha de retirada",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "tactical-wide",
+      "cast": [
+        "sere",
+        "caio",
+        "adra"
+      ],
+      "novel_chapter": 32,
+      "scene": "Sere positions Caio at a bend and a coastal archer atop the firm wall; Adra leads people uphill in a single safe line.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Caio, conte a fila. Arcos para o chão à frente deles.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 22,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 573,
+      "title": "Avô e neta",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "evacuation-close",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Adra guides a child and grandfather toward high ground while Ilyan guards their ankles from approaching mud-cutters.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Olhem para a subida. Um passo por vez.",
+          "balloon": {
+            "x": 55,
+            "y": 2,
+            "w": 39,
+            "target_x": 68,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 574,
+      "title": "Dois ao mesmo tempo",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "combat-diagonal",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "novel_chapter": 32,
+      "scene": "Two mud-cutters emerge together; Sere's arrow hits the joint of the first creature, while Ilyan turns toward the second.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "O segundo é seu!",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 24,
+            "target_y": 27,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 575,
+      "title": "A mordida na bota",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "combat-low-angle",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "One mud-cutter grips the leather of Ilyan's boot; his leg remains correctly attached and his blunt sword slides beneath the creature's belly.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Solta a minha bota!",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 40,
+            "target_y": 28,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 576,
+      "title": "Não perseguir",
+      "time": "Dia 460 · fim de tarde",
+      "place": "rua-baixa",
+      "layout": "retreat-two-shot",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "The creature tumbles back to the ditch; Sere gestures Ilyan back to the evacuation line instead of pursuing it.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Volte à fila, Ilyan.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Já estou indo.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 73,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 577,
+      "title": "A última casa",
+      "time": "Dia 460 · crepúsculo",
+      "place": "rua-baixa",
+      "layout": "last-house-wide",
+      "cast": [
+        "adra",
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Water reaches the lower bridge mark; a family remains inside the last cottage, a father visible holding a tool chest.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Pelo quintal alto, não pela calçada.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 20,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Falta uma casa!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 72,
+            "target_y": 28,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 578,
+      "title": "O bueiro cede",
+      "time": "Dia 460 · crepúsculo",
+      "place": "rua-baixa",
+      "layout": "route-obstacle",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Adra points at the sinking east sidewalk beside a storm drain; Ilyan takes the high garden path instead.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A calçada leste está cedendo.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então vamos pela pedra.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 72,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 579,
+      "title": "Corda no poste",
+      "time": "Dia 460 · crepúsculo",
+      "place": "quintal-alto",
+      "layout": "rope-detail",
+      "cast": [
+        "sere",
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Sere ties a safety rope around a solid stone post and Ilyan's chest; Caio counts people at the safe entrance.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Prenda acima das costelas.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 24,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Contarei cada saída.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 75,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 580,
+      "title": "A colher de madeira",
+      "time": "Dia 460 · crepúsculo",
+      "place": "quintal-alto",
+      "layout": "family-crossing",
+      "cast": [
+        "ilyan",
+        "adra"
+      ],
+      "novel_chapter": 32,
+      "scene": "The family crosses the stone step one at a time; a child clutches a wooden spoon while the father carries the recovered tool chest.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Primeiro a criança. Depois o avô.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 27,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 581,
+      "title": "A pedra afunda",
+      "time": "Dia 460 · crepúsculo",
+      "place": "quintal-alto",
+      "layout": "rescue-angle",
+      "cast": [
+        "ilyan",
+        "sere",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "After the last civilian crosses, the stone step collapses under Ilyan's foot; the rope arrests him as Sere and Caio haul it, sword remains tethered.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Estou preso pela corda!",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 54,
+            "target_y": 29,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Puxem agora!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 27,
+            "target_y": 29,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 582,
+      "title": "A tira do punho",
+      "time": "Dia 460 · crepúsculo",
+      "place": "quintal-alto",
+      "layout": "breath-close",
+      "cast": [
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Safe on high ground, Ilyan retrieves the blunt sword by its wrist strap and checks the intact rope; Caio steadies him.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Sem essa corda, a água me levava.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 28,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 583,
+      "title": "Tábuas do carrinho",
+      "time": "Dia 460 · noite",
+      "place": "dique-seguro",
+      "layout": "barricade-build",
+      "cast": [
+        "sere",
+        "adra",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "The team dismantles boards from an abandoned cart to close a safe passage at the top of the dyke; every tool has a clear owner.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Fechem a passagem. Os arcos nos darão tempo.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 27,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 584,
+      "title": "Martelo e arco",
+      "time": "Dia 460 · noite",
+      "place": "dique-seguro",
+      "layout": "split-action",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Coastal blacksmith nails boards while Sere covers the barrier with a drawn bow; Ilyan braces the wood from the safe side.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Segurem até prender!",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 23,
+            "target_y": 28,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Mais uma tábua aqui!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 73,
+            "target_y": 28,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 585,
+      "title": "O corte de Caio",
+      "time": "Dia 460 · noite",
+      "place": "dique-seguro",
+      "layout": "close-action",
+      "cast": [
+        "caio",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "A mud-cutter climbs the barrier and scratches Caio's forearm; Ilyan uses the blunt sword to knock its shell aside, no gore.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Meu braço!",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Afaste-se da borda!",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 70,
+            "target_y": 30,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 586,
+      "title": "Água limpa",
+      "time": "Dia 460 · noite",
+      "place": "dique-seguro",
+      "layout": "medical-detail",
+      "cast": [
+        "caio",
+        "ilyan",
+        "adra"
+      ],
+      "novel_chapter": 32,
+      "scene": "After the animal is driven off, Ilyan washes Caio's muddy cut with clean carried water and soap while Adra offers a fresh bandage.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Lodo no corte. Água limpa, sabão e atadura.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 28,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 587,
+      "title": "A senhora que faltava",
+      "time": "Dia 460 · noite",
+      "place": "posto-dique",
+      "layout": "counting-ledger",
+      "cast": [
+        "adra",
+        "caio",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "On the safe dyke, the team compares a household list with evacuees; two neighbors confirm an elderly woman stayed uphill with her daughter last night.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Falta uma moradora na lista?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 23,
+            "target_y": 30
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Na casa da filha, com duas testemunhas.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 70,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 588,
+      "title": "A pressão lateral",
+      "time": "Dia 460 · noite",
+      "place": "posto-dique",
+      "layout": "sluice-night",
+      "cast": [
+        "adra",
+        "sere",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "At a lanternlit observation post, Adra shows the outer sluice receiving pressure from a side channel drawn dry on the municipal map.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Este braço não devia trazer água.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 30,
+            "target_y": 29
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Vigias até amanhecer.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 69,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 589,
+      "title": "Duas séries",
+      "time": "Dia 460 · noite",
+      "place": "posto-dique",
+      "layout": "measurement-close",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Adra aligns Beren's signed drawing from the school with fresh bridge readings, tracing two different times on parchment.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A subida é parecida, mas chegou horas depois.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 45,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 590,
+      "title": "Não é uma porta só",
+      "time": "Dia 460 · noite",
+      "place": "posto-dique",
+      "layout": "water-diagram",
+      "cast": [
+        "adra",
+        "sere",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Two watercourses converge beneath the dyke in a cutaway-like illustration while the investigators compare the real flow from safety.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Ainda não abriremos nada.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 27,
+            "target_y": 29
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Pode haver duas entradas.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 72,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 591,
+      "title": "Leitura a cada sino",
+      "time": "Dia 461 · madrugada",
+      "place": "posto-dique",
+      "layout": "night-watch",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Sere sets watches by an iron bell and Caio writes the first overnight gauge reading, his forearm bandaged.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Anotem a marca a cada sino. Céu claro não basta.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 26,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 592,
+      "title": "O braço lavado",
+      "time": "Dia 461 · madrugada",
+      "place": "posto-dique",
+      "layout": "camp-conversation",
+      "cast": [
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Under a dry lean-to Ilyan changes Caio's simple bandage and washes the cut again with carried clean water; quiet storm beyond.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A notícia da escola chegou?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 28,
+            "target_y": 31
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Chegou antes de nós.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 72,
+            "target_y": 30
+          }
+        }
+      ]
+    },
+    {
+      "number": 593,
+      "title": "A diferença entre querer e fazer",
+      "time": "Dia 461 · madrugada",
+      "place": "posto-dique",
+      "layout": "quiet-night",
+      "cast": [
+        "ilyan",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "Caio and Ilyan sit beside the safely sheathed blunt sword, speaking about anger and Runa while keeping watch.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Você pretende enfrentar Líria?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 19
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Tive vontade. Não farei isso.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 50,
+            "target_y": 20
+          }
+        }
+      ]
+    },
+    {
+      "number": 594,
+      "title": "Uma carta comum",
+      "time": "Dia 461 · tarde",
+      "place": "enfermaria-leste",
+      "layout": "letter-window",
+      "cast": [
+        "runa"
+      ],
+      "novel_chapter": 32,
+      "scene": "A messenger delivers Ilyan's ordinary paper letter to Runa in the infirmary; the courier arrived on the first returning ferry.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ele escreveu as casas, não uma vitória.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 28,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 595,
+      "title": "Escalas diferentes",
+      "time": "Dia 461 · tarde",
+      "place": "enfermaria-leste",
+      "layout": "maps-overhead",
+      "cast": [
+        "runa",
+        "beren"
+      ],
+      "novel_chapter": 32,
+      "scene": "Runa sits with healer's permission and compares Beren's plotted levels against an older Junco survey on a board; two visibly different scales.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "As curvas se parecem. As escalas, não.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 596,
+      "title": "Descanso também é trabalho",
+      "time": "Dia 461 · noite",
+      "place": "enfermaria-leste",
+      "layout": "infirmary-silence",
+      "cast": [
+        "runa"
+      ],
+      "novel_chapter": 32,
+      "scene": "Runa sets down the maps and lies back to rest, bruise on left arm and small brow wound still visible, rain at the pointed window.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Uma hora de sono. Depois comparo de novo.",
+          "balloon": {
+            "x": 34,
+            "y": 2,
+            "w": 39,
+            "target_x": 50,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 597,
+      "title": "Permissão restrita",
+      "time": "Dia 462 · manhã",
+      "place": "posto-dique",
+      "layout": "courier-arrival",
+      "cast": [
+        "adra",
+        "sere"
+      ],
+      "novel_chapter": 32,
+      "scene": "A courier from the Faias arrives by land with a sealed restricted permit; Adra reads it beside Sere at the dry post.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Vista da borda norte. Sem cavar nem tocar a junta.",
+          "balloon": {
+            "x": 41,
+            "y": 2,
+            "w": 39,
+            "target_x": 54,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 598,
+      "title": "Pegadas maiores",
+      "time": "Dia 462 · manhã",
+      "place": "posto-dique",
+      "layout": "tracks-detail",
+      "cast": [
+        "talin",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Talin, a red-haired pointed-eared elf with mustard cloak and cheek scar, arrives on foot and shows larger tracks near a hidden canal outlet to Ilyan.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Essas pegadas são maiores?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 26,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Maiores que as dos cortadores. Não provam a pressão.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 73,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 599,
+      "title": "Até o marco",
+      "time": "Dia 462 · manhã",
+      "place": "borda-norte",
+      "layout": "boundary-wide",
+      "cast": [
+        "talin",
+        "sere",
+        "adra",
+        "ilyan"
+      ],
+      "novel_chapter": 32,
+      "scene": "Talin leads Sere, Adra and Ilyan over wet rock to the permission boundary marker; all stay on the near side.",
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Daqui observamos. Ninguém cruza.",
+          "balloon": {
+            "x": 55,
+            "y": 2,
+            "w": 39,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 600,
+      "title": "A haste torta",
+      "time": "Dia 462 · manhã",
+      "place": "borda-norte",
+      "layout": "grille-telephoto",
+      "cast": [
+        "ilyan",
+        "talin"
+      ],
+      "novel_chapter": 32,
+      "scene": "Across the boundary, a sluice grille is visible with a repair wedge angled strangely; Ilyan recognizes its type but cannot touch or date it.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Parece uma cunha de reparo.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Desenho a posição daqui.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 72,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 601,
+      "title": "Três marcas acima",
+      "time": "Dia 462 · manhã",
+      "place": "borda-norte",
+      "layout": "measurement-rain",
+      "cast": [
+        "sere",
+        "adra"
+      ],
+      "novel_chapter": 32,
+      "scene": "From a safe point Sere extends a graduated cord toward the water; Adra reads three marks above forecast as rain strengthens.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Três marcas acima do previsto.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 25,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Registre e recolha o fio.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 65,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 602,
+      "title": "Retirada sem prova falsa",
+      "time": "Dia 462 · tarde",
+      "place": "posto-dique",
+      "layout": "post-debrief",
+      "cast": [
+        "adra",
+        "ilyan",
+        "talin"
+      ],
+      "novel_chapter": 32,
+      "scene": "The team returns on foot to the dyke with only sketches and timed notes; Adra corrects a rumor claiming Maelor set a trap.",
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Uma haste vista à distância não prova autoria.",
+          "balloon": {
+            "x": 34,
+            "y": 2,
+            "w": 39,
+            "target_x": 53,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 603,
+      "title": "Volta à escola",
+      "time": "Dia 464 · tarde",
+      "place": "valecobre",
+      "layout": "return-archway",
+      "cast": [
+        "ilyan",
+        "sere",
+        "caio"
+      ],
+      "novel_chapter": 32,
+      "scene": "After the return ferry and walk through Valecobre, Ilyan reaches the school infirmary and asks the healer whether Runa may receive a visit.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A curandeira liberou visitas?",
+          "balloon": {
+            "x": 27,
+            "y": 10,
+            "w": 32,
+            "target_x": 52,
+            "target_y": 27
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Eu levo os registros ao arquivo.",
+          "balloon": {
+            "x": 64,
+            "y": 10,
+            "w": 32,
+            "target_x": 76,
+            "target_y": 27
+          }
+        }
+      ]
+    },
+    {
+      "number": 604,
+      "title": "Lugar para a dúvida",
+      "time": "Dia 464 · tarde",
+      "place": "patio-central",
+      "layout": "courtyard-conversation",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 32,
+      "scene": "In the school central courtyard by its round pool, Ilyan tells Runa of the child, rope, workers and uncertain tracks; Runa marks the permitted boundary on a map, small healed brow cut and left-arm bruise remain.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ainda não sabemos de onde vieram os cortadores.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 39,
+            "target_x": 26,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então vamos marcar só o que vimos.",
+          "balloon": {
+            "x": 56,
+            "y": 2,
+            "w": 39,
+            "target_x": 73,
+            "target_y": 28
+          }
+        }
+      ]
+    }
+  ]
+}

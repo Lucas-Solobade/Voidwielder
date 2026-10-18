@@ -55,7 +55,7 @@
       {"speaker":"Líria","text":"Na enfermaria.","balloon":{"x":6,"y":3,"w":31,"target_x":20,"target_y":20}}
     ]},
     {"number":547,"title":"Permissão para ficar","time":"Dia 457 · tarde","place":"enfermaria-leste","layout":"healer-and-visit","cast":["ilyan","runa"],"novel_chapter":31,"scene":"A curandeira examina sobrancelha, nariz, braço esquerdo e costela de Runa. Ilyan entra e pede licença antes de permanecer.","lines":[
-      {"speaker":"Ilyan","text":"Posso ficar?","balloon":{"x":5,"y":3,"w":32,"target_x":16,"target_y":20}},
+      {"speaker":"Ilyan","text":"Posso ficar?","balloon":{"x":22,"y":25,"w":25,"target_x":17,"target_y":20}},
       {"speaker":"Runa","text":"Pode. Não brigue por mim.","balloon":{"x":38,"y":2,"w":37,"target_x":54,"target_y":16}}
     ]},
     {"number":548,"title":"O pano limpo","time":"Dia 457 · tarde","place":"enfermaria-leste","layout":"care-and-confession","cast":["ilyan","runa"],"novel_chapter":31,"scene":"Ilyan troca o pano no nariz de Runa enquanto a curandeira examina as costelas. Runa admite a provocação com a régua sem justificar as pancadas.","lines":[
