@@ -231,6 +231,18 @@
       "role": "empreiteiro humano da estrada de Valecobre",
       "fixed_appearance": "Humano adulto de pele pálida, cabelo louro-acinzentado curto, barba rala da mesma cor e olhos cinzentos.",
       "fixed_clothing": "Casaco ocre de empreiteiro, bolsa de documentos de couro e botas de estrada."
+    },
+    "curandeira": {
+      "name": "Curandeira",
+      "role": "curandeira da enfermaria leste da Casa",
+      "fixed_appearance": "Humana adulta de pele oliva clara, cabelo castanho-escuro preso em coque trançado e olhos castanhos.",
+      "fixed_clothing": "Túnica escolar azul-escura com mangas de linho creme; sem insígnia de magia."
+    },
+    "mensageiro": {
+      "name": "Mensageiro",
+      "role": "entregador do correio comum de Valecobre",
+      "fixed_appearance": "Humano adulto de pele morena clara, cabelo castanho curto e barba castanha curta.",
+      "fixed_clothing": "Capa de viagem castanha e bolsa de couro para cartas; sem uniforme da Casa."
     }
   },
   "creatures": {
@@ -288,7 +300,8 @@
     "quintal-alto": "Quintal de pedra acima da rua baixa. Poste sólido segura a corda de travessia; o degrau de pedra pode ceder depois da retirada da família.",
     "dique-seguro": "Topo firme do dique junto à Enseada. Uma barreira de tábuas de carrinho protege a fila; arcos operam sem apontar para moradores.",
     "posto-dique": "Abrigo de observação no alto do dique, com sino, lanterna, livro de horários e leitura de nível a cada sino.",
-    "borda-norte": "Margem rochosa observável somente com licença das Faias e Talin presente. O marco de pedra proíbe cruzar, escavar ou tocar a junta antiga."
+    "borda-norte": "Margem rochosa observável somente com licença das Faias e Talin presente. O marco de pedra proíbe cruzar, escavar ou tocar a junta antiga.",
+    "posto-correio": "Balcão de correio comum em Valecobre; cartas seladas saem em carroça, nunca por transporte instantâneo."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -321,7 +334,13 @@
     "quarto-liria": "Quarto simples de Líria na ala de estudantes, com cama estreita, janela ogival e escrivaninha onde ela mantém o caderno acorrentado. Não é o quarto de Ilyan.",
     "reservatorio-escola": "Reservatório externo junto ao muro da Casa; régua fixa de nível na borda e banco público atrás da faixa de medição. Beren mede a água com Caio enquanto visitantes observam sem tocar nas amostras.",
     "patio-leste": "Pátio de treino a leste da piscina central, com tábua de rotas e acesso à cerca norte de arquearia. O grupo sai daqui pelo portão sul.",
-    "cerca-norte": "Área de tiro segura atrás da cerca ao norte do pátio leste; alvos de corda e estacas ficam afastados da circulação."
+    "cerca-norte": "Área de tiro segura atrás da cerca ao norte do pátio leste; alvos de corda e estacas ficam afastados da circulação.",
+    "escada-biblioteca": "Escada interna de pedra que sobe da ala leste à galeria superior da biblioteca; Runa sobe por si, Ilyan carrega livros.",
+    "galeria-biblioteca": "Galeria superior da biblioteca com mesa de cópias, estantes e portão do arquivo oeste trancado. A mesma mesa recebe séries e mapas.",
+    "mesa-patio": "Mesa de pedra ao lado da piscina circular no pátio central; cartas chegam por mensageiro e seguem pelo correio comum.",
+    "quarto-cedro": "Quarto individual de Ilyan na ala oeste: baú, lamparina, cama e janela voltada ao norte. A espada sem fio repousa junto ao baú durante a noite.",
+    "sala-conselho": "Sala de conselho da Casa: mesa longa de carvalho no centro, mural de mapas na parede oeste, entrada com banco de depoentes; cadeiras extras para representantes.",
+    "sala-publica-arquivo": "Sala de consulta pública supervisionada junto à galeria; balcão, lista de remessas e cópias autenticadas. Não dá acesso ao arquivo oeste."
   },
   "magic_rules": [
     "Magia é prática aprendida, não destino hereditário. A Casa das Quatro Luas estuda os ritmos de terra, água, brasa e ar.",
@@ -416,7 +435,8 @@
     "Livro, arco 5, dias 457–479: Runa supera Líria na condução de elementos na Sala dos Elementos, depois Líria a agride fisicamente e a machuca. Líria recebe vinte e dois dias de suspensão de prática; Runa, seis dias. Ilyan trata Runa e não agride Líria. Oru adoece por exaustão. Uma autorização excepcional permite a Líria examinar a soleira sob supervisão, sem cancelar a pena. As três comunidades consentem etapas limitadas de alívio da eclusa; cheia e predadores causam danos, mas não mortes. A eclusa estabiliza no dia 475.",
     "Livro, arco 5, dias 476–480: documentos ligam a sociedade de sal ao financiamento da escola e a uma cota alterada, sem provar autoria da cunha, sino ou sumiço de Mira. A obra é suspensa para exame; famílias retornam somente após vistoria. Ereno lembra uma agrimensora perto de Porto das Cinzas, corrige a data e nunca a identifica com certeza. O primeiro volume termina no arco 5 na página 728. A HQ inicia o arco 5 nas páginas 519–524 do dia 457: cartas registradas, turno de Ilyan na forja, aula de Oru e primeira demonstração de areia e água; o confronto e as consequências vêm depois.",
     "HQ, arco 5, dias 457–459: páginas 525–532 apresentam a disputa elemental; 533–537 encerram as fontes sem criar matéria do nada; 538–543 mostram golpe na costela, defesa de palma, queda, pancada no rosto e intervenção de Oru. Na página 544 separam-se as alunas e preservam-se testemunhas. Ilyan só toma conhecimento na forja na 545, cruza Líria sem agredi-la na 546 e cuida de Runa na enfermaria. Ordelia ouve versões separadas e registra sanções distintas, sem absolvê-las. Oru adoece no dia 458; Beren mede nível crescente sem chuva. No dia 459, Líria suspensa observa apenas do banco público e aponta discrepância a Caio; Ilyan leva sopa e a resposta de Beren à enfermaria. A autorização para a eclusa continua pendente.",
-    "HQ, arco 5, dias 460–464: páginas 555–604 adaptam o capítulo 32. Adra traz consentimento da Enseada para medir a eclusa exterior e retirar moradores da faixa baixa; Eda limita a missão ao corredor autorizado. Runa repousa, Líria está suspensa. Sere, Ilyan, Caio, Adra e dois trabalhadores vão a pé pelo portão sul e Valecobre, cruzam em duas viagens de barca e chegam ao dique. Cortadores de lodo deslocados pela cheia ameaçam a retirada; Ilyan usa a espada sem fio como defesa e a corda evita sua queda. Caio recebe corte superficial que é lavado. Medições noturnas sugerem duas entradas de água. Talin traz licença restrita para observar a borda norte, sem tocar a junta. Voltam no dia 464 sem atribuir autoria à haste vista."
+    "HQ, arco 5, dias 460–464: páginas 555–604 adaptam o capítulo 32. Adra traz consentimento da Enseada para medir a eclusa exterior e retirar moradores da faixa baixa; Eda limita a missão ao corredor autorizado. Runa repousa, Líria está suspensa. Sere, Ilyan, Caio, Adra e dois trabalhadores vão a pé pelo portão sul e Valecobre, cruzam em duas viagens de barca e chegam ao dique. Cortadores de lodo deslocados pela cheia ameaçam a retirada; Ilyan usa a espada sem fio como defesa e a corda evita sua queda. Caio recebe corte superficial que é lavado. Medições noturnas sugerem duas entradas de água. Talin traz licença restrita para observar a borda norte, sem tocar a junta. Voltam no dia 464 sem atribuir autoria à haste vista.",
+    "HQ, arco 5, dias 464–469: páginas 605–644 mostram Ordelia examinando mapas sem atribuir culpa; Runa recupera-se e treina impulso limitado à água existente sob supervisão de Oru. Líria observa suspensa, propõe exame da soleira sem ganhar absolvição. Carta de Nima chega por mensageiro de Pedra-Mansa; Ilyan e Runa respondem por correio. Sere e Caio treinam retirada; Beren entrega peça numerada com licença. Ilyan e Runa aprofundam a relação por escolha e cuidado. No conselho do dia 469, contas autenticadas ligam a sociedade de sal ao gabinete de Maelor e à bolsa de Líria, sem provar sabotagem. Líria consulta a cópia pública sob testemunha e entrega a Runa desenho de ordem que eleva a cota em dois palmos; a rivalidade e a sanção permanecem."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

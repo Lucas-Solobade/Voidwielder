@@ -422,11 +422,11 @@
           "speaker": "Adra",
           "text": "Daqui em diante, somente pelo corredor marcado.",
           "balloon": {
-            "x": 5,
-            "y": 2,
-            "w": 39,
-            "target_x": 22,
-            "target_y": 30
+            "x": 71,
+            "y": 85,
+            "w": 28,
+            "target_x": 85,
+            "target_y": 76
           }
         }
       ]
@@ -448,22 +448,22 @@
           "speaker": "Adra",
           "text": "A marca baixa já está perto.",
           "balloon": {
-            "x": 5,
-            "y": 2,
-            "w": 39,
-            "target_x": 24,
-            "target_y": 30
+            "x": 62,
+            "y": 4,
+            "w": 34,
+            "target_x": 43,
+            "target_y": 17
           }
         },
         {
           "speaker": "Ilyan",
           "text": "Registrei a hora.",
           "balloon": {
-            "x": 56,
-            "y": 2,
-            "w": 39,
-            "target_x": 69,
-            "target_y": 30
+            "x": 5,
+            "y": 25,
+            "w": 35,
+            "target_x": 18,
+            "target_y": 14
           }
         }
       ]
@@ -522,10 +522,10 @@
           "text": "Sere... há algo se movendo na vala.",
           "balloon": {
             "x": 5,
-            "y": 2,
-            "w": 39,
-            "target_x": 25,
-            "target_y": 24
+            "y": 25,
+            "w": 36,
+            "target_x": 22,
+            "target_y": 14
           }
         }
       ]
@@ -1220,11 +1220,11 @@
           "speaker": "Sere",
           "text": "Anotem a marca a cada sino. Céu claro não basta.",
           "balloon": {
-            "x": 5,
+            "x": 61,
             "y": 2,
-            "w": 39,
-            "target_x": 26,
-            "target_y": 29
+            "w": 34,
+            "target_x": 34,
+            "target_y": 14
           }
         }
       ]

@@ -151,16 +151,30 @@ for page in pages:
         line["balloon"]["target_x"], line["balloon"]["target_y"] = anchor
 
 BOXES = {
+    566: [(71, 85, 28)],
+    567: [(62, 4, 34), (5, 25, 35)],
+    569: [(5, 25, 36)],
     573: [(55, 2, 39)],
     596: [(34, 2, 39)],
     597: [(41, 2, 39)],
     599: [(55, 2, 39)],
     602: [(34, 2, 39)],
     603: [(27, 10, 32), (64, 10, 32)],
+    591: [(61, 2, 34)],
 }
 for page in pages:
     for line, box in zip(page["lines"], BOXES.get(page["number"], [])):
         line["balloon"]["x"], line["balloon"]["y"], line["balloon"]["w"] = box
+
+TAILS.update({
+    566: [(85, 76)],
+    567: [(43, 17), (18, 14)],
+    569: [(22, 14)],
+    591: [(34, 14)],
+})
+for page in pages:
+    for line, anchor in zip(page["lines"], TAILS.get(page["number"], [])):
+        line["balloon"]["target_x"], line["balloon"]["target_y"] = anchor
 
 assert [p["number"] for p in pages] == list(range(555, 605))
 OUT.write_text(json.dumps({"chapters": CHAPTERS, "pages": pages}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

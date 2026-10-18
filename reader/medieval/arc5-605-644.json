@@ -1,0 +1,1460 @@
+{
+  "chapters": [
+    {
+      "title": "Pele, promessa, manhã",
+      "start": 605,
+      "end": 632
+    },
+    {
+      "title": "A escola divide-se",
+      "start": 633,
+      "end": 644
+    }
+  ],
+  "pages": [
+    {
+      "number": 605,
+      "title": "Os mapas em silêncio",
+      "time": "Dia 464 · anoitecer",
+      "place": "arquivo-escola",
+      "layout": "map-table",
+      "cast": [
+        "ordelia",
+        "eda"
+      ],
+      "novel_chapter": 32,
+      "scene": "Ordelia and Eda spread the returned coastal maps on the familiar oak archive table; the west shelves remain locked.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Marque a haste como observação, não como prova.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "E a leitura três marcas acima?",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 606,
+      "title": "Permissão para observar",
+      "time": "Dia 465 · manhã",
+      "place": "sala-elementos",
+      "layout": "door-and-teacher",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "Recovering Oru sits beside the south door of the square elemental classroom; Runa enters with healing brow cut and bruised left arm.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Hoje você observa antes de praticar.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Quero aprender quando devo parar.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 607,
+      "title": "Um pires e um fio",
+      "time": "Dia 465 · manhã",
+      "place": "sala-elementos",
+      "layout": "table-detail",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "On the familiar square classroom table stand one saucer of actual water, wet cotton thread and a small wooden piece; the brazier is closed and western sand box sealed.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Somente a água presente pode conduzir o impulso.",
+          "balloon": {
+            "x": 8,
+            "y": 7,
+            "w": 35,
+            "target_x": 24,
+            "target_y": 28,
+            "embedded": true
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então mostre o limite.",
+          "balloon": {
+            "x": 60,
+            "y": 7,
+            "w": 33,
+            "target_x": 76,
+            "target_y": 28,
+            "embedded": true
+          }
+        }
+      ]
+    },
+    {
+      "number": 608,
+      "title": "Dois dedos de distância",
+      "time": "Dia 465 · manhã",
+      "place": "sala-elementos",
+      "layout": "water-thread",
+      "cast": [
+        "runa",
+        "oru"
+      ],
+      "novel_chapter": 33,
+      "scene": "Runa guides the little wooden piece two finger widths along a wetted cotton thread while Oru watches from his chair; no levitating objects.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Moveu só enquanto o fio estava úmido.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Exatamente.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 609,
+      "title": "Quando o fio se rompe",
+      "time": "Dia 465 · manhã",
+      "place": "sala-elementos",
+      "layout": "stopped-motion",
+      "cast": [
+        "runa",
+        "oru"
+      ],
+      "novel_chapter": 33,
+      "scene": "The thin wet thread breaks; the piece stops on the square table, while Runa holds her injured left arm close, Oru intervening calmly.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Chega. A dor também é uma medida.",
+          "balloon": {
+            "x": 9,
+            "y": 10,
+            "w": 32,
+            "target_x": 24,
+            "target_y": 28,
+            "embedded": true
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu queria tentar mais uma vez.",
+          "balloon": {
+            "x": 62,
+            "y": 10,
+            "w": 31,
+            "target_x": 76,
+            "target_y": 28,
+            "embedded": true
+          }
+        }
+      ]
+    },
+    {
+      "number": 610,
+      "title": "Perguntas no banco público",
+      "time": "Dia 465 · manhã",
+      "place": "sala-elementos",
+      "layout": "observer-panel",
+      "cast": [
+        "liria",
+        "oru"
+      ],
+      "novel_chapter": 33,
+      "scene": "Suspended Líria watches Oru's lesson from the public rear bench with her brass-chained notebook closed over one knee; two dark tight braids and chin scar remain visible.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Quanta água custa deslocar esse peso?",
+          "balloon": {
+            "x": 5,
+            "y": 15,
+            "w": 38,
+            "target_x": 18,
+            "target_y": 32
+          }
+        }
+      ]
+    },
+    {
+      "number": 611,
+      "title": "O último curativo",
+      "time": "Dia 465 · tarde",
+      "place": "enfermaria-leste",
+      "layout": "infirmary-close",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "novel_chapter": 33,
+      "scene": "The school healer removes Runa's last brow dressing in the established east infirmary; healed small brow cut and left-arm bruise still visible.",
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Escada pode. Esforço, ainda não.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vou respeitar isso.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 612,
+      "title": "Um degrau abaixo",
+      "time": "Dia 465 · tarde",
+      "place": "escada-biblioteca",
+      "layout": "stair-diagonal",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "Ilyan carries Runa's books on the library stairs while Runa climbs independently a step ahead, both visibly adults with natural anatomy.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Posso subir sem apoio.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu levo apenas os livros.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 613,
+      "title": "A mesa liberada",
+      "time": "Dia 465 · tarde",
+      "place": "galeria-biblioteca",
+      "layout": "gallery-wide",
+      "cast": [
+        "ordelia",
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "Ordelia unlocks the upper copying table of the library gallery, while the western archive's barred gate stays shut in the same room.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "A mesa de cópias está livre. O arquivo oeste continua fechado.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Usaremos as séries registradas.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 614,
+      "title": "Vento do norte",
+      "time": "Dia 465 · tarde",
+      "place": "galeria-biblioteca",
+      "layout": "chart-two-shot",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_chapter": 33,
+      "scene": "At the upper gallery copying table, Runa compares two real water-level charts from Beren and Adra; Ilyan aligns the north-wind dates with a wooden ruler.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O atraso cresce com vento do norte.",
+          "balloon": {
+            "x": 5,
+            "y": 21,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Há uma derivação antes da eclusa.",
+          "balloon": {
+            "x": 57,
+            "y": 21,
+            "w": 38,
+            "target_x": 73,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 615,
+      "title": "A linha que falta",
+      "time": "Dia 465 · tarde",
+      "place": "galeria-biblioteca",
+      "layout": "uncertain-map",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "Ilyan draws a dotted uncertainty along the physically mapped canal rather than inventing an exact outlet; Runa checks the open source sheets.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ainda não sabemos onde ela entra.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Escreva isso no mapa.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 616,
+      "title": "Carta de Pedra-Mansa",
+      "time": "Dia 466 · manhã",
+      "place": "patio-central",
+      "layout": "letter-arrival",
+      "cast": [
+        "ilyan",
+        "mensageiro"
+      ],
+      "novel_chapter": 33,
+      "scene": "An ordinary courier hands Ilyan a sealed letter from Pedra-Mansa beside the round central courtyard pool; Nima is absent, no magical apparition.",
+      "lines": [
+        {
+          "speaker": "Mensageiro",
+          "text": "Chegou pela estrada de ontem.",
+          "balloon": {
+            "x": 5,
+            "y": 25,
+            "w": 38,
+            "target_x": 22,
+            "target_y": 43
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "É de Pedra-Mansa.",
+          "balloon": {
+            "x": 57,
+            "y": 25,
+            "w": 38,
+            "target_x": 77,
+            "target_y": 42
+          }
+        }
+      ]
+    },
+    {
+      "number": 617,
+      "title": "A pergunta de Nima",
+      "time": "Dia 466 · manhã",
+      "place": "mesa-patio",
+      "layout": "letter-two-shot",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "At a quiet courtyard table Ilyan openly shows Nima's handwritten letter to Runa; only the two are physically present.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela perguntou pelo seu braço.",
+          "balloon": {
+            "x": 5,
+            "y": 16,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Posso responder com você?",
+          "balloon": {
+            "x": 57,
+            "y": 16,
+            "w": 38,
+            "target_x": 75,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 618,
+      "title": "Duas caligrafias",
+      "time": "Dia 466 · manhã",
+      "place": "mesa-patio",
+      "layout": "writing-close",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_chapter": 33,
+      "scene": "Runa writes one honest line about her recovery; Ilyan adds the coastal measurements and asks about the eight-toothed wheel, two distinct scripts on one paper.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Vou agradecer sem fingir que já estou bem.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E perguntar pela roda que Nima conhece.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 619,
+      "title": "Para o correio de amanhã",
+      "time": "Dia 466 · meio-dia",
+      "place": "posto-correio",
+      "layout": "mail-counter",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "Ilyan and Runa seal the reply at a staffed medieval courier counter; it will leave on the next day's ordinary cart.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Segue na carroça de amanhã.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ela saberá que lemos juntos.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 620,
+      "title": "Saída ao sul",
+      "time": "Dia 466 · tarde",
+      "place": "patio-leste",
+      "layout": "training-wide",
+      "cast": [
+        "sere",
+        "caio",
+        "ilyan"
+      ],
+      "novel_chapter": 33,
+      "scene": "Sere sets a safe evacuation drill in the established east training yard; Caio guides two groups toward its south exit while Ilyan guards the rear with blunt sword.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Caio, conduza as duas turmas.",
+          "balloon": {
+            "x": 5,
+            "y": 15,
+            "w": 38,
+            "target_x": 26,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Ilyan cobre os últimos.",
+          "balloon": {
+            "x": 57,
+            "y": 15,
+            "w": 38,
+            "target_x": 65,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 621,
+      "title": "Quem ainda falta",
+      "time": "Dia 466 · tarde",
+      "place": "patio-leste",
+      "layout": "fence-observation",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "From behind the practice fence, Runa observes Ilyan checking the last students before leaving the retreat line; no injured or duplicated extras.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você conta quem ainda não saiu.",
+          "balloon": {
+            "x": 57,
+            "y": 17,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 40
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "É o único número que importa agora.",
+          "balloon": {
+            "x": 5,
+            "y": 26,
+            "w": 38,
+            "target_x": 40,
+            "target_y": 41
+          }
+        }
+      ]
+    },
+    {
+      "number": 622,
+      "title": "Nome de Mira",
+      "time": "Dia 466 · entardecer",
+      "place": "patio-central",
+      "layout": "quiet-pool",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "After drill at the round courtyard pool, Ilyan remembers his missing mother Mira without visual apparition; Runa remains beside him quietly.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Mira teria entendido esse mapa.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Podemos ficar aqui um pouco.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 623,
+      "title": "A peça numerada",
+      "time": "Dia 467 · manhã",
+      "place": "arquivo-escola",
+      "layout": "evidence-table",
+      "cast": [
+        "beren",
+        "ordelia"
+      ],
+      "novel_chapter": 33,
+      "scene": "Licensed mason Beren presents a removed wooden intake piece numbered with its pre-removal drawing; Ordelia enters both into the archive evidence ledger.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Há desgaste antigo e lasca recente. Não sei quando surgiu.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "As testemunhas verão os dois lados.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 624,
+      "title": "A mensagem do inspetor",
+      "time": "Dia 467 · manhã",
+      "place": "arquivo-escola",
+      "layout": "document-exchange",
+      "cast": [
+        "eda",
+        "ordelia"
+      ],
+      "novel_chapter": 33,
+      "scene": "Eda reads Maelor's delivered written demand not to halt station works while Ordelia keeps the numbered evidence secure; Maelor is not physically there.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Segurança e transparência são condições da obra.",
+          "balloon": {
+            "x": 57,
+            "y": 19,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 39
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Vou anexar sua resposta.",
+          "balloon": {
+            "x": 5,
+            "y": 25,
+            "w": 38,
+            "target_x": 25,
+            "target_y": 39
+          }
+        }
+      ]
+    },
+    {
+      "number": 625,
+      "title": "Só a cópia pública",
+      "time": "Dia 467 · tarde",
+      "place": "sala-publica-arquivo",
+      "layout": "archive-counter",
+      "cast": [
+        "liria",
+        "ordelia"
+      ],
+      "novel_chapter": 33,
+      "scene": "Suspended Líria requests inspection of the wooden piece, but Ordelia provides only its public measured drawing at the supervised archive counter.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Posso comparar a curvatura?",
+          "balloon": {
+            "x": 5,
+            "y": 22,
+            "w": 38,
+            "target_x": 23,
+            "target_y": 37
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "A cópia, sim. O objeto, não.",
+          "balloon": {
+            "x": 57,
+            "y": 22,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 626,
+      "title": "A escuta da pedra",
+      "time": "Dia 467 · tarde",
+      "place": "sala-publica-arquivo",
+      "layout": "stone-close",
+      "cast": [
+        "liria",
+        "oru"
+      ],
+      "novel_chapter": 33,
+      "scene": "Under Oru's supervision, Líria presses two fingertips against a separate chipped test stone, sensing the direction of an existing crack; the wooden evidence remains untouched across the room.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Madeira não responde. Preciso da soleira mineral.",
+          "balloon": {
+            "x": 5,
+            "y": 22,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 627,
+      "title": "Uma proposta não absolve",
+      "time": "Dia 467 · tarde",
+      "place": "arquivo-escola",
+      "layout": "proposal-facing",
+      "cast": [
+        "liria",
+        "ordelia"
+      ],
+      "novel_chapter": 33,
+      "scene": "Líria proposes a licensed examination of the stone sill to Ordelia, presenting written method; the archive keeper records it without lifting suspension.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Registro a proposta. Sua sanção permanece.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Eu sei.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 628,
+      "title": "O custo de odiar",
+      "time": "Dia 467 · entardecer",
+      "place": "sala-elementos",
+      "layout": "teacher-dialogue",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "Runa consults the public proposal in the elemental classroom while seated Oru asks her to consider a useful measurement from someone she resents.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Preferiria uma medição falsa?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não. Ainda estou com raiva.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 629,
+      "title": "Três perguntas",
+      "time": "Dia 467 · entardecer",
+      "place": "sala-elementos",
+      "layout": "method-three-beats",
+      "cast": [
+        "runa",
+        "oru"
+      ],
+      "novel_chapter": 33,
+      "scene": "Under Oru's supervision Runa guides existing water from a saucer through a short wetted thread and stops before the source is spent; no floating mass.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "De onde vem, por onde passa, onde termina.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Agora você controla a saída.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 630,
+      "title": "A palavra cedo demais",
+      "time": "Dia 467 · crepúsculo",
+      "place": "patio-central",
+      "layout": "pool-emotional",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "By the courtyard's round reflecting pool, Ilyan confesses his love before measuring the word; Runa listens with tenderness and complicated fresh hurt.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Eu a amo. Isso não me autoriza a ferir Líria.",
+          "balloon": {
+            "x": 5,
+            "y": 18,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 37
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Repita quando não for resposta a uma ferida.",
+          "balloon": {
+            "x": 57,
+            "y": 18,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 631,
+      "title": "Escolher ficar",
+      "time": "Dia 467 · noite",
+      "place": "quarto-cedro",
+      "layout": "cedar-room",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_chapter": 33,
+      "scene": "In Ilyan's established cedar room, his blunt sword rests by the chest, a lamp glows; Runa chooses to stay and the adults exchange a gentle kiss, fully clothed, respecting her sore rib.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Você pode ficar ou voltar sem se explicar.",
+          "balloon": {
+            "x": 57,
+            "y": 19,
+            "w": 38,
+            "target_x": 52,
+            "target_y": 43
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Hoje eu escolho ficar.",
+          "balloon": {
+            "x": 5,
+            "y": 27,
+            "w": 38,
+            "target_x": 29,
+            "target_y": 43
+          }
+        }
+      ]
+    },
+    {
+      "number": 632,
+      "title": "Luz pela janela norte",
+      "time": "Dia 468 · manhã",
+      "place": "quarto-cedro",
+      "layout": "morning-room",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_chapter": 33,
+      "scene": "Morning light from the same north window falls on Ilyan and Runa seated fully clothed with bread; her healing brow and bruise remain, affectionate but thoughtful.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Confiará que eu escolha meus limites?",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 73,
+            "target_y": 33
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Sim, mesmo quando for difícil.",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 38,
+            "target_x": 29,
+            "target_y": 33
+          }
+        }
+      ]
+    },
+    {
+      "number": 633,
+      "title": "Cadeiras a mais",
+      "time": "Dia 469 · manhã",
+      "place": "sala-conselho",
+      "layout": "council-establish",
+      "cast": [
+        "ordelia",
+        "eda",
+        "talin"
+      ],
+      "novel_chapter": 34,
+      "scene": "Ordelia opens the House council chamber with extra chairs for canal workers and shore delegates; familiar long oak table and west map mural, Talin attends only to report for guardians.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Cada margem terá voz nesta mesa.",
+          "balloon": {
+            "x": 5,
+            "y": 23,
+            "w": 38,
+            "target_x": 20,
+            "target_y": 38
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Eu observo e relato, não autorizo por todos.",
+          "balloon": {
+            "x": 57,
+            "y": 23,
+            "w": 38,
+            "target_x": 79,
+            "target_y": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 634,
+      "title": "Quem pode falar",
+      "time": "Dia 469 · manhã",
+      "place": "sala-conselho",
+      "layout": "council-roles",
+      "cast": [
+        "ordelia",
+        "runa",
+        "liria",
+        "ilyan"
+      ],
+      "novel_chapter": 34,
+      "scene": "Runa sits as level-series author, Líria on witness bench under suspension, Ilyan stands by door carrying records without vote; Ordelia calls for firsthand measurements.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Separaremos medida de boato.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 22,
+            "target_y": 17
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Começo pelo atraso do fluxo.",
+          "balloon": {
+            "x": 43,
+            "y": 9,
+            "w": 38,
+            "target_x": 55,
+            "target_y": 26
+          }
+        }
+      ]
+    },
+    {
+      "number": 635,
+      "title": "A soleira em disputa",
+      "time": "Dia 469 · manhã",
+      "place": "sala-conselho",
+      "layout": "disputed-maps",
+      "cast": [
+        "runa",
+        "liria",
+        "eda"
+      ],
+      "novel_chapter": 34,
+      "scene": "Across the council oak table Runa marks delayed water flow and Líria indicates the mineral sill on a separate drawing; Eda points to the endangered low street.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Sem leituras simultâneas, a rua baixa sofre.",
+          "balloon": {
+            "x": 4,
+            "y": 11,
+            "w": 36,
+            "target_x": 18,
+            "target_y": 34
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "A pedra precisa de exame.",
+          "balloon": {
+            "x": 43,
+            "y": 11,
+            "w": 36,
+            "target_x": 51,
+            "target_y": 34
+          }
+        }
+      ]
+    },
+    {
+      "number": 636,
+      "title": "Anexos autenticados",
+      "time": "Dia 469 · pausa",
+      "place": "sala-conselho",
+      "layout": "accounts-arrival",
+      "cast": [
+        "mensageiro",
+        "ordelia"
+      ],
+      "novel_chapter": 34,
+      "scene": "A municipal courier arrives through the council doorway with certified account copies from two offices, counted by Ordelia before anyone reads them.",
+      "lines": [
+        {
+          "speaker": "Mensageiro",
+          "text": "Duas repartições, duas cópias seladas.",
+          "balloon": {
+            "x": 5,
+            "y": 20,
+            "w": 38,
+            "target_x": 30,
+            "target_y": 40
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Registre a chegada antes de abrir.",
+          "balloon": {
+            "x": 57,
+            "y": 20,
+            "w": 38,
+            "target_x": 74,
+            "target_y": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 637,
+      "title": "O dinheiro das medidas",
+      "time": "Dia 469 · pausa",
+      "place": "sala-conselho",
+      "layout": "ledger-comparison",
+      "cast": [
+        "ordelia",
+        "eda"
+      ],
+      "novel_chapter": 34,
+      "scene": "Ordelia and Eda read account lines linking salt company payments to Maelor's office and reimbursement of a school sluice scholarship, with no attribution of sabotage.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A mesma sociedade financiou as duas frentes.",
+          "balloon": {
+            "x": 57,
+            "y": 5,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 35
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Conflito de interesse. Ainda não prova fraude.",
+          "balloon": {
+            "x": 5,
+            "y": 14,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 638,
+      "title": "A bolsa de Líria",
+      "time": "Dia 469 · tarde",
+      "place": "sala-conselho",
+      "layout": "private-reaction",
+      "cast": [
+        "liria"
+      ],
+      "novel_chapter": 34,
+      "scene": "Líria recognizes the number of her winter scholarship among account copies, her face conflicted; two braids and chin scar visible, no other person at her side.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Minha bolsa veio desse fundo?",
+          "balloon": {
+            "x": 5,
+            "y": 12,
+            "w": 38,
+            "target_x": 23,
+            "target_y": 29
+          }
+        }
+      ]
+    },
+    {
+      "number": 639,
+      "title": "O caderno de corrente",
+      "time": "Dia 469 · tarde",
+      "place": "quarto-liria",
+      "layout": "notebook-night",
+      "cast": [
+        "liria"
+      ],
+      "novel_chapter": 34,
+      "scene": "In her own modest school room Líria compares dates in her notebook fastened by brass chain to a copied funding seal, looking for a later correction.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Esta correção chegou depois de mim.",
+          "balloon": {
+            "x": 25,
+            "y": 7,
+            "w": 40,
+            "target_x": 50,
+            "target_y": 24
+          }
+        }
+      ]
+    },
+    {
+      "number": 640,
+      "title": "Pedido formal",
+      "time": "Dia 469 · tarde",
+      "place": "sala-publica-arquivo",
+      "layout": "public-request",
+      "cast": [
+        "liria",
+        "ordelia"
+      ],
+      "novel_chapter": 34,
+      "scene": "Líria submits a supervised public archive consultation request to Ordelia, holding her own original notebook page; barred west archive stays closed.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Peço horário para conferir a remessa.",
+          "balloon": {
+            "x": 5,
+            "y": 19,
+            "w": 38,
+            "target_x": 22,
+            "target_y": 36
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Na sala pública, com testemunha.",
+          "balloon": {
+            "x": 57,
+            "y": 19,
+            "w": 38,
+            "target_x": 75,
+            "target_y": 36
+          }
+        }
+      ]
+    },
+    {
+      "number": 641,
+      "title": "A ordem de gabinete",
+      "time": "Dia 469 · tarde",
+      "place": "sala-publica-arquivo",
+      "layout": "dispatch-ledger",
+      "cast": [
+        "liria",
+        "escriva-municipal"
+      ],
+      "novel_chapter": 34,
+      "scene": "Municipal clerk at public archive counter shows Líria a dispatch list proving the two-palm elevation change came from an aide of Maelor, not a signed field survey.",
+      "lines": [
+        {
+          "speaker": "Escrivã municipal",
+          "text": "A ordem saiu do gabinete.",
+          "balloon": {
+            "x": 5,
+            "y": 20,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 37
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Não de uma leitura de campo.",
+          "balloon": {
+            "x": 57,
+            "y": 20,
+            "w": 38,
+            "target_x": 73,
+            "target_y": 38
+          }
+        }
+      ]
+    },
+    {
+      "number": 642,
+      "title": "Dois palmos",
+      "time": "Dia 469 · tarde",
+      "place": "sala-publica-arquivo",
+      "layout": "sketch-evidence",
+      "cast": [
+        "liria",
+        "escriva-municipal"
+      ],
+      "novel_chapter": 34,
+      "scene": "Líria sketches the dated two-palm correction under clerk supervision; original remains in ledger and lacks affected community signature.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Onde está a assinatura da margem?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Escrivã municipal",
+          "text": "Não há nesta folha.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 643,
+      "title": "Desenho entregue",
+      "time": "Dia 469 · fim de tarde",
+      "place": "galeria-biblioteca",
+      "layout": "tense-handoff",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "novel_chapter": 34,
+      "scene": "Líria presents a witnessed copy to Runa in upper library gallery, keeping formal distance and distinct recognizable faces; Ilyan is not between them.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Esta cópia tem número e testemunhas.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 38,
+            "target_x": 24,
+            "target_y": 28
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vou conferir a origem.",
+          "balloon": {
+            "x": 57,
+            "y": 2,
+            "w": 38,
+            "target_x": 76,
+            "target_y": 28
+          }
+        }
+      ]
+    },
+    {
+      "number": 644,
+      "title": "A palavra difícil",
+      "time": "Dia 469 · fim de tarde",
+      "place": "galeria-biblioteca",
+      "layout": "restrained-two-shot",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_chapter": 34,
+      "scene": "Runa verifies paper, date and ink against the public index; she thanks Líria quietly but refuses to imply reconciliation after the assault.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Obrigada pela cópia. O perdão ainda não veio.",
+          "balloon": {
+            "x": 28,
+            "y": 33,
+            "w": 38,
+            "target_x": 43,
+            "target_y": 50
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Não pedi que viesse.",
+          "balloon": {
+            "x": 57,
+            "y": 68,
+            "w": 38,
+            "target_x": 78,
+            "target_y": 83
+          }
+        }
+      ]
+    }
+  ]
+}

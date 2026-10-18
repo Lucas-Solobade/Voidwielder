@@ -47,6 +47,9 @@ ARC_FIVE["pages"].extend(ARC_FIVE_LAST["pages"])
 ARC_FIVE_RAIN = json.loads((STORY_DIR / "arc5-555-604.json").read_text(encoding="utf-8"))
 ARC_FIVE["arc"]["chapters"].extend(ARC_FIVE_RAIN["chapters"])
 ARC_FIVE["pages"].extend(ARC_FIVE_RAIN["pages"])
+ARC_FIVE_SCHOOL = json.loads((STORY_DIR / "arc5-605-644.json").read_text(encoding="utf-8"))
+ARC_FIVE["arc"]["chapters"].extend(ARC_FIVE_SCHOOL["chapters"])
+ARC_FIVE["pages"].extend(ARC_FIVE_SCHOOL["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
