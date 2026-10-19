@@ -95,7 +95,7 @@ O calendário de oito viradas do ano e os círculos dos quatro rumos tomam **ins
 
 ## Próxima cronologia
 
-A pista de Porto das Cinzas continua em outro livro, com numeração própria. O planejamento está em `PLANO_LIVRO_II.md`.
+A pista de Porto das Cinzas continua no Volume II, `reader/books/estradas_crepusculo_ii/`: o arco 6 tem seis capítulos publicados e numeração própria. O planejamento posterior está em `PLANO_LIVRO_II.md`.
 
 ## Direção das gravuras em Canvas
 

@@ -4,9 +4,9 @@
 {% block og_image %}{% endblock %}
 {% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/book.css' %}?v=1"><link rel="stylesheet" href="{% static 'reader/css/novel.css' %}?v=3">{% endblock %}
 {% block content %}
-<article class="book-reader novel-reader" data-novel-reader data-page="{{ page.number }}" data-total="{{ book.page_count }}" data-arc="{{ book.published_arc }}" data-complete="{{ book.complete|yesno:'true,false' }}">
+<article class="book-reader novel-reader" data-novel-reader data-page="{{ page.number }}" data-total="{{ book.page_count }}" data-arc="{{ book.published_arc }}" data-complete="{{ book.complete|yesno:'true,false' }}" data-book-root="{{ book.url }}" data-pages-url="{{ book.pages_url }}" data-book-title="{{ book.title }} · {{ book.subtitle }}" data-endmark="{{ book.endmark }}" data-volume="{{ book.volume_number }}">
   <div class="book-reader-bar section-shell">
-    <a class="book-back" href="{% url 'reader:novel_detail' %}">← {{ book.title }}</a>
+    <a class="book-back" href="{{ book.url }}">← {{ book.title }} · {{ book.subtitle }}</a>
     <div class="book-reader-position"><span data-reader-chapter>{{ page.chapter_title }}</span><span data-reader-position>Página {{ page.number }} de {{ book.page_count }}</span></div>
     <label class="book-chapters-label" for="novel-chapters">Capítulos <select id="novel-chapters" data-chapter-select>{% for chapter in chapter_starts %}<option value="{{ chapter.number }}" {% if chapter.chapter_number == page.chapter_number %}selected{% endif %}>{{ chapter.chapter_number|stringformat:"02d" }} · {{ chapter.chapter_title }}</option>{% endfor %}</select></label>
   </div>
@@ -15,20 +15,20 @@
       {% if page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ page.chapter_number|stringformat:"02d" }}</span><h1>{{ page.chapter_title }}</h1>{% endif %}
       {% if page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ page.illustration }}" width="600" height="200" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ page.chapter_number }}"></canvas>{% endif %}
       {% for paragraph in page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}
-      {% if not next_page %}<p class="book-endmark">{% if book.complete %}FIM{% else %}FIM DO ATO {{ book.published_arc }} · O ROMANCE CONTINUA{% endif %}</p>{% endif %}<span class="book-page-number">{{ page.number }}</span>
+      {% if not next_page %}<p class="book-endmark">{% if book.complete %}FIM{% else %}{{ book.endmark }}{% endif %}</p>{% endif %}<span class="book-page-number">{{ page.number }}</span>
     </div></section>
     <section class="book-sheet book-sheet-right" data-sheet-right {% if not next_page %}hidden{% endif %} aria-label="Página {% if next_page %}{{ next_page.number }}{% endif %}"><div class="book-sheet-inner" data-page-content="right">
       {% if next_page %}{% if next_page.chapter_start %}<span class="book-chapter-number">CAPÍTULO {{ next_page.chapter_number|stringformat:"02d" }}</span><h1>{{ next_page.chapter_title }}</h1>{% endif %}{% if next_page.illustration %}<canvas class="novel-illustration" data-novel-art="scene" data-scene="{{ next_page.illustration }}" width="600" height="200" role="img" aria-label="Gravura em preto e branco: cena do capítulo {{ next_page.chapter_number }}"></canvas>{% endif %}{% for paragraph in next_page.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}<span class="book-page-number">{{ next_page.number }}</span>{% endif %}
     </div></section>
   </div></div>
   <nav class="book-controls section-shell" aria-label="Navegação do livro">
-    <a rel="prev" data-book-prev href="{% if previous_number %}{% url 'reader:read_novel' previous_number %}{% else %}{% url 'reader:read_novel' 1 %}{% endif %}" {% if not previous_number %}hidden{% endif %}>← Página anterior</a>
+    <a rel="prev" data-book-prev href="{{ book.read_url }}{% if previous_number %}{{ previous_number }}{% else %}1{% endif %}/" {% if not previous_number %}hidden{% endif %}>← Página anterior</a>
     <label for="novel-page-jump">Ir para página <input id="novel-page-jump" data-page-jump type="number" min="1" max="{{ book.page_count }}" value="{{ page.number }}" inputmode="numeric"></label>
-    <a rel="next" data-book-next href="{% if next_number %}{% url 'reader:read_novel' next_number %}{% else %}{% url 'reader:read_novel' book.page_count %}{% endif %}" {% if not next_number %}hidden{% endif %}>Próxima página →</a>
-    <a data-book-finish href="{% url 'reader:novel_detail' %}" {% if next_number %}hidden{% endif %}>{% if book.complete %}Fim · Voltar ao livro{% else %}Continua · Voltar ao livro{% endif %} →</a>
+    <a rel="next" data-book-next href="{{ book.read_url }}{% if next_number %}{{ next_number }}{% else %}{{ book.page_count }}{% endif %}/" {% if not next_number %}hidden{% endif %}>Próxima página →</a>
+    <a data-book-finish href="{{ book.url }}" {% if next_number %}hidden{% endif %}>{% if book.complete %}Fim · Voltar ao livro{% else %}Continua · Voltar ao livro{% endif %} →</a>
   </nav>
   <div class="book-progress" role="progressbar" aria-label="Progresso das páginas disponíveis" aria-valuemin="1" aria-valuemax="{{ book.page_count }}" aria-valuenow="{{ page.number }}" data-book-progress><span></span></div>
   <p class="book-reader-help">Use as setas do teclado ou deslize para virar as páginas. O texto pode ser selecionado.</p>
 </article>
 {% endblock %}
-{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=3"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=4"></script>{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=4"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=5"></script>{% endblock %}

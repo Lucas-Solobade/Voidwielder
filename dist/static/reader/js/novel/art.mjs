@@ -38,7 +38,10 @@ export function drawScene(canvas) {
   const chapter = Number(id.split('-')[0]);
   ctx.fillStyle = paper;
   ctx.fillRect(0, 0, width, height);
-  plate(`chapter-${String(chapter).padStart(2, '0')}.webp`).then((image) => {
+  const filename = id.startsWith('v2-')
+    ? `volume-2-chapter-${id.slice(3, 5)}.webp`
+    : `chapter-${String(chapter).padStart(2, '0')}.webp`;
+  plate(filename).then((image) => {
     ctx.fillStyle = paper;
     ctx.fillRect(0, 0, width, height);
     const scale = Math.min((width - 16) / image.width, (height - 16) / image.height);
@@ -61,7 +64,8 @@ export function drawCover(canvas) {
   const { width, height } = canvas;
   ctx.fillStyle = paper;
   ctx.fillRect(0, 0, width, height);
-  plate('cover.webp').then((image) => {
+  const secondVolume = canvas.dataset.volume === '2';
+  plate(secondVolume ? 'volume-2-cover.webp' : 'cover.webp').then((image) => {
     monochrome(ctx, image, [0, 0, width, height]);
     const sky = ctx.createLinearGradient(0, 0, 0, height * .39);
     sky.addColorStop(0, 'rgba(0,0,0,.42)');
@@ -79,13 +83,13 @@ export function drawCover(canvas) {
     ctx.fillText('DO CREPÚSCULO', width / 2, height * .23);
     ctx.font = '600 15px Georgia, serif';
     ctx.letterSpacing = '3px';
-    ctx.fillText('O FERRO QUE ESCUTA', width / 2, height * .285);
+    ctx.fillText(secondVolume ? 'O AVESSO DAS ÁGUAS · VOLUME II' : 'O FERRO QUE ESCUTA', width / 2, height * .285);
     ctx.fillStyle = 'rgba(245,241,232,.96)';
     ctx.fillRect(24, height - 60, width - 48, 37);
     ctx.fillStyle = ink;
     ctx.font = 'italic 16px Georgia, serif';
     ctx.letterSpacing = '0px';
-    ctx.fillText('Toda estrada começa com alguém que decide escutar.', width / 2, height - 36);
+    ctx.fillText(secondVolume ? 'Há caminhos que correm sob a água.' : 'Toda estrada começa com alguém que decide escutar.', width / 2, height - 36);
     border(ctx, width, height);
   }).catch(() => {
     ctx.fillStyle = ink;
@@ -100,13 +104,14 @@ document.querySelectorAll('[data-novel-art="cover"]').forEach(drawCover);
 document.querySelectorAll('[data-novel-art="scene"]').forEach(drawScene);
 
 function decorateSearch() {
-  document.querySelectorAll('[data-static-search-results] a[href$="/livros/as-estradas-do-crepusculo/"], [data-django-search-results] a[href$="/livros/as-estradas-do-crepusculo/"]').forEach((link) => {
+  document.querySelectorAll('[data-static-search-results] a[href$="/livros/as-estradas-do-crepusculo/"], [data-django-search-results] a[href$="/livros/as-estradas-do-crepusculo/"], [data-static-search-results] a[href$="/livros/as-estradas-do-crepusculo-volume-ii/"], [data-django-search-results] a[href$="/livros/as-estradas-do-crepusculo-volume-ii/"]').forEach((link) => {
     if (link.querySelector('canvas')) return;
     link.classList.add('book-card');
     const canvas = document.createElement('canvas');
     canvas.className = 'book-cover';
     canvas.width = 480;
     canvas.height = 720;
+    canvas.dataset.volume = link.pathname.includes('volume-ii') ? '2' : '1';
     canvas.setAttribute('role', 'img');
     canvas.setAttribute('aria-label', 'Capa de As Estradas do Crepúsculo');
     link.prepend(canvas);

@@ -9,19 +9,26 @@
 <article class="book-detail novel-detail section-shell">
   <a class="book-back" href="{% url 'reader:search' %}?tipo=livros">← Livros</a>
   <div class="book-detail-grid">
-    <div class="book-cover-wrap"><canvas class="book-cover" data-novel-art="cover" width="480" height="720" role="img" aria-label="Capa ilustrada em preto e branco de As Estradas do Crepúsculo"></canvas></div>
+    <div class="book-cover-wrap"><canvas class="book-cover" data-novel-art="cover" data-volume="{{ book.volume_number }}" width="480" height="720" role="img" aria-label="Capa ilustrada em preto e branco de {{ book.title }} {{ book.subtitle }}"></canvas></div>
     <div class="book-detail-copy">
       <p class="eyebrow">Romance original · Fantasia medieval</p>
       <h1>{{ book.title }}</h1>
       <p class="book-byline">{{ book.subtitle }}</p>
+      {% if book.volume_number == 2 %}
+      <p class="book-deck">Porto das Cinzas guarda uma passagem entre mundos. A prova de Mira está além da margem conhecida.</p>
+      <p>{{ book.detail }} O arco 6 está completo neste segundo volume; os próximos arcos continuarão a busca.</p>
+      <div class="book-facts"><span>Volume II · Arco 6 completo</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
+      <p class="novel-progress-note">Leia antes <a href="{% url 'reader:novel_detail' %}">O Ferro que Escuta · Volume I</a> para acompanhar a cronologia desde Pedra-Mansa.</p>
+      {% else %}
       <p class="book-deck">Uma espada sem fio. Uma mãe desaparecida. Uma porta que só existe quando quatro espelhos fazem a luz chegar de todos os lados.</p>
       <p>{{ book.detail }} A prosa amplia as viagens, as aulas, as escolhas e as consequências da HQ. Este primeiro volume encerra o arco da eclusa; a pista de Porto das Cinzas abre caminho para outra história.</p>
       <div class="book-facts"><span>Volume I completo</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
-      {% if not book.complete %}<p class="novel-progress-note">Romance em produção. A meta editorial é de {{ book.target_pages }} páginas; a leitura abaixo contém apenas as páginas já escritas e revisadas.</p>{% endif %}
-      <a class="book-primary" href="{% url 'reader:read_novel' 1 %}">Começar a ler <span aria-hidden="true">→</span></a>
-      <a class="book-resume" data-novel-resume hidden href="{% url 'reader:read_novel' 1 %}">Retomar leitura</a>
+      <p class="novel-progress-note">A história continua em <a href="{% url 'reader:novel2_detail' %}">O Avesso das Águas · Volume II</a>, com o arco 6 completo.</p>
+      {% endif %}
+      <a class="book-primary" href="{{ book.read_url }}1/">Começar a ler <span aria-hidden="true">→</span></a>
+      <a class="book-resume" data-novel-resume data-book-root="{{ book.url }}" data-volume="{{ book.volume_number }}" hidden href="{{ book.read_url }}1/">Retomar leitura</a>
     </div>
   </div>
 </article>
 {% endblock %}
-{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=3"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=3"></script>{% endblock %}
+{% block extra_scripts %}<script type="module" src="{% static 'reader/js/novel/art.mjs' %}?v=4"></script><script type="module" src="{% static 'reader/js/novel/reader.mjs' %}?v=5"></script>{% endblock %}

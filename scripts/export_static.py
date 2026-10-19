@@ -28,6 +28,7 @@ from reader.medieval_catalog import SERIES_URL as MEDIEVAL_SERIES_URL  # noqa: E
 from reader.medieval_catalog import STORY as MEDIEVAL_STORY  # noqa: E402
 from reader.medieval_catalog import page_url as medieval_page_url  # noqa: E402
 from reader.novel_catalog import NOVEL, get_novel_pages  # noqa: E402
+from reader.novel2_catalog import NOVEL_II, get_novel2_pages  # noqa: E402
 from reader.python_catalog import PYTHON_BOOK, get_python_pages  # noqa: E402
 from reader.python_exercises import EXERCISES  # noqa: E402
 from reader.study_catalog import STUDY_PROJECTS  # noqa: E402
@@ -69,6 +70,16 @@ def write_novel_data() -> Path:
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(
         json.dumps([page.as_json() for page in get_novel_pages()], ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    return destination
+
+
+def write_novel2_data() -> Path:
+    destination = STATIC_SOURCE / "book" / "estradas-crepusculo-ii" / "pages.json"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        json.dumps([page.as_json() for page in get_novel2_pages()], ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
     return destination
@@ -134,9 +145,13 @@ def build_catalog() -> list[dict[str, str | int]]:
         "detail": f"{BOOK['author']} · {BOOK['genre']} · 150 páginas. {BOOK['detail']}",
         "url": BOOK["url"], "topics": BOOK["topics"], "book_art": True,
     }, {
-        "category": "livros", "kind": "Romance em produção", "title": NOVEL["title"],
+        "category": "livros", "kind": "Romance · Volume I", "title": NOVEL["title"],
         "detail": f"{NOVEL['chapter_count']} capítulos · {NOVEL['page_count']} páginas escritas · gravuras em preto e branco. {NOVEL['detail']}",
         "url": NOVEL["url"], "topics": NOVEL["topics"], "novel_art": True,
+    }, {
+        "category": "livros", "kind": "Romance · Volume II", "title": NOVEL_II["subtitle"],
+        "detail": f"Arco 6 completo · {NOVEL_II['chapter_count']} capítulos · {NOVEL_II['page_count']} páginas escritas. {NOVEL_II['detail']}",
+        "url": NOVEL_II["url"], "topics": NOVEL_II["topics"], "novel_art": True, "volume_number": 2,
     }, {
         "category": "livros", "kind": "Livro didático", "title": LINUX_BOOK["title"],
         "detail": f"13 partes · 78 lições · {LINUX_BOOK['page_count']} páginas. {LINUX_BOOK['detail']}",
@@ -209,6 +224,7 @@ def build_catalog() -> list[dict[str, str | int]]:
 def main() -> None:
     write_book_data()
     write_novel_data()
+    write_novel2_data()
     write_linux_data()
     write_python_data()
     write_web_data()
@@ -236,6 +252,8 @@ def main() -> None:
     routes.extend(f"{BOOK['url']}ler/{page}/" for page in range(1, 151))
     routes.append(NOVEL["url"])
     routes.extend(f"{NOVEL['url']}ler/{page}/" for page in range(1, NOVEL["page_count"] + 1))
+    routes.append(NOVEL_II["url"])
+    routes.extend(f"{NOVEL_II['url']}ler/{page}/" for page in range(1, NOVEL_II["page_count"] + 1))
     routes.append(LINUX_BOOK["url"])
     routes.extend(f"{LINUX_BOOK['url']}ler/{page}/" for page in range(1, LINUX_BOOK["page_count"] + 1))
     routes.append(PYTHON_BOOK["url"])

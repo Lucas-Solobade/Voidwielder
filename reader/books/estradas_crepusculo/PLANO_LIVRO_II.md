@@ -1,17 +1,25 @@
-# As Estradas do Crepúsculo — segundo volume (planejamento)
+# As Estradas do Crepúsculo — segundo volume
 
-A cronologia seguinte começa depois do dia 480 e terá livro, paginação e gravuras próprios. Os acontecimentos abaixo são planejamento, não capítulos publicados. O primeiro volume permanece completo sem antecipar respostas sobre Mira.
+A cronologia começa depois do dia 480. O arco 6, **A estrada por baixo**, está publicado nos seis capítulos e 82 páginas de `reader/books/estradas_crepusculo_ii/`; cada capítulo tem uma única gravura. O primeiro volume permanece fechado em 728 páginas. Os arcos seguintes abaixo são apenas planejamento e podem mudar conforme a história avançar.
 
-### Parte I — O preço do mapa
+### Parte I — A estrada por baixo (arco 6 publicado, dias 481–528)
 
-1. **O nome sob a cera** — Cadeia de documentos liga Maelor a contratos e funcionários, mas não ao desaparecimento de Mira de forma definitiva.
-2. **Nima na estrada** — Nima viaja de fato com caravana e pernoites mostrados. O encontro com Runa traz ciúme, respeito difícil e trabalho compartilhado, sem pacto romântico forçado.
-3. **A corte das raízes** — Ysra revela como canais foram traçados sobre território feérico; negociar reparação exige abrir mão de uma rota lucrativa.
-4. **O inverno de Mira** — Mira surge primeiro por testemunho, depois em pessoa; a aparência precisa de ficha visual aprovada antes de gravura ou HQ. Ela não retorna como solução de todas as perguntas.
-5. **O último recibo** — Caio encontra prova que envolve o irmão sem torná-lo vilão absoluto. Líria confessa sabotagem e ajuda a reconstruir um arquivo público verificável.
-6. **A noite das oito luzes** — Festa sazonal interrompida por rompimento hidráulico calculado. A reação salva gente, mas perde parte do acervo e cobra um preço pessoal.
+1. **O fogo que cabe na mão** — Ilyan aprende a conduzir brasa existente; Caio descobre o ar e Tovo a ampliação breve da própria força.
+2. **Água que devolve** — Runa inicia cuidado por água limpa sem cura instantânea. A expedição obtém custos, autorização e limites reais.
+3. **Porto das Cinzas** — Estrada e barca levam à comunidade habitada e à primeira visão do Entremeio no reflexo.
+4. **A segunda lâmina** — Runa e Líria confrontam método e reputação, depois se ferem numa nova briga e cumprem suspensão. A rivalidade continua.
+5. **A margem de dentro** — Após a suspensão e novo consentimento, a equipe entra fisicamente no Entremeio, conhece seus moradores e contém uma fissura do Fundo de Sal.
+6. **A assinatura depois do inverno** — Registros independentes comprovam que Mira esteve em Porto das Cinzas um inverno após desaparecer. Seu paradeiro atual não é conhecido.
 
-### Parte II — Estradas que ficam
+### Parte II — O preço do mapa (planejamento para os arcos seguintes)
+
+- **Nima na estrada** — Uma eventual viagem de Nima deverá mostrar caravana, pernoites e tempo de correio. O encontro com Runa trará ciúme e trabalho compartilhado sem romance forçado.
+- **A corte das raízes** — Ysra poderá explicar acordos antigos dos canais sobre território feérico; reparação exigirá negociação concreta.
+- **O inverno de Mira** — Um encontro em pessoa exigirá ficha visual antes de arte ou HQ. A prova do arco 6 não revela onde ela está.
+- **O último recibo** — Caio poderá encontrar documentos sobre o irmão, sem reduzi-lo a vilão. A correção técnica de Líria não apagou suas agressões.
+- **A noite das oito luzes** — Uma festa sazonal e novos riscos hidráulicos dependem do resultado da investigação municipal, ainda aberta.
+
+### Parte III — Estradas que ficam (planejamento)
 
 7. **A marcha das balsas** — Adra reúne comunidades afetadas e impõe uma estratégia de proteção civil. Ilyan aprende a obedecer a quem conhece o terreno.
 8. **A espada sem fio** — A lâmina dada por Bram volta como instrumento de travar mecanismo, não espada eleita. Confronto com Maelor exige decisão ética sob pressão.

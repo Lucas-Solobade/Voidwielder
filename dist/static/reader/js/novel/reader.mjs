@@ -3,9 +3,11 @@ import { drawScene } from './art.mjs';
 const root = document.querySelector('[data-novel-reader]');
 const resume = document.querySelector('[data-novel-resume]');
 const siteBase = document.documentElement.dataset.siteBase || '';
-const bookRoot = `${siteBase}/livros/as-estradas-do-crepusculo/`;
+const withBase = (url) => siteBase && !url.startsWith(`${siteBase}/`) ? `${siteBase}${url}` : url;
+const bookRoot = withBase(root?.dataset.bookRoot || resume?.dataset.bookRoot || '/livros/as-estradas-do-crepusculo/');
 const path = `${bookRoot}ler/`;
-const storageKey = 'voidwielder-estradas-novel-page';
+const volume = root?.dataset.volume || resume?.dataset.volume || '1';
+const storageKey = volume === '1' ? 'voidwielder-estradas-novel-page' : `voidwielder-estradas-novel-page-${volume}`;
 
 if (resume) {
   try {
@@ -69,7 +71,7 @@ if (root) {
     });
     if (page.number === total) {
       const end = document.createElement('p'); end.className = 'book-endmark';
-      end.textContent = complete ? 'FIM' : `FIM DO ATO ${root.dataset.arc} · O ROMANCE CONTINUA`;
+      end.textContent = complete ? 'FIM' : (root.dataset.endmark || `FIM DO ATO ${root.dataset.arc} · O ROMANCE CONTINUA`);
       container.append(end);
     }
     const number = document.createElement('span');
@@ -86,14 +88,14 @@ if (root) {
     chapterLabel.textContent = pages[current - 1].chapter_title;
     position.textContent = `Página ${current} de ${total}`;
     jump.value = String(current);
-    chapters.value = String((pages[current - 1].chapter_number - 1) * 20 + 1);
+    chapters.value = String(pages.find((page) => page.chapter_start && page.chapter_number === pages[current - 1].chapter_number)?.number || 1);
     progress.setAttribute('aria-valuenow', String(current));
     progress.querySelector('span').style.width = `${current / total * 100}%`;
     prev.href = `${path}${safe(current - step())}/`; prev.hidden = current === 1;
     next.href = `${path}${safe(current + step())}/`; next.hidden = current >= total - (mobile.matches ? 0 : 1);
     finish.hidden = current < total - (mobile.matches ? 0 : 1);
     try { localStorage.setItem(storageKey, String(current)); } catch { /* Optional. */ }
-    document.title = `Página ${current} · As Estradas do Crepúsculo · Voidwielder`;
+    document.title = `Página ${current} · ${root.dataset.bookTitle || 'As Estradas do Crepúsculo'} · Voidwielder`;
   }
 
   async function turn(target, direction = 'next') {
@@ -110,7 +112,7 @@ if (root) {
     turning = false;
   }
 
-  fetch(`${siteBase}/static/reader/book/estradas-crepusculo/pages.json?v=${total}`)
+  fetch(`${withBase(root.dataset.pagesUrl || '/static/reader/book/estradas-crepusculo/pages.json')}?v=${total}`)
     .then((response) => { if (!response.ok) throw Error('pages'); return response.json(); })
     .then((data) => {
       if (!Array.isArray(data) || data.length !== total) throw Error('pages');
