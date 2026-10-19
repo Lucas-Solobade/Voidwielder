@@ -1,0 +1,210 @@
+{
+  "arc": {
+    "number": 6,
+    "title": "O Avesso das Águas",
+    "slug": "o-avesso-das-aguas",
+    "description": "A pista de Porto das Cinzas exige licenças e paciência. Na Casa, uma brasa, um mapa contraditório e um sopro fora de controle revelam que os amigos ainda têm muito a aprender.",
+    "status": "Em andamento",
+    "start": 729,
+    "chapters": [
+      {"title": "O fogo que cabe na mão", "start": 729, "end": 741}
+    ]
+  },
+  "pages": [
+    {
+      "number": 729,
+      "title": "A parte não examinada",
+      "time": "Dia 481 · manhã",
+      "place": "forja-leste",
+      "cast": ["ilyan", "teren"],
+      "layout": "panoramic-with-map-detail",
+      "scene": "In the familiar east forge, Ilyan stands LEFT and master smith Teren stands RIGHT at a wooden worktable. A revised map has a clearly blank unexamined western margin; beside it Teren counts iron nails on a cloth. The old red brick forge and three north-south anvils remain in the background. No travel has begun.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Ilyan", "text": "Uma margem em branco não é uma estrada para Mira.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 25, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Teren", "text": "Então terminamos o trabalho antes de pedir licença.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 730,
+      "title": "Chapa para Folealto",
+      "time": "Dia 481 · manhã, pouco depois",
+      "place": "forja-leste",
+      "cast": ["teren", "ilyan"],
+      "layout": "large-forge-and-small-metal-detail",
+      "scene": "In the same east forge, Teren stands LEFT by the brick furnace and Ilyan stands RIGHT gripping iron tongs at a safe distance. A modest sheet of metal for the Folealto wheel glows red within the real charcoal heat. A tiny object-only detail inset shows the sheet edge, never a duplicate person.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Teren", "text": "A chapa da roda. Espere a cor certa.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Ilyan", "text": "Vermelho vivo. Ainda não encosto.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 731,
+      "title": "Dois dedos de brasa",
+      "time": "Dia 481 · manhã, instantes depois",
+      "place": "forja-leste",
+      "cast": ["ilyan", "teren"],
+      "layout": "diagonal-action-with-nail-detail",
+      "scene": "Ilyan LEFT recoils with the tongs still in his own hand; Teren RIGHT drops one ordinary nail in surprise. A single small glowing ember slides only two finger-widths toward the tongs inside the furnace. Show the sawdust basket safely several steps away. Tiny inset may show only the nail hitting stone, no repeated faces or bodies.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Ilyan", "text": "Eu não soprei. Ela veio até a tenaz.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 25, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Teren", "text": "Afaste-se da serragem!", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "shout"}}
+      ]
+    },
+    {
+      "number": 732,
+      "title": "A tampa de ferro",
+      "time": "Dia 481 · manhã, instantes depois",
+      "place": "forja-leste",
+      "cast": ["teren", "ilyan"],
+      "layout": "single-cinematic",
+      "scene": "Teren LEFT closes the iron cover over the charcoal furnace; Ilyan RIGHT steps back, keeping the tongs down. The apprentice walking by the door is only a distant back-facing silhouette, not a new principal character. The fire is contained; the sawdust basket is untouched.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Teren", "text": "Ninguém abre o braseiro até Oru chegar.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 25, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Ilyan", "text": "Se escapasse um palmo, atingiria a porta.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 733,
+      "title": "Depois da aula",
+      "time": "Dia 481 · fim da manhã",
+      "place": "forja-leste",
+      "cast": ["oru", "teren"],
+      "layout": "tall-figures-and-ash-detail",
+      "scene": "After his morning lesson, the adult gnome Oru arrives LEFT with his walking stick, exactly one meter tall and visibly shorter than Teren standing RIGHT. In the same east forge Oru examines the covered furnace, tongs and an ash mark. Teren repeats the harmless tong movement with no magic; a small inset shows only the unmoving ash. Ilyan waits outside this image frame.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Oru", "text": "Repita o gesto sem Ilyan.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Teren", "text": "Nada se moveu. Nem a cinza.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 734,
+      "title": "Descreva, não deseje",
+      "time": "Dia 481 · fim da manhã, minutos depois",
+      "place": "forja-leste",
+      "cast": ["oru", "ilyan"],
+      "layout": "two-unequal-views",
+      "scene": "Oru LEFT, adult gnome with round glasses and one braided beard, questions Ilyan RIGHT in the forge. The furnace is still covered. Ilyan points to the measured gap between the tong and ash, not to a miracle. A small narrow detail panel shows only the tong tip and ash mark, with no duplicate figures.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Oru", "text": "Qual era a cor? De onde vinha o ar?", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Ilyan", "text": "Vermelho vivo. E não havia vento bastante.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 735,
+      "title": "Uma fonte pequena",
+      "time": "Dia 481 · fim da manhã, minutos depois",
+      "place": "forja-leste",
+      "cast": ["oru", "ilyan"],
+      "layout": "large-table-and-object-inset",
+      "scene": "Oru LEFT puts exactly one tiny already-burning charcoal grain in a stone spoon on a clean sand-ringed table; Ilyan RIGHT watches without touching. A heavy iron lid is ready beside the spoon, water and sawdust are away from this test table. Small inset shows only grain, spoon and lid, not people. The fire is a pre-existing fuel source, no flame conjured from air.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Oru", "text": "O calor já estava aqui. Você pode perdê-lo.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Ilyan", "text": "Então testamos com tampa e areia.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 736,
+      "title": "A luz que morre",
+      "time": "Dia 481 · fim da manhã, instantes depois",
+      "place": "forja-leste",
+      "cast": ["ilyan", "oru"],
+      "layout": "single-cinematic-with-ember-detail",
+      "scene": "Ilyan LEFT extends one hand cautiously toward the single already-lit charcoal grain inside the stone spoon; its small glow dims and goes out rather than growing. Oru RIGHT immediately reaches for the nearby iron lid but does not touch Ilyan. The sand ring remains clean and no spell leaves the table. Object-only inset shows the dead coal.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Ilyan", "text": "A luz morreu. Eu perdi o alcance.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 25, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Oru", "text": "Ensaio encerrado. Registraremos a falha.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 737,
+      "title": "O espaço que não se fere",
+      "time": "Dia 481 · tarde",
+      "place": "forja-leste",
+      "cast": ["teren", "ilyan"],
+      "layout": "panoramic-work-and-bucket-detail",
+      "scene": "Later in the same east forge, Teren LEFT supervises ordinary safety work while Ilyan RIGHT removes the sawdust basket away from the furnace, with the tongs and fire closed. A clean water barrel is on the west side and a marked exit remains clear. Small inset shows a hand marking wind direction at the window, without duplicating a person.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Teren", "text": "Hoje treinamos o caminho de fuga.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 25, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Ilyan", "text": "Antes de mover fogo, tiro a serragem.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 738,
+      "title": "A tarifa antiga",
+      "time": "Dia 481 · tarde",
+      "place": "galeria-biblioteca",
+      "cast": ["runa", "ordelia"],
+      "layout": "high-library-and-ledger-detail",
+      "scene": "In the established upper library gallery, Runa LEFT studies an authorized copy of an old Porto das Cinzas ferry tariff at the south map desk. Ordelia RIGHT keeps the restricted west gate locked and checks the source book; the original council volume never leaves the Enseada. Three vessel records are visible as non-readable marks, and one date is visibly corrected but not legible. Tiny object inset shows only a copied ledger page.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Runa", "text": "Três embarcações. Nenhuma traz o nome de Mira.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Ordelia", "text": "Copie também a data rasurada.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 739,
+      "title": "O braço de rio",
+      "time": "Dia 481 · tarde, pouco depois",
+      "place": "galeria-biblioteca",
+      "cast": ["liria", "runa"],
+      "layout": "two-rivals-and-map-detail",
+      "scene": "In the same upper library gallery Líria stands LEFT holding her chained notebook and a narrow written authorization from Ordelia; Runa stands RIGHT at the south map desk. Líria points to the third stake distance on Ereno's copied drawing, which conflicts with the newly marked river channel. Both are tense, neither touches the other. Object inset shows only conflicting ruler lines on paper. The west restricted gate remains locked.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Líria", "text": "A terceira estaca não chega a esse braço de rio.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Runa", "text": "O leito mudou duas vezes. Adra registrou as cheias.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 740,
+      "title": "Duas explicações",
+      "time": "Dia 481 · tarde, minutos depois",
+      "place": "galeria-biblioteca",
+      "cast": ["runa", "liria"],
+      "layout": "single-table-with-two-column-detail",
+      "scene": "Runa LEFT and Líria RIGHT remain on opposite sides of the same south library desk, separately writing two competing explanations in parallel columns as Ordelia ordered from outside the image frame. Their eyes are on their own pages; no smiles, apology or reconciliation. Líria's chained notebook and chin scar remain visible; Runa's straight bangs, septum ring and left-arm floral tattoo remain visible. Detail inset shows two unsigned columns, no readable lettering.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Runa", "text": "Minha hipótese: a cheia deslocou o leito.", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Líria", "text": "A minha: a lembrança dele falhou. As duas ficam.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 741,
+      "title": "Uma rajada na rede",
+      "time": "Dia 481 · tarde, enquanto o arquivo continua",
+      "place": "patio-treino",
+      "cast": ["caio", "sere"],
+      "layout": "wide-training-action-and-ribbon-detail",
+      "scene": "On the established east training yard, adult student Caio LEFT runs a safety drill under a suspended rope net; elven archery instructor Sere RIGHT supervises from a safe distance. A natural gust pushes the net toward Caio. He raises one arm to protect his face and the net unexpectedly curves away, without any visible conjured cyclone. Chalk circle, north bow targets and south equipment rack remain in their usual locations. Object inset shows only a ribbon changing angle. No other student faces.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {"speaker": "Caio", "text": "A rede mudou de direção quando ergui o braço!", "balloon": {"x": 4, "y": 3, "w": 42, "target_x": 24, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Sere", "text": "Pare o exercício. Vamos conferir a corda.", "balloon": {"x": 54, "y": 3, "w": 42, "target_x": 75, "target_y": 28, "kind": "normal"}}
+      ]
+    }
+  ]
+}
