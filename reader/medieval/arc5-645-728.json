@@ -3252,8 +3252,8 @@
             "x": 56,
             "y": 2,
             "w": 40,
-            "target_x": 90,
-            "target_y": 48,
+            "target_x": 36,
+            "target_y": 18,
             "kind": "normal"
           }
         }
