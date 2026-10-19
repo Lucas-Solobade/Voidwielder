@@ -1,0 +1,2150 @@
+{
+  "chapters": [
+    {
+      "title": "Água que devolve",
+      "start": 761,
+      "end": 790
+    },
+    {
+      "title": "Porto das Cinzas",
+      "start": 791,
+      "end": 795
+    }
+  ],
+  "pages": [
+    {
+      "number": 742,
+      "title": "O nó intacto",
+      "time": "Dia 481 · tarde, imediatamente depois",
+      "place": "patio-treino",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "single wide courtyard with tiny object-only knot inset",
+      "scene": "Caio LEFT and Sere RIGHT inspect the suspended rope-net knot and pale linen marker on the established east training yard; knot remains tight, Sere holds the rope apart from his hand; no students behind them.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Não se soltou. A curva veio da minha mão.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "O nó está firme. Vamos repetir sem a rede.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 743,
+      "title": "A fita no aro",
+      "time": "Dia 481 · tarde, minutos depois",
+      "place": "patio-treino",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "large action panel and narrow ribbon detail",
+      "scene": "Sere LEFT suspends a single linen ribbon from a small wooden hoop; Caio RIGHT holds his open hand a safe distance below; the ribbon angles toward his hand, with target racks behind; no storm.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Primeiro diga de onde vem o vento.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Da porta sul... mas esta fita virou contra ele.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 744,
+      "title": "Oru observa",
+      "time": "Dia 481 · tarde, pouco depois",
+      "place": "patio-treino",
+      "cast": [
+        "oru",
+        "caio"
+      ],
+      "layout": "low angle scale contrast and object-only insert",
+      "scene": "Oru adult short gnome LEFT about one meter tall with copper spectacles and single braided white beard examines three linen strips on a hoop; Caio RIGHT stands still, visibly taller; Sere called him but remains outside this image; courtyard consistent.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Não tente mandar. Observe as três fitas.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Uma reage ao meu braço; as outras, ao pátio.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 745,
+      "title": "Lentes ao vento",
+      "time": "Dia 481 · tarde, instantes depois",
+      "place": "patio-treino",
+      "cast": [
+        "oru",
+        "caio"
+      ],
+      "layout": "comedy action close-up with lower wide reaction panel",
+      "scene": "One linen strip blows across Oru's round copper spectacles while adult Oru LEFT catches it; Caio RIGHT lowers his hand, embarrassed but amused; gentle natural wind, no conjured cyclone; no duplicated figures.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Descobrir não é dominar, rapaz.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Desculpe. Amanhã começo por aprender a parar.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 746,
+      "title": "O saco de cereal",
+      "time": "Dia 481 · fim da tarde",
+      "place": "refeitorio",
+      "cast": [
+        "tovo",
+        "sere"
+      ],
+      "layout": "dynamic diagonal action with sack-only insert",
+      "scene": "Tovo LEFT, tall broad sage-green half-orc in amber kitchen apron, impulsively lifts one heavy cereal sack across the wet kitchen threshold; Sere RIGHT notices his shoulder strain and reaches to warn from a safe position; no magic glow; only two people.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Eu consigo pôr o saco na mesa!",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "shout"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Tovo, espera! O chão está molhado!",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 747,
+      "title": "O ombro cobra",
+      "time": "Dia 481 · fim da tarde, instantes depois",
+      "place": "refeitorio",
+      "cast": [
+        "tovo",
+        "sere"
+      ],
+      "layout": "tight emotional panel and fallen-sack object detail",
+      "scene": "Same kitchen; Tovo LEFT has put the heavy sack down and supports his right shoulder in pain, standing with torso facing forward and head naturally aligned; Sere RIGHT steadies him without yanking arm, flour on apron; no visible dislocation.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "O saco aguentou. Meu ombro, não.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Não prove mais nada. Vamos à enfermaria.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 748,
+      "title": "Primeiro, imobilizar",
+      "time": "Dia 481 · começo da noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "curandeira",
+        "tovo"
+      ],
+      "layout": "medical two-shot with bandage detail",
+      "scene": "In established east infirmary, adult human healer LEFT olive skin dark brown hair braided bun, navy tunic cream sleeves examines Tovo RIGHT with his right arm supported in a simple sling, three linen beds under gothic windows, blue four-moon banner; no instant healing.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Nada rompeu. O tendão precisa de repouso.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Então hoje corto o pão com a outra mão.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 749,
+      "title": "Força não é licença",
+      "time": "Dia 481 · começo da noite, minutos depois",
+      "place": "enfermaria-leste",
+      "cast": [
+        "oru",
+        "tovo"
+      ],
+      "layout": "adult gnome at bedside and close-up of sling",
+      "scene": "Oru LEFT short adult gnome with round copper glasses and single silver beard braid stands beside infirmary bed; Tovo RIGHT seated upright in sling, anxious rather than clownish; fixed beds and cabinet.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Foi um impulso de força própria, não proteção.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "E se eu fizer isso de novo?",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 750,
+      "title": "Dividir o peso",
+      "time": "Dia 481 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "caio",
+        "tovo"
+      ],
+      "layout": "quiet friendship two-shot",
+      "scene": "Caio LEFT sits beside infirmary bed with a light half-filled grain sack resting on floor; Tovo RIGHT in sling confesses his fear; neither lifts load; moonlight through east gothic windows.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Da próxima, dividimos a carga.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Achei que ser forte era nunca pedir ajuda.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 751,
+      "title": "A margem permitida",
+      "time": "Dia 483 · tarde, dois dias depois",
+      "place": "sala-conselho",
+      "cast": [
+        "adra",
+        "ilyan"
+      ],
+      "layout": "council table with authorized map detail",
+      "scene": "Adra LEFT slate-green orc ferry captain with shell-bound dark braids lays Enseada letter on school council table; Ilyan RIGHT long wavy black hair clean-shaven 18-year-old studies public-margin route; map shows no forest entry, gallery opening or stone removal.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A Enseada permite visita só pela margem pública.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então precisamos ainda da licença da cidade.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 752,
+      "title": "Dois dias de espera",
+      "time": "Dia 483 · tarde, depois da reunião, na eclusa",
+      "place": "passarela-eclusa",
+      "cast": [
+        "eda",
+        "sere"
+      ],
+      "layout": "municipal paperwork and route scene",
+      "scene": "After the council meeting Eda LEFT municipal surveyor with short dark curls, teal cape and scale staff checks the damaged sluice in person from its safe stone walkway; Sere RIGHT dark-brown elf with one silver braid and green cloak listens. River and sluice are physically behind them; neither grants departure yet.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Só assino depois de mais dois dias na eclusa.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Minha ausência precisa de substituição.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 753,
+      "title": "Os turnos não somem",
+      "time": "Dia 483 · tarde, após a reunião",
+      "place": "secretaria",
+      "cast": [
+        "ordelia",
+        "ilyan"
+      ],
+      "layout": "registrar desk with ledgers close-up",
+      "scene": "Ordelia LEFT olive skin iron-grey low braid wine dress brass keys points to forge roster at familiar school secretariat; Ilyan RIGHT clean-shaven and long black wavy hair proposes swapping three afternoon forge shifts; no teleport or sudden permission.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Quem assume suas três tardes na forja?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Troco com um colega e Teren assina.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 754,
+      "title": "Carta à vila",
+      "time": "Dia 483 · noite",
+      "place": "quarto-cedro",
+      "cast": [
+        "ilyan",
+        "caio"
+      ],
+      "layout": "lamp-lit letter scene and envelope insert",
+      "scene": "Ilyan LEFT writes a physical letter to Nima at simple Cedar dorm desk; Caio RIGHT ties ordinary mail satchel near door, clearly at school; Nima is NOT present, no apparition or portrait; no readable exact lettering on paper.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Peço a Nima os desenhos de dobradiças antigas.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "A resposta não chegará antes da licença.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 755,
+      "title": "Falha de ferramenta",
+      "time": "Dia 483 · noite, pouco depois",
+      "place": "quarto-cedro",
+      "cast": [
+        "ilyan",
+        "caio"
+      ],
+      "layout": "two-shot at dorm desk with second letter close detail",
+      "scene": "Same Cedar dorm; Ilyan LEFT seals a separate letter to his father Bram about the accidental ember; Caio RIGHT points to marked delivery days on mail ledger; physical letters only.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Conte ao meu pai até do prego que caiu.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Ele sempre diz que ferramenta se conhece pela falha.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 756,
+      "title": "A concha limpa",
+      "time": "Dia 486 · manhã, três dias depois",
+      "place": "forja-leste",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "cleared forge safety setup",
+      "scene": "In east forge day486, Oru LEFT short adult gnome checks stone spoon with existing lit ember on clean table; Ilyan RIGHT clean-shaven young man waits hands away; sand bucket, iron lid, no sawdust; Teren and healer supervise off camera but not speaking.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Uma chama já acesa. Areia, tampa e saída livres.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Se tremer, eu digo parei.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 757,
+      "title": "Um fio de chama",
+      "time": "Dia 486 · manhã, instantes depois",
+      "place": "forja-leste",
+      "cast": [
+        "ilyan",
+        "teren"
+      ],
+      "layout": "restrained flame action with tiny coal-only inset",
+      "scene": "Ilyan LEFT carefully guides an already burning coal's tiny flame from rim toward center of stone spoon without creating new fire; Teren RIGHT dark-skinned bald smith square grey beard ready with iron lid; clear table and sand bucket; no giant blast.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Só a chama aderida ao carvão...",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Teren",
+          "text": "Ela ficou dentro da concha. Mantenha a distância.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 758,
+      "title": "Parei",
+      "time": "Dia 486 · manhã, segundos depois",
+      "place": "forja-leste",
+      "cast": [
+        "ilyan",
+        "teren"
+      ],
+      "layout": "single emotional close-up with lid detail",
+      "scene": "Ilyan LEFT withdraws his shaking hand and speaks stop; Teren RIGHT immediately covers tiny coal in stone spoon with iron lid; no burned person, no escaping fire, the test ends.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Parei. Minha mão começou a tremer.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Teren",
+          "text": "Boa decisão. Encerramos a prova.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 759,
+      "title": "Sem título novo",
+      "time": "Dia 486 · tarde",
+      "place": "forja-leste",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "routine work with notes and wheel plate detail",
+      "scene": "Oru LEFT records distance and duration, adult short gnome with copper spectacles; Ilyan RIGHT returns to ordinary sanding of Folealto metal wheel plate in east forge; no ceremonial promotion.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Anoto duração e distância. Nada de título.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Tenho uma chapa para terminar.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 760,
+      "title": "O que ela admira",
+      "time": "Dia 486 · fim da tarde",
+      "place": "patio-central",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "gentle well-side two-shot with water detail",
+      "scene": "At familiar school central courtyard well, Runa LEFT straight long black hair straight fringe septum ring left floral arm tattoo in dark plum medieval clothes rests fingers gently on Ilyan RIGHT sleeve, away from forge heat; Ilyan clean-shaven long wavy black hair, youthful; warm restrained intimacy, no kiss.",
+      "novel_volume": 2,
+      "novel_chapter": 1,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Eu admiro que tenha dito: parei.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Pensei que admirasse uma chama maior.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 761,
+      "title": "A mão de Pim",
+      "time": "Dia 487 · manhã, no dia seguinte",
+      "place": "enfermaria-leste",
+      "cast": [
+        "pim",
+        "curandeira"
+      ],
+      "layout": "infirmary two-shot with bandaged hand inset",
+      "scene": "Adult stocky gnome net-maker Pim LEFT red worn headscarf, copper-grey full beard, cream shirt brown vest presents a rope-burned palm with embedded fibers to adult healer RIGHT olive skin and dark braided bun; clean water and forceps in fixed east infirmary; hand still injured.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "A corda molhada queimou até os sulcos.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Vou tirar as fibras, uma de cada vez.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 762,
+      "title": "Consentimento antes da água",
+      "time": "Dia 487 · manhã, minutos depois",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "pim"
+      ],
+      "layout": "patient consent two-shot with basin inset",
+      "scene": "Runa LEFT straight black hair/fringe, septum ring, left floral tattoo holds damp cloth beside real basin; adult gnome Pim RIGHT red scarf and grey-copper beard watches alert with injured palm resting on clean linen, agrees; healer supervises nearby off frame, no instant cure.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Posso guiar um fio de água? A curandeira vigia.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Pim",
+          "text": "Pode. Se arder demais, eu aviso.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 763,
+      "title": "A fibra sobe",
+      "time": "Dia 487 · manhã, instantes depois",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "water technique wide panel plus hand-only inset",
+      "scene": "Runa LEFT carefully conducts actual clean basin water along damp cloth over Pim's wounded palm at center (Pim only hand shown; avoid extra faces); healer RIGHT with forceps watches; a single rope fiber appears at surface, wound does not magically close.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Achei uma fibra sob a crosta.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Pare o fluxo. Eu retiro com a pinça.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 764,
+      "title": "A pinça",
+      "time": "Dia 487 · manhã, instantes depois",
+      "place": "enfermaria-leste",
+      "cast": [
+        "curandeira",
+        "pim"
+      ],
+      "layout": "careful removal with tool detail",
+      "scene": "Healer LEFT removes visible rope fiber with forceps from adult gnome Pim RIGHT injured palm, Pim grits teeth but remains still; clean basin, open wound, no gore; Runa outside frame.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Pronto. Agora verifico o sangramento.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Pim",
+          "text": "Ainda dói. Mas sinto a fibra sair.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 765,
+      "title": "Não é milagre",
+      "time": "Dia 487 · fim da manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "quiet medical result at the infirmary ledger",
+      "scene": "Runa LEFT asks the healer RIGHT whether her supervised water work counts as healing. The women review Pim's chart at the fixed east infirmary desk; Pim remains off frame with his hand dressed by the healer.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ajudei. Posso chamar isso de cura?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Chame de cuidado. A carne cicatriza no tempo dela.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 766,
+      "title": "O registro do risco",
+      "time": "Dia 487 · fim da manhã, pouco depois",
+      "place": "enfermaria-leste",
+      "cast": [],
+      "layout": "infirmary parchment record inset",
+      "scene": "The east infirmary's written record documents Pim's still open rope wound, the healer's extraction of one embedded fiber, supervised water use, clean dressing, rest, and restriction from rope work. A document beat between treatment and class.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [],
+      "narration": "Registro da enfermaria: Pim precisa de curativo, repouso e dias longe das cordas. A água ajudou a expor a fibra; não fechou a ferida."
+    },
+    {
+      "number": 767,
+      "title": "A maçã cortada",
+      "time": "Dia 487 · tarde",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "layout": "elemental classroom demonstration with apple-only detail",
+      "scene": "In established elemental classroom, adult short gnome Oru LEFT with copper glasses, single silver beard braid displays cut apple on demonstration table; Runa RIGHT guides a little real clean water between apple fibers from basin; missing slice remains missing, no regeneration.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "A água percorre a polpa. E a fatia?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Continua separada. Não nasceu outra.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 768,
+      "title": "A pergunta que fere",
+      "time": "Dia 487 · tarde, durante aula obrigatória",
+      "place": "sala-elementos",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "layout": "hostile rivals separated by classroom aisle",
+      "scene": "Líria LEFT copper-olive skin, two TIGHT dark braids, chin scar, grey coat red seams chained notebook stands on OPPOSITE side of wide classroom aisle from Runa RIGHT straight black hair/fringe septum and left floral tattoo. They glare; compulsory class not joint study, no smiles, no touch, no sharing desk. Apple/basin in background. Prior violence unresolved.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Água baixa o inchaço. Vai esconder o corte também?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Se esconder, a curandeira examina de novo.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 769,
+      "title": "Limite escrito",
+      "time": "Dia 487 · tarde, fim da aula",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "runa"
+      ],
+      "layout": "teacher and student at separate desk with notebook inset",
+      "scene": "Oru LEFT explains written rule beside cut apple; Runa RIGHT reads a PUBLIC circulating class notebook left on teacher's desk, a technical note on stone pressure not evidence of who laid stone; Líria absent and no friendly exchange.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Uma melhora visível não prova reparo da carne.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Nem sentir pressão revela quem pôs a pedra.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 770,
+      "title": "Caderno, não trégua",
+      "time": "Dia 487 · tarde, na saída",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "liria",
+        "ordelia"
+      ],
+      "layout": "tense corridor two-shot with locked cabinet detail",
+      "scene": "Líria LEFT clutches her OWN brass-chained notebook and passes east corridor without stopping; Ordelia RIGHT wine dress low iron-grey braid brass keys warns her that compulsory class is no reconciliation. Líria's chin scar visible, expression hard.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A aula acabou. Não devo conversa à Runa.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "A escola exige respeito, não amizade.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 771,
+      "title": "Do arco à pena",
+      "time": "Dia 488 · manhã, no dia seguinte",
+      "place": "patio-treino",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "training yard diagonal action",
+      "scene": "Caio LEFT aims a real bow at the target while Sere RIGHT supervises at the north range. After this familiar exercise, she asks him to move only a loose feather with air; no giant vortex.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Com o arco, consigo ler o vento cruzado.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Guarde o arco. Agora mova só uma pena solta.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 772,
+      "title": "Poeira no olho",
+      "time": "Dia 488 · manhã, instantes depois",
+      "place": "patio-treino",
+      "cast": [
+        "caio",
+        "tovo"
+      ],
+      "layout": "comic mishap with dust-only inset",
+      "scene": "Caio LEFT accidentally drives feather too hard and light dust toward Tovo RIGHT tall sage-green half-orc with right shoulder bandage, who rubs ONE eye; Caio immediately lowers hands and apologizes; no physical duplication.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Foi forte demais. Desculpa, Tovo.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Só entrou pó. Busca água, depois tenta menor.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 773,
+      "title": "Três correntes",
+      "time": "Dia 488 · manhã, depois da limpeza",
+      "place": "patio-treino",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "instructional spatial scene with three ribbons inset",
+      "scene": "Sere LEFT has hung three separate linen ribbons at knee height in east training yard; Caio RIGHT kneels and reads natural air from door, sun-heated wall, and his own movement, without controlling; chalk circle and target racks fixed.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Qual fita recebe o ar da parede quente?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "A do meio. A última se move quando eu ando.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 774,
+      "title": "Dois pratos",
+      "time": "Dia 488 · tarde",
+      "place": "refeitorio",
+      "cast": [
+        "curandeira",
+        "tovo"
+      ],
+      "layout": "kitchen rehabilitation two-shot",
+      "scene": "Healer LEFT checks Tovo's right shoulder in school kitchen after removing rigid sling; Tovo RIGHT holds one empty clay plate and one plate with water, both at safe height; no heavy lifting; amber apron, no injury magically gone.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Sem saco pesado. Primeiro, controle.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Se derramar o almoço, conto como exercício?",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 775,
+      "title": "O avental molhado",
+      "time": "Dia 488 · tarde, segundos depois",
+      "place": "refeitorio",
+      "cast": [
+        "tovo",
+        "oru"
+      ],
+      "layout": "humorous restrained force test",
+      "scene": "Tovo LEFT cautiously amplifies his own arm strength for one brief instant and accidentally tips water from clay plate onto his amber kitchen apron, no extra arms; Oru RIGHT adult short gnome gestures stop; no supernatural aura or broken bones.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Foi rápido demais! Molhei tudo.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Músculo não protege tendão nem louça.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 776,
+      "title": "Uma pessoa, não um povo",
+      "time": "Dia 488 · tarde, logo depois",
+      "place": "refeitorio",
+      "cast": [
+        "braka",
+        "tovo"
+      ],
+      "layout": "orc-to-half-orc conversation at kitchen doorway",
+      "scene": "Braka LEFT tall powerful dark-olive-green orc woman one CHIPPED lower tusk and THREE long black braids, red wool cloak over practical armor, speaks to Tovo RIGHT broad sage-green half-orc short tight brown curls in wet amber apron. Not all orcs have his rare aptitude; she emphasizes teamwork.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Braka",
+          "text": "Alguns têm esse impulso. Muitos nunca terão.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Então vou aprender a dividir o peso.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 777,
+      "title": "O selo de Maelor",
+      "time": "Dia 488 · noite",
+      "place": "secretaria",
+      "cast": [
+        "ordelia",
+        "eda"
+      ],
+      "layout": "official document and map two-shot",
+      "scene": "Ordelia LEFT in school secretariat opens an official copy of Maelor's letter claiming old canal; Eda RIGHT municipal surveyor compares land ledger. Seals and boundaries represented without readable invented words; no Maelor present.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Ele chama o porto de propriedade abandonada.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "O título dele descreve o cais alto, não as estacas.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 778,
+      "title": "Margens diferentes",
+      "time": "Dia 488 · noite, minutos depois",
+      "place": "secretaria",
+      "cast": [
+        "eda",
+        "ordelia"
+      ],
+      "layout": "two maps side-by-side object-only inset",
+      "scene": "Eda LEFT lays municipal cadastral map beside Adra's public-margin map, clearly different locations and no assumption of fraud; Ordelia RIGHT marks underground no-entry order but public walking permission still possible.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "O procurador vedou galerias até vistoriar as matrículas.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "A trilha pública continua em análise.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 779,
+      "title": "A espada sem atalho",
+      "time": "Dia 488 · noite",
+      "place": "forja-leste",
+      "cast": [
+        "teren",
+        "ilyan"
+      ],
+      "layout": "forge finishing work and blunt sword detail",
+      "scene": "Teren LEFT dark-skinned bald square grey beard offers Ilyan RIGHT his father's blunt short training blade while Ilyan files Folealto wheel plate; both in familiar east forge; concern about Maelor's legal tactic, no confrontation or travel yet.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "Sua espada serviu para travar uma roda e recuar.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não vai me dar resposta sobre Mira.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 780,
+      "title": "Pim retorna",
+      "time": "Dia 489 · manhã, no dia seguinte",
+      "place": "enfermaria-leste",
+      "cast": [
+        "pim",
+        "curandeira"
+      ],
+      "layout": "follow-up consultation with finger-flex detail",
+      "scene": "Adult gnome Pim LEFT red headscarf full copper-grey beard returns to east infirmary by appointment; bandage removed temporarily, wound clean but two fingers stiff; healer RIGHT measures flexion with simple linen-marked strip. No new infection.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "Não infeccionou, mas dois dedos enrijeceram.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Vamos medir antes de pedir outro ensaio.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 781,
+      "title": "O movimento dele",
+      "time": "Dia 489 · manhã, durante sessão",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "pim"
+      ],
+      "layout": "water flow and patient exercise two-shot",
+      "scene": "Runa LEFT guides actual clean sun-warmed water beneath damp cloth from basin across Pim RIGHT hand; he flexes fingers by his OWN effort. Healer supervising outside this frame; no regrowth or instant restoration.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Dobre os dedos você mesmo. Eu só guio a água.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Pim",
+          "text": "A segunda junta move um pouco mais.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 782,
+      "title": "A gota que manda parar",
+      "time": "Dia 489 · manhã, instantes depois",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira",
+        "pim"
+      ],
+      "layout": "fatigue and measuring strip detail",
+      "scene": "Runa LEFT pales with nausea and lets one tiny water drop slip from practice cloth, stopping magic voluntarily; healer RIGHT compares before/after finger measurement on simple strip, noting rest and exercise may explain change. Pim, still in the infirmary, quietly reaches for medicine on a distant shelf without interrupting them.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Parei. Estou ficando enjoada.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Registramos melhora pequena, sem prometer causa.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 783,
+      "title": "A provocação",
+      "time": "Dia 489 · tarde",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "layout": "hostile school corridor with broad physical distance",
+      "scene": "Líria LEFT two tight dark braids chin scar chained notebook stands several paces across east corridor from Runa RIGHT straight black fringe septum left tattoo. Líria mocks Runa's medical effort; hostile glare, no smile, no companionable study, no touch.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Recebe elogios por lavar uma mão agora?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Foi uma mão ferida. Você sabe disso.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 784,
+      "title": "A soleira",
+      "time": "Dia 489 · tarde, immediately after",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "escalating adversarial two-shot",
+      "scene": "Runa LEFT replies sharply across several paces; Líria RIGHT face hardens beneath short chin scar, brass-chain notebook clenched. East corridor architecture consistent, open path between them; no violence yet.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Prefiro cuidar dela a medir uma soleira depois da queda.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Escolha melhor o que usa contra mim.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 785,
+      "title": "Crítica por escrito",
+      "time": "Dia 489 · tarde, Ordelia intervenes",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "ordelia",
+        "liria"
+      ],
+      "layout": "disciplinary corridor two-shot",
+      "scene": "Ordelia LEFT positions herself between rivals, facing Líria RIGHT who holds chained notebook and remains furious; Runa walked toward infirmary and is OUTSIDE panel. Ordelia demands written technical criticism and no patient harassment; no reconciliation.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Crítica técnica, no papel. Ameaça, nunca mais.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Vou registrar a avaliação independente.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 786,
+      "title": "Licença com limites",
+      "time": "Dia 491 · manhã, dois dias depois",
+      "place": "sala-conselho",
+      "cast": [
+        "adra",
+        "eda"
+      ],
+      "layout": "council table permissions and three-stone map detail",
+      "scene": "Adra LEFT Enseada orc captain shell-bound dark braids presents her community's permit; Eda RIGHT municipal surveyor signs matching public-trail limits and return risk report in school common council; Talin's Faias rule of three ash boundary stones shown on map, no forest entry.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Estacas expostas e moradores; nada de abrir pedra.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Assino com os mesmos limites e relatório na volta.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 787,
+      "title": "O ombro decide",
+      "time": "Dia 492 · manhã, no dia seguinte",
+      "place": "enfermaria-leste",
+      "cast": [
+        "tovo",
+        "curandeira"
+      ],
+      "layout": "functional shoulder check and two light boxes",
+      "scene": "Tovo LEFT tall sage-green half-orc short tight curls walks carrying TWO small equal light boxes, pauses at first sign of right-shoulder ache; healer RIGHT notes limited field clearance. Not a heavy lift; no force amplification allowed except supported emergency.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Paro aqui. O ombro avisou.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Pode viajar e cozinhar. Nada de impulso por vaidade.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 788,
+      "title": "Seis dias, duas barcas",
+      "time": "Dia 492 · tarde",
+      "place": "secretaria",
+      "cast": [
+        "ordelia",
+        "ilyan"
+      ],
+      "layout": "budget ledger and route map two-shot",
+      "scene": "Ordelia LEFT checks two paid boats, six days bread, lodging deposit and limited lanterns on school register; Ilyan RIGHT signs rule that maps go first to Enseada for naming and access review. No legible exact text required.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Duas barcas, pão por seis dias, quartos pagos.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E os mapas voltam primeiro à Enseada.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 789,
+      "title": "Uma mecha, não uma arma",
+      "time": "Dia 492 · fim da tarde",
+      "place": "forja-leste",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "layout": "controlled fire close-up with wick-only inset",
+      "scene": "Ilyan LEFT guides a tiny flame from already lit charcoal to an oil-soaked wick on stone tray, then reaches for iron lid; Sere RIGHT notices banner flutter unexpectedly from Caio practicing OUTSIDE the forge and immediately orders exercises separated. No Caio visual and no giant flame. Sand bucket in background.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A chama veio do carvão; o óleo a mantém.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Tampa. Caio treina vento em outro pátio.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 790,
+      "title": "Três lugares, nenhuma certeza",
+      "time": "Dia 492 · noite",
+      "place": "observatorio-escola",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "intimate observatory with three-location map inset",
+      "scene": "Runa LEFT black straight hair fringe septum left floral tattoo sits beside Ilyan RIGHT long wavy black hair clean-shaven in known moonlit school observatory. She rests head lightly on his shoulder while both mark THREE DIFFERENT possible sites on Ereno copy: Maelor depot, Adra quay, uncertain third stake. Quiet intimacy, no kissing; still uncertain about Mira.",
+      "novel_volume": 2,
+      "novel_chapter": 2,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Depósito, cais e estaca: são três pontos distintos.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Mira pode não estar em nenhum. Mesmo assim iremos.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 791,
+      "title": "Seis no portão",
+      "time": "Dia 493 · aurora, no dia seguinte",
+      "place": "portao-sul",
+      "cast": [
+        "sere",
+        "adra"
+      ],
+      "layout": "departure at south gate with six packs object detail",
+      "scene": "At established south gate of Casa das Quatro Luas at dawn, Sere LEFT dark-brown elven instructor one thick white braid and green cloak checks route ledger; Adra RIGHT slate-green orc ferry captain shell-bound black braids checks map; six labeled travel packs rest at gate, other four companions just outside this frame, no stranger added.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Conto seis: nós duas, Ilyan, Runa, Caio e Tovo.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A trilha passa pelo mercado e pelo cais leste.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 792,
+      "title": "Pela rua do mercado",
+      "time": "Dia 493 · manhã",
+      "place": "praca-valecobre",
+      "cast": [
+        "caio",
+        "tovo"
+      ],
+      "layout": "lively medieval market passage with cargo inset",
+      "scene": "Caio LEFT brown-skinned young guard short tidy reddish brown hair and teal tunic leads a small pack through crowded but background-UNIDENTIFIABLE Valecobre market; Tovo RIGHT tall sage-green half-orc brown tight curls carries only light cooking bundle, shoulder protected; the rest of six-person party nearby but outside frame.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Rua do mercado, depois cais leste.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Minha panela pesa menos que o orgulho.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 793,
+      "title": "A barca reservada",
+      "time": "Dia 493 · fim da manhã",
+      "place": "cais-leste",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "layout": "river embarkation with boat and rope detail",
+      "scene": "At east quay Adra LEFT slate-green orc ferry captain with shell-bound braids pays two local barqueiros only as indistinct distant back-facing silhouettes; Runa RIGHT black straight hair/fringe septum and floral left-arm tattoo steps onto reserved wooden boat carrying map case. Other travelers board off frame; second supply boat will cross next day.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Uma barca conosco; os mantimentos seguem amanhã.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Guardei a cópia da licença no estojo seco.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 794,
+      "title": "A margem oeste",
+      "time": "Dia 493 · tarde, after physical crossing",
+      "place": "estrada-enseada",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "layout": "wide road landscape and old tariff post inset",
+      "scene": "After normal boat crossing, Sere LEFT elven scout single long silver braid guides Ilyan RIGHT clean-shaven young man long wavy black hair on high western road past an old tariff post; boots wet, distant river behind them; rest of party walking just outside frame. Public trail not forest shortcut.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Poste de tarifa à frente. Ficamos na via pública.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O rio mudou. A estrada ainda guarda marcas.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 795,
+      "title": "O lugar ainda vive",
+      "time": "Dia 493 · entardecer, após estrada alta",
+      "place": "porto-das-cinzas",
+      "cast": [
+        "hessa",
+        "adra"
+      ],
+      "layout": "inn threshold and inhabited port panorama",
+      "scene": "At a modest occupied river-port lodging house with orchard and stable, adult orc Hessa LEFT dark olive green skin broad face tiny lower tusks black braids with silver strands, SHORT scar above RIGHT eyebrow, ochre work shawl, opens door; Adra RIGHT slate-green orc shell-bound braids arrives with paid travel company outside frame. Visible small homes and lamp-lit windows prove Porto das Cinzas is inhabited, no abandoned ghost town. Do not confuse Hessa with Adra.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Porto das Cinzas nunca ficou vazio.",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Então o mapa apagou gente que ainda mora aqui.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    }
+  ]
+}

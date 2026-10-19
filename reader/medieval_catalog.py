@@ -55,11 +55,15 @@ ARC_FIVE["arc"]["chapters"].extend(ARC_FIVE_END["chapters"])
 ARC_FIVE["pages"].extend(ARC_FIVE_END["pages"])
 ARC_FIVE["arc"]["status"] = "Concluído"
 ARC_SIX = json.loads((STORY_DIR / "arc6-729-741.json").read_text(encoding="utf-8"))
+ARC_SIX_CONTINUED = json.loads((STORY_DIR / "arc6-742-795.json").read_text(encoding="utf-8"))
+ARC_SIX["arc"]["chapters"][-1]["end"] = 760
+ARC_SIX["arc"]["chapters"].extend(ARC_SIX_CONTINUED["chapters"])
+ARC_SIX["pages"].extend(ARC_SIX_CONTINUED["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
 def page_art(number: int) -> str:
-    extension = "svg" if 133 <= number <= 134 else "webp"
+    extension = "svg" if 133 <= number <= 134 or number == 766 else "webp"
     return f"reader/images/medieval/page-{number:02}.{extension}"
 
 

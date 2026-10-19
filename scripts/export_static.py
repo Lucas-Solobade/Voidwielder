@@ -335,6 +335,7 @@ def medieval_only() -> None:
         STATIC_SOURCE / "js" / "medieval-reader.js",
         STATIC_SOURCE / "js" / "site.js",
         *image_dir.glob("*.webp"),
+        *image_dir.glob("*.svg"),
     ):
         destination = DIST_DIR / "static" / "reader" / source.relative_to(STATIC_SOURCE)
         destination.parent.mkdir(parents=True, exist_ok=True)
