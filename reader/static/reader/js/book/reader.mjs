@@ -30,6 +30,7 @@ if (root) {
   let turning = false;
   let touchX = 0;
   const safe = (n) => Math.max(1, Math.min(total, n));
+  const step = () => 1;
   function fill(container, page) {
     container.replaceChildren();
     if (!page) return;
@@ -61,9 +62,9 @@ if (root) {
     chapters.value = String((chapter - 1) * 10 + 1);
     progress.setAttribute('aria-valuenow', String(current));
     progress.querySelector('span').style.width = `${current / total * 100}%`;
-    if (prev) { prev.href = `${path}${safe(current - (mobile.matches ? 1 : 2))}/`; prev.hidden = current === 1; }
-    if (next) { next.href = `${path}${safe(current + (mobile.matches ? 1 : 2))}/`; next.hidden = current >= total - (mobile.matches ? 0 : 1); }
-    finish.hidden = current < total - (mobile.matches ? 0 : 1);
+    if (prev) { prev.href = `${path}${safe(current - step())}/`; prev.hidden = current === 1; }
+    if (next) { next.href = `${path}${safe(current + step())}/`; next.hidden = current >= total; }
+    finish.hidden = current < total;
     try { localStorage.setItem(storageKey, String(current)); } catch { /* Optional progress. */ }
     document.title = `Página ${current} · A Casa das Medidas · Voidwielder`;
   }
@@ -79,14 +80,14 @@ if (root) {
   fetch(`${siteBase}/static/reader/book/casa-medidas/pages.json`).then((r) => { if (!r.ok) throw Error('pages'); return r.json(); }).then((data) => {
     if (!Array.isArray(data) || data.length !== total) throw Error('pages');
     pages = data; render(current);
-    prev?.addEventListener('click', (event) => { event.preventDefault(); turn(current - (mobile.matches ? 1 : 2), 'prev'); });
-    next?.addEventListener('click', (event) => { event.preventDefault(); turn(current + (mobile.matches ? 1 : 2)); });
+    prev?.addEventListener('click', (event) => { event.preventDefault(); turn(current - step(), 'prev'); });
+    next?.addEventListener('click', (event) => { event.preventDefault(); turn(current + step()); });
     chapters.addEventListener('change', () => turn(Number(chapters.value), Number(chapters.value) < current ? 'prev' : 'next'));
     jump.addEventListener('change', () => turn(safe(Number(jump.value) || current), Number(jump.value) < current ? 'prev' : 'next'));
     document.addEventListener('keydown', (event) => {
       if (['INPUT', 'SELECT', 'TEXTAREA'].includes(document.activeElement?.tagName)) return;
-      if (event.key === 'ArrowRight') { event.preventDefault(); turn(current + (mobile.matches ? 1 : 2)); }
-      if (event.key === 'ArrowLeft') { event.preventDefault(); turn(current - (mobile.matches ? 1 : 2), 'prev'); }
+      if (event.key === 'ArrowRight') { event.preventDefault(); turn(current + step()); }
+      if (event.key === 'ArrowLeft') { event.preventDefault(); turn(current - step(), 'prev'); }
     });
     spread.addEventListener('touchstart', (event) => { touchX = event.changedTouches[0].screenX; }, { passive: true });
     spread.addEventListener('touchend', (event) => { const dx = event.changedTouches[0].screenX - touchX; if (Math.abs(dx) > 55) turn(current + (dx < 0 ? 1 : -1), dx < 0 ? 'next' : 'prev'); }, { passive: true });

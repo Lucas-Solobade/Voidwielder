@@ -25,7 +25,7 @@ if(root){
   const sectionStarts=[...select.options].map((option)=>Number(option.value));
   let current=Number(root.dataset.page),pages=null,turning=false,touchX=null,queued=null;
   const clamp=(number)=>Math.max(1,Math.min(total,number));
-  const step=()=>mobile.matches?1:2;
+  const step=()=>1;
 
   function fill(container,page){
     container.replaceChildren();

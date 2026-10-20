@@ -43,7 +43,7 @@ if (root) {
   let turning = false;
   let touchX = 0;
   const safe = (number) => Math.max(1, Math.min(total, number));
-  const step = () => mobile.matches ? 1 : 2;
+  const step = () => 1;
 
   function fill(container, page) {
     container.replaceChildren();
@@ -92,8 +92,8 @@ if (root) {
     progress.setAttribute('aria-valuenow', String(current));
     progress.querySelector('span').style.width = `${current / total * 100}%`;
     prev.href = `${path}${safe(current - step())}/`; prev.hidden = current === 1;
-    next.href = `${path}${safe(current + step())}/`; next.hidden = current >= total - (mobile.matches ? 0 : 1);
-    finish.hidden = current < total - (mobile.matches ? 0 : 1);
+    next.href = `${path}${safe(current + step())}/`; next.hidden = current >= total;
+    finish.hidden = current < total;
     try { localStorage.setItem(storageKey, String(current)); } catch { /* Optional. */ }
     document.title = `Página ${current} · ${root.dataset.bookTitle || 'As Estradas do Crepúsculo'} · Voidwielder`;
   }

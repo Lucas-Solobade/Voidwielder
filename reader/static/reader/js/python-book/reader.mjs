@@ -99,7 +99,7 @@ if (root) {
     jump.value = current;
     progress.setAttribute('aria-valuenow', String(current));
     progress.querySelector('span').style.width = `${current / total * 100}%`;
-    const step = mobile.matches ? 1 : 2;
+    const step = 1;
     prev.hidden = current === 1; prev.href = `${pagePath}${clamp(current - step)}/`;
     const atEnd = current + step > total;
     next.href = atEnd ? bookPath : `${pagePath}${current + step}/`;
@@ -198,14 +198,14 @@ if (root) {
   ]).then(([bookPages, tasks]) => {
     if (bookPages.length !== total || tasks.length !== 39) throw Error('Livro incompleto');
     pages = bookPages; exercises = tasks; render(current);
-    prev.addEventListener('click', (event) => { event.preventDefault(); turn(current - (mobile.matches ? 1 : 2), 'prev'); });
-    next.addEventListener('click', (event) => { if (next.href.endsWith(bookPath)) return; event.preventDefault(); turn(current + (mobile.matches ? 1 : 2)); });
+    prev.addEventListener('click', (event) => { event.preventDefault(); turn(current - 1, 'prev'); });
+    next.addEventListener('click', (event) => { if (next.href.endsWith(bookPath)) return; event.preventDefault(); turn(current + 1); });
     jump.addEventListener('change', () => turn(clamp(Number(jump.value) || current), Number(jump.value) < current ? 'prev' : 'next'));
     select.addEventListener('change', () => turn(Number(select.value), Number(select.value) < current ? 'prev' : 'next'));
     document.addEventListener('keydown', (event) => {
       if (['INPUT', 'SELECT', 'TEXTAREA'].includes(document.activeElement?.tagName)) return;
-      if (event.key === 'ArrowRight') { event.preventDefault(); turn(current + (mobile.matches ? 1 : 2)); }
-      if (event.key === 'ArrowLeft') { event.preventDefault(); turn(current - (mobile.matches ? 1 : 2), 'prev'); }
+      if (event.key === 'ArrowRight') { event.preventDefault(); turn(current + 1); }
+      if (event.key === 'ArrowLeft') { event.preventDefault(); turn(current - 1, 'prev'); }
     });
     spread.addEventListener('touchstart', (event) => { touchX = event.changedTouches[0].screenX; }, {passive: true});
     spread.addEventListener('touchend', (event) => { const dx = event.changedTouches[0].screenX - touchX; if (Math.abs(dx) > 55) turn(current + (dx < 0 ? 1 : -1), dx < 0 ? 'next' : 'prev'); }, {passive: true});
