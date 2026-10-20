@@ -28,14 +28,7 @@
   if (longReader) viewport.classList.add('reader-zoom-long');
   target.classList.add('reader-zoom-target');
 
-  const controls = document.createElement('div');
-  controls.className = 'reader-zoom-controls';
-  controls.setAttribute('role', 'group');
-  controls.setAttribute('aria-label', 'Zoom da leitura');
-  controls.innerHTML = '<button type="button" data-zoom-out aria-label="Diminuir zoom">−</button><button type="button" data-zoom-reset class="reader-zoom-level" aria-label="Restaurar zoom para 100%">100%</button><button type="button" data-zoom-in aria-label="Aumentar zoom">+</button><span class="reader-zoom-help">Teclado: + / − · Celular: pinça</span>';
-  viewport.before(controls);
-  const level = controls.querySelector('[data-zoom-reset]');
-  const clamp = (value) => Math.max(1, Math.min(3, Math.round(value * 20) / 20));
+  const clamp = (value) => Math.max(.4, Math.min(3, Math.round(value * 20) / 20));
   const key = `voidwielder-reader-zoom:${location.pathname.replace(/\/ler\/\d+\/$/, '/ler/')}`;
   let scale = 1;
   try { scale = clamp(Number(sessionStorage.getItem(key)) || 1); } catch { /* Storage is optional. */ }
@@ -62,8 +55,7 @@
     if (!baseWidth) measure();
     target.style.zoom = String(scale);
     viewport.classList.toggle('is-zoomed', scale > 1);
-    level.textContent = `${Math.round(scale * 100)}%`;
-    level.setAttribute('aria-label', `Zoom ${Math.round(scale * 100)}%. Restaurar para 100%`);
+    viewport.classList.toggle('is-zoomed-out', scale < 1);
     if (anchor && old !== scale) {
       const rect = viewport.getBoundingClientRect();
       const x = anchor.x - rect.left + viewport.scrollLeft;
@@ -77,9 +69,6 @@
   }
   measure();
   setScale(scale);
-  controls.querySelector('[data-zoom-out]').addEventListener('click', () => setScale(scale - .25));
-  controls.querySelector('[data-zoom-in]').addEventListener('click', () => setScale(scale + .25));
-  level.addEventListener('click', () => setScale(1));
   window.addEventListener('keydown', (event) => {
     if (event.ctrlKey || event.metaKey || event.altKey || event.repeat) return;
     if (event.target.closest('input, select, textarea, [contenteditable="true"], dialog[open]')) return;
@@ -87,6 +76,8 @@
       event.preventDefault(); setScale(scale + .25);
     } else if (event.key === '-' || event.key === '_' || event.code === 'NumpadSubtract') {
       event.preventDefault(); setScale(scale - .25);
+    } else if (event.key === '0' || event.code === 'Numpad0') {
+      event.preventDefault(); setScale(1);
     }
   });
   window.addEventListener('resize', () => {

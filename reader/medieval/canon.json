@@ -194,8 +194,8 @@
     "talin": {
       "name": "Talin",
       "age": 37,
-      "role": "elfo adulto eleito guardião da trilha do santuário e morador da Escada de Âmbar",
-      "fixed_appearance": "Elfo adulto de pele bronze-clara, cabelo castanho-avermelhado CURTO, orelhas pontudas e cicatriz fina em forma de folha na bochecha DIREITA. Não tem a trança branca de Sere.",
+      "role": "elfa adulta eleita guardiã da trilha do santuário e moradora da Escada de Âmbar",
+      "fixed_appearance": "Elfa adulta de pele bronze-clara, cabelo ruivo acobreado CURTO e cacheado, sardas, orelhas pontudas e cicatriz fina em forma de folha na bochecha DIREITA. Fisionomia feminina conforme a ficha visual talin.png. Não tem a trança branca de Sere.",
       "fixed_clothing": "Manto ocre de guardião, roupa de viagem castanha e cajado de freixo sem lâmina."
     },
     "ysra": {

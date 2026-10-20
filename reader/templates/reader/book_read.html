@@ -33,7 +33,6 @@
     <a data-book-finish href="{% url 'reader:book_detail' %}" {% if next_number %}hidden{% endif %}>Fim · Voltar ao livro →</a>
   </nav>
   <div class="book-progress" role="progressbar" aria-label="Progresso da leitura" aria-valuemin="1" aria-valuemax="150" aria-valuenow="{{ page.number }}" data-book-progress><span style="width:{{ page.number|floatformat:0 }}%"></span></div>
-  <p class="book-reader-help">Use as setas do teclado ou deslize para virar as páginas. O texto pode ser selecionado.</p>
 </article>
 {% endblock %}
 {% block extra_scripts %}<script type="module" src="{% static 'reader/js/book/reader.mjs' %}?v=1"></script>{% endblock %}

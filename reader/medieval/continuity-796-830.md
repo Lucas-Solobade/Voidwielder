@@ -20,6 +20,6 @@ Fonte narrativa: volume II, capítulo 3, “Porto das Cinzas”. O arco permanec
 
 ## Identidade e balões
 
-Ilyan mantém cabelo preto longo ondulado e rosto jovem sem barba. Runa mantém cabelo preto com franja reta, septo e tatuagem floral no braço esquerdo. Caio, Tovo, Adra, Sere, Talin, Ordelia, Eda, Pim e Ysra seguem suas fichas canônicas. A guardiã élfica recebe ficha própria em `canon.json` e conserva a mesma aparência nas páginas 804 e 813. Líria não acompanha a expedição, não reaparece em Porto e continua rival de Runa na escola.
+Ilyan mantém cabelo preto longo ondulado e rosto jovem sem barba. Runa mantém cabelo preto com franja reta, septo e tatuagem floral no braço esquerdo. Talin é a elfa ruiva de cabelo curto cacheado, sardas e cicatriz na bochecha direita, conforme `references/individual/talin.png`; não deve ser desenhada como homem. Caio, Tovo, Adra, Sere, Ordelia, Eda, Pim e Ysra seguem suas fichas canônicas. A guardiã élfica recebe ficha própria em `canon.json` e conserva a mesma aparência nas páginas 804 e 813. Líria não acompanha a expedição, não reaparece em Porto e continua rival de Runa na escola.
 
 Os dois balões de cada página de diálogo pertencem aos personagens que aparecem nela. Posicionar cada balão perto da cabeça de seu falante, com cauda curta e inequívoca, sem cobrir rosto, expressão, mão decisiva ou pista visual. A ordem de leitura e a direção da cauda devem ser conferidas na arte publicada, inclusive no celular. Não usar faixas externas separadas da cena.

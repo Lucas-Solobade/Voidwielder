@@ -12,7 +12,6 @@
   </div></div>
   <nav class="web-controls section-shell" aria-label="Navegação do livro"><a data-web-prev rel="prev" href="{% if previous_number %}{% url 'reader:read_web' previous_number %}{% else %}{% url 'reader:read_web' 1 %}{% endif %}" {% if not previous_number %}hidden{% endif %}>← Anterior</a><label for="web-page-jump">Página <input id="web-page-jump" data-web-jump type="number" min="1" max="{{ book.page_count }}" value="{{ page.number }}" inputmode="numeric"> / {{ book.page_count }}</label><a data-web-next rel="next" href="{% if next_number %}{% url 'reader:read_web' next_number %}{% else %}{% url 'reader:web_detail' %}{% endif %}">{% if next_number %}Próxima →{% else %}Voltar ao sumário →{% endif %}</a></nav>
   <div class="web-progress" role="progressbar" aria-label="Progresso de leitura" aria-valuemin="1" aria-valuemax="{{ book.page_count }}" aria-valuenow="{{ page.number }}" data-web-progress><span></span></div>
-  <p class="web-reader-hint">Use as setas do teclado ou deslize para virar. As animações respeitam a preferência por menos movimento.</p>
 </article>
 {% endblock %}
 {% block extra_scripts %}<script type="module" src="{% static 'reader/js/web-book/art.mjs' %}?v=1"></script><script type="module" src="{% static 'reader/js/web-book/reader.mjs' %}?v=1"></script>{% endblock %}
