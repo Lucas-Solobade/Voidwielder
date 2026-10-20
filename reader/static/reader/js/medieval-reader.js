@@ -62,7 +62,9 @@
           return;
         }
         const directTail = Number(panel.dataset.pageNumber) < 451 && art.classList.contains('twilight-page-stage--direct-tails');
-        const length = directTail ? distance : Math.min(distance, clamp(artBox.width * .035, 18, 34));
+        const nearSpeakerTail = Number(panel.dataset.pageNumber) >= 729;
+        const maxTail = nearSpeakerTail ? clamp(artBox.width * .075, 42, 72) : clamp(artBox.width * .035, 18, 34);
+        const length = directTail ? distance : Math.min(distance, maxTail);
         const tipX = startX + deltaX / distance * length;
         const tipY = startY + deltaY / distance * length;
         // A broad base narrows into one clean tip beside the speaker.  The

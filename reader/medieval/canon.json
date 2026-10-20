@@ -251,6 +251,12 @@
       "fixed_appearance": "Humano adulto de pele morena clara, cabelo castanho curto e barba castanha curta.",
       "fixed_clothing": "Capa de viagem castanha e bolsa de couro para cartas; sem uniforme da Casa."
     },
+    "guardia-faia": {
+        "name": "Guardiã",
+      "role": "guardiã élfica que leva o pedido de Adra a Ysra e acompanha a audiência pública em Porto das Cinzas",
+      "fixed_appearance": "Elfa adulta de pele castanho-média, rosto angular, olhos verde-escuros, orelhas pontudas e cabelo castanho-escuro preso em uma trança simples. Não confundir com Sere, cuja pele é mais escura e cujo cabelo é branco-prateado.",
+      "fixed_clothing": "Manto de lã verde-musgo sem emblema escolar, broche de freixo e botas de trilha."
+    },
     "neral": {
       "name": "Neral",
       "role": "guardiã feérica eleita pelo pequeno conselho da ponte do Entremeio; pode autorizar ou encerrar uma visita limitada, não governa todo o mundo",
@@ -326,7 +332,18 @@
     "porto-das-cinzas": "Comunidade ainda habitada na margem oeste, alcançada por caminhada desde Valecobre e travessia física de barca. Hessa aluga quartos na casa familiar, Adra e o conselho da Enseada regem a passagem pública; três estacas antigas mudaram de posição relativa com o leito.",
     "camara-contrapesos": "Alvenaria antiga abaixo da trilha autorizada de Porto das Cinzas, exposta por cerca de uma hora de vazante. Guardiões feéricos e representantes das margens mantêm pesos e tampão vegetal; nenhuma equipe da Casa pode abrir, reparar ou atravessar sem consentimento e licença.",
     "entremeio": "Mundo mágico contíguo às águas, com árvores sobre espelhos suspensos e ponte habitada de juncos. Acesso físico estreito na vazante após retirada autorizada do tampão; não é atalho universal nem muda instantaneamente o tempo. Comunidades feéricas, élficas, gnômicas e outras têm autoridade própria.",
-    "fundo-de-sal": "Região profunda além da muralha de sal escuro do Entremeio, isolada após obras antigas de extração de água e minério. Abriga múltiplas formas de vida; predadores chamados de demônios pelos barqueiros seguem calor e podem cruzar fissuras sob condições materiais específicas."
+    "fundo-de-sal": "Região profunda além da muralha de sal escuro do Entremeio, isolada após obras antigas de extração de água e minério. Abriga múltiplas formas de vida; predadores chamados de demônios pelos barqueiros seguem calor e podem cruzar fissuras sob condições materiais específicas.",
+    "hospedaria-hessa": "Casa familiar de Hessa em Porto das Cinzas, com balcão de contas, quartos ocupados, estábulo e cozinha; não é ruína abandonada.",
+    "cais-porto": "Cais pequeno e público de Porto das Cinzas na margem oeste, usado pelas duas barcas, moradores e carga leve.",
+    "galpao-estacas": "Galpão de Hessa junto ao cais que guarda a base de carvalho da primeira estaca substituída; acesso com autorização da dona.",
+    "cascalho-hospedaria": "Linha de cascalho seco atrás da hospedaria de Hessa; registra uma margem antiga e muda a leitura da terceira estaca.",
+    "margem-publica-porto": "Trilha e faixa de pedras expostas acessíveis pela licença da Enseada; não inclui a mata protegida ou o fundo do canal.",
+    "clareira-publica-porto": "Clareira diante da pedra-limite das Faias, onde a equipe pode ouvir histórias e reunir-se sem atravessar a fronteira protegida.",
+    "pedra-limite-faias": "Marco de pedra entre a clareira pública e o bosque das Faias; somente a guardiã élfica cruza para consultar Ysra.",
+    "canal-seco-porto": "Leito estreito e quase seco junto ao porto, com água rasa entre pedras; no dia 496 mostra reflexos do Entremeio sem permitir passagem ao olhar.",
+    "basalto-porto": "Pedra de basalto na curva do canal com pesos antigos e marcas novas de ferramenta; a autoria das marcas não foi identificada.",
+    "casa-arquivos": "Arquivo da Casa em Valecobre, com mesa de Ordelia, pastas de depoimentos e gabinete de Eda para processo de segurança.",
+    "observatorio-casa": "Observatório da Casa acima do campus, com arcos de pedra, mesa de mapas e vista de Valecobre; Ilyan e Runa conversam ali no dia 499."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",

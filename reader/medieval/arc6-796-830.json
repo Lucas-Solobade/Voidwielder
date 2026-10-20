@@ -1,0 +1,1406 @@
+{
+  "chapters": [],
+  "pages": [
+    {
+      "number": 796,
+      "title": "Conta da hospedaria",
+      "time": "Dia 493 · noite, após a chegada",
+      "place": "porto-das-cinzas",
+      "cast": [
+        "hessa",
+        "adra"
+      ],
+      "layout": "wide inn scene with a small ledger detail",
+      "scene": "Hessa LEFT at her inhabited river-port inn counter records six beds, supper and stable fees; Adra RIGHT lays the approved travel purse beside the ledger. Ochre lamps, occupied rooms, real costs.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Seis camas, jantar e estábulo. Registro tudo.",
+          "balloon": {
+            "x": 4,
+            "y": 9,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 17,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "A viagem tem verba. Ninguém lhe deve trabalho grátis.",
+          "balloon": {
+            "x": 54,
+            "y": 7,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 15,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 797,
+      "title": "Um porto vivo",
+      "time": "Dia 493 · noite, minutos depois",
+      "place": "porto-das-cinzas",
+      "cast": [
+        "hessa",
+        "ilyan"
+      ],
+      "layout": "wide exterior through inn window with intimate foreground",
+      "scene": "Hessa LEFT opens the inn window toward several inhabited human, orc and gnome homes with lit windows; Ilyan RIGHT, long black waves and no beard, listens rather than assuming this is an abandoned town.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "O cais grande morreu. As famílias ficaram.",
+          "balloon": {
+            "x": 4,
+            "y": 18,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O mapa apagou o nome, não as pessoas.",
+          "balloon": {
+            "x": 54,
+            "y": 22,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 798,
+      "title": "A segunda barca",
+      "time": "Dia 494 · manhã",
+      "place": "cais-porto",
+      "cast": [
+        "pim",
+        "adra"
+      ],
+      "layout": "arrival panorama plus cord detail",
+      "scene": "Adult gnome Pim LEFT, red head scarf and copper-gray beard, steps from the second supply barge carrying a wrapped old measuring cord; Adra RIGHT checks the cargo list at the occupied west-bank quay.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "Trouxe a fita antiga e os mantimentos.",
+          "balloon": {
+            "x": 4,
+            "y": 25,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Agora podemos medir sem inventar distância.",
+          "balloon": {
+            "x": 54,
+            "y": 5,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 13,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 799,
+      "title": "A base guardada",
+      "time": "Dia 494 · manhã",
+      "place": "galpao-estacas",
+      "cast": [
+        "pim",
+        "caio"
+      ],
+      "layout": "asymmetric shed scene and object inset",
+      "scene": "Pim LEFT shows the preserved weathered base of the first stake inside Hessa's dry shed; Caio RIGHT, short reddish brown curls and warm brown skin, compares it with the new oak replacement outside.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "A primeira estaca foi trocada. A base ficou aqui.",
+          "balloon": {
+            "x": 4,
+            "y": 25,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Vou marcar antiga e nova em colunas separadas.",
+          "balloon": {
+            "x": 54,
+            "y": 6,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 14,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 800,
+      "title": "Lama sobre a segunda",
+      "time": "Dia 494 · fim da manhã",
+      "place": "margem-publica-porto",
+      "cast": [
+        "pim",
+        "tovo"
+      ],
+      "layout": "wide public bank with mud detail",
+      "scene": "Pim LEFT points to the second stake buried under river mud from a safe public-bank plank; adult half-orc Tovo RIGHT, sage-green skin and broad shoulders, sets a survey marker without using amplified strength.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "A segunda está debaixo da lama.",
+          "balloon": {
+            "x": 4,
+            "y": 29,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Então ninguém vai puxá-la só para ganhar tempo.",
+          "balloon": {
+            "x": 54,
+            "y": 25,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 801,
+      "title": "A terceira distância",
+      "time": "Dia 494 · fim da manhã",
+      "place": "margem-publica-porto",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "layout": "two depth planes with stake in distance",
+      "scene": "Adra LEFT reads the current shoreline on the authorized map; Runa RIGHT with straight black fringe, septum ring and left floral tattoo holds the measured tape toward the third exposed stake, which appears displaced relative to Ereno's drawing.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Pela margem de hoje, a terceira não coincide.",
+          "balloon": {
+            "x": 4,
+            "y": 8,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ainda falta testar a linha antiga de cascalho.",
+          "balloon": {
+            "x": 54,
+            "y": 24,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 802,
+      "title": "A linha atrás da casa",
+      "time": "Dia 494 · meio-dia",
+      "place": "cascalho-hospedaria",
+      "cast": [
+        "hessa",
+        "runa"
+      ],
+      "layout": "broad landscape and narrow tape inset",
+      "scene": "Hessa LEFT leads Runa RIGHT to the dry gravel line behind the inn, once a former riverbank; Runa measures toward the third stake and sees the old drawing align without claiming a culprit.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Antes da obra, a água vinha até este cascalho.",
+          "balloon": {
+            "x": 4,
+            "y": 9,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 17,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Daqui o desenho de Ereno volta a fechar.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 803,
+      "title": "O erro que pode voltar",
+      "time": "Dia 494 · meio-dia",
+      "place": "cascalho-hospedaria",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "dynamic action with clear retreat space",
+      "scene": "Caio LEFT accidentally curls dust around the tape at the gravel line, then drops his hand to stop; Sere RIGHT, dark-skinned elf archer with amber eyes, keeps the line clear and does not let dust hit Pim.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Soltei a fita antes de atingir alguém.",
+          "balloon": {
+            "x": 4,
+            "y": 9,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 17,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "A medida se refaz. Um olho, não.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 804,
+      "title": "A pedra-limite",
+      "time": "Dia 494 · tarde",
+      "place": "pedra-limite-faias",
+      "cast": [
+        "talin",
+        "guardia-faia"
+      ],
+      "layout": "wide boundary panorama with stone detail",
+      "scene": "Talin LEFT, adult elf with short auburn hair and a cheek scar, meets a female elf guardian RIGHT at the public boundary stone; behind them the protected woodland stays distinct from the public path.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "A licença termina nesta pedra.",
+          "balloon": {
+            "x": 4,
+            "y": 8,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Guardiã",
+          "text": "Só eu atravesso para consultar Ysra.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 28,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 805,
+      "title": "Sem convite oculto",
+      "time": "Dia 494 · tarde",
+      "place": "pedra-limite-faias",
+      "cast": [
+        "sere",
+        "ilyan"
+      ],
+      "layout": "single clearing panel with tiny fairy detail",
+      "scene": "Sere LEFT calmly stops Ilyan RIGHT at the marked public clearing while willow fairies hover over water at a distance; no one follows them into protected trees.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "As fadas não são guias da nossa licença.",
+          "balloon": {
+            "x": 4,
+            "y": 5,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu fico. Uma pergunta não abre trilha.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 22,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 806,
+      "title": "O livro da família",
+      "time": "Dia 494 · noite",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "hessa",
+        "adra"
+      ],
+      "layout": "quiet candlelit ledger scene",
+      "scene": "Hessa LEFT opens her father's old account book at her inn table at night; Adra RIGHT requests permission to examine one winter ledger page without removing it.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "O livro fica comigo. Podem ler esta folha.",
+          "balloon": {
+            "x": 4,
+            "y": 27,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "E a cópia só sai com seu consentimento.",
+          "balloon": {
+            "x": 54,
+            "y": 27,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 807,
+      "title": "A inicial ambígua",
+      "time": "Dia 494 · noite, logo depois",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "hessa",
+        "ilyan"
+      ],
+      "layout": "close ledger foreground and two faces",
+      "scene": "Hessa LEFT indicates a handwritten entry marked M. de Pedra-Mansa beside three boards, a lantern and a glass case; Ilyan RIGHT studies the line with restrained hope, no invented image of Mira.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "M. pode ser Mera, Maris ou Mira.",
+          "balloon": {
+            "x": 4,
+            "y": 21,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou guardar a dúvida junto com a data.",
+          "balloon": {
+            "x": 54,
+            "y": 21,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 808,
+      "title": "Cópia permitida",
+      "time": "Dia 494 · noite, após a leitura",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "layout": "document detail with hands and faces separate",
+      "scene": "Adra LEFT uses approved light-sensitive paper to copy the open ledger in Hessa's presence off frame; Runa RIGHT sketches its watermark so a later examiner can compare, without taking the book.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Cópia autorizada. A folha não sai daqui.",
+          "balloon": {
+            "x": 4,
+            "y": 21,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Também marquei a filigrana do papel.",
+          "balloon": {
+            "x": 54,
+            "y": 23,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 809,
+      "title": "Antes do nevoeiro",
+      "time": "Dia 495 · manhã",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "hessa",
+        "tovo"
+      ],
+      "layout": "domestic port scene with supply detail",
+      "scene": "Hessa LEFT sends a paid porter to check the upper lane while Tovo RIGHT sorts dry lanterns and food at the occupied inn; routine preparation shows the day between the survey and the strange fog.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Hoje revemos a trilha e os quartos.",
+          "balloon": {
+            "x": 4,
+            "y": 25,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "E deixamos uma saída livre para todos.",
+          "balloon": {
+            "x": 54,
+            "y": 25,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 810,
+      "title": "Pedido aos guardiões",
+      "time": "Dia 495 · tarde",
+      "place": "pedra-limite-faias",
+      "cast": [
+        "adra",
+        "talin"
+      ],
+      "layout": "boundary scene with paper inset",
+      "scene": "Adra LEFT hands Talin RIGHT a written request for Ysra to explain old stones at the public boundary; Talin keeps the sealed request and the party stays outside.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Pedimos explicação, não passagem.",
+          "balloon": {
+            "x": 4,
+            "y": 20,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Vou levar isso. Esperem deste lado.",
+          "balloon": {
+            "x": 54,
+            "y": 20,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 811,
+      "title": "Duas distâncias",
+      "time": "Dia 496 · manhã",
+      "place": "canal-seco-porto",
+      "cast": [
+        "tovo",
+        "caio"
+      ],
+      "layout": "uncanny wide canal with ribbon inset",
+      "scene": "At the dry channel edge, Tovo LEFT hears Hessa's distant stable hammer seem near and far at once; Caio RIGHT raises a ribbon that catches opposing real breezes at ground and hand height.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "O martelo soa daqui e de outra rua.",
+          "balloon": {
+            "x": 4,
+            "y": 20,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "O ar corre em sentidos opostos.",
+          "balloon": {
+            "x": 54,
+            "y": 20,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 812,
+      "title": "Árvores que não estão ali",
+      "time": "Dia 496 · manhã, instantes depois",
+      "place": "canal-seco-porto",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "layout": "large reflection panel and restrained figures",
+      "scene": "Sere LEFT halts the group at the safe bank; Runa RIGHT observes shallow water reflecting trees absent from the physical bank and a translucent deer image, without stepping into channel.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Ninguém entra no canal.",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 13,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Essas copas não pertencem a esta margem.",
+          "balloon": {
+            "x": 54,
+            "y": 6,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 23,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 813,
+      "title": "A emissária chega",
+      "time": "Dia 496 · fim da manhã",
+      "place": "pedra-limite-faias",
+      "cast": [
+        "ysra",
+        "adra"
+      ],
+      "layout": "arrival panorama with two foreground speakers",
+      "scene": "Ysra LEFT, adult fae with earthy brown skin and entirely gold eyes, arrives along the authorized public path accompanied by an elf guardian in background; Adra RIGHT repeats the written limits before any talk of the channel.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Repita os limites antes de me mostrar a água.",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 11,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Trilha pública, estacas expostas e três pedras.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 14,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 814,
+      "title": "Costura, não porta",
+      "time": "Dia 496 · fim da manhã",
+      "place": "canal-seco-porto",
+      "cast": [
+        "ysra",
+        "ilyan"
+      ],
+      "layout": "single scene with reflection occupying lower half",
+      "scene": "Ysra LEFT points from safe dry ground to water reflecting a second landscape; Ilyan RIGHT listens, sword sheathed, no portal crossing or shadowless door.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "O canal é uma costura, não uma entrada.",
+          "balloon": {
+            "x": 4,
+            "y": 5,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 13,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Ver o outro lado não nos faz atravessar.",
+          "balloon": {
+            "x": 54,
+            "y": 5,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 13,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 815,
+      "title": "Pesos antigos",
+      "time": "Dia 496 · meio-dia",
+      "place": "basalto-porto",
+      "cast": [
+        "ysra",
+        "runa"
+      ],
+      "layout": "stone foreground and faces above",
+      "scene": "Ysra LEFT shows Runa RIGHT an ancient basalt weight with later tool marks at a safe distance; layered roots and masonry suggest different communities maintained it across eras.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Elfos, gnomos, fadas e humanos ajustaram isto.",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 8,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "As marcas recentes ainda não têm autor.",
+          "balloon": {
+            "x": 54,
+            "y": 10,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 816,
+      "title": "O mundo junto da água",
+      "time": "Dia 496 · meio-dia",
+      "place": "clareira-publica-porto",
+      "cast": [
+        "ysra",
+        "tovo"
+      ],
+      "layout": "wide water-glass reflection with speakers foreground",
+      "scene": "Ysra LEFT describes the inhabited Entremeio while Tovo RIGHT looks toward reflected reed houses and water-glass groves without entering; show living communities as distant reflection, not threatening army.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Há aldeias e caminhos próprios no Entremeio.",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 8,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Então ninguém daqui pode chamá-lo de vazio.",
+          "balloon": {
+            "x": 54,
+            "y": 7,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 15,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 817,
+      "title": "O Fundo de Sal",
+      "time": "Dia 496 · meio-dia",
+      "place": "clareira-publica-porto",
+      "cast": [
+        "ysra",
+        "sere"
+      ],
+      "layout": "atmospheric landscape with dark distant salt bank",
+      "scene": "Ysra LEFT names the darker salt banks beyond the reflected reed houses; Sere RIGHT hears that some predators there seek warmth, while the rest of the magical world remains separate.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "O Fundo abriga caçadores de calor e carne.",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 8,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Isso não torna maligno todo o Entremeio.",
+          "balloon": {
+            "x": 54,
+            "y": 10,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 818,
+      "title": "A história de Pim",
+      "time": "Dia 496 · início da tarde",
+      "place": "clareira-publica-porto",
+      "cast": [
+        "pim",
+        "talin"
+      ],
+      "layout": "oral-history foreground with sepia inset",
+      "scene": "Pim LEFT recounts ancestral fishermen removing a seam weight in a drought; Talin RIGHT checks which details are family memory, with three small boat silhouettes only in a historical illustration inset, not present-day boats.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "Minha família fala de três barcos perdidos.",
+          "balloon": {
+            "x": 4,
+            "y": 15,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 23,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "É memória valiosa, mas não prova de hoje.",
+          "balloon": {
+            "x": 54,
+            "y": 7,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 15,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 819,
+      "title": "Marca recente, mão ausente",
+      "time": "Dia 496 · início da tarde",
+      "place": "basalto-porto",
+      "cast": [
+        "talin",
+        "ysra"
+      ],
+      "layout": "close stone study with clear speaker portraits",
+      "scene": "Talin LEFT examines modern-looking tool grooves in the basalt without crossing the limit; Ysra RIGHT states she saw marks but not whoever made them.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "O sulco novo merece exame.",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 8,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Eu vi a marca. Não vi a mão.",
+          "balloon": {
+            "x": 54,
+            "y": 4,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 12,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 820,
+      "title": "Algo na água",
+      "time": "Dia 496 · início da tarde",
+      "place": "canal-seco-porto",
+      "cast": [
+        "sere",
+        "pim"
+      ],
+      "layout": "impact creature panel with safe dry route visible",
+      "scene": "Sere LEFT sees a flattened gray four-limbed heat-hunting creature cling to a stone at the shallow seam; Pim RIGHT retreats along dry path, not trapped in water.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Pim, recue pela trilha seca!",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 8,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Pim",
+          "text": "Estou indo. A pedra ficou fria.",
+          "balloon": {
+            "x": 54,
+            "y": 10,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 821,
+      "title": "Moradores primeiro",
+      "time": "Dia 496 · instantes depois",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "adra",
+        "hessa"
+      ],
+      "layout": "split doorway and port lane without duplicate people",
+      "scene": "Adra LEFT signals two barge crew to move nearby children into Hessa's inn; Hessa RIGHT holds the door and counts occupied rooms, keeping locals in the scene.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Crianças para dentro. Cais livre para recuo.",
+          "balloon": {
+            "x": 4,
+            "y": 11,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Hessa",
+          "text": "Vou conferir cada quarto e a rua.",
+          "balloon": {
+            "x": 54,
+            "y": 8,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 822,
+      "title": "Ar errado",
+      "time": "Dia 496 · instantes depois",
+      "place": "canal-seco-porto",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "dynamic low-angle sand action, two speakers",
+      "scene": "Caio LEFT tries guiding existing air toward the creature but sand lashes his own leg; Sere RIGHT orders him to stop near Pim and the dry exit. No magic tornado or extra people.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "A corrente virou em mim!",
+          "balloon": {
+            "x": 4,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 8,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Pare. Aqui o vento leva areia aos feridos.",
+          "balloon": {
+            "x": 54,
+            "y": 6,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 14,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 823,
+      "title": "Um caminho de água",
+      "time": "Dia 496 · instantes depois",
+      "place": "canal-seco-porto",
+      "cast": [
+        "runa",
+        "tovo"
+      ],
+      "layout": "asymmetric water-and-lantern composition",
+      "scene": "Runa LEFT pours a real jar of water into a safe side groove, steering a thin flow away from houses; Tovo RIGHT places his lit oil lantern on a gravel circle, away from straw, as the creature follows warmth.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Levo a água para o sulco vazio.",
+          "balloon": {
+            "x": 4,
+            "y": 6,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 14,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "A lamparina fica na pedra, longe da palha.",
+          "balloon": {
+            "x": 54,
+            "y": 5,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 13,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 824,
+      "title": "Fonte anunciada",
+      "time": "Dia 496 · instantes depois",
+      "place": "canal-seco-porto",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "layout": "tense lantern foreground with safe retreat",
+      "scene": "Ilyan LEFT, long black wavy hair no beard, guides a small visible flame from the existing lantern wick no farther than a finger toward the creature; Sere RIGHT clearly points retreat route, sword sheathed until needed.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A fonte é a mecha. Só um dedo de chama.",
+          "balloon": {
+            "x": 4,
+            "y": 17,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 25,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Rota de recuo à direita. Ninguém encurralado.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 825,
+      "title": "Som de sal",
+      "time": "Dia 496 · instantes depois",
+      "place": "basalto-porto",
+      "cast": [
+        "ysra",
+        "talin"
+      ],
+      "layout": "diagonal action with wedge detail",
+      "scene": "Ysra LEFT strikes a small salt stone against larger stone, producing a sharp sound; Talin RIGHT braces a loose wedge from his authorized side with the end of a staff; flattened gray creature hesitates in midground.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "O som a faz hesitar.",
+          "balloon": {
+            "x": 4,
+            "y": 11,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Talin",
+          "text": "Seguro a cunha sem abrir a passagem.",
+          "balloon": {
+            "x": 54,
+            "y": 17,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 25,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 826,
+      "title": "Peso travado",
+      "time": "Dia 496 · instantes depois",
+      "place": "basalto-porto",
+      "cast": [
+        "adra",
+        "runa"
+      ],
+      "layout": "wide calming reflection and block inset",
+      "scene": "Adra LEFT braces a loosened weight from the dry public mark with a wooden block, no crossing; Runa RIGHT watches real water return to reflection of true trees as creature slips away alive or unconfirmed.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A madeira segura o peso por agora.",
+          "balloon": {
+            "x": 4,
+            "y": 10,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Ela recuou. Não sabemos se morreu.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 827,
+      "title": "Vigia e saída",
+      "time": "Dia 496 · noite",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "adra",
+        "hessa"
+      ],
+      "layout": "warm night inn with watch-list inset",
+      "scene": "At the occupied inn dusk, Adra LEFT posts a two-person watch roster, water jars and marked exit; Hessa RIGHT answers a worried child just inside doorway while keeping child's face unobscured.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Teremos vigia dupla, água e saída marcada.",
+          "balloon": {
+            "x": 4,
+            "y": 10,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Hessa",
+          "text": "Prometer segurança absoluta seria mentir.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 828,
+      "title": "A primeira volta",
+      "time": "Dia 498 · manhã, após exame à distância",
+      "place": "cais-porto",
+      "cast": [
+        "pim",
+        "adra"
+      ],
+      "layout": "departure quay with instrument bundles",
+      "scene": "Pim LEFT boards first return barge with instruments and copied records, his healed rope hand protected; Adra RIGHT confirms that Hessa keeps original ledger and second group crosses next day.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Pim",
+          "text": "Levo as medidas. O livro de Hessa fica.",
+          "balloon": {
+            "x": 4,
+            "y": 24,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Adra",
+          "text": "Amanhã cruzamos com as testemunhas.",
+          "balloon": {
+            "x": 54,
+            "y": 16,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 24,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "No dia 497, registraram de longe a cunha, a lama e o musgo, sem retirar material nem atribuir autoria. Na manhã seguinte, começou a viagem de volta."
+    },
+    {
+      "number": 829,
+      "title": "Fatos e hipóteses",
+      "time": "Dia 499 · tarde, após a travessia",
+      "place": "casa-arquivos",
+      "cast": [
+        "ordelia",
+        "eda"
+      ],
+      "layout": "archive desk with two labeled stacks but no legible generated text",
+      "scene": "Back at established school's records room after ordinary west-to-east barge crossing, Ordelia LEFT separates copied creature description from guesses about origin; Eda RIGHT opens a limited margin safety inquiry and prepares Maelor notification.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Descrição aqui. Hipóteses em outra pasta.",
+          "balloon": {
+            "x": 4,
+            "y": 18,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Notifico Maelor. Silêncio não é confissão.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 830,
+      "title": "Regressar importa",
+      "time": "Dia 499 · noite",
+      "place": "observatorio-casa",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "quiet intimate wide observatory with city lights",
+      "scene": "Runa LEFT and Ilyan RIGHT at established school observatory window above Valecobre, both adult and physically unchanged; her drawing of seam rests closed; they choose evidence and safe return over forcing a route for Mira.",
+      "novel_volume": 2,
+      "novel_chapter": 3,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Quero saber o que Mira viu. Não abrirei a costura por isso.",
+          "balloon": {
+            "x": 4,
+            "y": 25,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Nem vou pedir. Precisamos conseguir voltar.",
+          "balloon": {
+            "x": 54,
+            "y": 24,
+            "w": 42,
+            "target_x": 75,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        }
+      ]
+    }
+  ]
+}
