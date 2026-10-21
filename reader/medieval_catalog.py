@@ -69,6 +69,7 @@ ARC_SIX_END = json.loads((STORY_DIR / "arc6-925-940.json").read_text(encoding="u
 ARC_SIX["arc"]["chapters"][-1]["end"] = ARC_SIX_END["pages"][-1]["number"]
 ARC_SIX["pages"].extend(ARC_SIX_END["pages"])
 ARC_SIX["arc"]["status"] = "Concluído"
+ARC_SEVEN = json.loads((STORY_DIR / "arc7-941-950.json").read_text(encoding="utf-8"))
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
@@ -79,7 +80,7 @@ def page_art(number: int) -> str:
 
 PAGES = tuple(
     {**page, "art": page_art(page["number"])}
-    for page in [*STORY["pages"], *ARC_TWO["pages"], *ARC_THREE["pages"], *ARC_FOUR["pages"], *ARC_FIVE["pages"], *ARC_SIX["pages"]]
+    for page in [*STORY["pages"], *ARC_TWO["pages"], *ARC_THREE["pages"], *ARC_FOUR["pages"], *ARC_FIVE["pages"], *ARC_SIX["pages"], *ARC_SEVEN["pages"]]
 )
 PAGES_BY_NUMBER = {page["number"]: page for page in PAGES}
 SERIES_URL = f"/hqs/{STORY['slug']}/"
@@ -89,6 +90,7 @@ ARC3_URL = f"{SERIES_URL}arcos/{ARC_THREE['arc']['slug']}/"
 ARC4_URL = f"{SERIES_URL}arcos/{ARC_FOUR['arc']['slug']}/"
 ARC5_URL = f"{SERIES_URL}arcos/{ARC_FIVE['arc']['slug']}/"
 ARC6_URL = f"{SERIES_URL}arcos/{ARC_SIX['arc']['slug']}/"
+ARC7_URL = f"{SERIES_URL}arcos/{ARC_SEVEN['arc']['slug']}/"
 ARCS = (
     {**STORY["arc"], "start": STORY["pages"][0]["number"], "end": STORY["pages"][-1]["number"], "url": ARC_URL, "art": STORY["cover"]},
     {**ARC_TWO["arc"], "end": ARC_TWO["pages"][-1]["number"], "url": ARC2_URL, "art": "reader/images/medieval/page-33.webp"},
@@ -96,6 +98,7 @@ ARCS = (
     {**ARC_FOUR["arc"], "end": ARC_FOUR["pages"][-1]["number"], "url": ARC4_URL, "art": "reader/images/medieval/arc4-cover.webp"},
     {**ARC_FIVE["arc"], "end": ARC_FIVE["pages"][-1]["number"], "url": ARC5_URL, "art": "reader/images/medieval/arc5-cover.webp"},
     {**ARC_SIX["arc"], "end": ARC_SIX["pages"][-1]["number"], "url": ARC6_URL, "art": "reader/images/medieval/arc6-cover.webp"},
+    {**ARC_SEVEN["arc"], "end": ARC_SEVEN["pages"][-1]["number"], "url": ARC7_URL, "art": "reader/images/medieval/arc7-cover.webp"},
 )
 
 

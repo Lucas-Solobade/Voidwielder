@@ -1,0 +1,158 @@
+{
+  "arc": {
+    "number": 7,
+    "title": "O Frio Sob a Pedra",
+    "slug": "o-frio-sob-a-pedra",
+    "description": "Uma ferramenta coberta de geada leva a Casa a solicitar uma vistoria na cava pública. Enquanto a equipe mede o risco sem saber o que há sob a pedra, Nima decide atravessar a estrada para rever Ilyan.",
+    "status": "Em andamento",
+    "start": 941,
+    "chapters": [
+      {"title": "A carta e a geada", "start": 941, "end": 950}
+    ]
+  },
+  "pages": [
+    {
+      "number": 941,
+      "title": "O desenho no caderno",
+      "time": "Dia 529 · manhã",
+      "place": "casa-arquivos",
+      "cast": ["ilyan", "runa"],
+      "layout": "wide archive panel, diagram inset and locked-cabinet inset",
+      "scene": "At the Four Moons archive, Runa and Ilyan examine Mira's quarry ventilation diagram; her authenticated page remains locked in Ordelia's cabinet.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Runa", "text": "Mira desenhou um conduto sob a cava pública.", "balloon": {"x": 78, "y": 24, "w": 20, "target_x": 67, "target_y": 19, "kind": "normal"}}
+      ],
+      "narration": "O traço antigo não indicava uma entrada para o Entremeio nem o paradeiro de Mira."
+    },
+    {
+      "number": 942,
+      "title": "Geada em dia quente",
+      "time": "Dia 529 · manhã",
+      "place": "margem-publica-porto",
+      "cast": ["hessa", "eda"],
+      "layout": "quarry establishing panel, iron plate close-up, written measurement",
+      "scene": "Hessa presents a cold iron plate removed from the public quarry to Eda, who records the anomaly without naming a creature.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Hessa", "text": "A placa amanheceu com geada.", "balloon": {"x": 42, "y": 2, "w": 28, "target_x": 27, "target_y": 20, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 943,
+      "title": "Contar as fontes",
+      "time": "Dia 530 · manhã",
+      "place": "sala-elementos",
+      "cast": ["oru"],
+      "layout": "wide classroom demonstration over water, sand and charcoal details",
+      "scene": "Oru teaches the students to count actual water, sand, fuel and moving air before applying magic in the unchanged Hall of Elements.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Oru", "text": "Antes do feitiço, contem a fonte. E o custo.", "balloon": {"x": 3, "y": 2, "w": 32, "target_x": 48, "target_y": 24, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 944,
+      "title": "A pena do meio",
+      "time": "Dia 531 · tarde",
+      "place": "patio-leste",
+      "cast": ["sere", "caio"],
+      "layout": "courtyard wide panel and close-up of three feather stakes",
+      "scene": "Sere guides Caio through existing wind past three feather markers; he moves the middle feather but scatters leaves on the next attempt.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Sere", "text": "Use o vento que já existe.", "balloon": {"x": 40, "y": 2, "w": 28, "target_x": 27, "target_y": 19, "kind": "normal"}},
+        {"speaker": "Caio", "text": "Quase acertei a segunda.", "balloon": {"x": 72, "y": 2, "w": 26, "target_x": 70, "target_y": 19, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 945,
+      "title": "Dois batimentos",
+      "time": "Dia 531 · tarde",
+      "place": "patio-leste",
+      "cast": ["tovo", "oru"],
+      "layout": "strength exercise panel followed by safe lowering and shoulder recovery",
+      "scene": "Tovo amplifies his strength for two beats, lowers the training stone and rubs his shoulder under Oru's supervision.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Tovo", "text": "Dois batimentos. O ombro reclamou.", "balloon": {"x": 44, "y": 2, "w": 29, "target_x": 32, "target_y": 20, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 946,
+      "title": "Estações separadas",
+      "time": "Dia 532 · manhã",
+      "place": "sala-elementos",
+      "cast": ["runa", "liria"],
+      "layout": "split laboratory composition with water and fracture detail",
+      "scene": "Runa precisely guides water from an existing basin while Líria finds a hidden fracture by touching dry stone; they work at separate benches and remain bitter rivals.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Líria", "text": "A pedra já estava rachada.", "balloon": {"x": 61, "y": 2, "w": 31, "target_x": 79, "target_y": 17, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 947,
+      "title": "A carta de Ilyan",
+      "time": "Dia 534 · tarde",
+      "place": "pedra-mansa",
+      "cast": ["nima", "bram"],
+      "layout": "warm forge panel, unfolded letter detail, quiet father-friend conversation",
+      "scene": "Nima receives Ilyan's ordinary letter at Bram's forge in Pedra-Mansa; it says they found proof Mira lived after leaving, without protected-route details.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Nima", "text": "Ele encontrou uma prova de Mira... e escreveu para mim.", "balloon": {"x": 2, "y": 2, "w": 30, "target_x": 27, "target_y": 20, "kind": "normal"}}
+      ],
+      "narration": "A carta não mudava a resposta honesta que ele lhe dera antes. A saudade continuava."
+    },
+    {
+      "number": 948,
+      "title": "Uma escolha sua",
+      "time": "Dia 538 · fim da tarde",
+      "place": "pedra-mansa",
+      "cast": ["nima", "bram"],
+      "layout": "forge doorway panel, fare ledger detail and wagon outside",
+      "scene": "Nima tells Bram she has paid her own passage to Valecobre and wants to see Ilyan; Bram helps check the wagon axle without trying to decide for her.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Nima", "text": "Comprei a passagem. Quero vê-lo pessoalmente.", "balloon": {"x": 2, "y": 2, "w": 31, "target_x": 30, "target_y": 19, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 949,
+      "title": "A licença antiga não basta",
+      "time": "Dia 538 · fim da tarde, em Valecobre",
+      "place": "casa-arquivos",
+      "cast": ["eda", "ordelia"],
+      "layout": "planning table panel with public-map detail and petition ledger",
+      "scene": "Eda files a request for an exterior survey of the public quarry; Ordelia verifies that the old road-and-quay permission does not include a pit on the slope.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Eda", "text": "A licença não inclui a cava.", "balloon": {"x": 43, "y": 2, "w": 29, "target_x": 33, "target_y": 20, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 950,
+      "title": "Sem forçar a pedra",
+      "time": "Dia 538 · noite",
+      "place": "casa-arquivos",
+      "cast": ["ordelia", "ilyan", "runa"],
+      "layout": "school briefing panel, boundary map inset and Ilyan listening",
+      "scene": "Ordelia tells Ilyan that any survey will stay on the public bank and leave the protected seam shut; Runa keeps Mira's diagram on the desk.",
+      "novel_volume": 2,
+      "novel_chapter": 7,
+      "lines": [
+        {"speaker": "Ordelia", "text": "A costura segue fechada. Só a cava pública pode ser vistoriada.", "balloon": {"x": 2, "y": 2, "w": 34, "target_x": 26, "target_y": 19, "kind": "normal"}}
+      ]
+    }
+  ]
+}

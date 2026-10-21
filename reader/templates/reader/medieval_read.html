@@ -2,7 +2,7 @@
 {% block title %}Página {{ page.number }} · {{ arc.title }} · Voidwielder{% endblock %}
 {% block description %}{{ page.title }} — página {{ page.number }} de {{ story.title }}.{% endblock %}
 {% block og_image %}<meta property="og:image" content="{% static page_art %}">{% endblock %}
-{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=9">{% endblock %}
+{% block extra_styles %}<link rel="stylesheet" href="{% static 'reader/css/medieval.css' %}?v=11">{% endblock %}
 {% block content %}
 <div class="twilight-reader" data-medieval-reader>
   <div class="twilight-reader-head"><nav class="twilight-breadcrumb" aria-label="Caminho"><a href="{% url 'reader:search' %}?tipo=hq">HQs</a><span aria-hidden="true">/</span><a href="{% url 'reader:medieval_detail' %}">{{ story.title }}</a><span aria-hidden="true">/</span><a href="{{ arc_url }}">{{ arc.title }}</a></nav><span class="twilight-reader-count">{{ page.number|stringformat:'02d' }} / {{ last_page|stringformat:'02d' }}</span></div>
