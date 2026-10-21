@@ -62,6 +62,9 @@ ARC_SIX["pages"].extend(ARC_SIX_CONTINUED["pages"])
 ARC_SIX_PORT = json.loads((STORY_DIR / "arc6-796-830.json").read_text(encoding="utf-8"))
 ARC_SIX["arc"]["chapters"][-1]["end"] = 830
 ARC_SIX["pages"].extend(ARC_SIX_PORT["pages"])
+ARC_SIX_FURTHER = json.loads((STORY_DIR / "arc6-831-924.json").read_text(encoding="utf-8"))
+ARC_SIX["arc"]["chapters"].extend(ARC_SIX_FURTHER["chapters"])
+ARC_SIX["pages"].extend(ARC_SIX_FURTHER["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

@@ -6,6 +6,15 @@
     "ensemble": "reader/medieval/references/ensemble-sheet.png",
     "travelers": "reader/medieval/references/travelers-sheet.png",
     "runa": "reader/medieval/references/runa-sheet.png",
+    "liria": "reader/medieval/references/individual/liria.png",
+    "neral": "reader/medieval/references/individual/neral.png",
+    "hessa": "reader/medieval/references/individual/hessa.png",
+    "curandeira": "reader/medieval/references/individual/curandeira.png",
+    "sere": "reader/medieval/references/individual/sere.png",
+    "caio": "reader/medieval/references/individual/caio.png",
+    "tovo": "reader/medieval/references/individual/tovo.png",
+    "ordelia": "reader/medieval/references/individual/ordelia.png",
+    "teren": "reader/medieval/references/individual/teren.png",
     "school_cast": "reader/medieval/references/school-cast-sheet.png",
     "oru": "reader/medieval/references/oru-sheet.png",
     "talin": "reader/medieval/references/individual/talin.png",
@@ -238,6 +247,18 @@
       "fixed_appearance": "Humana adulta de pele oliva clara, cabelo castanho-escuro preso em coque trançado e olhos castanhos.",
       "fixed_clothing": "Túnica escolar azul-escura com mangas de linho creme; sem insígnia de magia."
     },
+    "iri": {
+      "name": "Iri",
+      "role": "curandeira feérica da comunidade da ponte no Entremeio; pessoa distinta da curandeira da Casa",
+      "fixed_appearance": "Feérica adulta de pele umbra profunda, olhos castanhos escuros, cabelo negro longo em tranças com textura de casca e dois raminhos verdes finos junto às têmporas.",
+      "fixed_clothing": "Manto simples de musgo sobre túnica de linho da aldeia, sem uniforme ou emblema da Casa."
+    },
+    "menina_gnoma": {
+      "name": "Menina gnoma",
+      "role": "criança da comunidade do Entremeio que divide pão de raiz com Tovo",
+      "fixed_appearance": "Gnoma criança de pele castanha mel, olhos verde-azulados, orelhas pontudas curtas e cabelo ruivo-acobreado cacheado até a nuca; porte baixo infantil, sem aparência adulta.",
+      "fixed_clothing": "Túnica ocre de linho e pequeno avental verde de fibras tecidas."
+    },
     "ereno": {
       "name": "Ereno",
       "age": 71,
@@ -343,7 +364,11 @@
     "canal-seco-porto": "Leito estreito e quase seco junto ao porto, com água rasa entre pedras; no dia 496 mostra reflexos do Entremeio sem permitir passagem ao olhar.",
     "basalto-porto": "Pedra de basalto na curva do canal com pesos antigos e marcas novas de ferramenta; a autoria das marcas não foi identificada.",
     "casa-arquivos": "Arquivo da Casa em Valecobre, com mesa de Ordelia, pastas de depoimentos e gabinete de Eda para processo de segurança.",
-    "observatorio-casa": "Observatório da Casa acima do campus, com arcos de pedra, mesa de mapas e vista de Valecobre; Ilyan e Runa conversam ali no dia 499."
+    "observatorio-casa": "Observatório da Casa acima do campus, com arcos de pedra, mesa de mapas e vista de Valecobre; Ilyan e Runa conversam ali no dia 499.",
+    "passagem-entre-margens": "Corredor físico estreito entre duas paredes de pedra molhada, submerso fora da vazante; estaca consentida para linha de retorno na margem de Hessa. Nenhum portal luminoso nem transporte instantâneo.",
+    "entremeio-ponte": "Ponte baixa de junco tramado e travessas estruturais sobre a margem alongada do Entremeio, com marcas de pedra e casas habitadas ao fundo. Uma trava de madeira protege a base; Neral orienta visitantes.",
+    "entremeio-muralha": "Muralha de sal escuro a caminhada da ponte, com fissura de ar frio e placa móvel. Antigas torres de medição humanas e uma ponte de alvenaria ficam presas ao trecho externo; suas faixas azul-ouro desgastadas marcam a obra extrativista, não a propriedade da Casa. A aldeia de junco permanece junto à margem oposta. A trilha fechada para o Fundo de Sal corre além dela; o reparo vegetal do dia 517 é provisório.",
+    "entremeio-aldeia": "Pequena comunidade habitada junto à ponte de junco, casas de madeira e fibra entre raízes e poças suspensas, forno coletivo e abrigo de curas de Iri. A visita depende de acordo local."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -355,6 +380,7 @@
     "patio-treino": "Pátio leste: círculo de giz no centro, alvos de arco atrás da cerca NORTE, suporte de equipamentos ao SUL e saída segura no portão sul.",
     "forja-leste": "Tijolo vermelho, três bigornas alinhadas NORTE-SUL, forno na parede LESTE, tanque d'água no lado OESTE. Teren administra turnos.",
     "refeitorio": "Ao norte do pátio central: longas mesas de carvalho orientadas LESTE-OESTE e mural das quatro luas na parede OESTE.",
+    "cozinha-casa": "Cozinha anexa ao refeitório ao norte do pátio central: forno de tijolo e pedra na parede LESTE, bancada de madeira no centro, armário de farinha ao OESTE. Tovo ajuda nos turnos de serviço.",
     "biblioteca-galeria": "Galeria superior: escada em espiral NORDESTE, gabinetes públicos de mapas ao SUL e arquivo restrito com porta gradeada a OESTE. Ordelia guarda a chave.",
     "anexo-agrimensores": "Vestíbulo de pedra dentro da porta física sem sombra; atril com livro de campo, armários empoeirados; quatro espelhos de cobre permanecem do lado de fora.",
     "anexo-exterior": "Fora do muro oeste, base do anexo com tampa de manutenção do canal; só pedreiro licenciado pode abrir alvenaria. A porta de carvalho permanece trancada nas vistorias.",

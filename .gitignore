@@ -6,4 +6,6 @@ db.sqlite3
 staticfiles/
 .pytest_cache/
 .ruff_cache/
+reader/medieval/art/page-*.png
+tmp-qa-*.png
 
