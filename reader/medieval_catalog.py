@@ -65,6 +65,10 @@ ARC_SIX["pages"].extend(ARC_SIX_PORT["pages"])
 ARC_SIX_FURTHER = json.loads((STORY_DIR / "arc6-831-924.json").read_text(encoding="utf-8"))
 ARC_SIX["arc"]["chapters"].extend(ARC_SIX_FURTHER["chapters"])
 ARC_SIX["pages"].extend(ARC_SIX_FURTHER["pages"])
+ARC_SIX_END = json.loads((STORY_DIR / "arc6-925-940.json").read_text(encoding="utf-8"))
+ARC_SIX["arc"]["chapters"][-1]["end"] = ARC_SIX_END["pages"][-1]["number"]
+ARC_SIX["pages"].extend(ARC_SIX_END["pages"])
+ARC_SIX["arc"]["status"] = "Concluído"
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

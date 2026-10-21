@@ -3392,26 +3392,26 @@
       "novel_chapter": 5,
       "lines": [
         {
-          "speaker": "Menina gnoma",
-          "text": "Trouxe pão da nossa ponte.",
+          "speaker": "Tovo",
+          "text": "Trouxe sopa seca. Aposto que seu pão é melhor.",
           "balloon": {
             "x": 7,
             "y": 27,
             "w": 39,
             "target_x": 27,
-            "target_y": 43,
+            "target_y": 44,
             "kind": "normal"
           }
         },
         {
-          "speaker": "Tovo",
-          "text": "E eu sopa seca. Nenhum de nós se impressionou!",
+          "speaker": "Menina gnoma",
+          "text": "Trouxe pão da nossa ponte.",
           "balloon": {
             "x": 54,
-            "y": 27,
+            "y": 48,
             "w": 39,
-            "target_x": 73,
-            "target_y": 43,
+            "target_x": 77,
+            "target_y": 65,
             "kind": "normal"
           }
         }

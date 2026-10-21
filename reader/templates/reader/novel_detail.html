@@ -16,14 +16,14 @@
       <p class="book-byline">{{ book.subtitle }}</p>
       {% if book.volume_number == 2 %}
       <p class="book-deck">Porto das Cinzas guarda uma passagem entre mundos. A prova de Mira está além da margem conhecida.</p>
-      <p>{{ book.detail }} O arco 6 está completo neste segundo volume; os próximos arcos continuarão a busca.</p>
-      <div class="book-facts"><span>Volume II · Arco 6 completo</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
+      <p>{{ book.detail }} Os arcos 6 e 7 estão completos neste segundo volume; a busca continua.</p>
+      <div class="book-facts"><span>Volume II · Arcos 6 e 7 completos</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
       <p class="novel-progress-note">Leia antes <a href="{% url 'reader:novel_detail' %}">O Ferro que Escuta · Volume I</a> para acompanhar a cronologia desde Pedra-Mansa.</p>
       {% else %}
       <p class="book-deck">Uma espada sem fio. Uma mãe desaparecida. Uma porta que só existe quando quatro espelhos fazem a luz chegar de todos os lados.</p>
       <p>{{ book.detail }} A prosa amplia as viagens, as aulas, as escolhas e as consequências da HQ. Este primeiro volume encerra o arco da eclusa; a pista de Porto das Cinzas abre caminho para outra história.</p>
       <div class="book-facts"><span>Volume I completo</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
-      <p class="novel-progress-note">A história continua em <a href="{% url 'reader:novel2_detail' %}">O Avesso das Águas · Volume II</a>, com o arco 6 completo.</p>
+      <p class="novel-progress-note">A história continua em <a href="{% url 'reader:novel2_detail' %}">O Avesso das Águas · Volume II</a>, com os arcos 6 e 7 completos.</p>
       {% endif %}
       <a class="book-primary" href="{{ book.read_url }}1/">Começar a ler <span aria-hidden="true">→</span></a>
       <a class="book-resume" data-novel-resume data-book-root="{{ book.url }}" data-volume="{{ book.volume_number }}" hidden href="{{ book.read_url }}1/">Retomar leitura</a>

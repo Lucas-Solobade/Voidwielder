@@ -104,7 +104,7 @@ BEATS = """831|A cópia numerada|Dia 500 · manhã|arquivo-casa|runa,ordelia|Run
 912|Medida suficiente|Dia 517 · meio-dia, segundos depois|entremeio-muralha|runa,liria|Runa observes flow and Líria holds palm on wall while plate settles over fissure; a THIRD raspa-frio is only HEARD scratching salt on the far side, not shown. They exchange necessary data only, eyes tense.|Runa|O fio frio diminuiu. A terceira arranha o sal.|Líria|A placa assentou. Não retire a alavanca ainda.
 913|Tampão vivo|Dia 517 · tarde|entremeio-muralha|neral,ysra|Neral fixes vegetal plug in repaired opening, Ysra watches, no final structural victory claim.|Neral|Dura até o conselho decidir o reparo.|Ysra|Por hoje, a trilha fecha.
 914|Exame da margem|Dia 517 · tarde, depois|entremeio-aldeia|iri,eda|IRI is the FEERIC VILLAGE HEALER, a distinct person from the House healer: adult, deep umber skin, dark eyes, long bark-black braids, two fine green twigs at temples, simple moss cloak. Iri examines Eda's cleaned knee in a modest inhabited village; no school healer present.|Iri|Limpar cedo ajudou. Exame de volta à Casa, ainda assim.|Eda|Registrarei os dois cuidados.
-915|Pão de raiz|Dia 517 · tarde|entremeio-ponte|tovo,menina_gnoma|Small GNOME CHILD of the bridge offers root bread to Tovo, who shares dried soup; warm moment without exoticizing community.|Menina gnoma|Trouxe pão da nossa ponte.|Tovo|E eu sopa seca. Nenhum de nós se impressionou!
+915|Pão de raiz|Dia 517 · tarde|entremeio-ponte|tovo,menina_gnoma|Small GNOME CHILD of the bridge offers root bread to Tovo, who shares dried soup; warm moment without exoticizing community.|Tovo|Trouxe sopa seca. Aposto que seu pão é melhor.|Menina gnoma|Trouxe pão da nossa ponte.
 916|Sem milagre|Dia 517 · crepúsculo|entremeio-aldeia|ilyan,runa|Ilyan sits with tired Runa after care, she leans forehead on his shoulder; no sudden cure or public spectacle.|Ilyan|Você cuidou bem dela sem prometer milagre.|Runa|Isso basta por hoje.
 917|À espera da vazante|Dia 518–522 · espera e manhã da saída|passagem-entre-margens|sere,talin,eda,neral|A clear TWO-PANEL sequential montage: four nights waiting with Entremeio hosts; on day 522 morning Neral explicitly permits Eda to pick up the loose copper tag from its marked spot by the salt wall, under witness; then Sere LEFT and female Talin RIGHT check return rope and wet stones at the next authorized low tide. Eda and Neral only in the small earlier inset, no dialogue; Sere and Talin are primary speakers in lower half.|Sere|Eda recolheu a etiqueta com licença. Linha firme.|Talin|Dia 522. Pedras molhadas; um passo de cada vez.
 918|Nomes em casca|Dia 522 · manhã, antes da saída|entremeio-ponte|neral,ilyan|Still INSIDE the Entremeio and after the tag retrieval, Neral hands Ilyan a SMALL COPY of bark list of old chamber measurers with Pedra-Mansa and a familiar sign; no claim of proof.|Neral|É uma cópia. Há um sinal que talvez conheça.|Ilyan|Parece o do caderno de Mira. Ainda não prova nada.
@@ -171,6 +171,13 @@ def make_line(speaker: str, text: str, side: int, page_number: int) -> dict:
     if page_number == 917 and side == 1:
         # Talin está alguns pixels mais abaixo que Sere no quadro inferior.
         y, target_y = 63, 74
+    if page_number == 915:
+        # Tovo fala primeiro à esquerda; a menina responde à direita, próxima
+        # do próprio retrato. Ambas as caudas ficam curtas e fora dos rostos.
+        x, y, target_x, target_y = (
+            (54, 48, 77, 65) if name == "Menina gnoma"
+            else (7, 27, 27, 44)
+        )
     # The painted portraits are deliberately below the lettering band. These
     # coordinates keep compact balloons above the hairline, not over faces.
     return {"speaker": name, "text": text, "balloon": {

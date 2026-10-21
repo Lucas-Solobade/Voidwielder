@@ -5,7 +5,11 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PAGES = {page["number"]: page for page in json.loads((ROOT / "reader/medieval/arc6-831-924.json").read_text(encoding="utf-8"))["pages"]}
+PAGES = {
+    page["number"]: page
+    for filename in ("arc6-831-924.json", "arc6-925-940.json")
+    for page in json.loads((ROOT / "reader/medieval" / filename).read_text(encoding="utf-8"))["pages"]
+}
 CANON = json.loads((ROOT / "reader/medieval/canon.json").read_text(encoding="utf-8"))
 
 LOOKS = {
@@ -28,6 +32,7 @@ LOOKS = {
     "oru": "short elderly compact GNOME man, bald crown, ONE braided silver beard, round copper spectacles, green teaching robes",
     "teren": "middle-aged dark-skinned bald smith man, square gray beard, scarred forearm, leather forge apron",
     "curandeira": "adult brown-curly-haired female school healer, blue-gray practical healing robes",
+    "pim": "adult stocky short GNOME man with copper-gray full beard, small brown eyes, broad nose, rope-worked hands, worn RED headscarf, cream linen shirt, brown waistcoat",
 }
 
 REF_FALLBACK = {
@@ -36,7 +41,7 @@ REF_FALLBACK = {
 }
 
 PLACE_REFERENCE = {
-    "casa-arquivos": 831,
+    "casa-arquivos": 924,
     "patio-central": 833,
     "patio-treino": 841,
     "enfermaria-leste": 861,
@@ -51,6 +56,8 @@ PLACE_REFERENCE = {
     "entremeio-ponte": 894,
     "entremeio-muralha": 894,
     "entremeio-aldeia": 914,
+    "observatorio": 830,
+    "casa-conselho-enseada": 829,
 }
 
 def image_path(number):

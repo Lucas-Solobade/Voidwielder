@@ -1,4 +1,4 @@
-"""Second Estradas volume: the complete sixth arc and its readable pages."""
+"""Second Estradas volume: complete sixth and seventh arcs."""
 
 from functools import lru_cache
 from pathlib import Path
@@ -7,14 +7,14 @@ from .novel_catalog import NovelPage, _boundaries, _paragraphs, _sentences
 
 CHAPTER_DIR = Path(__file__).resolve().parent / "books" / "estradas_crepusculo_ii" / "chapters"
 PLATE_DIR = Path(__file__).resolve().parent / "static" / "reader" / "images" / "novel"
-EXPECTED_CHAPTERS = 6
+EXPECTED_CHAPTERS = 17
 
 
 @lru_cache(maxsize=1)
 def get_novel2_pages() -> tuple[NovelPage, ...]:
     chapters = sorted(CHAPTER_DIR.glob("[0-9][0-9].md"))
     if len(chapters) != EXPECTED_CHAPTERS:
-        raise ValueError("O arco 6 exige seus seis capítulos completos")
+        raise ValueError("O volume II exige seus dezessete capítulos completos")
     pages: list[NovelPage] = []
     for chapter_number, chapter_path in enumerate(chapters, start=1):
         if chapter_path.stem != f"{chapter_number:02}":
@@ -55,8 +55,8 @@ NOVEL_II = {
     "volume_number": 2,
     "page_count": len(get_novel2_pages()),
     "chapter_count": EXPECTED_CHAPTERS,
-    "published_arc": 6,
+    "published_arc": 7,
     "target_pages": None,
     "complete": False,
-    "endmark": "FIM DO ARCO 6 · O VOLUME CONTINUA",
+    "endmark": "FIM DO ARCO 7 · O VOLUME CONTINUA",
 }
