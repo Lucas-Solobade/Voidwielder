@@ -1,0 +1,1017 @@
+{
+  "chapters": [
+    {
+      "title": "Duas estradas",
+      "start": 951,
+      "end": 965
+    },
+    {
+      "title": "A linha de retorno",
+      "start": 966,
+      "end": 972
+    },
+    {
+      "title": "O que escuta sob a pedra",
+      "start": 973,
+      "end": 984
+    }
+  ],
+  "pages": [
+    {
+      "number": 951,
+      "title": "A ponte de Pedra-Mansa",
+      "time": "Dia 539 manhã · ponte de Pedra-Mansa",
+      "place": "pedra-mansa",
+      "cast": [
+        "nima",
+        "bram"
+      ],
+      "layout": "Plano amplo da carroça regular cruzando a ponte; detalhe da roda e do eixo que Bram verificou. Nima adulta, pequena, gorro verde, ferramentas e passagem paga. Bram permanece no vilarejo.",
+      "scene": "Plano amplo da carroça regular cruzando a ponte; detalhe da roda e do eixo que Bram verificou. Nima adulta, pequena, gorro verde, ferramentas e passagem paga. Bram permanece no vilarejo.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Tenho meu lugar. E minhas ferramentas.",
+          "balloon": {
+            "x": 34,
+            "y": 2,
+            "w": 32,
+            "target_x": 24,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Bram",
+          "text": "Escreva de cada pouso.",
+          "balloon": {
+            "x": 61,
+            "y": 53,
+            "w": 31,
+            "target_x": 78,
+            "target_y": 66,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 952,
+      "title": "Duas pousadas",
+      "time": "Dia 540–541 · duas pousadas na estrada",
+      "place": "estrada-rio-sal",
+      "cast": [
+        "nima"
+      ],
+      "layout": "Dois quadros de paradas distintas; chuva sobre a lona, Nima percebe trava do eixo frouxa e ajuda a cocheira a apertá-la. Não mostrar Valecobre ainda.",
+      "scene": "Dois quadros de paradas distintas; chuva sobre a lona, Nima percebe trava do eixo frouxa e ajuda a cocheira a apertá-la. Não mostrar Valecobre ainda.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "A trava está cedendo. Apertemos antes da subida.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 39,
+            "target_x": 44,
+            "target_y": 21,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 953,
+      "title": "A licença da margem",
+      "time": "Dia 541 · conselho da Enseada",
+      "place": "casa-conselho-enseada",
+      "cast": [
+        "eda",
+        "adra"
+      ],
+      "layout": "Arte pronta em rascunho: Eda à esquerda, Adra orc à direita, mapa público e licença escrita. Mostrar borda autorizada sem seta para a costura.",
+      "scene": "Arte pronta em rascunho: Eda à esquerda, Adra orc à direita, mapa público e licença escrita. Mostrar borda autorizada sem seta para a costura.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Só a margem de trabalho.",
+          "balloon": {
+            "x": 28,
+            "y": 2,
+            "w": 32,
+            "target_x": 36,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 954,
+      "title": "Quatro estações",
+      "time": "Dia 541 · mesa de campo da Casa",
+      "place": "sala-medidas",
+      "cast": [
+        "sere",
+        "caio",
+        "tovo",
+        "ilyan"
+      ],
+      "layout": "Mapa de quatro estações: escada, poço seco, calha e saída da carroça. Sere distribui fita de ar a Caio, calços a Tovo e mechas contadas a Ilyan. Runa e Líria recebem postos separados, sem conversa cordial.",
+      "scene": "Mapa de quatro estações: escada, poço seco, calha e saída da carroça. Sere distribui fita de ar a Caio, calços a Tovo e mechas contadas a Ilyan. Runa e Líria recebem postos separados, sem conversa cordial.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Ao apito, todos voltam pela linha.",
+          "balloon": {
+            "x": 67,
+            "y": 2,
+            "w": 30,
+            "target_x": 52,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 955,
+      "title": "Pão depois da forja",
+      "time": "Dia 541 noite · saída da forja leste",
+      "place": "forja-leste",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "layout": "Ilyan termina exercício com chama de braseiro existente e divide pão com Runa. Lembrete afetivo sem transformar a cava em prova do paradeiro de Mira.",
+      "scene": "Ilyan termina exercício com chama de braseiro existente e divide pão com Runa. Lembrete afetivo sem transformar a cava em prova do paradeiro de Mira.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [],
+      "narration": "Na véspera da partida, Ilyan e Runa dividiram pão quente sem cobrar respostas um do outro."
+    },
+    {
+      "number": 956,
+      "title": "Nomes no portão",
+      "time": "Dia 542 amanhecer · portão sul",
+      "place": "portao-sul",
+      "cast": [
+        "eda",
+        "runa",
+        "liria"
+      ],
+      "layout": "Eda confere nomes no manifesto. Todos embarcam na mesma carroça que sai da Casa pela estrada comum; Líria e Runa ficam afastadas.",
+      "scene": "Eda confere nomes no manifesto. Todos embarcam na mesma carroça que sai da Casa pela estrada comum; Líria e Runa ficam afastadas.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Nomes conferidos. Partimos.",
+          "balloon": {
+            "x": 39,
+            "y": 2,
+            "w": 34,
+            "target_x": 30,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 957,
+      "title": "A balsa de Adra",
+      "time": "Dia 542 tarde · balsa de Adra",
+      "place": "balsa-do-sal",
+      "cast": [
+        "adra",
+        "eda",
+        "sere"
+      ],
+      "layout": "Plano da carroça entrando na balsa e detalhe do manifesto. Corrente do rio e vela real; não confundir esta travessia com a de Nima dois dias depois.",
+      "scene": "Plano da carroça entrando na balsa e detalhe do manifesto. Corrente do rio e vela real; não confundir esta travessia com a de Nima dois dias depois.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "A balsa leva vocês à margem pública. Nada além dela.",
+          "balloon": {
+            "x": 60,
+            "y": 2,
+            "w": 36,
+            "target_x": 83,
+            "target_y": 21,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 958,
+      "title": "A placa fria",
+      "time": "Dia 543 manhã · hospedaria de Hessa",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "hessa",
+        "eda",
+        "sere",
+        "caio"
+      ],
+      "layout": "Hessa mostra placa fria tirada da prateleira da cava, embrulhada em pano. Eda mede e suspende a descida. Ao fundo, Caio registra corrente descendente no poço; Sere exige hora e direção, não palpite.",
+      "scene": "Hessa mostra placa fria tirada da prateleira da cava, embrulhada em pano. Eda mede e suspende a descida. Ao fundo, Caio registra corrente descendente no poço; Sere exige hora e direção, não palpite.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Estava na prateleira.",
+          "balloon": {
+            "x": 45,
+            "y": 2,
+            "w": 31,
+            "target_x": 23,
+            "target_y": 17,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Caio, anote o que viu, inclusive a dúvida.",
+          "balloon": {
+            "x": 67,
+            "y": 69,
+            "w": 29,
+            "target_x": 71,
+            "target_y": 83,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 959,
+      "title": "Água e fratura",
+      "time": "Dia 543 tarde · calha e borda seca",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria",
+        "beren"
+      ],
+      "layout": "Composição dividida por distância real de três marcas. Runa mede três canecas do filete e vê mais cristais na última; Líria toca uma fratura antiga, sem movê-la. Eda guarda resultados separados.",
+      "scene": "Composição dividida por distância real de três marcas. Runa mede três canecas do filete e vê mais cristais na última; Líria toca uma fratura antiga, sem movê-la. Eda guarda resultados separados.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A água trouxe mais cristais.",
+          "balloon": {
+            "x": 29,
+            "y": 2,
+            "w": 31,
+            "target_x": 25,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "A fratura da superfície é antiga.",
+          "balloon": {
+            "x": 65,
+            "y": 2,
+            "w": 32,
+            "target_x": 77,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 960,
+      "title": "Nima chega à Casa",
+      "time": "Dia 543 crepúsculo · recepção da Casa",
+      "place": "secretaria",
+      "cast": [
+        "nima",
+        "ordelia"
+      ],
+      "layout": "Nima conclui o quinto dia, assina livro de hóspedes e descobre que Ilyan saiu no dia anterior. Ordelia só informa Porto das Cinzas e o limite de visita à hospedaria.",
+      "scene": "Nima conclui o quinto dia, assina livro de hóspedes e descobre que Ilyan saiu no dia anterior. Ordelia só informa Porto das Cinzas e o limite de visita à hospedaria.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Vim ver Ilyan. Onde ele está?",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 35,
+            "target_x": 36,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Numa vistoria. Uma visitante pode ir até a hospedaria.",
+          "balloon": {
+            "x": 59,
+            "y": 2,
+            "w": 37,
+            "target_x": 81,
+            "target_y": 21,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 961,
+      "title": "Bilhete na mesa",
+      "time": "Dia 543 noite · quarto de visitas",
+      "place": "quarto-cedro",
+      "cast": [
+        "nima",
+        "ordelia"
+      ],
+      "layout": "Nima deixa bilhete na mesa de Ilyan e paga duas noites, mostrando que não pode atravessar a distância num salto. O bilhete informa que veio por escolha própria e não pede abandono da missão.",
+      "scene": "Nima deixa bilhete na mesa de Ilyan e paga duas noites, mostrando que não pode atravessar a distância num salto. O bilhete informa que veio por escolha própria e não pede abandono da missão.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Se ele voltar antes, saberá que eu vim.",
+          "balloon": {
+            "x": 51,
+            "y": 2,
+            "w": 39,
+            "target_x": 31,
+            "target_y": 23,
+            "kind": "thought"
+          }
+        }
+      ]
+    },
+    {
+      "number": 962,
+      "title": "Passagem para o cais",
+      "time": "Dia 544 manhã · pátio de carga",
+      "place": "portao-sul",
+      "cast": [
+        "nima"
+      ],
+      "layout": "Nima toma uma carroça de sal até o cais com os comerciantes. Plano amplo de saída mais detalhe do recibo de passagem.",
+      "scene": "Nima toma uma carroça de sal até o cais com os comerciantes. Plano amplo de saída mais detalhe do recibo de passagem.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Então não vamos perder a maré.",
+          "balloon": {
+            "x": 4,
+            "y": 2,
+            "w": 34,
+            "target_x": 34,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 963,
+      "title": "A segunda leitura",
+      "time": "Dia 544 manhã · cava pública, enquanto Nima segue ao cais",
+      "place": "margem-publica-porto",
+      "cast": [
+        "eda",
+        "sere"
+      ],
+      "layout": "Segunda leitura da água e do ar, sem descida; Eda marca temperatura e linha de retirada. A microfenda não é identificada. Esta cena ocorre em paralelo à viagem mostrada na página anterior.",
+      "scene": "Segunda leitura da água e do ar, sem descida; Eda marca temperatura e linha de retirada. A microfenda não é identificada. Esta cena ocorre em paralelo à viagem mostrada na página anterior.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Ainda não autorizo descer.",
+          "balloon": {
+            "x": 59,
+            "y": 2,
+            "w": 37,
+            "target_x": 50,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 964,
+      "title": "A fivela do toldo",
+      "time": "Dia 544 · balsa de Adra",
+      "place": "balsa-do-sal",
+      "cast": [
+        "nima",
+        "adra"
+      ],
+      "layout": "Adra segura a vela enquanto Nima, de pé num banco, repara uma fivela frouxa no toldo. Travessia comum e conversa que respeita Nima como artesã adulta.",
+      "scene": "Adra segura a vela enquanto Nima, de pé num banco, repara uma fivela frouxa no toldo. Travessia comum e conversa que respeita Nima como artesã adulta.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Quer consertar a margem inteira?",
+          "balloon": {
+            "x": 63,
+            "y": 2,
+            "w": 34,
+            "target_x": 84,
+            "target_y": 21,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 965,
+      "title": "À espera na hospedaria",
+      "time": "Dia 544 tarde · hospedaria de Hessa",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "nima",
+        "hessa"
+      ],
+      "layout": "Nima chega, recebe sopa e quarto. Hessa explica que Ilyan está na cava e visitas ficam fora das estacas; Nima aceita a regra e pergunta pela hora do mensageiro.",
+      "scene": "Nima chega, recebe sopa e quarto. Hessa explica que Ilyan está na cava e visitas ficam fora das estacas; Nima aceita a regra e pergunta pela hora do mensageiro.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "A equipe está na cava. Aqui há cama e sopa.",
+          "balloon": {
+            "x": 60,
+            "y": 2,
+            "w": 37,
+            "target_x": 78,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Espero o mensageiro aqui.",
+          "balloon": {
+            "x": 6,
+            "y": 55,
+            "w": 35,
+            "target_x": 31,
+            "target_y": 74,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 966,
+      "title": "A dúvida registrada",
+      "time": "Dia 544 tarde · poço seco",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "Caio escreve a corrente observada e sua incerteza. Sere o apoia sem prometer reparar o caso antigo do irmão dele; um gesto contido sugere aproximação futura.",
+      "scene": "Caio escreve a corrente observada e sua incerteza. Sere o apoia sem prometer reparar o caso antigo do irmão dele; um gesto contido sugere aproximação futura.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "O ar desce contra o vento da encosta.",
+          "balloon": {
+            "x": 58,
+            "y": 2,
+            "w": 38,
+            "target_x": 61,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 967,
+      "title": "O apito de Eda",
+      "time": "Dia 545 fim da tarde · postos separados",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria",
+        "beren"
+      ],
+      "layout": "Runa e Líria medem em lados opostos da cava. Eda soa o apito ao mudar a leitura e recolhe trabalhadores pela linha; nenhuma das rivais atravessa para provocar a outra ainda.",
+      "scene": "Runa e Líria medem em lados opostos da cava. Eda soa o apito ao mudar a leitura e recolhe trabalhadores pela linha; nenhuma das rivais atravessa para provocar a outra ainda.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [],
+      "narration": "O apito de Eda atravessou as estações. A equipe recuou pela linha combinada."
+    },
+    {
+      "number": 968,
+      "title": "A barra que gelou",
+      "time": "Dia 545 noite · hospedaria",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "hessa"
+      ],
+      "layout": "Um carregador chega com a palma gelada, pele intacta, e mostra barra antes quente ao sol. Hessa isola o objeto e manda aviso a Eda. Nada de diagnóstico precipitado.",
+      "scene": "Um carregador chega com a palma gelada, pele intacta, e mostra barra antes quente ao sol. Hessa isola o objeto e manda aviso a Eda. Nada de diagnóstico precipitado.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Carregador",
+          "text": "A barra estava ao sol.",
+          "balloon": {
+            "x": 43,
+            "y": 2,
+            "w": 34,
+            "target_x": 29,
+            "target_y": 22,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Hessa",
+          "text": "Deixe-a no pano. Avisarei Eda.",
+          "balloon": {
+            "x": 54,
+            "y": 53,
+            "w": 39,
+            "target_x": 39,
+            "target_y": 67,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 969,
+      "title": "A trilha pública",
+      "time": "Dia 545 noite · salão da hospedaria",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "nima",
+        "talin"
+      ],
+      "layout": "Talin, guardiã elfa da trilha, enrola a linha de retorno. Nima vê o gesto e pede para seguir até a pedra pública no dia seguinte. Talin consulta Hessa e condiciona o trajeto ao sinal de volta.",
+      "scene": "Talin, guardiã elfa da trilha, enrola a linha de retorno. Nima vê o gesto e pede para seguir até a pedra pública no dia seguinte. Talin consulta Hessa e condiciona o trajeto ao sinal de volta.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Só até a pedra. Ao apito, voltamos.",
+          "balloon": {
+            "x": 40,
+            "y": 2,
+            "w": 25,
+            "target_x": 37,
+            "target_y": 18,
+            "kind": "normal",
+            "embedded": true
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Combinado.",
+          "balloon": {
+            "x": 68,
+            "y": 6,
+            "w": 28,
+            "target_x": 71,
+            "target_y": 27,
+            "kind": "normal",
+            "embedded": true
+          }
+        }
+      ]
+    },
+    {
+      "number": 970,
+      "title": "Frio nos dedos",
+      "time": "Dia 546 madrugada · abrigo da equipe",
+      "place": "margem-publica-porto",
+      "cast": [
+        "ilyan",
+        "sere",
+        "tovo",
+        "eda"
+      ],
+      "layout": "Eda mantém suspensão até a luz; Sere cobre Caio após turno, Tovo descansa ombro, Ilyan percebe frio anormal nos dedos. Runa dorme atrás de divisória longe de Líria.",
+      "scene": "Eda mantém suspensão até a luz; Sere cobre Caio após turno, Tovo descansa ombro, Ilyan percebe frio anormal nos dedos. Runa dorme atrás de divisória longe de Líria.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [],
+      "narration": "Antes do amanhecer, o frio voltou aos dedos de Ilyan. Ele anotou o sintoma para relatar a Oru."
+    },
+    {
+      "number": 971,
+      "title": "Observação sem descida",
+      "time": "Dia 546 amanhecer · mapa de superfície",
+      "place": "margem-publica-porto",
+      "cast": [
+        "eda",
+        "sere"
+      ],
+      "layout": "Eda faz última leitura, autoriza **observação sem descida**, envia mensageiro a Adra com posição da carroça. Sere prende linha de retorno à argola.",
+      "scene": "Eda faz última leitura, autoriza **observação sem descida**, envia mensageiro a Adra com posição da carroça. Sere prende linha de retorno à argola.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Ninguém desce. Se a pedra mudar, recuem.",
+          "balloon": {
+            "x": 48,
+            "y": 19,
+            "w": 35,
+            "target_x": 60,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 972,
+      "title": "Entre salgueiros",
+      "time": "Dia 546 manhã · trilha pública",
+      "place": "trilha-das-salgueiras",
+      "cast": [
+        "nima",
+        "talin"
+      ],
+      "layout": "Talin e Nima partem da hospedaria após o sinal autorizado. Visualizar salgueiros e estacas que separam a trilha pública das estações da equipe; não entregar mapa vedado a Nima.",
+      "scene": "Talin e Nima partem da hospedaria após o sinal autorizado. Visualizar salgueiros e estacas que separam a trilha pública das estações da equipe; não entregar mapa vedado a Nima.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "As estacas ficam à nossa direita.",
+          "balloon": {
+            "x": 42,
+            "y": 2,
+            "w": 35,
+            "target_x": 48,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 973,
+      "title": "O estalo sob a placa",
+      "time": "Dia 546 manhã · cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "eda",
+        "sere"
+      ],
+      "layout": "Primeiro estalo vem de **baixo da placa fria**, a leste do calço; plano da pedra e reação de Sere. Costura do Entremeio não aparece nem se abre.",
+      "scene": "Primeiro estalo vem de **baixo da placa fria**, a leste do calço; plano da pedra e reação de Sere. Costura do Entremeio não aparece nem se abre.",
+      "novel_volume": 2,
+      "novel_chapter": 8,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Veio de baixo da placa. Eda!",
+          "balloon": {
+            "x": 45,
+            "y": 25,
+            "w": 37,
+            "target_x": 36,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 974,
+      "title": "Duas notas",
+      "time": "Dia 546 · estações",
+      "place": "margem-publica-porto",
+      "cast": [
+        "eda",
+        "runa",
+        "liria"
+      ],
+      "layout": "Eda sopra duas vezes, sinal previamente combinado de retirada. Runa tampa garrafa, Líria tira a mão da fenda, Beren recolhe régua.",
+      "scene": "Eda sopra duas vezes, sinal previamente combinado de retirada. Runa tampa garrafa, Líria tira a mão da fenda, Beren recolhe régua.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [],
+      "narration": "Dois apitos. As equipes deveriam se reunir na linha de retorno."
+    },
+    {
+      "number": 975,
+      "title": "O ar aponta para baixo",
+      "time": "Dia 546 · poço seco",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "Fita de Caio sobe antes de apontar para baixo contra o vento da encosta; ele chama Sere sem fingir saber a causa.",
+      "scene": "Fita de Caio sobe antes de apontar para baixo contra o vento da encosta; ele chama Sere sem fingir saber a causa.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Sere! A corrente mudou para baixo.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 40,
+            "target_x": 42,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 976,
+      "title": "A borda de sal",
+      "time": "Dia 546 · degrau da cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "tovo"
+      ],
+      "layout": "Borda espessa de sal cresce de dentro para fora e empurra calço. Mostrar raspas minerais e peso físico, não portal luminoso.",
+      "scene": "Borda espessa de sal cresce de dentro para fora e empurra calço. Mostrar raspas minerais e peso físico, não portal luminoso.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "O calço está se movendo!",
+          "balloon": {
+            "x": 52,
+            "y": 36,
+            "w": 42,
+            "target_x": 48,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 977,
+      "title": "Placas sob a pedra",
+      "time": "Dia 546 · abertura sob a cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere"
+      ],
+      "layout": "Primeira visão de placas translúcidas assimétricas, fenda interna escura e anéis que se contraem perto de ar quente. Horror estranho, anatomia própria, sem duplicar membros humanos.",
+      "scene": "Primeira visão de placas translúcidas assimétricas, fenda interna escura e anéis que se contraem perto de ar quente. Horror estranho, anatomia própria, sem duplicar membros humanos.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [],
+      "narration": "Sob a placa, camadas de vidro salino se moveram em torno de uma fenda escura. A cava tinha despertado algo."
+    },
+    {
+      "number": 978,
+      "title": "Oco de Vidro",
+      "time": "Dia 546 · estação baixa",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere",
+        "tovo",
+        "ilyan"
+      ],
+      "layout": "Sere nomeia provisoriamente Oco de Vidro para transmitir ordens; manda Caio, Tovo e Ilyan recuarem pela linha. A criatura segue a respiração quente, não a espada.",
+      "scene": "Sere nomeia provisoriamente Oco de Vidro para transmitir ordens; manda Caio, Tovo e Ilyan recuarem pela linha. A criatura segue a respiração quente, não a espada.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Oco de Vidro. Recuem juntos!",
+          "balloon": {
+            "x": 3,
+            "y": 18,
+            "w": 38,
+            "target_x": 31,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 979,
+      "title": "Dois batimentos outra vez",
+      "time": "Dia 546 · grade de madeira",
+      "place": "margem-publica-porto",
+      "cast": [
+        "tovo"
+      ],
+      "layout": "Tovo amplia força só por dois batimentos para puxar a grade entre Oco e saída; mostra tremor imediato no braço esquerdo. A grade é barreira temporária, não vitória.",
+      "scene": "Tovo amplia força só por dois batimentos para puxar a grade entre Oco e saída; mostra tremor imediato no braço esquerdo. A grade é barreira temporária, não vitória.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "A grade está no lugar... meu braço, não.",
+          "balloon": {
+            "x": 3,
+            "y": 38,
+            "w": 30,
+            "target_x": 48,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 980,
+      "title": "Poeira contra o vento",
+      "time": "Dia 546 · coluna da estação baixa",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "Caio usa corrente fria existente para inclinar poeira; perde a direção e recebe poeira nos próprios olhos. Sere o conduz à sombra e manda parar.",
+      "scene": "Caio usa corrente fria existente para inclinar poeira; perde a direção e recebe poeira nos próprios olhos. Sere o conduz à sombra e manda parar.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Basta, Caio. Atrás da coluna.",
+          "balloon": {
+            "x": 3,
+            "y": 53,
+            "w": 37,
+            "target_x": 30,
+            "target_y": 71,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 981,
+      "title": "A segunda travessa",
+      "time": "Dia 546 · corda da travessa",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere"
+      ],
+      "layout": "Sere atira uma flecha na corda acima da grade; o nó cai e a segunda travessa fecha meia passagem. Visualizar arco, flecha e corda, sem golpe impossível.",
+      "scene": "Sere atira uma flecha na corda acima da grade; o nó cai e a segunda travessa fecha meia passagem. Visualizar arco, flecha e corda, sem golpe impossível.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "A travessa segura por um momento.",
+          "balloon": {
+            "x": 43,
+            "y": 2,
+            "w": 39,
+            "target_x": 31,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 982,
+      "title": "A folga",
+      "time": "Dia 546 · folga da grade",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "O Oco se comprime entre placas e encontra a folga, testando madeira sem emoção humana. Calor da mão de Sere atrai a fenda.",
+      "scene": "O Oco se comprime entre placas e encontra a folga, testando madeira sem emoção humana. Calor da mão de Sere atrai a fenda.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Está passando pela folga!",
+          "balloon": {
+            "x": 4,
+            "y": 53,
+            "w": 37,
+            "target_x": 39,
+            "target_y": 72,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 983,
+      "title": "Sangue quente",
+      "time": "Dia 546 · lado da grade",
+      "place": "margem-publica-porto",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "layout": "Ilyan coloca a espada sem fio como cunha, sofre risco superficial no antebraço. Gota de sangue quente cai na pedra; cristais se formam em volta e o Oco gira.",
+      "scene": "Ilyan coloca a espada sem fio como cunha, sofre risco superficial no antebraço. Gota de sangue quente cai na pedra; cristais se formam em volta e o Oco gira.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ele seguiu o sangue.",
+          "balloon": {
+            "x": 51,
+            "y": 2,
+            "w": 36,
+            "target_x": 51,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 984,
+      "title": "Duas desobediências",
+      "time": "Dia 546 · calha, simultâneo",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria",
+        "beren"
+      ],
+      "layout": "Beren corre para alertar Sere de segundo deslocamento. Runa volta à garrafa para ver filete; Líria volta à borda seca para ler fissura. Ambas se encontram porque **as duas** romperam a ordem de retirada. Tensão verbal, sem luta ainda.",
+      "scene": "Beren corre para alertar Sere de segundo deslocamento. Runa volta à garrafa para ver filete; Líria volta à borda seca para ler fissura. Ambas se encontram porque **as duas** romperam a ordem de retirada. Tensão verbal, sem luta ainda.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Beren mandou voltar.",
+          "balloon": {
+            "x": 5,
+            "y": 2,
+            "w": 33,
+            "target_x": 25,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "E por que você ainda está aqui?",
+          "balloon": {
+            "x": 64,
+            "y": 2,
+            "w": 34,
+            "target_x": 77,
+            "target_y": 21,
+            "kind": "normal"
+          }
+        }
+      ]
+    }
+  ]
+}
