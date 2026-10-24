@@ -107,9 +107,6 @@
 .twilight-subhero[class*="twilight-subhero--arc-"]::after{display:none}
 .twilight-subhero[class*="twilight-subhero--arc-"]>img{position:relative;inset:auto;z-index:0;display:block;width:100%;height:clamp(560px,56vw,720px);object-fit:contain;object-position:center;background:#101b24}
 .twilight-subhero[class*="twilight-subhero--arc-"] .twilight-subhero-copy{width:auto;margin:0;padding:clamp(30px,5vw,72px);background:#1b2830;display:flex;flex-direction:column;justify-content:center}
-.twilight-subhero--arc-7.twilight-subhero{grid-template-columns:1fr}
-.twilight-subhero--arc-7.twilight-subhero>img{width:100%;height:auto;max-height:none;aspect-ratio:3/2;object-fit:contain}
-.twilight-subhero--arc-7.twilight-subhero .twilight-subhero-copy{padding:clamp(28px,4vw,55px) max(24px,calc((100vw - 1120px)/2));background:#1b2830}
 @media(max-width:820px){
   .twilight-subhero[class*="twilight-subhero--arc-"]{grid-template-columns:1fr}
   .twilight-subhero[class*="twilight-subhero--arc-"]>img{height:auto;max-height:680px;object-fit:contain}
