@@ -1,0 +1,500 @@
+{
+  "chapters": [
+    {
+      "title": "A saída da cava",
+      "start": 1007,
+      "end": 1011
+    },
+    {
+      "title": "O cuidado e a travessia",
+      "start": 1012,
+      "end": 1020
+    }
+  ],
+  "pages": [
+    {
+      "number": 1007,
+      "title": "Calços sob o ferro",
+      "time": "Dia 546 · manhã, conduto da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "beren",
+        "eda"
+      ],
+      "layout": "Beren fixa calços de madeira sob a grade. O Oco de Vidro continua vivo e comprimido no conduto. Eda registra a contenção, sem chamá-la de vitória.",
+      "scene": "Beren fixa calços de madeira sob a grade. O Oco de Vidro continua vivo e comprimido no conduto. Eda registra a contenção, sem chamá-la de vitória.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A grade segura. O que está atrás dela, não morreu.",
+          "balloon": {
+            "x": 2,
+            "y": 60,
+            "w": 28,
+            "target_x": 46,
+            "target_y": 70,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Registre exatamente isso.",
+          "balloon": {
+            "x": 48,
+            "y": 60,
+            "w": 25,
+            "target_x": 85,
+            "target_y": 70,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1008,
+      "title": "O frio do próprio corpo",
+      "time": "Dia 546 · manhã, estação baixa",
+      "place": "margem-publica-porto",
+      "cast": [
+        "ilyan",
+        "caio",
+        "sere"
+      ],
+      "layout": "Ilyan larga a espada e quase perde os sentidos. Caio o cobre com a própria capa. Sere exige panos secos, aquecimento gradual e uma maca.",
+      "scene": "Ilyan larga a espada e quase perde os sentidos. Caio o cobre com a própria capa. Sere exige panos secos, aquecimento gradual e uma maca.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Ele está gelado. Minha capa!",
+          "balloon": {
+            "x": 20,
+            "y": 2,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Panos secos e maca. Sem brasa na pele.",
+          "balloon": {
+            "x": 55,
+            "y": 2,
+            "w": 34,
+            "target_x": 78,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1009,
+      "title": "O terceiro apito",
+      "time": "Dia 546 · manhã, bifurcação da cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "talin",
+        "ilyan"
+      ],
+      "layout": "Talin chega da calha com sangue na manga e comunica que Runa precisa de atendimento urgente. Ilyan tenta erguer-se, mas as pernas não respondem.",
+      "scene": "Talin chega da calha com sangue na manga e comunica que Runa precisa de atendimento urgente. Ilyan tenta erguer-se, mas as pernas não respondem.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Runa precisa da primeira maca. Agora.",
+          "balloon": {
+            "x": 59,
+            "y": 30,
+            "w": 36,
+            "target_x": 56,
+            "target_y": 55,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1010,
+      "title": "O peso da maca",
+      "time": "Dia 546 · manhã, calha da cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "caio",
+        "nima",
+        "runa"
+      ],
+      "layout": "Caio assume a frente da maca de Runa. Nima, adulta e pequena, mantém o outro lado firme apesar da própria costela dolorida.",
+      "scene": "Caio assume a frente da maca de Runa. Nima, adulta e pequena, mantém o outro lado firme apesar da própria costela dolorida.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Eu seguro aqui. Não deixem a cabeça balançar.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 33,
+            "target_x": 18,
+            "target_y": 23,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "A saída está livre. Vamos.",
+          "balloon": {
+            "x": 43,
+            "y": 3,
+            "w": 29,
+            "target_x": 79,
+            "target_y": 12,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1011,
+      "title": "Duas macas",
+      "time": "Dia 546 · fim da manhã, saída pública da cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "nima",
+        "runa",
+        "caio",
+        "ilyan"
+      ],
+      "layout": "Runa e Ilyan saem em macas diferentes. Nima reconhece o cabelo de Ilyan e olha para ele, mas não solta o peso de Runa.",
+      "scene": "Runa e Ilyan saem em macas diferentes. Nima reconhece o cabelo de Ilyan e olha para ele, mas não solta o peso de Runa.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Abram caminho para as duas macas!",
+          "balloon": {
+            "x": 38,
+            "y": 3,
+            "w": 34,
+            "target_x": 51,
+            "target_y": 27,
+            "kind": "shout"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1012,
+      "title": "Cinco nomes",
+      "time": "Dia 546 · fim da manhã, estacas da cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "hessa",
+        "eda"
+      ],
+      "layout": "Hessa apronta a carroça com palha seca e cobertores. Eda conta Ilyan, Runa, Líria, Nima e Tovo entre os feridos que precisam de exame.",
+      "scene": "Hessa apronta a carroça com palha seca e cobertores. Eda conta Ilyan, Runa, Líria, Nima e Tovo entre os feridos que precisam de exame.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Carroça pronta. Sigam pelo cais.",
+          "balloon": {
+            "x": 0,
+            "y": 14,
+            "w": 20,
+            "target_x": 26,
+            "target_y": 24,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1013,
+      "title": "Respirar entre as faixas",
+      "time": "Dia 546 · meio-dia, hospedaria de Hessa",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "A curandeira do porto examina o rosto e a resposta dos olhos de Runa, deixa nariz e boca livres sob o curativo branco e exige vigilância contínua.",
+      "scene": "A curandeira do porto examina o rosto e a resposta dos olhos de Runa, deixa nariz e boca livres sob o curativo branco e exige vigilância contínua.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Vigiem a sonolência. A faixa deixa nariz e boca livres.",
+          "balloon": {
+            "x": 48,
+            "y": 2,
+            "w": 46,
+            "target_x": 30,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1014,
+      "title": "A medida do calor",
+      "time": "Dia 546 · tarde, hospedaria de Hessa",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "ilyan",
+        "sere",
+        "eda"
+      ],
+      "layout": "Ilyan recebe panos secos e pequenos goles mornos. Eda registra o tecido, o óleo, a ignição e o frio que a seguiu. Ninguém tenta repetir a técnica.",
+      "scene": "Ilyan recebe panos secos e pequenos goles mornos. Eda registra o tecido, o óleo, a ignição e o frio que a seguiu. Ninguém tenta repetir a técnica.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Beba devagar. Sem fogo.",
+          "balloon": {
+            "x": 31,
+            "y": 0,
+            "w": 30,
+            "target_x": 51,
+            "target_y": 17,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Tecido, óleo, ar... e calor retirado dele.",
+          "balloon": {
+            "x": 67,
+            "y": 0,
+            "w": 30,
+            "target_x": 83,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1015,
+      "title": "Dois prontuários",
+      "time": "Dia 546 · tarde, hospedaria de Hessa",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "liria",
+        "curandeira"
+      ],
+      "layout": "Líria recebe tala no pulso e limpeza do corte na canela. O prontuário da curandeira distingue seus ferimentos dos golpes no rosto de Runa.",
+      "scene": "Líria recebe tala no pulso e limpeza do corte na canela. O prontuário da curandeira distingue seus ferimentos dos golpes no rosto de Runa.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Meu pulso não está quebrado.",
+          "balloon": {
+            "x": 2,
+            "y": 0,
+            "w": 20,
+            "target_x": 28,
+            "target_y": 19,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Mesmo assim, ficará imobilizado.",
+          "balloon": {
+            "x": 62,
+            "y": 2,
+            "w": 34,
+            "target_x": 78,
+            "target_y": 24,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1016,
+      "title": "A visita inesperada",
+      "time": "Dia 546 · tarde, hospedaria de Hessa",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "layout": "Nima entra no quarto improvisado e pergunta se Ilyan a reconhece. Ele abre os olhos, vê a amiga e pergunta por Bram.",
+      "scene": "Nima entra no quarto improvisado e pergunta se Ilyan a reconhece. Ele abre os olhos, vê a amiga e pergunta por Bram.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Ilyan... você me reconhece?",
+          "balloon": {
+            "x": 4,
+            "y": 3,
+            "w": 34,
+            "target_x": 22,
+            "target_y": 25,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Nima? Bram está bem?",
+          "balloon": {
+            "x": 58,
+            "y": 3,
+            "w": 36,
+            "target_x": 76,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1017,
+      "title": "A palavra amor",
+      "time": "Dia 546 · tarde, hospedaria de Hessa",
+      "place": "hospedaria-hessa",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "layout": "Nima responde sobre Bram e Runa. Ilyan confessa que ama Runa. Nima absorve a dor sem abandonar o socorro.",
+      "scene": "Nima responde sobre Bram e Runa. Ilyan confessa que ama Runa. Nima absorve a dor sem abandonar o socorro.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Bram está bem. Cuidam de Runa.",
+          "balloon": {
+            "x": 3,
+            "y": 0,
+            "w": 33,
+            "target_x": 28,
+            "target_y": 21,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Runa é a mulher que eu amo.",
+          "balloon": {
+            "x": 58,
+            "y": 5,
+            "w": 36,
+            "target_x": 76,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1018,
+      "title": "Passagem para as macas",
+      "time": "Dia 546 · anoitecer, cais de Porto das Cinzas",
+      "place": "cais-porto",
+      "cast": [
+        "adra",
+        "hessa"
+      ],
+      "layout": "Adra obtém duas carroças cobertas e um barco de carga adaptado a macas. Hessa organiza a passagem; Runa e Líria seguirão separadas.",
+      "scene": "Adra obtém duas carroças cobertas e um barco de carga adaptado a macas. Hessa organiza a passagem; Runa e Líria seguirão separadas.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Runa vai na primeira. Líria, na outra carroça.",
+          "balloon": {
+            "x": 64,
+            "y": 2,
+            "w": 33,
+            "target_x": 56,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1019,
+      "title": "Pontes e uma noite",
+      "time": "Dia 546–547 · ponte, barca e estrada para a Casa",
+      "place": "estrada-enseada",
+      "cast": [],
+      "layout": "A caravana cruza a ponte ao anoitecer, embarca na barca adaptada, para durante a noite para examinar os feridos e segue por estrada. Um mensageiro leva o aviso à Casa no dia 547.",
+      "scene": "A caravana cruza a ponte ao anoitecer, embarca na barca adaptada, para durante a noite para examinar os feridos e segue por estrada. Um mensageiro leva o aviso à Casa no dia 547.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [],
+      "places": [
+        "cais-porto",
+        "barca-enseada",
+        "estrada-enseada",
+        "casa-das-quatro-luas"
+      ]
+    },
+    {
+      "number": 1020,
+      "title": "A enfermaria leste",
+      "time": "Dia 548 · manhã, Casa das Quatro Luas",
+      "place": "enfermaria-leste",
+      "cast": [
+        "ordelia",
+        "curandeira",
+        "runa"
+      ],
+      "layout": "Depois de barco, estrada e noite de viagem, a curandeira leva Runa primeiro à enfermaria leste. Ordelia prepara leito separado e mantém observação da cabeça.",
+      "scene": "Depois de barco, estrada e noite de viagem, a curandeira leva Runa primeiro à enfermaria leste. Ordelia prepara leito separado e mantém observação da cabeça.",
+      "novel_volume": 2,
+      "novel_chapter": 12,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Pulso firme. Ainda precisamos vigiar a cabeça.",
+          "balloon": {
+            "x": 57,
+            "y": 40,
+            "w": 38,
+            "target_x": 35,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Este leito é dela. Chamem-me se a febre subir.",
+          "balloon": {
+            "x": 62,
+            "y": 67,
+            "w": 35,
+            "target_x": 48,
+            "target_y": 80,
+            "kind": "normal"
+          }
+        }
+      ]
+    }
+  ]
+}
