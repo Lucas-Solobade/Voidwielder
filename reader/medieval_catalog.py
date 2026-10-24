@@ -73,6 +73,9 @@ ARC_SEVEN = json.loads((STORY_DIR / "arc7-941-950.json").read_text(encoding="utf
 ARC_SEVEN_CONTINUED = json.loads((STORY_DIR / "arc7-951-984.json").read_text(encoding="utf-8"))
 ARC_SEVEN["arc"]["chapters"].extend(ARC_SEVEN_CONTINUED["chapters"])
 ARC_SEVEN["pages"].extend(ARC_SEVEN_CONTINUED["pages"])
+ARC_SEVEN_QUARRY = json.loads((STORY_DIR / "arc7-985-1006.json").read_text(encoding="utf-8"))
+ARC_SEVEN["arc"]["chapters"].extend(ARC_SEVEN_QUARRY["chapters"])
+ARC_SEVEN["pages"].extend(ARC_SEVEN_QUARRY["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

@@ -165,6 +165,7 @@
       "place": "portao-sul",
       "cast": [
         "eda",
+        "ilyan",
         "runa",
         "liria"
       ],
@@ -177,11 +178,11 @@
           "speaker": "Eda",
           "text": "Nomes conferidos. Partimos.",
           "balloon": {
-            "x": 39,
-            "y": 2,
+            "x": 4,
+            "y": 10,
             "w": 34,
-            "target_x": 30,
-            "target_y": 20,
+            "target_x": 22,
+            "target_y": 28,
             "kind": "normal"
           }
         }

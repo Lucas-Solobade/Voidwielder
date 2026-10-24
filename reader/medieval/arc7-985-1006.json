@@ -1,0 +1,645 @@
+{
+  "chapters": [
+    {
+      "title": "Água e pedra",
+      "start": 985,
+      "end": 999
+    },
+    {
+      "title": "O preço do calor",
+      "start": 1000,
+      "end": 1006
+    }
+  ],
+  "pages": [
+    {
+      "number": 985,
+      "title": "O caderno de Mira",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "Líria aponta para o caderno junto à bolsa de Runa. Runa segura a garrafa, recusa a provocação, mas ambas ficam na calha molhada.",
+      "scene": "Líria aponta para o caderno junto à bolsa de Runa. Runa segura a garrafa, recusa a provocação, mas ambas ficam na calha molhada.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "O nome de Mira abre todas as portas para você?",
+          "balloon": {
+            "x": 52,
+            "y": 0,
+            "w": 42,
+            "target_x": 74,
+            "target_y": 15,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 986,
+      "title": "Água contra areia",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "A garrafa de Runa alimenta um fio de água enquanto Líria ergue apenas a areia solta da borda. A disputa começa na altura dos joelhos, sem fonte inventada.",
+      "scene": "A garrafa de Runa alimenta um fio de água enquanto Líria ergue apenas a areia solta da borda. A disputa começa na altura dos joelhos, sem fonte inventada.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Afaste a areia. Há gente abaixo de nós.",
+          "balloon": {
+            "x": 2,
+            "y": 0,
+            "w": 42,
+            "target_x": 25,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 987,
+      "title": "O canal fechado",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "Runa molha a mão de Líria e tenta desarmá-la; Líria trava a calha com dois seixos, cortando a corrente sem criar pedra.",
+      "scene": "Runa molha a mão de Líria e tenta desarmá-la; Líria trava a calha com dois seixos, cortando a corrente sem criar pedra.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Dois seixos bastam para fechar seu caminho.",
+          "balloon": {
+            "x": 52,
+            "y": 0,
+            "w": 43,
+            "target_x": 75,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 988,
+      "title": "Apitos na trilha",
+      "time": "Dia 546 · trilha pública da cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "talin",
+        "nima"
+      ],
+      "layout": "Na trilha pública, Talin e Nima ouvem apitos vindos da cava. Talin manda buscar macas e mantém Nima na rota autorizada.",
+      "scene": "Na trilha pública, Talin e Nima ouvem apitos vindos da cava. Talin manda buscar macas e mantém Nima na rota autorizada.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Ouvi dois apitos. Tragam macas à saída pública.",
+          "balloon": {
+            "x": 40,
+            "y": 2,
+            "w": 55,
+            "target_x": 25,
+            "target_y": 14,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 989,
+      "title": "Filme d'água",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "Líria lança areia baixa da borda; Runa usa o resto da água da garrafa para proteger os olhos, perdendo reserva.",
+      "scene": "Líria lança areia baixa da borda; Runa usa o resto da água da garrafa para proteger os olhos, perdendo reserva.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ainda tenho água para ver você.",
+          "balloon": {
+            "x": 2,
+            "y": 0,
+            "w": 41,
+            "target_x": 23,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 990,
+      "title": "Cascalho e sangue",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "Runa varre as pernas de Líria com água da própria calha. A canela de Líria raspa no cascalho; o ferimento é pequeno, mas a humilhação aumenta a raiva.",
+      "scene": "Runa varre as pernas de Líria com água da própria calha. A canela de Líria raspa no cascalho; o ferimento é pequeno, mas a humilhação aumenta a raiva.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Agora você vai responder por isso.",
+          "balloon": {
+            "x": 54,
+            "y": 0,
+            "w": 40,
+            "target_x": 75,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 991,
+      "title": "Autorização de passagem",
+      "time": "Dia 546 · saída pública da cava",
+      "place": "margem-publica-porto",
+      "cast": [
+        "talin",
+        "nima",
+        "eda"
+      ],
+      "layout": "Nima retorna com dois carregadores e maca; Talin recebe de Eda uma ordem escrita para atravessar a saída pública e atender feridos.",
+      "scene": "Nima retorna com dois carregadores e maca; Talin recebe de Eda uma ordem escrita para atravessar a saída pública e atender feridos.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Eda autorizou. Seguimos com Talin.",
+          "balloon": {
+            "x": 25,
+            "y": 0,
+            "w": 40,
+            "target_x": 40,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 992,
+      "title": "Fonte exaurida",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "A garrafa está quase vazia, a areia encharcada e ambas exaustas. Runa propõe recuar e registrar o conflito separadamente.",
+      "scene": "A garrafa está quase vazia, a areia encharcada e ambas exaustas. Runa propõe recuar e registrar o conflito separadamente.",
+      "novel_volume": 2,
+      "novel_chapter": 9,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Chega. Recuamos e registramos tudo.",
+          "balloon": {
+            "x": 35,
+            "y": 0,
+            "w": 38,
+            "target_x": 23,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 993,
+      "title": "Sem feitiço",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "Líria empurra Runa no degrau molhado e a atinge no ombro e na costela. A luta virou física; não há mais fonte útil nem foco para feitiço.",
+      "scene": "Líria empurra Runa no degrau molhado e a atinge no ombro e na costela. A luta virou física; não há mais fonte útil nem foco para feitiço.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Sem água, você continua acima de mim?",
+          "balloon": {
+            "x": 53,
+            "y": 0,
+            "w": 41,
+            "target_x": 72,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 994,
+      "title": "Golpe no rosto",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "Runa perde o apoio. Líria a golpeia no rosto; Runa protege o septo e permanece consciente, tentando se afastar.",
+      "scene": "Runa perde o apoio. Líria a golpeia no rosto; Runa protege o septo e permanece consciente, tentando se afastar.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Pare... o que você quer provar?",
+          "balloon": {
+            "x": 3,
+            "y": 0,
+            "w": 40,
+            "target_x": 24,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 995,
+      "title": "O apito distante",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "Líria golpeia uma vez mais, Runa protege as têmporas. Um apito se ouve da saída pública; Líria hesita.",
+      "scene": "Líria golpeia uma vez mais, Runa protege as têmporas. Um apito se ouve da saída pública; Líria hesita.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Ainda consegue me olhar assim?",
+          "balloon": {
+            "x": 53,
+            "y": 0,
+            "w": 38,
+            "target_x": 73,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 996,
+      "title": "Parem",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria",
+        "talin",
+        "nima"
+      ],
+      "layout": "Talin chega com Nima e carregadores pela saída pública. Ela separa as alunas com o cajado e ordena que Líria recue.",
+      "scene": "Talin chega com Nima e carregadores pela saída pública. Ela separa as alunas com o cajado e ordena que Líria recue.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Talin",
+          "text": "Líria. Tire as mãos dela. Agora.",
+          "balloon": {
+            "x": 47,
+            "y": 0,
+            "w": 47,
+            "target_x": 65,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 997,
+      "title": "A correia",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria",
+        "talin",
+        "nima"
+      ],
+      "layout": "Nima tenta prender o punho de Líria com a correia da maca. Líria reage e acerta as costelas da halfling; Talin interpõe o cajado.",
+      "scene": "Nima tenta prender o punho de Líria com a correia da maca. Líria reage e acerta as costelas da halfling; Talin interpõe o cajado.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Não encoste nela de novo!",
+          "balloon": {
+            "x": 51,
+            "y": 0,
+            "w": 34,
+            "target_x": 67,
+            "target_y": 23,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 998,
+      "title": "Queda controlada",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria",
+        "talin",
+        "nima"
+      ],
+      "layout": "Talin e Nima usam a correia e o cajado como apoio para derrubar Líria de lado. Runa continua sentada e ferida; não se levanta milagrosamente.",
+      "scene": "Talin e Nima usam a correia e o cajado como apoio para derrubar Líria de lado. Runa continua sentada e ferida; não se levanta milagrosamente.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Puxe no meu sinal. Agora!",
+          "balloon": {
+            "x": 52,
+            "y": 0,
+            "w": 41,
+            "target_x": 80,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 999,
+      "title": "A mulher da carta",
+      "time": "Dia 546 · calha da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "runa",
+        "liria",
+        "talin",
+        "nima"
+      ],
+      "layout": "Nima reconhece Runa pelo septo e pela tatuagem descritos nas cartas de Ilyan; exige panos limpos. Os carregadores erguem Runa na maca; Líria fica sob vigilância.",
+      "scene": "Nima reconhece Runa pelo septo e pela tatuagem descritos nas cartas de Ilyan; exige panos limpos. Os carregadores erguem Runa na maca; Líria fica sob vigilância.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Runa? Ilyan me falou de você.",
+          "balloon": {
+            "x": 2,
+            "y": 0,
+            "w": 39,
+            "target_x": 35,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1000,
+      "title": "O calor chama",
+      "time": "Dia 546 · estação baixa da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere",
+        "caio",
+        "tovo"
+      ],
+      "layout": "Na estação baixa, o Oco de Vidro acompanha o calor dos trabalhadores. Tovo trava a grade com uma alavanca; Caio guia o ar que entra pela abertura. Sere mantém a retirada.",
+      "scene": "Na estação baixa, o Oco de Vidro acompanha o calor dos trabalhadores. Tovo trava a grade com uma alavanca; Caio guia o ar que entra pela abertura. Sere mantém a retirada.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Ele segue calor! Afastem os trabalhadores!",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 45,
+            "target_x": 17,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1001,
+      "title": "Hora registrada",
+      "time": "Dia 546 · escada alta da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "eda"
+      ],
+      "layout": "Eda alcança a escada alta, envia um mensageiro a Adra e registra hora, testemunhas e direção da criatura.",
+      "scene": "Eda alcança a escada alta, envia um mensageiro a Adra e registra hora, testemunhas e direção da criatura.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Leve este aviso a Adra. Diga a hora exata.",
+          "balloon": {
+            "x": 32,
+            "y": 0,
+            "w": 43,
+            "target_x": 25,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1002,
+      "title": "A travessa",
+      "time": "Dia 546 · estação baixa da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "tovo",
+        "sere"
+      ],
+      "layout": "Uma travessa quebra. Tovo amplia sua força para soltá-la e segurar a passagem além de seu limite; livra os outros e cai com ombro e joelho comprometidos.",
+      "scene": "Uma travessa quebra. Tovo amplia sua força para soltá-la e segurar a passagem além de seu limite; livra os outros e cai com ombro e joelho comprometidos.",
+      "novel_volume": 2,
+      "novel_chapter": 10,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Saiam! Não aguento!",
+          "balloon": {
+            "x": 41,
+            "y": 0,
+            "w": 34,
+            "target_x": 25,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1003,
+      "title": "Sem chama",
+      "time": "Dia 546 · estação baixa da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "sere",
+        "caio",
+        "tovo",
+        "ilyan"
+      ],
+      "layout": "Sere e Caio retiram Tovo. Ilyan encontra tecido seco e óleo entre ferramentas, mas não há fogo em lugar algum para conduzir.",
+      "scene": "Sere e Caio retiram Tovo. Ilyan encontra tecido seco e óleo entre ferramentas, mas não há fogo em lugar algum para conduzir.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Tovo está fora da linha. Falta uma isca.",
+          "balloon": {
+            "x": 42,
+            "y": 0,
+            "w": 50,
+            "target_x": 55,
+            "target_y": 17,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1004,
+      "title": "O preço da brasa",
+      "time": "Dia 546 · estação baixa da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "layout": "Sob ameaça imediata, Ilyan concentra sem querer calor do próprio corpo no pano com óleo. Uma brasa minúscula nasce; a pele esfria e ele quase perde a consciência.",
+      "scene": "Sob ameaça imediata, Ilyan concentra sem querer calor do próprio corpo no pano com óleo. Uma brasa minúscula nasce; a pele esfria e ele quase perde a consciência.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Eu não trouxe fogo.",
+          "balloon": {
+            "x": 63,
+            "y": 0,
+            "w": 33,
+            "target_x": 46,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1005,
+      "title": "Um fôlego de vento",
+      "time": "Dia 546 · conduto da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "ilyan",
+        "caio",
+        "sere"
+      ],
+      "layout": "O Oco persegue a pequena brasa para dentro do conduto. Caio mantém por um só fôlego a corrente de ar que já vem da abertura; depois perde o controle.",
+      "scene": "O Oco persegue a pequena brasa para dentro do conduto. Caio mantém por um só fôlego a corrente de ar que já vem da abertura; depois perde o controle.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Caio, conduza-o ao conduto!",
+          "balloon": {
+            "x": 2,
+            "y": 0,
+            "w": 34,
+            "target_x": 45,
+            "target_y": 20,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1006,
+      "title": "A grade desce",
+      "time": "Dia 546 · conduto da cava pública",
+      "place": "margem-publica-porto",
+      "cast": [
+        "ilyan",
+        "sere",
+        "eda"
+      ],
+      "layout": "Eda e Sere baixam a grade. Ilyan prende uma placa do Oco com a espada sem fio o bastante para todos recuarem; um corte frio marca o antebraço. A criatura permanece viva atrás da grade.",
+      "scene": "Eda e Sere baixam a grade. Ilyan prende uma placa do Oco com a espada sem fio o bastante para todos recuarem; um corte frio marca o antebraço. A criatura permanece viva atrás da grade.",
+      "novel_volume": 2,
+      "novel_chapter": 11,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Recuem! Vou baixar a grade!",
+          "balloon": {
+            "x": 51,
+            "y": 0,
+            "w": 39,
+            "target_x": 57,
+            "target_y": 20,
+            "kind": "shout"
+          }
+        }
+      ]
+    }
+  ]
+}
