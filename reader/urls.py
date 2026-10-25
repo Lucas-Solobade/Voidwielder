@@ -16,6 +16,7 @@ urlpatterns = [
     path("hqs/estradas-do-crepusculo/arcos/as-quatro-correntes/", views.medieval_arc, {"arc_slug": "as-quatro-correntes"}, name="medieval_arc5"),
     path("hqs/estradas-do-crepusculo/arcos/o-avesso-das-aguas/", views.medieval_arc, {"arc_slug": "o-avesso-das-aguas"}, name="medieval_arc6"),
     path("hqs/estradas-do-crepusculo/arcos/o-frio-sob-a-pedra/", views.medieval_arc, {"arc_slug": "o-frio-sob-a-pedra"}, name="medieval_arc7"),
+    path("hqs/estradas-do-crepusculo/arcos/as-pontes-de-vidro-frio/", views.medieval_arc, {"arc_slug": "as-pontes-de-vidro-frio"}, name="medieval_arc8"),
     path("hqs/estradas-do-crepusculo/ler/<int:page>/", views.medieval_read, name="medieval_read"),
     path("arcos/<slug:arc_slug>/", views.arc_detail, name="arc"),
     path("ler/arco/<slug:arc_slug>/", views.read_arc, name="read_arc"),

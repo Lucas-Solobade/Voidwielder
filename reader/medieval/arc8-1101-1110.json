@@ -1,0 +1,163 @@
+{
+  "arc": {
+    "number": 8,
+    "title": "As Pontes de Vidro Frio",
+    "slug": "as-pontes-de-vidro-frio",
+    "description": "Runa rompe o silêncio sobre a luta com Líria. Uma emissária do Entremeio traz o aviso de que os canais de Talveira estão aquecendo sob pontes de vidro frio, enquanto Caio e Sere escolhem uma relação fora da hierarquia de avaliação.",
+    "status": "Em andamento",
+    "start": 1101,
+    "chapters": [
+      {"title": "A verdade e a primeira ponte", "start": 1101, "end": 1110}
+    ]
+  },
+  "pages": [
+    {
+      "number": 1101,
+      "title": "Dois cadernos",
+      "time": "Dia 570 · manhã",
+      "place": "sala-elementos",
+      "cast": ["runa", "ilyan"],
+      "layout": "Wide stone classroom with two separate adult figures below an unobstructed upper architectural band; notebooks on central table, inset of their hands on the covers",
+      "scene": "Runa at image left arrives at the Hall of Elements carrying her notebook and Nima's borrowed notebook. Ilyan at image right waits by the empty water basin. She must tell him what happened at the Porto das Cinzas quarry; exactly one Runa and one Ilyan, their faces visible, no duplicate figures. Keep the upper fifth as empty stone architecture for the balloon.",
+      "novel_volume": 2,
+      "novel_chapter": 18,
+      "lines": [
+        {"speaker": "Runa", "text": "Preciso contar o que houve na calha. Tudo.", "balloon": {"x": 3, "y": 3, "w": 37, "target_x": 29, "target_y": 26, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1102,
+      "title": "Depois que a água acabou",
+      "time": "Dia 570 · manhã",
+      "place": "sala-elementos",
+      "cast": ["runa", "ilyan"],
+      "layout": "Close dialogue at opposite ends of table, open stone wall above heads for two adjacent balloons; no flashback double of either character",
+      "scene": "Runa at image left tells Ilyan at image right that her water ran out, Líria kept striking her after she fell, and Nima intervened. Ilyan listens without touching the protected brazier. Faces and hands stay completely visible below an empty upper band reserved for balloons.",
+      "novel_volume": 2,
+      "novel_chapter": 18,
+      "lines": [
+        {"speaker": "Runa", "text": "Líria continuou a me golpear depois que eu caí. Nima entrou entre nós.", "balloon": {"x": 2, "y": 2, "w": 43, "target_x": 29, "target_y": 27, "kind": "normal"}},
+        {"speaker": "Ilyan", "text": "E você me deixou acreditar que os ferimentos vieram do Oco.", "balloon": {"x": 55, "y": 2, "w": 42, "target_x": 72, "target_y": 27, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1103,
+      "title": "A trilha pública",
+      "time": "Dia 570 · manhã",
+      "place": "sala-elementos",
+      "cast": ["runa", "ilyan"],
+      "layout": "Overhead drawing of Nima's route dominates lower frame; two partial upper-body figures around table, clear blank plaster band for speech",
+      "scene": "Ilyan at image left asks about Nima's hand. Runa at image right opens Nima's sketch showing the public trail, the water station and where Nima found her. She admits her own attack without excusing Líria's later blows. Nima is represented only by a mark on the map, not an invented person in the room. Faces below empty upper balloon band.",
+      "novel_volume": 2,
+      "novel_chapter": 18,
+      "lines": [
+        {"speaker": "Ilyan", "text": "A mão de Nima ainda dói?", "balloon": {"x": 3, "y": 3, "w": 38, "target_x": 29, "target_y": 25, "kind": "normal"}},
+        {"speaker": "Runa", "text": "Ela escreveu que conseguia segurar ferramentas. A carta já tem dias.", "balloon": {"x": 55, "y": 3, "w": 42, "target_x": 72, "target_y": 25, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1104,
+      "title": "Depoimento anexado",
+      "time": "Dia 570 · tarde",
+      "place": "enfermaria-leste",
+      "cast": ["runa", "curandeira"],
+      "layout": "Medium two-shot across a writing desk; ink and form in lower foreground, clear wall above each face",
+      "scene": "Runa at image left gives a new statement to the adult healer at image right. The truthful medical record stays intact; her account of Líria's blows and her own attack is appended to the expedition investigation. Ilyan waits elsewhere, not secretly present in the art. Leave upper fifth as empty wall for balloons.",
+      "novel_volume": 2,
+      "novel_chapter": 18,
+      "lines": [
+        {"speaker": "Runa", "text": "Anexe meu relato. Não apague o que já está escrito.", "balloon": {"x": 3, "y": 3, "w": 42, "target_x": 28, "target_y": 29, "kind": "normal"}},
+        {"speaker": "Curandeira", "text": "Vou registrar sua parte e encaminhá-la ao conselho.", "balloon": {"x": 54, "y": 3, "w": 43, "target_x": 73, "target_y": 29, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1105,
+      "title": "Outra versão, outro horário",
+      "time": "Dia 570 · fim da tarde",
+      "place": "sala-conselho",
+      "cast": ["liria", "ordelia"],
+      "layout": "Separate hearing in a tall council room, diagonal stone shadows, two adults far enough apart for readable balloons above",
+      "scene": "Líria at image left gives her own statement to Ordelia at image right at a separate appointment. She acknowledges defying the withdrawal order and striking Runa after the available earth ran out, while also recording Runa's earlier attack. She remains Runa's bitter rival and is not forgiven or expelled. No Runa in this image. Leave upper fifth as clear architecture for balloons.",
+      "novel_volume": 2,
+      "novel_chapter": 18,
+      "lines": [
+        {"speaker": "Líria", "text": "Eu a golpeei depois que a pedra acabou. Ela também me atacou antes.", "balloon": {"x": 2, "y": 20, "w": 44, "target_x": 27, "target_y": 40, "kind": "normal"}},
+        {"speaker": "Ordelia", "text": "As duas partes serão registradas. A separação continua.", "balloon": {"x": 54, "y": 20, "w": 43, "target_x": 73, "target_y": 40, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1106,
+      "title": "Uma avaliação independente",
+      "time": "Dia 570 · fim da tarde",
+      "place": "secretaria",
+      "cast": ["sere", "avel"],
+      "layout": "Formal two-shot by a secretary desk, narrow register inset, generous clean wall above heads",
+      "scene": "Sere at image left submits a written request that Oru take over individual wind evaluation of Caio. Avel at image right approves. Sere remains on the recorded field safety team. Caio is absent from this private work decision; Sere will tell him personally afterward. Leave upper fifth as empty architecture for balloons.",
+      "novel_volume": 2,
+      "novel_chapter": 18,
+      "lines": [
+        {"speaker": "Sere", "text": "Oru deve avaliar Caio. Nossa relação já não cabe numa nota minha.", "balloon": {"x": 2, "y": 3, "w": 44, "target_x": 28, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Avel", "text": "A mudança fica registrada antes da próxima prova.", "balloon": {"x": 54, "y": 3, "w": 43, "target_x": 73, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1107,
+      "title": "Carta sem atalhos",
+      "time": "Dia 571 · tarde",
+      "place": "posto-correio",
+      "cast": ["ilyan", "runa"],
+      "layout": "Post office counter and sealed envelope close-up; Ilyan and Runa separated by a little space, faces in lower two thirds",
+      "scene": "Ilyan at image left posts an ordinary letter to Nima in Pedra-Mansa asking about her hand, thanking her intervention and saying he has learned the truth. Runa at image right sees the sealed letter and does not edit it. Delivery will take days. Empty upper fifth for balloons; no postal clerk visible.",
+      "novel_volume": 2,
+      "novel_chapter": 18,
+      "lines": [
+        {"speaker": "Ilyan", "text": "Vai por correio comum. Nima merece saber que eu já ouvi.", "balloon": {"x": 3, "y": 3, "w": 43, "target_x": 30, "target_y": 28, "kind": "normal"}},
+        {"speaker": "Runa", "text": "Ela merece. Eu devia ter contado antes.", "balloon": {"x": 54, "y": 3, "w": 43, "target_x": 72, "target_y": 28, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1108,
+      "title": "Vidro frio na mesa",
+      "time": "Dia 573 · manhã",
+      "place": "sala-conselho",
+      "cast": ["ysra", "ordelia"],
+      "layout": "Tall council chamber with frosted glass tube as visual focus; only emissary and registrar visible, clean upper space for speech",
+      "scene": "After walking from the ferry with Adra and two witnesses, Ysra at image left, authorized emissary of the Entremeio, presents a frosted glass tube from Talveira to Ordelia at image right. Show only the two speakers in this close view; the others wait outside the crop. Measurements show canal water arriving too warm beneath the cold glass bridges, not permission to cross or proof of Mira's whereabouts. Empty upper fifth for balloons.",
+      "novel_volume": 2,
+      "novel_chapter": 19,
+      "lines": [
+        {"speaker": "Ysra", "text": "A água dos canais de Talveira chega morna sob o vidro frio.", "balloon": {"x": 2, "y": 17, "w": 44, "target_x": 28, "target_y": 35, "kind": "normal"}},
+        {"speaker": "Ordelia", "text": "Então precisamos de medidas e autorizações de cada margem.", "balloon": {"x": 54, "y": 17, "w": 43, "target_x": 72, "target_y": 35, "kind": "normal"}}
+      ],
+      "narration": "Ysra chegou a pé desde a balsa com Adra e duas testemunhas. Ordelia conferiu o lacre antes da audiência."
+    },
+    {
+      "number": 1109,
+      "title": "Depois do turno",
+      "time": "Dia 574 · noite",
+      "place": "valecobre",
+      "cast": ["caio", "sere"],
+      "layout": "Long lamplit city-wall walkway with two adult figures walking side by side, faces clear and a dark sky band for paired balloons",
+      "scene": "Oru has already evaluated Caio's wind work without Sere grading it. After both shifts, Caio at image left and Sere at image right walk along Valecobre's public wall. They discuss wanting each other outside work and choose to continue to Caio's nearby home. Exactly two adults, consistent size and faces, fully clothed, no explicit action. Keep top sky band empty for balloons.",
+      "novel_volume": 2,
+      "novel_chapter": 20,
+      "lines": [
+        {"speaker": "Caio", "text": "Quer entrar para tomar chá? Sem falar de nota nenhuma.", "balloon": {"x": 3, "y": 17, "w": 42, "target_x": 29, "target_y": 35, "kind": "normal"}},
+        {"speaker": "Sere", "text": "Quero. Porque nós dois escolhemos isso.", "balloon": {"x": 55, "y": 17, "w": 42, "target_x": 72, "target_y": 35, "kind": "normal"}}
+      ]
+    },
+    {
+      "number": 1110,
+      "title": "A manhã de Caio e Sere",
+      "time": "Dia 575 · manhã",
+      "place": "valecobre",
+      "cast": ["caio", "sere"],
+      "layout": "One quiet full-page morning-after illustration, sunlight at window, two adult faces and shoulders above one heavy quilt; no balloons over either face",
+      "scene": "In Caio's private room after a consensual night together, Caio and Sere wake under a thick opaque bedsheet. Show ONLY adult faces and shoulders above the sheet; all torsos and lower bodies fully covered. Warm, tender aftermath without nudity or explicit sexual action. Sere is a dark-skinned adult elf with pointed ears and one long white braid; Caio is an adult human with short auburn hair. Exactly two people, two arms each, believable bed scale. A fully clothed departure will follow off-panel.",
+      "novel_volume": 2,
+      "novel_chapter": 20,
+      "lines": [],
+      "narration": "A noite de intimidade ficou fora de quadro. Pela manhã, o lençol ainda os cobria. O turno e as escolhas do dia seguinte seriam feitos juntos, sem transformar o afeto em privilégio."
+    }
+  ]
+}

@@ -14,7 +14,7 @@
   </div>
 </section>
 <div class="twilight-content twilight-arc-content" data-episode-browser>
-  <div class="twilight-heading"><div><p class="twilight-kicker">{{ arc.status }}</p><h2>Explore os episódios</h2></div><span>{{ episodes|length }} episódios · {{ pages|length }} páginas</span></div>
+  <div class="twilight-heading"><div><p class="twilight-kicker">{{ arc.status }}</p><h2>Explore os episódios</h2></div><span>{{ episodes|length }} episódio{{ episodes|length|pluralize:"s" }} · {{ pages|length }} página{{ pages|length|pluralize:"s" }}</span></div>
   <div class="twilight-episode-picker">
     <button class="twilight-rail-arrow" type="button" data-scroll-rail="episodes" data-direction="-1" aria-label="Episódios anteriores">←</button>
     <nav class="twilight-episode-rail" data-rail="episodes" aria-label="Episódios do arco">
