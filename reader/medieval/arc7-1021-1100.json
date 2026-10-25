@@ -1,0 +1,3231 @@
+{
+  "chapters": [
+    {
+      "title": "A noite do espelho",
+      "start": 1021,
+      "end": 1030
+    },
+    {
+      "title": "O custo de Mira",
+      "start": 1031,
+      "end": 1040
+    },
+    {
+      "title": "Rostos e verdades",
+      "start": 1041,
+      "end": 1049
+    },
+    {
+      "title": "O silêncio escolhido",
+      "start": 1050,
+      "end": 1058
+    },
+    {
+      "title": "Medidas do fogo",
+      "start": 1059,
+      "end": 1066
+    },
+    {
+      "title": "Vento, força e cuidado",
+      "start": 1067,
+      "end": 1074
+    },
+    {
+      "title": "A hipótese de três",
+      "start": 1075,
+      "end": 1081
+    },
+    {
+      "title": "A escolha comum",
+      "start": 1082,
+      "end": 1088
+    },
+    {
+      "title": "Depois da noite",
+      "start": 1089,
+      "end": 1094
+    },
+    {
+      "title": "A última pergunta",
+      "start": 1095,
+      "end": 1100
+    }
+  ],
+  "pages": [
+    {
+      "number": 1021,
+      "title": "A primeira noite",
+      "time": "Dia 548 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "close; Na enfermaria leste, a curandeira desperta Runa brevemente para conferir olhos, fala e movimento das mãos. As faixas deixam olhos, nariz e boca livres. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Na enfermaria leste, a curandeira desperta Runa brevemente para conferir olhos, fala e movimento das mãos. As faixas deixam olhos, nariz e boca livres.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Siga meu dedo. Como se chama?",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Runa. Ainda estou aqui.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1022,
+      "title": "Sobreviver primeiro",
+      "time": "Dia 549 · amanhecer",
+      "place": "enfermaria-leste",
+      "cast": [
+        "curandeira",
+        "ordelia"
+      ],
+      "layout": "medium; À porta do leito, a curandeira explica a Ordelia que Runa sobreviveu à noite, mas inchaço e visão ainda exigem observação. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "À porta do leito, a curandeira explica a Ordelia que Runa sobreviveu à noite, mas inchaço e visão ainda exigem observação.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Ela passou pela noite. Ainda não sabemos sobre a visão.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Registre cada mudança, sem prometer o que não sabemos.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1023,
+      "title": "Água no corredor",
+      "time": "Dia 549 · manhã",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "nima",
+        "curandeira"
+      ],
+      "layout": "medium; Nima, com costela enfaixada e gorro na mão, espera autorização para levar água limpa a Runa; a curandeira limita a visita. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima, com costela enfaixada e gorro na mão, espera autorização para levar água limpa a Runa; a curandeira limita a visita.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Posso ao menos levar uma bacia?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Quando ela acordar. Primeiro você vai sentar.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1024,
+      "title": "O pedido de Runa",
+      "time": "Dia 549 · tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "close; A curandeira troca compressas. Runa pede o espelho; a mão treme e a curandeira oferece ficar com ela quando estiver pronta. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "A curandeira troca compressas. Runa pede o espelho; a mão treme e a curandeira oferece ficar com ela quando estiver pronta.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Quero ver meu rosto.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Eu fico ao seu lado. Não precisa ser agora.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1025,
+      "title": "Dois quartos adiante",
+      "time": "Dia 549 · tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "ilyan",
+        "sere"
+      ],
+      "layout": "medium; Em outro leito, Ilyan sob cobertores continua tremendo e pergunta por Runa. Sere oferece apenas notícia verdadeira. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Em outro leito, Ilyan sob cobertores continua tremendo e pergunta por Runa. Sere oferece apenas notícia verdadeira.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela está viva?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Está. A curandeira acompanha cada hora.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1026,
+      "title": "Sem sentença",
+      "time": "Dia 549 · tarde",
+      "place": "arquivo-escola",
+      "cast": [
+        "ordelia",
+        "eda"
+      ],
+      "layout": "desk; Ordelia separa o prontuário de Runa do relatório da cava. Eda aponta impactos humanos sem atribuir autor que não viu. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ordelia separa o prontuário de Runa do relatório da cava. Eda aponta impactos humanos sem atribuir autor que não viu.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A lesão não veio toda do Oco.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Isso entra no registro. A autoria exige depoimentos.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1027,
+      "title": "O vidro azul",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa"
+      ],
+      "layout": "wide; Sozinha e acordada, Runa coloca bacia limpa diante do espelho antigo na parede norte. A pequena peça azul fica atrás da borda inferior; lamparina distante da cortina. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Sozinha e acordada, Runa coloca bacia limpa diante do espelho antigo na parede norte. A pequena peça azul fica atrás da borda inferior; lamparina distante da cortina.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Só quero saber o que ficou.",
+          "balloon": {
+            "x": 32,
+            "y": 9,
+            "w": 36,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1028,
+      "title": "O rosto sob a faixa",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa"
+      ],
+      "layout": "mirror; No espelho Runa vê um olho inchado, lábio ferido, manchas e faixas com aberturas. Toca a moldura em vez da pele. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "No espelho Runa vê um olho inchado, lábio ferido, manchas e faixas com aberturas. Toca a moldura em vez da pele.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Líria conseguiu me tirar até o rosto...",
+          "balloon": {
+            "x": 32,
+            "y": 9,
+            "w": 36,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1029,
+      "title": "Contra o vento",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa"
+      ],
+      "layout": "detail; A água da bacia se move contra a corrente de ar; o vidro azul acende uma meia-lua tênue. Runa afasta a mão, alerta. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "A água da bacia se move contra a corrente de ar; o vidro azul acende uma meia-lua tênue. Runa afasta a mão, alerta.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Isso não foi o vento.",
+          "balloon": {
+            "x": 32,
+            "y": 9,
+            "w": 36,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1030,
+      "title": "A mulher no reflexo",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "mira"
+      ],
+      "layout": "mirror; Primeira aparição de Mira como projeção apenas dentro do espelho: mulher adulta de traços aparentados a Ilyan, cabelo preto longo ondulado, sem franja; Runa diante da bacia. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Primeira aparição de Mira como projeção apenas dentro do espelho: mulher adulta de traços aparentados a Ilyan, cabelo preto longo ondulado, sem franja; Runa diante da bacia.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Mira",
+          "text": "Meu nome é Mira.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A mãe de Ilyan?",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1031,
+      "title": "Uma presença, não um lugar",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "mira"
+      ],
+      "layout": "mirror; Runa encara Mira no espelho e pergunta se vive. Mira explica que a projeção espiritual não revela onde está o corpo. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa encara Mira no espelho e pergunta se vive. Mira explica que a projeção espiritual não revela onde está o corpo.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você está viva?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Mira",
+          "text": "Isto é uma projeção. Não prova onde está meu corpo.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1032,
+      "title": "A peça antiga",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "mira",
+        "runa"
+      ],
+      "layout": "detail; Mira indica a peça de vidro azul instalada por ela anos antes; a perturbação da cava abriu um caminho estreito de água e calor armazenado. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Mira indica a peça de vidro azul instalada por ela anos antes; a perturbação da cava abriu um caminho estreito de água e calor armazenado.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Mira",
+          "text": "Fiz este espelho antes de Ilyan nascer. A cava abriu uma passagem curta.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então a meia-lua é sua.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1033,
+      "title": "Por que Runa",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "mira"
+      ],
+      "layout": "two-shot; Mira explica que Runa ajudou Ilyan a escolher aprender e que a própria vida da jovem tem valor; nenhuma profecia a torna ferramenta. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Mira explica que Runa ajudou Ilyan a escolher aprender e que a própria vida da jovem tem valor; nenhuma profecia a torna ferramenta.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Por que veio a mim?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Mira",
+          "text": "Você importa por si. E o ajudou a querer aprender.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1034,
+      "title": "Responder viva",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "mira"
+      ],
+      "layout": "close; Runa confessa que desobedeceu a retirada na calha. Mira não absolve a imprudência; oferece ajuda para que ela possa responder pelo feito. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa confessa que desobedeceu a retirada na calha. Mira não absolve a imprudência; oferece ajuda para que ela possa responder pelo feito.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Eu lutei quando mandaram recuar.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Mira",
+          "text": "Então fique viva para responder por isso.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1035,
+      "title": "Água e panos limpos",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "medium; Runa chama a curandeira, que troca a água e os panos e afasta a lamparina da cortina; Mira só aparece no espelho para Runa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa chama a curandeira, que troca a água e os panos e afasta a lamparina da cortina; Mira só aparece no espelho para Runa.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Quero tentar uma condução guiada. Pode ficar?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Com água limpa e você me dizendo se a dor mudar.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1036,
+      "title": "O preço na compressa",
+      "time": "Dia 549 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "detail; Água limpa sobe pela compressa contra a gravidade; Mira a guia do reflexo, invisível à curandeira. Runa sente dor e exige pausa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Água limpa sobe pela compressa contra a gravidade; Mira a guia do reflexo, invisível à curandeira. Runa sente dor e exige pausa.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Pare um instante. Está doendo.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Paramos. Seu corpo decide o ritmo.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1037,
+      "title": "Fechar não é curar",
+      "time": "Dia 550 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "mira",
+        "runa"
+      ],
+      "layout": "mirror; Na segunda aparição no espelho, Mira ensina que cortes precisam ser limpos antes de fechar e que golpes na cabeça exigem exames constantes. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Na segunda aparição no espelho, Mira ensina que cortes precisam ser limpos antes de fechar e que golpes na cabeça exigem exames constantes.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Mira",
+          "text": "Fechar sujeira dentro da pele não é curar.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Pedirei outro exame dos olhos.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1038,
+      "title": "Calor guardado",
+      "time": "Dia 550 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "mira",
+        "runa"
+      ],
+      "layout": "detail; A meia-lua do vidro azul perde brilho enquanto a água conduz sais e calor às feridas; Mira explica que a bênção de Aurel não dispensa fonte nem custo. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "A meia-lua do vidro azul perde brilho enquanto a água conduz sais e calor às feridas; Mira explica que a bênção de Aurel não dispensa fonte nem custo.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Poder de Aurel não bastaria?",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Mira",
+          "text": "Nem uma bênção põe água onde não há.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1039,
+      "title": "O aviso ao filho",
+      "time": "Dia 551 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "mira",
+        "runa"
+      ],
+      "layout": "mirror; A projeção já translúcida pede que Runa avise Oru: o novo dom de Ilyan pode roubar calor demais do próprio corpo. Runa tenta perguntar o paradeiro dela. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "A projeção já translúcida pede que Runa avise Oru: o novo dom de Ilyan pode roubar calor demais do próprio corpo. Runa tenta perguntar o paradeiro dela.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Mira",
+          "text": "Avise Oru. O frio pode matar Ilyan.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E onde você está, Mira?",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1040,
+      "title": "Somente o reflexo",
+      "time": "Dia 552 · manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "medium; A curandeira retira faixas: rosto e costela recuperados, visão normal após novo teste. Runa ainda exausta olha espelho apagado; sem resposta de Mira. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "A curandeira retira faixas: rosto e costela recuperados, visão normal após novo teste. Runa ainda exausta olha espelho apagado; sem resposta de Mira.",
+      "novel_volume": 2,
+      "novel_chapter": 13,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "A pele voltou. Agora descanse e recupere forças.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "O espelho não responde mais.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1041,
+      "title": "Andar outra vez",
+      "time": "Dia 553 · manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "layout": "medium; Runa caminha pelo corredor com rosto restaurado e corpo ainda cansado. A curandeira insiste em repouso e exames após a cura acelerada. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa caminha pelo corredor com rosto restaurado e corpo ainda cansado. A curandeira insiste em repouso e exames após a cura acelerada.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Sua pele está inteira. Seu cansaço continua real.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vou subir só até o arquivo.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1042,
+      "title": "Registro separado",
+      "time": "Dia 553 · manhã",
+      "place": "arquivo-escola",
+      "cast": [
+        "runa",
+        "ordelia"
+      ],
+      "layout": "desk; Ordelia recebe de Runa anotações sobre Mira no espelho e coloca o relato num envelope separado da investigação da cava, sem declarar seu paradeiro. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ordelia recebe de Runa anotações sobre Mira no espelho e coloca o relato num envelope separado da investigação da cava, sem declarar seu paradeiro.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Registrarei o encontro como testemunho seu.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Sem escrever que sabemos onde Mira está.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1043,
+      "title": "O aviso a Oru",
+      "time": "Dia 553 · manhã",
+      "place": "sala-elementos",
+      "cast": [
+        "runa",
+        "oru"
+      ],
+      "layout": "medium; Runa entrega a Oru o alerta sobre o calor roubado do corpo de Ilyan. O gnomo anota limite e exige acompanhamento médico. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa entrega a Oru o alerta sobre o calor roubado do corpo de Ilyan. O gnomo anota limite e exige acompanhamento médico.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Mira disse que ele pode morrer de frio tentando acender.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Então a primeira regra é não tentar sozinho.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1044,
+      "title": "Um nome junto ao leito",
+      "time": "Dia 553 · tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "two-shot; Ilyan já consegue levantar-se com cuidado. Runa senta junto a ele e conta que viu Mira no espelho antigo. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan já consegue levantar-se com cuidado. Runa senta junto a ele e conta que viu Mira no espelho antigo.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Vi sua mãe. Ela disse o próprio nome.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Você viu Mira?",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1045,
+      "title": "A pergunta de Ilyan",
+      "time": "Dia 553 · tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "layout": "close; Ilyan pede detalhes do rosto de Mira e pergunta por que ela se mostrou a Runa, não ao filho. Runa não inventa resposta. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan pede detalhes do rosto de Mira e pergunta por que ela se mostrou a Runa, não ao filho. Runa não inventa resposta.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Por que ela falou com você e não comigo?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "A água e o vidro abriram só aquele instante. Não sei mais.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1046,
+      "title": "O espelho apagado",
+      "time": "Dia 553 · tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "layout": "mirror; Oru acompanha Ilyan até o espelho norte. A peça azul está opaca e uma bacia imóvel não repete a projeção. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Oru acompanha Ilyan até o espelho norte. A peça azul está opaca e uma bacia imóvel não repete a projeção.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela estava aqui.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "O vidro ainda está. A passagem, não.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1047,
+      "title": "O rosto recuperado",
+      "time": "Dia 553 · tarde",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "layout": "wide; Ilyan segura com cuidado o rosto restaurado de Runa e a beija. Ao fundo Nima presencia o reencontro, aliviada e ferida, e se afasta sem interromper. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan segura com cuidado o rosto restaurado de Runa e a beija. Ao fundo Nima presencia o reencontro, aliviada e ferida, e se afasta sem interromper.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Tive medo de não poder tocar seu rosto outra vez.",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Estou aqui.",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1048,
+      "title": "A dobradiça",
+      "time": "Dia 553 · tarde",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "medium; Nima repara uma dobradiça da janela da enfermaria num banco baixo, ferramenta na mão. Runa se aproxima para agradecer. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima repara uma dobradiça da janela da enfermaria num banco baixo, ferramenta na mão. Runa se aproxima para agradecer.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Você ficou para consertar isso?",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Eu sei trabalhar melhor quando as mãos têm tarefa.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1049,
+      "title": "O que Nima viu",
+      "time": "Dia 553 · tarde",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "close; Nima descreve a última sequência dos golpes na calha sem alegar ter visto o início. Runa reconhece que abandonou a retirada e alimentou a disputa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima descreve a última sequência dos golpes na calha sem alegar ter visto o início. Runa reconhece que abandonou a retirada e alimentou a disputa.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Vi os golpes finais. Não vi o começo.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu desafiei a ordem de retirada.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1050,
+      "title": "Uma linha cruzada",
+      "time": "Dia 553 · tarde",
+      "place": "corredor-ala-leste",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "two-shot; Sentadas no banco, Nima distingue a imprudência de ambas da agressão grave de Líria após cessar a magia. Runa não pede absolvição. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Sentadas no banco, Nima distingue a imprudência de ambas da agressão grave de Líria após cessar a magia. Runa não pede absolvição.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Vocês erraram na calha. Depois ela cruzou outra linha.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu sei. Ainda ouço cada golpe.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1051,
+      "title": "Prontuário verdadeiro",
+      "time": "Dia 553 · tarde",
+      "place": "arquivo-escola",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "layout": "desk; Runa mostra a Nima o prontuário real: impactos humanos registrados, autora ainda não definida formalmente, práticas das rivais separadas. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa mostra a Nima o prontuário real: impactos humanos registrados, autora ainda não definida formalmente, práticas das rivais separadas.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Os ferimentos estão escritos. Não os apaguei.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Mas Ilyan não sabe quem os causou.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1052,
+      "title": "Silêncio com prazo",
+      "time": "Dia 553 · tarde",
+      "place": "arquivo-escola",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "close; Nima aceita não contar a Ilyan a autoria dos golpes enquanto Runa decide como prestar relato, mas insiste que a escola e médicos recebam verdade. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima aceita não contar a Ilyan a autoria dos golpes enquanto Runa decide como prestar relato, mas insiste que a escola e médicos recebam verdade.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Não mentirei à curandeira nem à escola.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Peço só tempo antes de contar a ele.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1053,
+      "title": "Um fecho de latão",
+      "time": "Dia 555 · manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "detail; Nima oferece a Runa uma pequena peça de latão para prender o cabelo sem puxar a tatuagem durante as compressas; Runa demonstra o gesto. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima oferece a Runa uma pequena peça de latão para prender o cabelo sem puxar a tatuagem durante as compressas; Runa demonstra o gesto.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "A dobradiça menor serve para seu cabelo.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Você pensou na minha mão ferida.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1054,
+      "title": "Três caminhos da água",
+      "time": "Dia 555 · tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "layout": "desk; No suporte do espelho apagado, Nima pergunta por que a água se divide em três caminhos num tubo de duas saídas. Runa redesenha o esquema. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "No suporte do espelho apagado, Nima pergunta por que a água se divide em três caminhos num tubo de duas saídas. Runa redesenha o esquema.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Duas saídas. De onde vem o terceiro fluxo?",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Da junta. Eu deixei de medi-la.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1055,
+      "title": "Além da infância",
+      "time": "Dia 556 · noite",
+      "place": "patio-central",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "layout": "two-shot; Sob o céu do pátio, Runa pergunta o que Nima ama em Ilyan além do hábito da infância. Nima fala da escuta, teimosia e pedidos de perdão. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Sob o céu do pátio, Runa pergunta o que Nima ama em Ilyan além do hábito da infância. Nima fala da escuta, teimosia e pedidos de perdão.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O que você ama nele agora?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Ele escuta antes de bater. E volta quando erra.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1056,
+      "title": "Nenhuma paz",
+      "time": "Dia 557 · manhã",
+      "place": "patio-central",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "layout": "wide; Líria, pulso ainda imobilizado, cruza o pátio. Vê o rosto curado de Runa. As duas trocam olhar hostil, mantêm distância imposta; não se reconciliam. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Líria, pulso ainda imobilizado, cruza o pátio. Vê o rosto curado de Runa. As duas trocam olhar hostil, mantêm distância imposta; não se reconciliam.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Seu rosto voltou.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "O que aconteceu não desapareceu.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1057,
+      "title": "Relato incompleto",
+      "time": "Dia 557 · tarde",
+      "place": "arquivo-escola",
+      "cast": [
+        "runa",
+        "ordelia"
+      ],
+      "layout": "desk; Ordelia toma depoimento adicional. Runa admite desobediência, uso de água e golpes após o fim do duelo; ainda não nomeia formalmente a autora. Ordelia mantém restrições. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ordelia toma depoimento adicional. Runa admite desobediência, uso de água e golpes após o fim do duelo; ainda não nomeia formalmente a autora. Ordelia mantém restrições.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Sem mediadora, vocês não dividirão prática.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não estou pedindo para dividir.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1058,
+      "title": "Passeio possível",
+      "time": "Dia 558 · manhã",
+      "place": "patio-central",
+      "cast": [
+        "ilyan",
+        "nima",
+        "runa"
+      ],
+      "layout": "wide; Ilyan convida Nima a caminhar pela cidade quando puder; Runa os vê do pátio e percebe que a amizade entre ela e Nima já resiste ao ciúme. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan convida Nima a caminhar pela cidade quando puder; Runa os vê do pátio e percebe que a amizade entre ela e Nima já resiste ao ciúme.",
+      "novel_volume": 2,
+      "novel_chapter": 14,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Me mostra a cidade no meu dia livre?",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Sem conversa ensaiada. Só caminhada.",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1059,
+      "title": "Termômetro e manta",
+      "time": "Dia 559 · manhã",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "ilyan",
+        "curandeira"
+      ],
+      "layout": "desk; Oru inicia treino supervisionado de Ilyan com termômetro de água, manta, fibra seca e curandeira presente; não há chama ainda. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Oru inicia treino supervisionado de Ilyan com termômetro de água, manta, fibra seca e curandeira presente; não há chama ainda.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Antes do fogo, mediremos o frio.",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não quer ver se consigo de novo?",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1060,
+      "title": "A memória que falta",
+      "time": "Dia 559 · manhã",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "close; Oru pergunta quanto tempo Ilyan levou para sentir os pés após a cava. A lacuna na memória do rapaz prova o risco de perder a medida. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Oru pergunta quanto tempo Ilyan levou para sentir os pés após a cava. A lacuna na memória do rapaz prova o risco de perder a medida.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Quanto demorou para sentir os pés?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não lembro. Isso é pior que a cicatriz?",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1061,
+      "title": "Combustível real",
+      "time": "Dia 559 · tarde",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "detail; Oru põe fibra seca sob agulha de cobre, demonstra ar livre e explica que Ilyan concentra calor corporal em combustível existente, sem criar matéria. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Oru põe fibra seca sob agulha de cobre, demonstra ar livre e explica que Ilyan concentra calor corporal em combustível existente, sem criar matéria.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Sem fibra ou madeira, não há chama a iniciar.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E o calor sai de mim.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1062,
+      "title": "Uma agulha morna",
+      "time": "Dia 559 · tarde",
+      "place": "sala-elementos",
+      "cast": [
+        "ilyan",
+        "curandeira"
+      ],
+      "layout": "detail; Sob medida da curandeira, Ilyan aquece só a ponta da agulha por uma fração; os dedos esfriam e ele se senta antes de insistir. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Sob medida da curandeira, Ilyan aquece só a ponta da agulha por uma fração; os dedos esfriam e ele se senta antes de insistir.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Foi só um pouco.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Foi o suficiente por hoje. A cor precisa voltar aos dedos.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1063,
+      "title": "Fumaça sem triunfo",
+      "time": "Dia 561 · manhã",
+      "place": "sala-elementos",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "layout": "medium; Na segunda sessão, uma única fibra seca fumega. Oru a apaga antes da chama e registra o tempo de recuperação de Ilyan. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Na segunda sessão, uma única fibra seca fumega. Oru a apaga antes da chama e registra o tempo de recuperação de Ilyan.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Eu podia ter acendido.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "E podia ter caído. O repouso faz parte da medida.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1064,
+      "title": "O aviso não é licença",
+      "time": "Dia 561 · manhã",
+      "place": "sala-elementos",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "two-shot; Da porta, Runa mostra a anotação de Mira sobre frio mortal. Não controla o treino; lembra Ilyan do limite que a mãe indicou. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Da porta, Runa mostra a anotação de Mira sobre frio mortal. Não controla o treino; lembra Ilyan do limite que a mãe indicou.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ela avisou do perigo. Não mandou provar coragem.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu ouvi. Ainda preciso aprender.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1065,
+      "title": "Fitas no vento",
+      "time": "Dia 561 · tarde",
+      "place": "cerca-norte",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "wide; Na cerca segura, Sere usa três fitas e uma pena. Caio desvia o ar perto demais da mão e a pena de madeira lhe arranha o braço. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Na cerca segura, Sere usa três fitas e uma pena. Caio desvia o ar perto demais da mão e a pena de madeira lhe arranha o braço.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Leia a corrente antes de tocar na pena.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Entrei cedo demais nela.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1066,
+      "title": "Um desvio seguro",
+      "time": "Dia 561 · tarde",
+      "place": "cerca-norte",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "action; Na terceira tentativa supervisionada, Caio desvia uma pena sem alterar a flecha seguinte. Sere elogia a segurança, não a potência. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Na terceira tentativa supervisionada, Caio desvia uma pena sem alterar a flecha seguinte. Sere elogia a segurança, não a potência.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Desta vez foi bom?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Foi seguro. Isso é mais difícil.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1067,
+      "title": "Sem arco nem formulário",
+      "time": "Dia 562 · tarde",
+      "place": "patio-central",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "two-shot; Depois do turno, Sere e Caio caminham rumo à estufa sem equipamento, falam da amiga herborista dela e do irmão de Caio. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Depois do turno, Sere e Caio caminham rumo à estufa sem equipamento, falam da amiga herborista dela e do irmão de Caio.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Usei a perda do meu irmão para julgar outros.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Você pode escolher diferente agora.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1068,
+      "title": "Um jantar escolhido",
+      "time": "Dia 562 · tarde",
+      "place": "patio-central",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "medium; Caio convida Sere para jantar na taberna no dia livre. Ela confirma que não é sua avaliadora naquela semana e aceita por escolha. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Caio convida Sere para jantar na taberna no dia livre. Ela confirma que não é sua avaliadora naquela semana e aceita por escolha.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Janta comigo quando estivermos livres?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Sim. Nesta semana não avalio você.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1069,
+      "title": "Antes da força",
+      "time": "Dia 562 · tarde",
+      "place": "patio-treino",
+      "cast": [
+        "tovo",
+        "oru"
+      ],
+      "layout": "wide; Tovo move primeiro saco de areia usando carrinho e alavanca, sem ampliar músculo; Oru observa postura do joelho. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Tovo move primeiro saco de areia usando carrinho e alavanca, sem ampliar músculo; Oru observa postura do joelho.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Consigo mover sem magia.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Então temos uma medida honesta para comparar.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1070,
+      "title": "Um único batimento",
+      "time": "Dia 562 · tarde",
+      "place": "patio-treino",
+      "cast": [
+        "tovo",
+        "oru"
+      ],
+      "layout": "action; Tovo amplia força por um batimento e ergue parte da carga, devolvendo antes de sobrecarregar joelho e ombro; Oru marca duração. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Tovo amplia força por um batimento e ergue parte da carga, devolvendo antes de sobrecarregar joelho e ombro; Oru marca duração.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Solte antes que o joelho compense.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Já soltei. Senti o preço.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1071,
+      "title": "A outra ponta",
+      "time": "Dia 562 · entardecer",
+      "place": "patio-treino",
+      "cast": [
+        "tovo",
+        "caio"
+      ],
+      "layout": "medium; Tovo enjoado recusa erguer caixa sozinho. Caio segura a outra ponta; ambos a levam com esforço comum, sem magia. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Tovo enjoado recusa erguer caixa sozinho. Caio segura a outra ponta; ambos a levam com esforço comum, sem magia.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Hoje eu não carrego sozinho.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Eu pego a outra ponta.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1072,
+      "title": "Sopa que não pesa",
+      "time": "Dia 562 · noite",
+      "place": "cozinha-casa",
+      "cast": [
+        "tovo",
+        "nima",
+        "runa"
+      ],
+      "layout": "wide; Tovo serve sopa de raízes sem avental e sem dor nos braços. Nima pergunta sobre força desejada; Runa chega ao ouvir a risada dela. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Tovo serve sopa de raízes sem avental e sem dor nos braços. Nima pergunta sobre força desejada; Runa chega ao ouvir a risada dela.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Que força você escolheria sem preço?",
+          "balloon": {
+            "x": 35,
+            "y": 4,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Amigos que perguntam quando finjo estar bem.",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1073,
+      "title": "Cuidado, não milagre",
+      "time": "Dia 563 · manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira",
+        "beren"
+      ],
+      "layout": "detail; Sob curandeira, Runa usa água limpa para lavar arranhão superficial de Beren e retirar grãos; não reconstrói pele instantaneamente. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Sob curandeira, Runa usa água limpa para lavar arranhão superficial de Beren e retirar grãos; não reconstrói pele instantaneamente.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Água limpa primeiro. Depois repouso.",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Curandeira",
+          "text": "Exatamente. Não chame isso de milagre.",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1074,
+      "title": "Uma chama minúscula",
+      "time": "Dia 563 · tarde",
+      "place": "sala-elementos",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "layout": "close; Ilyan concentra calor num fio de fibra seca, acende chama menor que unha sob supervisão. Oru apaga com tampa de cobre e oferece caldo; Ilyan tem mãos frias. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan concentra calor num fio de fibra seca, acende chama menor que unha sob supervisão. Oru apaga com tampa de cobre e oferece caldo; Ilyan tem mãos frias.",
+      "novel_volume": 2,
+      "novel_chapter": 15,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Acendeu... e eu ainda estou aqui.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Agora caldo e repouso. Não há segunda tentativa hoje.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1075,
+      "title": "Bilhete de volta",
+      "time": "Dia 565 · manhã",
+      "place": "portao-sul",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "medium; Nima compra assento na carroça regular do dia 569 e mostra o bilhete a Runa. Runa pede que jantem antes de arrumar ferramentas. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima compra assento na carroça regular do dia 569 e mostra o bilhete a Runa. Runa pede que jantem antes de arrumar ferramentas.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "A carroça sai no dia 569.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então jante comigo antes de guardar tudo.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1076,
+      "title": "Não é só gratidão",
+      "time": "Dia 565 · noite",
+      "place": "patio-central",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "layout": "two-shot; No banco da galeria, Runa confessa afeto e atração por Nima além da gratidão pela calha. Nima escuta sem toque apressado. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "No banco da galeria, Runa confessa afeto e atração por Nima além da gratidão pela calha. Nima escuta sem toque apressado.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Gosto de você por quem é, não por ter me salvado.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Preciso acreditar nisso antes de responder.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1077,
+      "title": "Nenhum presente",
+      "time": "Dia 565 · noite",
+      "place": "patio-central",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "close; Nima estabelece que não será consolo para culpa nem presente a Ilyan; uma possibilidade entre três exigiria conversa individual e escolha livre. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima estabelece que não será consolo para culpa nem presente a Ilyan; uma possibilidade entre três exigiria conversa individual e escolha livre.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Não serei presente para Ilyan nem remédio para sua culpa.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Nem eu aceitaria isso. Falaremos com ele sem decidir por ele.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1078,
+      "title": "A proposta",
+      "time": "Dia 566 · tarde",
+      "place": "quarto-cedro",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "two-shot; Após exercício de fogo, Runa conta a Ilyan o que sente por Nima e pergunta se ele imagina relação escolhida pelos três. Ele se ergue assustado. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Após exercício de fogo, Runa conta a Ilyan o que sente por Nima e pergunta se ele imagina relação escolhida pelos três. Ele se ergue assustado.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Acho que também posso amar Nima. Você conseguiria imaginar nós três?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Você está me testando?",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1079,
+      "title": "Voz alta",
+      "time": "Dia 566 · tarde",
+      "place": "quarto-cedro",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "layout": "close; Ilyan eleva a voz: ama Runa e teme machucar a amiga de infância, cuja confissão recusara. Runa pede que ele não atribua intenção sem ouvi-la. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan eleva a voz: ama Runa e teme machucar a amiga de infância, cuja confissão recusara. Runa pede que ele não atribua intenção sem ouvi-la.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Nima é minha amiga desde criança. Isso é absurdo!",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não decida meu motivo antes de me ouvir.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1080,
+      "title": "A porta se abre",
+      "time": "Dia 566 · tarde",
+      "place": "quarto-cedro",
+      "cast": [
+        "nima",
+        "ilyan",
+        "runa"
+      ],
+      "layout": "wide; Nima bate e entra com a dobradiça prometida, ouvindo só o fim da discussão. Runa explica a proposta e a recusa sem esconder Nima como assunto. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima bate e entra com a dobradiça prometida, ouvindo só o fim da discussão. Runa explica a proposta e a recusa sem esconder Nima como assunto.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Ouvi meu nome. O que aconteceu?",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Falei de uma possibilidade entre nós três. Ilyan recusou.",
+          "balloon": {
+            "x": 67,
+            "y": 9,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1081,
+      "title": "Nima escolhe sair",
+      "time": "Dia 566 · tarde",
+      "place": "quarto-cedro",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "layout": "two-shot; Nima se irrita por ser tratada como incapaz de decidir, recusa um sim automático e sai levando a peça de metal; pede que falem baixo. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima se irrita por ser tratada como incapaz de decidir, recusa um sim automático e sai levando a peça de metal; pede que falem baixo.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Minha amizade não tira minha escolha.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu só não quero ferir você de novo.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1082,
+      "title": "Depois da voz",
+      "time": "Dia 566 · noite",
+      "place": "quarto-cedro",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "layout": "close; Ilyan pede desculpa por gritar. Runa reconhece o momento ruim após a cava e Mira; explica que afeto por Nima não substitui o amor por Ilyan. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan pede desculpa por gritar. Runa reconhece o momento ruim após a cava e Mira; explica que afeto por Nima não substitui o amor por Ilyan.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Desculpa pela minha voz.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Também escolhi uma hora difícil. Você não foi substituído.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1083,
+      "title": "A ponte comum",
+      "time": "Dia 567 · manhã",
+      "place": "valecobre",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "layout": "wide; Ilyan e Nima caminham por Valecobre; ela mostra mola para a porta da forja de Bram e ele confessa atração adulta sem prometer amor igual ao de Runa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan e Nima caminham por Valecobre; ela mostra mola para a porta da forja de Bram e ele confessa atração adulta sem prometer amor igual ao de Runa.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Talvez eu tenha sentido algo que não soube nomear.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Obrigada por não fingir uma certeza maior.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1084,
+      "title": "Uma tentativa honesta",
+      "time": "Dia 567 · manhã",
+      "place": "valecobre",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "layout": "medium; Ao lado da ponte pública, Nima diz que pode aceitar uma tentativa honesta, não solução apressada antes de partir. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ao lado da ponte pública, Nima diz que pode aceitar uma tentativa honesta, não solução apressada antes de partir.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Posso tentar. Não para deixar todos felizes antes da carroça.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então sem promessa que não consigo fazer.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1085,
+      "title": "Cartas sem cobrança",
+      "time": "Dia 567 · tarde",
+      "place": "patio-central",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "layout": "two-shot; Runa e Nima conversam sozinhas. Nima quer voltar a Pedra-Mansa sem cada carta cobrada como juramento; Runa quer poder dizer não sem perder afeto. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa e Nima conversam sozinhas. Nima quer voltar a Pedra-Mansa sem cada carta cobrada como juramento; Runa quer poder dizer não sem perder afeto.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Continuarei trabalhando com Bram. Minhas cartas serão minhas.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E qualquer uma de nós pode parar sem perder amizade.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1086,
+      "title": "Três vozes",
+      "time": "Dia 567 · noite",
+      "place": "quarto-cedro",
+      "cast": [
+        "runa",
+        "ilyan",
+        "nima"
+      ],
+      "layout": "wide; Os três declaram limites em voz alta: desejo sem obrigação, saída livre e conversa difícil preservada. Ninguém usa silêncio como consentimento. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Os três declaram limites em voz alta: desejo sem obrigação, saída livre e conversa difícil preservada. Ninguém usa silêncio como consentimento.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Uma noite não apaga o que ainda precisamos conversar.",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "E qualquer um pode dizer não, a qualquer hora.",
+          "balloon": {
+            "x": 67,
+            "y": 9,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1087,
+      "title": "Pedir antes do beijo",
+      "time": "Dia 568 · noite",
+      "place": "quarto-runa",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "layout": "medium; No quarto de Runa, porta ainda destrancada, Ilyan beija Runa e depois pede a Nima permissão para beijá-la. Runa permanece próxima, sem posse nem pressa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "No quarto de Runa, porta ainda destrancada, Ilyan beija Runa e depois pede a Nima permissão para beijá-la. Runa permanece próxima, sem posse nem pressa.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Nima, posso beijar você?",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Pode. Eu quero.",
+          "balloon": {
+            "x": 67,
+            "y": 9,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1088,
+      "title": "A lamparina apaga",
+      "time": "Dia 568 · noite",
+      "place": "quarto-runa",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "layout": "close; Runa e Nima se beijam e os três se aproximam num beijo compartilhado; cena consensual íntima, roupas ainda vestidas, lamparina prestes a ser apagada. A noite continua em elipse, sem corpo duplicado nem nudez explícita. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa e Nima se beijam e os três se aproximam num beijo compartilhado; cena consensual íntima, roupas ainda vestidas, lamparina prestes a ser apagada. A noite continua em elipse, sem corpo duplicado nem nudez explícita.",
+      "novel_volume": 2,
+      "novel_chapter": 16,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ainda querem ficar?",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Quero. Se vocês também quiserem.",
+          "balloon": {
+            "x": 67,
+            "y": 9,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1089,
+      "title": "Manhã de três",
+      "time": "Dia 569 · manhã",
+      "place": "quarto-runa",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "layout": "wide; Os três adultos tomam pão à mesa, vestidos, ainda sonolentos. A noite escolhida não transformou relação em juramento; Nima comenta a porta que range. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Os três adultos tomam pão à mesa, vestidos, ainda sonolentos. A noite escolhida não transformou relação em juramento; Nima comenta a porta que range.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Essa porta ainda vai cair antes da próxima carta.",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Você já me avisou disso por anos.",
+          "balloon": {
+            "x": 67,
+            "y": 9,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1090,
+      "title": "Um caminho só dela",
+      "time": "Dia 569 · manhã",
+      "place": "patio-central",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "layout": "medium; Nima ajusta fivela para a viagem e avisa que caminhará sozinha pela cidade antes da carroça. Runa admite que sentirá saudade. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Nima ajusta fivela para a viagem e avisa que caminhará sozinha pela cidade antes da carroça. Runa admite que sentirá saudade.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Quero andar pela cidade por minha conta hoje.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vou sentir falta de você.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1091,
+      "title": "A cava lacrada",
+      "time": "Dia 569 · manhã",
+      "place": "sala-conselho",
+      "cast": [
+        "ordelia",
+        "eda",
+        "beren"
+      ],
+      "layout": "desk; Ordelia, Eda e Beren revisam medidas da cava fechada; reentrada exige licença do conselho da Enseada e inspeção independente. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ordelia, Eda e Beren revisam medidas da cava fechada; reentrada exige licença do conselho da Enseada e inspeção independente.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A escora segura hoje. Não é autorização de entrada.",
+          "balloon": {
+            "x": 67,
+            "y": 4,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Solicitaremos medida externa antes de qualquer retorno.",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1092,
+      "title": "Nome fora do anúncio",
+      "time": "Dia 569 · manhã",
+      "place": "sala-conselho",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "desk; Oru mostra a Ilyan relatório da concentração térmica: duas fibras acesas sob supervisão, frio mensurável e repouso; o nome dele fica fora do informe público. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Oru mostra a Ilyan relatório da concentração térmica: duas fibras acesas sob supervisão, frio mensurável e repouso; o nome dele fica fora do informe público.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Seu nome não entra no anúncio da técnica.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Mira protegeu esse conhecimento. Também não vou apressá-lo.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1093,
+      "title": "O ritmo dos dois",
+      "time": "Dia 569 · tarde",
+      "place": "patio-central",
+      "cast": [
+        "caio",
+        "sere",
+        "tovo"
+      ],
+      "layout": "wide; Caio e Sere voltam da taberna, caminham no mesmo ritmo; Tovo nota, mas espera. O interesse existe sem apagar disciplina do treino. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Caio e Sere voltam da taberna, caminham no mesmo ritmo; Tovo nota, mas espera. O interesse existe sem apagar disciplina do treino.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "A música foi ruim para os dois?",
+          "balloon": {
+            "x": 67,
+            "y": 4,
+            "w": 30,
+            "target_x": 82,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Discordamos até sobre quem a escolheu.",
+          "balloon": {
+            "x": 35,
+            "y": 12,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1094,
+      "title": "Correção ainda necessária",
+      "time": "Dia 569 · tarde",
+      "place": "cerca-norte",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "action; Em prática leve, Sere corrige um desvio de vento de Caio por risco a terceiros. Ele aceita instrução sem ler afeto como indulgência. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Em prática leve, Sere corrige um desvio de vento de Caio por risco a terceiros. Ele aceita instrução sem ler afeto como indulgência.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Esse desvio pisaria na linha de tiro.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Verdade. Refaço da posição segura.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1095,
+      "title": "Sem folha limpa",
+      "time": "Dia 569 · tarde",
+      "place": "arquivo-escola",
+      "cast": [
+        "liria",
+        "oru"
+      ],
+      "layout": "desk; Líria, pulso melhor, entrega leitura de fratura. Oru mantém supervisão e separação de Runa, sem absolvição ou reconciliação. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Líria, pulso melhor, entrega leitura de fratura. Oru mantém supervisão e separação de Runa, sem absolvição ou reconciliação.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Ainda sou aluna?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Enquanto aceitar a apuração e não ferir ninguém outra vez.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1096,
+      "title": "Portão sul",
+      "time": "Dia 569 · entardecer",
+      "place": "portao-sul",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "layout": "close; Runa acompanha Nima ao portão sul. Falam sobre cartas demoradas, ciúme sincero e vidas separadas; beijam-se sem plateia. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Runa acompanha Nima ao portão sul. Falam sobre cartas demoradas, ciúme sincero e vidas separadas; beijam-se sem plateia.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Uma semana de estrada não cabe num beijo.",
+          "balloon": {
+            "x": 55,
+            "y": 4,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Escreverei sobre mim, não só sobre Ilyan.",
+          "balloon": {
+            "x": 9,
+            "y": 12,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1097,
+      "title": "Ferro para Bram",
+      "time": "Dia 569 · entardecer",
+      "place": "portao-sul",
+      "cast": [
+        "ilyan",
+        "nima",
+        "runa"
+      ],
+      "layout": "medium; Ilyan chega com bolsa de Nima e lhe entrega pequeno ferro-eco comum para Bram reconhecer a liga. Os dois amigos se abraçam; Runa respeita o espaço. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Ilyan chega com bolsa de Nima e lhe entrega pequeno ferro-eco comum para Bram reconhecer a liga. Os dois amigos se abraçam; Runa respeita o espaço.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Mostre esta liga a Bram. Sem promessa presa nela.",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Minha primeira carta dirá se o eixo da carroça resistiu.",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1098,
+      "title": "Rodas e pousadas",
+      "time": "Dia 569 · entardecer",
+      "place": "portao-sul",
+      "cast": [
+        "nima",
+        "ilyan",
+        "runa"
+      ],
+      "layout": "wide; O condutor confere lona, passageiros e rodas antes de partir. Nima acena da carroça regular; Ilyan e Runa ficam no portão, sem teleporte ou retorno instantâneo. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "O condutor confere lona, passageiros e rodas antes de partir. Nima acena da carroça regular; Ilyan e Runa ficam no portão, sem teleporte ou retorno instantâneo.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Até a carta!",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 30,
+            "target_x": 18,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou esperar por ela.",
+          "balloon": {
+            "x": 35,
+            "y": 9,
+            "w": 30,
+            "target_x": 50,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1099,
+      "title": "A pergunta do caminho",
+      "time": "Dia 569 · crepúsculo",
+      "place": "patio-central",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "layout": "two-shot; No caminho ao dormitório, Ilyan pergunta por que Runa propôs a relação depois da crise. Receia ter ferido Nima e duvida do sentido do amor de Runa; ela distingue carinho por Nima de substituir Ilyan. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "No caminho ao dormitório, Ilyan pergunta por que Runa propôs a relação depois da crise. Receia ter ferido Nima e duvida do sentido do amor de Runa; ela distingue carinho por Nima de substituir Ilyan.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Por que arriscou nós dois? Você ainda me ama?",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Amo você. Também criei afeto por Nima, por quem ela é.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1100,
+      "title": "O que falta contar",
+      "time": "Dia 569 · crepúsculo",
+      "place": "sala-elementos",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "wide; Na Sala dos Elementos, junto a bacia, pedra, carvão apagado e fita, Runa admite haver algo da calha ainda não narrado. Ilyan não exige tudo naquela noite; ficam próximos, sem falsa reconciliação ou certeza sobre Mira. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Na Sala dos Elementos, junto a bacia, pedra, carvão apagado e fita, Runa admite haver algo da calha ainda não narrado. Ilyan não exige tudo naquela noite; ficam próximos, sem falsa reconciliação ou certeza sobre Mira.",
+      "novel_volume": 2,
+      "novel_chapter": 17,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Há uma parte da cava que ainda preciso contar.",
+          "balloon": {
+            "x": 9,
+            "y": 9,
+            "w": 36,
+            "target_x": 27,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Preciso de respostas. Não vou arrancá-las numa noite.",
+          "balloon": {
+            "x": 55,
+            "y": 9,
+            "w": 36,
+            "target_x": 73,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    }
+  ]
+}

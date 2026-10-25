@@ -2,7 +2,7 @@
 
 GitHub Pages builds the complete static export from source. Sites has a 256 MB
 expanded package limit, so its build uses the same published images for the
-original 96-page comic, the first 700 medieval pages and two established vector
+original 96-page comic, the first 850 medieval pages and three established vector
 pages while retaining the current arc art locally.
 """
 
@@ -37,7 +37,8 @@ for path in DIST.rglob("*.html"):
 if rewrites < 96:
     raise SystemExit("Too few image references were rewritten; local images were retained")
 
-vector_pages = [MEDIEVAL_ART / f"page-{number}.svg" for number in (133, 134)]
+vector_numbers = (133, 134, 766)
+vector_pages = [MEDIEVAL_ART / f"page-{number}.svg" for number in vector_numbers]
 if any(not path.is_file() for path in vector_pages):
     raise SystemExit("Expected both established vector pages before slimming the Sites bundle")
 vector_rewrites = {path.name: 0 for path in vector_pages}
@@ -60,11 +61,11 @@ ART.rmdir()
 
 early_medieval = [
     MEDIEVAL_ART / f"page-{number:02}.webp"
-    for number in range(1, 701)
-    if number not in (133, 134)  # These pages have SVG assets above.
+    for number in range(1, 851)
+    if number not in vector_numbers  # These pages have SVG assets above.
 ]
 if any(not path.is_file() for path in early_medieval):
-    raise SystemExit("Expected the first 700 medieval pages, apart from the two SVG pages")
+    raise SystemExit("Expected the first 850 medieval pages, apart from the two SVG pages")
 early_rewrites = 0
 for page in DIST.rglob("*.html"):
     html = page.read_text(encoding="utf-8")
