@@ -471,11 +471,11 @@
           "speaker": "Mira",
           "text": "Fiz este espelho antes de Ilyan nascer. A cava abriu uma passagem curta.",
           "balloon": {
-            "x": 9,
-            "y": 9,
-            "w": 36,
-            "target_x": 27,
-            "target_y": 34,
+            "x": 49,
+            "y": 3,
+            "w": 43,
+            "target_x": 29,
+            "target_y": 24,
             "kind": "normal"
           }
         },
@@ -484,10 +484,10 @@
           "text": "Então a meia-lua é sua.",
           "balloon": {
             "x": 55,
-            "y": 9,
-            "w": 36,
-            "target_x": 73,
-            "target_y": 34,
+            "y": 17,
+            "w": 38,
+            "target_x": 75,
+            "target_y": 40,
             "kind": "normal"
           }
         }
@@ -551,11 +551,11 @@
           "speaker": "Runa",
           "text": "Eu lutei quando mandaram recuar.",
           "balloon": {
-            "x": 9,
-            "y": 9,
-            "w": 36,
-            "target_x": 27,
-            "target_y": 34,
+            "x": 5,
+            "y": 5,
+            "w": 38,
+            "target_x": 29,
+            "target_y": 43,
             "kind": "normal"
           }
         },
@@ -563,11 +563,11 @@
           "speaker": "Mira",
           "text": "Então fique viva para responder por isso.",
           "balloon": {
-            "x": 55,
-            "y": 9,
-            "w": 36,
-            "target_x": 73,
-            "target_y": 34,
+            "x": 57,
+            "y": 5,
+            "w": 39,
+            "target_x": 77,
+            "target_y": 28,
             "kind": "normal"
           }
         }
@@ -751,11 +751,11 @@
           "speaker": "Mira",
           "text": "Avise Oru. O frio pode matar Ilyan.",
           "balloon": {
-            "x": 9,
-            "y": 9,
-            "w": 36,
-            "target_x": 27,
-            "target_y": 34,
+            "x": 56,
+            "y": 3,
+            "w": 40,
+            "target_x": 77,
+            "target_y": 26,
             "kind": "normal"
           }
         },
@@ -763,11 +763,11 @@
           "speaker": "Runa",
           "text": "E onde você está, Mira?",
           "balloon": {
-            "x": 55,
-            "y": 9,
-            "w": 36,
-            "target_x": 73,
-            "target_y": 34,
+            "x": 5,
+            "y": 23,
+            "w": 41,
+            "target_x": 26,
+            "target_y": 43,
             "kind": "normal"
           }
         }
@@ -868,26 +868,26 @@
       "novel_chapter": 14,
       "lines": [
         {
-          "speaker": "Ordelia",
-          "text": "Registrarei o encontro como testemunho seu.",
+          "speaker": "Runa",
+          "text": "Sem escrever que sabemos onde Mira está.",
           "balloon": {
-            "x": 55,
-            "y": 4,
-            "w": 36,
-            "target_x": 73,
-            "target_y": 34,
+            "x": 4,
+            "y": 2,
+            "w": 42,
+            "target_x": 29,
+            "target_y": 20,
             "kind": "normal"
           }
         },
         {
-          "speaker": "Runa",
-          "text": "Sem escrever que sabemos onde Mira está.",
+          "speaker": "Ordelia",
+          "text": "Registrarei o encontro como testemunho seu.",
           "balloon": {
-            "x": 9,
-            "y": 12,
-            "w": 36,
-            "target_x": 27,
-            "target_y": 34,
+            "x": 54,
+            "y": 2,
+            "w": 42,
+            "target_x": 72,
+            "target_y": 38,
             "kind": "normal"
           }
         }
@@ -2670,8 +2670,8 @@
         "runa",
         "nima"
       ],
-      "layout": "medium; No quarto de Runa, porta ainda destrancada, Ilyan beija Runa e depois pede a Nima permissão para beijá-la. Runa permanece próxima, sem posse nem pressa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
-      "scene": "No quarto de Runa, porta ainda destrancada, Ilyan beija Runa e depois pede a Nima permissão para beijá-la. Runa permanece próxima, sem posse nem pressa.",
+      "layout": "medium; No quarto de Runa, Ilyan se ajoelha à altura de Nima e pede permissão para beijá-la. Nima aceita; Runa observa ao lado. A aproximação é com Nima, não com Runa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "No quarto de Runa, Ilyan se ajoelha à altura de Nima e pede permissão para beijá-la. Nima aceita; Runa observa ao lado. A aproximação é com Nima, não com Runa.",
       "novel_volume": 2,
       "novel_chapter": 16,
       "lines": [
@@ -2679,10 +2679,10 @@
           "speaker": "Ilyan",
           "text": "Nima, posso beijar você?",
           "balloon": {
-            "x": 3,
-            "y": 9,
-            "w": 30,
-            "target_x": 18,
+            "x": 40,
+            "y": 3,
+            "w": 28,
+            "target_x": 55,
             "target_y": 34,
             "kind": "normal"
           }
@@ -2691,11 +2691,11 @@
           "speaker": "Nima",
           "text": "Pode. Eu quero.",
           "balloon": {
-            "x": 67,
-            "y": 9,
-            "w": 30,
-            "target_x": 82,
-            "target_y": 34,
+            "x": 70,
+            "y": 11,
+            "w": 27,
+            "target_x": 79,
+            "target_y": 36,
             "kind": "normal"
           }
         }
@@ -2711,8 +2711,8 @@
         "nima",
         "ilyan"
       ],
-      "layout": "close; Runa e Nima se beijam e os três se aproximam num beijo compartilhado; cena consensual íntima, roupas ainda vestidas, lamparina prestes a ser apagada. A noite continua em elipse, sem corpo duplicado nem nudez explícita. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
-      "scene": "Runa e Nima se beijam e os três se aproximam num beijo compartilhado; cena consensual íntima, roupas ainda vestidas, lamparina prestes a ser apagada. A noite continua em elipse, sem corpo duplicado nem nudez explícita.",
+      "layout": "close; Depois do consentimento de Nima, os beijos acontecem entre quadros. Os três se sentam próximos, ainda vestidos, e confirmam que querem passar a noite juntos; a lamparina se apaga em elipse. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Depois do consentimento de Nima, os beijos acontecem entre quadros. Os três se sentam próximos, ainda vestidos, e confirmam que querem passar a noite juntos; a lamparina se apaga em elipse.",
       "novel_volume": 2,
       "novel_chapter": 16,
       "lines": [
