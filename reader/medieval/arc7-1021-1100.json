@@ -2662,7 +2662,7 @@
     },
     {
       "number": 1087,
-      "title": "Pedir antes do beijo",
+      "title": "O beijo de Nima",
       "time": "Dia 568 · noite",
       "place": "quarto-runa",
       "cast": [
@@ -2670,8 +2670,8 @@
         "runa",
         "nima"
       ],
-      "layout": "medium; No quarto de Runa, Ilyan se ajoelha à altura de Nima e pede permissão para beijá-la. Nima aceita; Runa observa ao lado. A aproximação é com Nima, não com Runa. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
-      "scene": "No quarto de Runa, Ilyan se ajoelha à altura de Nima e pede permissão para beijá-la. Nima aceita; Runa observa ao lado. A aproximação é com Nima, não com Runa.",
+      "layout": "medium; No quarto de Runa, Ilyan se ajoelha à altura de Nima, uma gnoma adulta de baixa estatura, e pede permissão para beijá-la. Ela aceita e os dois se beijam claramente, de lábios unidos, enquanto Runa observa ao lado. Os três permanecem vestidos. Ilyan mantém rosto estreito e cabelos negros longos ondulados; Nima mantém cachos ruivos, gorro verde e óculos de trabalho; Runa mantém franja reta, piercing no septo e tatuagem floral. Balões acima dos falantes, sem cobrir os rostos ou o beijo.",
+      "scene": "No quarto de Runa, Ilyan se ajoelha à altura de Nima, uma gnoma adulta de baixa estatura, e pede permissão para beijá-la. Ela aceita e os dois se beijam claramente, de lábios unidos, enquanto Runa observa ao lado.",
       "novel_volume": 2,
       "novel_chapter": 16,
       "lines": [
@@ -2679,11 +2679,11 @@
           "speaker": "Ilyan",
           "text": "Nima, posso beijar você?",
           "balloon": {
-            "x": 40,
-            "y": 3,
+            "x": 39,
+            "y": 19,
             "w": 28,
-            "target_x": 55,
-            "target_y": 34,
+            "target_x": 59,
+            "target_y": 36,
             "kind": "normal"
           }
         },
@@ -2692,10 +2692,10 @@
           "text": "Pode. Eu quero.",
           "balloon": {
             "x": 70,
-            "y": 11,
+            "y": 20,
             "w": 27,
             "target_x": 79,
-            "target_y": 36,
+            "target_y": 38,
             "kind": "normal"
           }
         }
@@ -2711,8 +2711,8 @@
         "nima",
         "ilyan"
       ],
-      "layout": "close; Depois do consentimento de Nima, os beijos acontecem entre quadros. Os três se sentam próximos, ainda vestidos, e confirmam que querem passar a noite juntos; a lamparina se apaga em elipse. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
-      "scene": "Depois do consentimento de Nima, os beijos acontecem entre quadros. Os três se sentam próximos, ainda vestidos, e confirmam que querem passar a noite juntos; a lamparina se apaga em elipse.",
+      "layout": "close; Depois do beijo de Ilyan e Nima, mostrado na página anterior, os três se sentam próximos, ainda vestidos, e confirmam que querem passar a noite juntos; a lamparina se apaga em elipse. Personagens distintos em posições legíveis; cenário livre junto a cada falante; rostos, mãos e ação descobertos.",
+      "scene": "Depois do beijo de Ilyan e Nima, mostrado na página anterior, os três se sentam próximos, ainda vestidos, e confirmam que querem passar a noite juntos; a lamparina se apaga em elipse.",
       "novel_volume": 2,
       "novel_chapter": 16,
       "lines": [
