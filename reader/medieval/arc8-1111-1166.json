@@ -211,7 +211,7 @@
           "text": "Minha leitura da fratura vai com recibo. Runa não tocará no original.",
           "balloon": {
             "x": 3,
-            "y": 14,
+            "y": 8,
             "w": 43,
             "target_x": 28,
             "target_y": 34,
@@ -223,7 +223,7 @@
           "text": "A autoria fica registrada. Farei uma cópia de trabalho.",
           "balloon": {
             "x": 54,
-            "y": 14,
+            "y": 2,
             "w": 43,
             "target_x": 72,
             "target_y": 34,
@@ -504,7 +504,7 @@
           "text": "A saída está mais quente. Vou reduzir o fluxo antes de testar de novo.",
           "balloon": {
             "x": 3,
-            "y": 14,
+            "y": 8,
             "w": 43,
             "target_x": 28,
             "target_y": 34,
@@ -516,7 +516,7 @@
           "text": "Anote também a água que deve continuar nas casas.",
           "balloon": {
             "x": 54,
-            "y": 14,
+            "y": 2,
             "w": 43,
             "target_x": 72,
             "target_y": 34,
@@ -544,7 +544,7 @@
           "text": "Se eu empurrar, aumento a pressão na placa.",
           "balloon": {
             "x": 3,
-            "y": 14,
+            "y": 7,
             "w": 43,
             "target_x": 28,
             "target_y": 34,
@@ -556,7 +556,7 @@
           "text": "Então mede. Não transforma a rajada em prova.",
           "balloon": {
             "x": 54,
-            "y": 14,
+            "y": 7,
             "w": 43,
             "target_x": 72,
             "target_y": 34,
@@ -757,7 +757,7 @@
           "text": "Minha fratura é antiga. O calor recente pode agravá-la.",
           "balloon": {
             "x": 3,
-            "y": 14,
+            "y": 9,
             "w": 43,
             "target_x": 28,
             "target_y": 34,
@@ -769,7 +769,7 @@
           "text": "Seu crédito fica no relatório. A ofensa pessoal, fora dele.",
           "balloon": {
             "x": 54,
-            "y": 14,
+            "y": 2,
             "w": 43,
             "target_x": 72,
             "target_y": 34,
@@ -1642,7 +1642,7 @@
           "text": "Uma placa diferente não faz a ponte menor.",
           "balloon": {
             "x": 3,
-            "y": 14,
+            "y": 2,
             "w": 43,
             "target_x": 28,
             "target_y": 34,
@@ -1654,7 +1654,7 @@
           "text": "E um rosto sem marca não conta tudo que aconteceu.",
           "balloon": {
             "x": 54,
-            "y": 14,
+            "y": 7,
             "w": 43,
             "target_x": 72,
             "target_y": 34,
@@ -1894,4 +1894,3 @@
     }
   ]
 }
-

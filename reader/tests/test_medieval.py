@@ -139,8 +139,11 @@ def test_arc_eight_continuation_follows_book_and_speaker_positions():
     for page in pages:
         expected = [CANON["characters"][name]["name"].removeprefix("Mestra ") for name in page["cast"][:len(page["lines"])]]
         assert [line["speaker"] for line in page["lines"]] == expected
-        assert all(line["balloon"]["y"] >= 14 or page["number"] == 1146 for line in page["lines"])
-        assert all(line["balloon"]["target_y"] - line["balloon"]["y"] <= 20 or page["number"] == 1146 for line in page["lines"])
+        adjusted_pages = {1115, 1125, 1126, 1132, 1146, 1160}
+        assert all(line["balloon"]["y"] >= 14 or page["number"] in adjusted_pages for line in page["lines"])
+        assert all(line["balloon"]["target_y"] - line["balloon"]["y"] <= 20 or page["number"] in adjusted_pages for line in page["lines"])
+    for number, expected_y in {1115: [8, 2], 1125: [8, 2], 1126: [7, 7], 1132: [9, 2], 1160: [2, 7]}.items():
+        assert [line["balloon"]["y"] for line in PAGES_BY_NUMBER[number]["lines"]] == expected_y
     assert PAGES_BY_NUMBER[1165]["cast"] == ["liria", "runa"]
     assert PAGES_BY_NUMBER[1166]["cast"] == ["ilyan", "runa"]
     assert not PAGES_BY_NUMBER[1110]["lines"]
