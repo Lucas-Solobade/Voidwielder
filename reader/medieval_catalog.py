@@ -84,6 +84,9 @@ ARC_SEVEN["arc"]["chapters"].extend(ARC_SEVEN_FINALE["chapters"])
 ARC_SEVEN["pages"].extend(ARC_SEVEN_FINALE["pages"])
 ARC_SEVEN["arc"]["status"] = "Concluído"
 ARC_EIGHT = json.loads((STORY_DIR / "arc8-1101-1110.json").read_text(encoding="utf-8"))
+ARC_EIGHT_CONTINUED = json.loads((STORY_DIR / "arc8-1111-1166.json").read_text(encoding="utf-8"))
+ARC_EIGHT["arc"]["chapters"].extend(ARC_EIGHT_CONTINUED["chapters"])
+ARC_EIGHT["pages"].extend(ARC_EIGHT_CONTINUED["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

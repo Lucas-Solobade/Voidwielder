@@ -1,0 +1,1897 @@
+{
+  "chapters": [
+    {
+      "title": "Licenças e partida",
+      "start": 1111,
+      "end": 1118
+    },
+    {
+      "title": "Talveira e suas pontes",
+      "start": 1119,
+      "end": 1127
+    },
+    {
+      "title": "O registro de Mira",
+      "start": 1128,
+      "end": 1137
+    },
+    {
+      "title": "O calor e a fratura",
+      "start": 1138,
+      "end": 1147
+    },
+    {
+      "title": "Três batimentos",
+      "start": 1148,
+      "end": 1158
+    },
+    {
+      "title": "A passagem fechada",
+      "start": 1159,
+      "end": 1166
+    }
+  ],
+  "pages": [
+    {
+      "number": 1111,
+      "title": "Três selos",
+      "time": "Dia 576 · manhã",
+      "place": "sala-conselho",
+      "cast": [
+        "eda",
+        "ordelia"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Inside the school council chamber, Eda on LEFT spreads three distinct sealed permits across a wooden table while Ordelia on RIGHT verifies them. Both mature women remain fully visible; no extra people.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Talveira aceita observadores. Cada margem impõe seus próprios limites.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "E a Casa autoriza apenas os estudantes nomeados.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1112,
+      "title": "Licença não é posse",
+      "time": "Dia 576 · manhã",
+      "place": "sala-conselho",
+      "cast": [
+        "tovo",
+        "eda"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Tovo on LEFT, the large green-skinned adult orc, asks about bringing a stone home; Eda on RIGHT points to clauses of three permits at council table. No other people.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Posso trazer uma pedra de lá?",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Só se o dono a oferecer. Encontrar não é possuir.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1113,
+      "title": "Rota sem atalhos",
+      "time": "Dia 576 · tarde",
+      "place": "casa-das-quatro-luas",
+      "cast": [
+        "avel",
+        "ysra"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Avel on LEFT draws a journey map on a broad table; Ysra on RIGHT marks the guarded forest service gate. The map is an ordinary physical map with road, ferry and forest, no portal open in the room.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "Estrada, balsa, Hessa e passagem vigiada. Só então Talveira.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "A costura de Porto das Cinzas continua lacrada.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1114,
+      "title": "Funções definidas",
+      "time": "Dia 576 · tarde",
+      "place": "patio-central",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Caio on LEFT checks a wind measuring ribbon and field ledger while Sere on RIGHT, forest green cloak and one white braid, checks safety equipment beside packed boxes in school courtyard. Professional coordination with a warm but restrained look.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Oru assina minha avaliação. Os números seguem para Beren.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "E eu respondo pela segurança da travessia.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1115,
+      "title": "A leitura lacrada",
+      "time": "Dia 576 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "liria",
+        "beren"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Líria on LEFT with two long copper-brown braids and burgundy-trimmed earth-mage robe hands her dated geological fracture sketch to Beren on RIGHT at archive counter. Exactly one Líria. No Runa.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Minha leitura da fratura vai com recibo. Runa não tocará no original.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "A autoria fica registrada. Farei uma cópia de trabalho.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1116,
+      "title": "Carta anterior à pergunta",
+      "time": "Dia 577 · manhã",
+      "place": "dormitorio-cedro",
+      "cast": [
+        "ilyan"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Ilyan alone in his school room sits fully clothed at a desk with a received paper letter and practical tools; wistful face, not a vision of Nima. One envelope with normal postal seal.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Esta carta saiu antes da minha. Ela ainda não sabe que ouvi a verdade.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1117,
+      "title": "Sanções assinadas",
+      "time": "Dia 577 · tarde",
+      "place": "sala-conselho",
+      "cast": [
+        "runa",
+        "ordelia"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Runa on LEFT, long straight black hair with bangs, floral left-arm tattoo, faces Ordelia on RIGHT across a formal council desk. Signed disciplinary papers visible. Runa furious but composed; no Líria physically present.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Depois de tudo, Líria continua na Casa?",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ordelia",
+          "text": "Sob proibição de combate e reparação. Sua própria infração também consta.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1118,
+      "title": "A carroça pronta",
+      "time": "Dia 577 · noite",
+      "place": "patio-central",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Ilyan on LEFT and Runa on RIGHT secure labeled measuring boxes onto a covered wagon in school courtyard at dusk. Their hands briefly meet over one box, tentative trust but not all distrust resolved. Exactly two people.",
+      "novel_volume": 2,
+      "novel_chapter": 21,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Posso levar esta caixa?",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Pode. O que falta conversar ainda vai conosco.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1119,
+      "title": "A balsa de Adra",
+      "time": "Dia 578 · tarde",
+      "place": "balsa-do-sal",
+      "cast": [
+        "adra"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Wide view of a sturdy medieval ferry crossing a real river at dusk. Adra the established ferrywoman at helm, covered wagon firmly lashed on deck, visible riverbanks, all passengers distant silhouettes only; no magical shortcut.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "Hessa fica na outra margem. Chegaremos antes do escuro.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1120,
+      "title": "Nomes na passagem",
+      "time": "Dia 579 · manhã",
+      "place": "posto-guardioes-ambar",
+      "cast": [
+        "ysra",
+        "tovo"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Ysra on LEFT checks written names and tools with Tovo on RIGHT at the guarded service passage among living tree roots. Gatekeepers are outside frame; solid ground and clear path, no instant teleportation.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "A passagem abre apenas durante a contagem.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Então seguimos juntos e voltamos juntos.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1121,
+      "title": "Duas luas entre folhas",
+      "time": "Dia 579 · tarde",
+      "place": "bosque-vidraca",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "Full-page landscape: a continuous forest trail beyond a rooted guarded passage, two pale moons visible behind leaves in the same sky, basalt stones and travelers only as tiny distant silhouettes. No floating terrain or cut horizon.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [],
+      "narration": "Tovo percebeu as duas luas quando o grupo já caminhava dentro do Entremeio."
+    },
+    {
+      "number": 1122,
+      "title": "Talveira",
+      "time": "Dia 580 · manhã",
+      "place": "talveira",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "Grand uninterrupted panorama of Talveira: inhabited fantasy city on terraces above a gorge, porous stone homes, running water canals, milky glass bridge PLATES held by dark metal arches and pillars, market stalls and working people small in distance. Bridges are structurally supported, not floating.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [],
+      "narration": "Talveira surgiu sobre a garganta: uma cidade de casas, canais, trabalho e pontes que podiam quebrar."
+    },
+    {
+      "number": 1123,
+      "title": "A ponte interditada",
+      "time": "Dia 580 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "ysra",
+        "eda"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "In Talveira council courtyard, Ysra on LEFT presents sealed permits; Eda on RIGHT records local testimony while a closed glass bridge and physical barricade remain in background. Other residents outside close frame, only two adult foreground speakers.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Viemos medir e ajudar. O conselho de Talveira decide suas pontes.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Também vou registrar quanto tempo o desvio custa às famílias.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1124,
+      "title": "O desvio do mercado",
+      "time": "Dia 580 · tarde",
+      "place": "talveira",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "Street-level environmental scene in Talveira: a market delivery cart detours around a safely barricaded glass bridge, a local mother carrying medicine boxes takes a long stone stair with railing, busy vendors, working city. No named cast close to camera.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [],
+      "narration": "A ponte fechada transformou uma entrega curta numa volta pela garganta."
+    },
+    {
+      "number": 1125,
+      "title": "Água emprestada",
+      "time": "Dia 580 · tarde",
+      "place": "talveira-pontes",
+      "cast": [
+        "runa",
+        "ysra"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Runa on LEFT takes a measured sample of existing canal water with a marked glass rod and bucket, Ysra on RIGHT watches by permission of channel keeper offscreen. All water connected to the visible canal; stone rim warms under Runa's palm; no endless conjured water.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A saída está mais quente. Vou reduzir o fluxo antes de testar de novo.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Anote também a água que deve continuar nas casas.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1126,
+      "title": "A rajada que não veio",
+      "time": "Dia 580 · tarde",
+      "place": "talveira-pontes",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Caio on LEFT holds a wind ribbon near a cracked but barricaded glass bridge; Sere on RIGHT in green watches from a separate safe station. He deliberately stops his magic hand before pushing wind toward the cracked pane. Clearly different human and elf.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Se eu empurrar, aumento a pressão na placa.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Então mede. Não transforma a rajada em prova.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1127,
+      "title": "Tampa de outra liga",
+      "time": "Dia 580 · noite",
+      "place": "talveira-arquivo",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "In Talveira maintenance workshop, Ilyan on LEFT and Oru on RIGHT inspect an old heat-exchange tube with a visibly newer metal cap. Oru's gloved hand guards contact; Ilyan does not touch hot metal. No open bodily portal, intact filter and pipe connections.",
+      "novel_volume": 2,
+      "novel_chapter": 22,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Esta tampa é nova. A marca humana da forja continua no tubo.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Medimos primeiro. Sua mão fica longe da peça.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1128,
+      "title": "Livro da oficina",
+      "time": "Dia 581 · manhã",
+      "place": "talveira-arquivo",
+      "cast": [
+        "eda",
+        "ilyan"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Eda on LEFT places a clean copying sheet beside an aged repair ledger; Ilyan on RIGHT studies a technical correction. Original book remains open under archival weights; no floating hands.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A oficina guarda o original. Copiamos na presença das testemunhas.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Há um desenho corrigido na segunda folha.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1129,
+      "title": "Quatro entalhes",
+      "time": "Dia 581 · manhã",
+      "place": "talveira-arquivo",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "Close still life of one historical ledger page showing an OLD technical drawing of a heat tube joint, four simple notches and a cartographic curve drawn in ink; physical paper fibers, archival weights, ruler. No legible invented words, no human hand.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [],
+      "narration": "O traço da correção coincidia com o caderno autenticado de Mira. Não revelava onde ela estava agora."
+    },
+    {
+      "number": 1130,
+      "title": "Duas datas",
+      "time": "Dia 581 · manhã",
+      "place": "talveira-arquivo",
+      "cast": [
+        "eda",
+        "ysra"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Eda on LEFT writes a chain-of-custody record while Ysra on RIGHT compares two independent dated receipts and original ledger. Full attached arms and hands, all documents on table. Calm evidentiary work, no magical vision.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "As duas datas são posteriores ao desaparecimento em Pedra-Mansa.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Prova a presença dela aqui. Não o destino atual.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1131,
+      "title": "Mira errava e corrigia",
+      "time": "Dia 581 · tarde",
+      "place": "talveira-arquivo",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Oru on LEFT, elderly short white-braided master, speaks gently of Mira; Ilyan on RIGHT holds authorized copy of her technical correction in workshop. No ghost or image of Mira.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Sua mãe errou uma medição pública e voltou para corrigir.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Quero conhecer a mulher inteira, não só a lenda.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1132,
+      "title": "A fratura de Líria",
+      "time": "Dia 581 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "liria",
+        "beren"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Back at the school, Líria on LEFT with copper-brown twin braids edits her own geological report; Beren on RIGHT receives it by archive desk. Runa is not present. Clearly separate location from Talveira, ordinary messenger paperwork.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Minha fratura é antiga. O calor recente pode agravá-la.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "Seu crédito fica no relatório. A ofensa pessoal, fora dele.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1133,
+      "title": "A haste extra",
+      "time": "Dia 582 · manhã",
+      "place": "porto-das-cinzas",
+      "cast": [
+        "hessa",
+        "maelor"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "At the human shore's locked pump depot, Hessa on LEFT and Maelor on RIGHT compare a purchase ledger with an actual extra heat-conducting metal rod. Pump housing and sealed evidence chest visible. Neither claims guilt from appearance alone.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "A haste foi comprada, mas não consta do desenho aprovado.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Maelor",
+          "text": "Meu gabinete responderá pelos recibos. Lacre o livro.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1134,
+      "title": "Resposta pela estrada",
+      "time": "Dia 582 · tarde",
+      "place": "balsa-do-sal",
+      "cast": [
+        "adra"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Adra pilots the ordinary ferry carrying a sealed document pouch across the river toward guarded forest route. Weather and ropes continuous; no instantaneous magical message or overlapping landscapes.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Adra",
+          "text": "O relatório chegará a Talveira depois da passagem.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A resposta levou dois dias entre balsa, estrada e guardiões."
+    },
+    {
+      "number": 1135,
+      "title": "Água que volta",
+      "time": "Dia 583 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "runa"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Runa alone at a canal test basin, black hair, floral tattoos, guides a THIN stream of existing cold water along a crack then returns it to connected channel. Her left hand trembles slightly, she sits at safe stone step. No other figure or extra limb.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Menos força. Deixo a água seguir o próprio peso.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1136,
+      "title": "Uma fibra seca",
+      "time": "Dia 583 · tarde",
+      "place": "talveira-arquivo",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Oru on LEFT supervises Ilyan on RIGHT safely lighting exactly one dry fiber using warmth from his palm in a Talveira workshop. Tiny flame in glass cup, extinguisher bucket, no vast fire.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Uma fibra. Pare antes do tremor.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Uma luz pequena ainda pode bastar.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1137,
+      "title": "Distância nomeada",
+      "time": "Dia 583 · noite",
+      "place": "talveira",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "On safe stone steps of Talveira at night, Runa on LEFT rests her slightly trembling hand beside a closed notebook; Ilyan on RIGHT sits a respectful arm's length away. City and glass bridges behind, faces openly visible, no kiss.",
+      "novel_volume": 2,
+      "novel_chapter": 23,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Prefiro esta distância dita em voz alta ao silêncio antigo.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Ainda sinto raiva. Posso escutar você mesmo assim.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1138,
+      "title": "Números da margem humana",
+      "time": "Dia 584 · manhã",
+      "place": "talveira-arquivo",
+      "cast": [
+        "beren",
+        "eda"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Beren on LEFT opens a messenger pouch with measured drawings from Hessa, Eda on RIGHT marks delivery time on Talveira workshop table. Two adults only, physical papers and seal.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A haste toca a parede do tubo. Faltou o espaçador poroso.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Então o calor cruza onde a junta devia isolá-lo.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1139,
+      "title": "Duas causas",
+      "time": "Dia 584 · manhã",
+      "place": "talveira-arquivo",
+      "cast": [
+        "beren",
+        "runa"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Beren on LEFT draws two intersecting curves in chalk on slate floor: older fracture and recent warming; Runa on RIGHT checks canal measurements. A cracked bridge visible through arch, no magical equations or readable invented labels.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Fratura velha e haste nova se somam.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Nas noites sem vento, a água aqueceu mais depressa.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1140,
+      "title": "Duas autorizações",
+      "time": "Dia 584 · tarde",
+      "place": "talveira",
+      "cast": [
+        "eda",
+        "ysra"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Eda on LEFT and Ysra on RIGHT stand at Talveira council desk with two sealed permit folders. Closed bridge beyond. They plan evacuation and repair but keep tube physically sealed.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Não abriremos a tampa sem decisão das duas margens.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Até lá, fechamos as pontes e reforçamos os canais.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1141,
+      "title": "Recibos preservados",
+      "time": "Dia 584 · tarde",
+      "place": "porto-das-cinzas",
+      "cast": [
+        "hessa",
+        "maelor"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "At human pump depot Hessa on LEFT seals original purchase receipts while Maelor on RIGHT writes his signed version of disputed verbal order. Stationary pump visibly switched OFF; no unknown culprit depicted.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "Duas versões assinadas. A bomba fica parada até a inspeção.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Maelor",
+          "text": "Não vou culpar um carregador sem provas.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1142,
+      "title": "Calor que fica",
+      "time": "Dia 585 · manhã",
+      "place": "talveira-pontes",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "Atmospheric close view of glass bridge plates with hairline expansion cracks, physical metal supports, warm canal runoff under the glass despite an inactive pipe. No person, no monster visible, no scene collage.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [],
+      "narration": "Parar a bomba não esfriou de imediato a pedra, a água nem o vidro já dilatado."
+    },
+    {
+      "number": 1143,
+      "title": "Segundo estalo",
+      "time": "Dia 585 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Sere on LEFT closes a sturdy barricade at third Talveira bridge while Caio on RIGHT plants wind-direction ribbons safely away from cracked glass. Both are fully clothed and identifiable, no additional named cast.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Fechem os acessos agora.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "A rajada vira para a escada de serviço.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1144,
+      "title": "A talha sustenta",
+      "time": "Dia 585 · tarde",
+      "place": "talveira-pontes",
+      "cast": [
+        "tovo"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Tovo alone, correctly proportioned strong adult green-skinned orc, works a manual pulley and wooden shore under bridge arch. He uses ONE brief strength pulse to prevent a slipping worker only suggested off-panel, then grips his sore shoulder. No extra arms or duplicate Tovo.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Passe o peso à talha. Meu ombro não é escora.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1145,
+      "title": "Caçador sob o vidro",
+      "time": "Dia 585 · tarde",
+      "place": "talveira-pontes",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "Under one structurally supported milky glass bridge plate, a SMALL translucent nonhumanoid Salt Deep predator with irregular rib-like transparent structures surrounding a dark hollow body follows heat line. Entire creature visible beneath glass, no tentacle touching humans, no giant demon, no collage.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [],
+      "narration": "O caçador do Fundo de Sal seguiu a linha quente sob a ponte interditada."
+    },
+    {
+      "number": 1146,
+      "title": "A escada de serviço",
+      "time": "Dia 585 · tarde",
+      "place": "talveira-pontes",
+      "cast": [
+        "sere"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Sere alone in foreground on the safe upper landing checks the service stair with solid rail and visible alternate route around the bridge. In distant background two local children and one adult artisan await guidance behind barrier, realistically scaled, no perilous dangling.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "As três pessoas do mercado saem pela escada. Ninguém pisa no vidro.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1147,
+      "title": "Três medidas antes da chama",
+      "time": "Dia 585 · tarde",
+      "place": "talveira-pontes",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Oru on LEFT checks Ilyan's pulse with gloved hand at unlit service stair lantern; Ilyan on RIGHT counts dry wicks in a cup. Smoke exit and extinguisher bucket visible, no huge flame.",
+      "novel_volume": 2,
+      "novel_chapter": 24,
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Pavios, pulso e saída da fumaça.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Uma luz se a lamparina apagar. Não aquecerei a ponte.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1148,
+      "title": "Retirada pela escada",
+      "time": "Dia 586 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "ysra"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Ysra at a safe stone landing calls roll from a written list while Talveira residents ascend a solid service stair in orderly line, glass bridge barricaded in background. One Ysra, believable group scale and railing.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Artesã, duas crianças. Digam seus nomes ao chegar.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1149,
+      "title": "Conte os degraus",
+      "time": "Dia 586 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "sere"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Sere, adult dark-skinned elf with one long white braid, guides a frightened local child up narrow stone service stairs with solid railing; child holds a leather strap of her green cloak. Natural adult-child size difference and anatomically correct hands.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Olhe meus pés. Só faltam três degraus.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1150,
+      "title": "Vento sem pressão",
+      "time": "Dia 586 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "caio"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Caio alone by the stone stair directs a very gentle existing breeze away from the stair fog, measured ribbons attached to wall. His hand stops before pushing wind toward cracked glass, full body adult scale.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Devagar. A névoa sai sem levar a rajada ao vidro.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1151,
+      "title": "A borda resfriada",
+      "time": "Dia 586 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "runa"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Runa alone at canal rim guides a narrow stream of EXISTING cold canal water into groove beside sealed filter, then back into connected waterway. Small controlled magic, no water weapon, both hands visible and attached, canal not drained.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Só a borda. As casas ainda precisam desta água.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1152,
+      "title": "Minutos comprados",
+      "time": "Dia 586 · manhã",
+      "place": "talveira-pontes",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "View from outside safely barricaded milky glass bridge: small translucent ribbed predator retreats beneath a second intact panel while three local evacuees are distant on solid stair landing. Architectural supports and separation clear; creature not destroyed.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [],
+      "narration": "A água mudou o caminho do caçador. A retirada ganhou minutos, não uma vitória definitiva."
+    },
+    {
+      "number": 1153,
+      "title": "Uma luz para três passos",
+      "time": "Dia 586 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "On the service stair landing an extinguished lamp sits beside Ilyan on LEFT; he lights exactly one fiber in a glass cup using warmth from his palm, a small guiding flame. Oru on RIGHT monitors his pulse and brings warm cloth. No bonfire and no extra fingers.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A última criança precisa ver o degrau.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Acenda uma fibra. Depois sente-se.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1154,
+      "title": "O degrau faltante",
+      "time": "Dia 586 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "sere"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Sere on LEFT guides the last local child over a worn missing stone stair tread using a secure rail; a tiny protected lamp glows nearby. Child is safe and fully clothed, correct limbs; no Ilyan duplicate.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Agora o corrimão. Isso, você chegou.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A pequena chama de Ilyan bastou para mostrar onde pôr o pé."
+    },
+    {
+      "number": 1155,
+      "title": "Um pulso, um calço",
+      "time": "Dia 586 · tarde",
+      "place": "talveira-pontes",
+      "cast": [
+        "beren",
+        "tovo"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Beren on LEFT passes a wooden wedge to Tovo on RIGHT, green adult orc with sore shoulder; Tovo uses one brief strength pulse to fit it under manual pulley on solid maintenance platform. Full attached arms, no impossible load.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "O calço, agora.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Só um batimento. Depois a talha segura.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1156,
+      "title": "Falta um nome",
+      "time": "Dia 586 · tarde",
+      "place": "talveira",
+      "cast": [
+        "ysra",
+        "eda"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "At safe assembly court Ysra on LEFT counts a list of evacuated residents, Eda on RIGHT checks time and a separate search route map. Empty space on list suggests one watchman missing, no panicked mass scene.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "O vigia não está na lista.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Confirmemos a rota longa antes de chamar a ponte.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1157,
+      "title": "O vigia voltou",
+      "time": "Dia 586 · fim da tarde",
+      "place": "talveira",
+      "cast": [
+        "ysra"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "At Talveira safe courtyard Ysra greets an adult local watchman with dusty boots who returns by ordinary long road carrying a satchel. Full figures, no duplicate, surrounding residents relieved but distant.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Ele avisou a casa afastada. Agora todos estão contados.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1158,
+      "title": "A haste sai",
+      "time": "Dia 587 · manhã",
+      "place": "porto-das-cinzas",
+      "cast": [
+        "hessa",
+        "eda"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "At sealed human-side pump chamber Hessa on LEFT supervises a MANUAL pulley extracting the unsuitable metal rod, Eda on RIGHT records agreed hour; porous spacer and intact filter on table. Workers outside close crop, no wide-open portal or creature.",
+      "novel_volume": 2,
+      "novel_chapter": 25,
+      "lines": [
+        {
+          "speaker": "Hessa",
+          "text": "A haste saiu. O filtro permanece fechado.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Talveira encaixa o espaçador na hora combinada.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "As duas equipes seguiram licenças e relógios separados. O calor caiu aos poucos."
+    },
+    {
+      "number": 1159,
+      "title": "A primeira travessia",
+      "time": "Dia 589 · manhã",
+      "place": "talveira-pontes",
+      "cast": [],
+      "layout": "Single wide cinematic establishing illustration, with continuous architecture and clear depth",
+      "scene": "Repaired physically supported milky glass bridge in Talveira opens to local residents. Two adult women carry medicine boxes across after mechanical wind-safety bell, watched from afar by school visitors. All bridge joints and dark metal arches believable, no floating architecture.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [],
+      "narration": "Dois dias depois do reparo, Talveira reabriu a travessia para os próprios moradores."
+    },
+    {
+      "number": 1160,
+      "title": "Cicatriz de ponte",
+      "time": "Dia 589 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "tovo",
+        "runa"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Tovo on LEFT with wrapped recovering shoulder studies the new bridge joint; Runa on RIGHT observes the seamless glass repair while they stand on safe stone margin. No rivalry conversation here, gentle reflection, both full figures.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Uma placa diferente não faz a ponte menor.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E um rosto sem marca não conta tudo que aconteceu.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1161,
+      "title": "A régua guardada",
+      "time": "Dia 589 · tarde",
+      "place": "talveira-arquivo",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "In Talveira workshop Ilyan on LEFT and Oru on RIGHT study an authorized clear glass alignment ruler over a map, its four-notch mark and line descending under city visible. Original ruler rests on padded table, no taking it away.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A última linha desce sob a cidade. É o sinal de Mira.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Copiamos a marca. O original fica aqui.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1162,
+      "title": "Passagem selada",
+      "time": "Dia 589 · tarde",
+      "place": "talveira",
+      "cast": [
+        "ysra",
+        "ilyan"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Ysra on LEFT shows Ilyan on RIGHT the exterior of a SEALED stone service passage below Talveira, massive intact door with physical locking bars and warning markers, neither touches latch. Safe walkway, no demon emerging.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Ela desce perto do Fundo de Sal. Está isolada por acordo.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não vou pedir que a abram por causa de um traço.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1163,
+      "title": "O caminho de volta",
+      "time": "Dia 590 · manhã",
+      "place": "bosque-vidraca",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Caio on LEFT and Sere on RIGHT ride in covered wagon on the established guarded forest return route, two separate maps on their laps, fingers briefly touch naturally as wagon jolts. Both fully clothed, adult scale, no more than two foreground people.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "O mapa ainda mostra o desvio do mercado.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Então nosso relatório precisa mostrar quando ele terminou.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Voltaram pelas mesmas trilhas, passagem vigiada, pousada, balsa e estrada."
+    },
+    {
+      "number": 1164,
+      "title": "Resposta de Nima",
+      "time": "Dia 591 · tarde",
+      "place": "dormitorio-cedro",
+      "cast": [
+        "ilyan"
+      ],
+      "layout": "Single-character medium scene, grounded background, upper background reserved for one compact balloon",
+      "scene": "Ilyan alone at school desk reads a newly delivered ordinary postal letter from absent Nima, slight relieved smile, separate earlier sent envelope on shelf. Nima not depicted or hallucinated.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A mão melhora. Ela quer conversar quando tivermos tempo.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1165,
+      "title": "Relatórios sem paz",
+      "time": "Dia 592 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "Líria on LEFT, copper-brown twin braids and earth mage robe, stands across archive corridor from Runa on RIGHT, black hair, bangs, septum ring, floral left arm tattoo. Two separate technical report copies in their own hands; hostile expressions, ample physical distance, no fight and no reconciliation.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Sua água não sustentaria a ponte sem minha escora.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E sua escora racharia sem o resfriamento. Não me procure.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1166,
+      "title": "A linha sob Talveira",
+      "time": "Dia 592 · noite",
+      "place": "sala-elementos",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "layout": "Two-character dialogue or action scene, first speaker at image left and second at image right, clear upper background for compact balloons",
+      "scene": "In familiar school Hall of Elements, Ilyan on LEFT and Runa on RIGHT study a copy of glass ruler map between empty water basin and cold brazier. Runa's finger rests on final sealed passage mark; faces unobscured, no Mira vision, no embrace.",
+      "novel_volume": 2,
+      "novel_chapter": 26,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Mira pode ter parado ali, voltado ou seguido.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 43,
+            "target_x": 28,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então buscamos testemunhos antes de abrir qualquer porta.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 43,
+            "target_x": 72,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A pista ganhou uma direção. A passagem continuava fechada."
+    }
+  ]
+}
+
