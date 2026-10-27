@@ -150,7 +150,7 @@ def build_catalog() -> list[dict[str, str | int]]:
         "url": NOVEL["url"], "topics": NOVEL["topics"], "novel_art": True,
     }, {
         "category": "livros", "kind": "Romance · Volume II", "title": NOVEL_II["subtitle"],
-        "detail": f"Arco 6 completo · {NOVEL_II['chapter_count']} capítulos · {NOVEL_II['page_count']} páginas escritas. {NOVEL_II['detail']}",
+        "detail": f"Arcos 6–9 completos · {NOVEL_II['chapter_count']} capítulos · {NOVEL_II['page_count']} páginas escritas. {NOVEL_II['detail']}",
         "url": NOVEL_II["url"], "topics": NOVEL_II["topics"], "novel_art": True, "volume_number": 2,
     }, {
         "category": "livros", "kind": "Livro didático", "title": LINUX_BOOK["title"],

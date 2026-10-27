@@ -20,3 +20,15 @@ Continuação direta do dia 480, fim do primeiro volume. Os seis capítulos abai
 - Mira não recebe rosto inventado em nenhuma gravura: a arte pode mostrar letra, instrumentos e mapas. O testemunho de Ereno continua falível até ser cruzado com prova independente.
 - A estrada até Porto das Cinzas e o Entremeio têm percurso, comida, autorização, vigias e retorno. A fronteira mágica não é a porta sem sombra nem dispensa caminhada.
 - Cada capítulo publicado recebe **uma única gravura panorâmica em preto e branco**, centralizada integralmente no Canvas, sem corte. O texto continua sendo o centro do livro.
+
+## Arco 9 · As Vozes Sob Talveira
+
+Volume II, capítulos 27–42; adaptação planejada para as páginas 1167–1326 da HQ. O arco começa no dia 593, depois da volta de Talveira, e termina no dia 624. A ponte reparada permanece segura. A nova crise nasce de uma abertura de inspeção antiga, separada da passagem principal selada. A equipe não abre o selo em busca de Mira.
+
+1. **27–29 — A pista e a permissão:** a marca na régua de vidro é cotejada com medições independentes. A cidade autoriza apenas o exame externo da escada. Nima sai de Pedra-Mansa a convite de Talveira, viaja por estrada e balsa e não aparece instantaneamente.
+2. **30–32 — Gente, métodos e limites:** Caio e Sere se aproximam enquanto redistribuem responsabilidade de campo; Tovo treina uma força que cobra tendões e descanso. Líria recebe uma revisão geológica separada da de Runa. Elas continuam hostis e não dividem alojamento nem equipe de combate.
+3. **33–36 — A abertura e as vozes:** uma antiga janela de inspeção, não o selo principal, cede à pressão. Uma criatura do Fundo de Sal imita sons que ouviu, não lê pensamentos nem revela o destino de Mira. A evacuação de Talveira custa material, frio e ferimentos; a ponte restaurada continua em uso controlado.
+4. **37–40 — A escada seca:** com licença das duas comunidades, a equipe inspeciona somente o trecho externo autorizado. Runa e Líria fornecem medições independentes e antagônicas. Um registro físico e um livro de guarda comprovam a presença de Mira ali depois do desaparecimento e apontam ao posto chamado Vigília de Aram; nenhum deles prova que ela esteja viva hoje.
+5. **41–42 — Fechar e responder:** a equipe fecha a janela de inspeção por fora, preserva a passagem principal e retorna com testemunhas e custódia do documento. Ilyan escolhe terminar o resgate antes de seguir a pista da mãe. A rivalidade permanece, Nima volta a Pedra-Mansa por viagem comum, e a próxima investigação exige novo acordo.
+
+Regras: a criatura só reproduz vozes que realmente ouviu; calor do corpo de Ilyan pode acender uma chama pequena, mas o deixa frio; água de Runa precisa de fonte limpa e não recria tecido; vento de Caio depende de ar presente; ampliação de Tovo exige força corporal e causa lesão se prolongada. Romance não substitui consentimento, cuidado ou comando de segurança. Nenhum documento solitário resolve o desaparecimento de Mira.

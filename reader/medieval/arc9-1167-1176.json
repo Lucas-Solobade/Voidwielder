@@ -1,0 +1,314 @@
+{
+  "arc": {
+    "number": 9,
+    "title": "As Vozes Sob Talveira",
+    "slug": "as-vozes-sob-talveira",
+    "description": "Uma marca de Mira aponta à escada selada de Talveira. Ilyan e seus amigos precisam distinguir o que foi medido do que apenas desejam encontrar, enquanto a cidade decide o que autoriza examinar.",
+    "status": "Em andamento",
+    "start": 1167,
+    "chapters": [
+      {
+        "title": "A marca na régua",
+        "start": 1167,
+        "end": 1176
+      }
+    ]
+  },
+  "pages": [
+    {
+      "number": 1167,
+      "title": "A cópia volta à mesa",
+      "time": "Dia 593 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Two-person medium scene at archive table, Ilyan LEFT and Runa RIGHT; copy of ruler below; empty high shelves and stone wall in upper quarter reserved for two compact balloons",
+      "scene": "The morning after page 1166, at the House archive, Ilyan on image LEFT and Runa on image RIGHT examine the authorized paper drawing of Mira's glass ruler on a wooden table. The original ruler remains in Talveira. Exactly one of each, identical faces/hair/clothes to approved canonical references and page 1166; Ilyan long wavy black hair and youthful clean-shaven face, Runa straight black bangs, septum piercing, floral tattoo on LEFT arm. Their eyes, mouths and hands unobstructed in lower two-thirds. No Ordelia visible, no Mira apparition. Upper quarter empty architecture for lettering, no text in art.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A última marca desce sob Talveira.",
+          "balloon": {
+            "x": 2,
+            "y": 13,
+            "w": 43,
+            "target_x": 32,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Pode ser nível, não caminho.",
+          "balloon": {
+            "x": 55,
+            "y": 22,
+            "w": 43,
+            "target_x": 75,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1168,
+      "title": "Quem guardou o original",
+      "time": "Dia 593 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "ordelia"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Single-character formal portrait in archive, Ordelia in lower-right at ledger; open upper-left wall for one balloon",
+      "scene": "Canonical adult Ordelia alone at the House archive ledger, iron-gray hair in one low braid, wine medieval gown and brass keys, writing a chain-of-custody record for the drawing. A copy on desk, never the original glass ruler. Only one visible person; face and both hands clearly rendered below empty upper architectural area; no text in image.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "O original fica com a artesã. Anotemos cada cópia.",
+          "balloon": {
+            "x": 4,
+            "y": 11,
+            "w": 70,
+            "target_x": 48,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1169,
+      "title": "Duas escalas",
+      "time": "Dia 593 · manhã",
+      "place": "casa-arquivos",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Macro still-life of two differently scaled maps and paper copy of glass ruler, no people or limbs, clear caption corner",
+      "scene": "A precise still-life on the familiar wooden archive table: authorized paper tracing of Mira's glass measuring ruler alongside an older school plan at a different scale, a compass and pencil showing the line ends before the deep sealed passage. No people, no hands, no faces, no readable writing or invented magic glow. Rich medieval painted detail, complete composition.",
+      "lines": [],
+      "narration": "A linha terminava antes da passagem mais profunda."
+    },
+    {
+      "number": 1170,
+      "title": "Duas estruturas",
+      "time": "Dia 593 · meio-dia",
+      "place": "sala-elementos",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Oru adult gnome LEFT standing on low platform at map table, taller Ilyan RIGHT listening; accurate scale, both faces lower half, empty upper wall",
+      "scene": "In Hall of Elements, Oru at image LEFT is an adult compact gnome about one meter tall, warm-brown skin, bald crown, silver side hair, one braided silver beard, round copper glasses and dark moss teaching coat; he points with a blunt compass to two distinct structures on a map. Ilyan at RIGHT is the exact canonical young adult with long wavy black hair, clean-shaven narrow face and charcoal tunic with worn indigo vest. Show one Oru and one Ilyan with physically plausible hands, full visible faces below reserved empty upper stone wall, no extra figures or in-image text.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "A escada externa não é o selo inferior.",
+          "balloon": {
+            "x": 2,
+            "y": 17,
+            "w": 44,
+            "target_x": 34,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Preciso conferir a escala.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 43,
+            "target_x": 77,
+            "target_y": 25,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1171,
+      "title": "Leituras separadas",
+      "time": "Dia 593 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Hostile rivals separated across archive table, Runa LEFT, Líria RIGHT, no touching; heads in middle-lower portion, open stone arches upper quarter",
+      "scene": "At archive table, Runa on image LEFT faces Líria on image RIGHT with tense hostile expressions and clear physical distance, no friendliness. Runa exactly canonical pale young woman with very long STRAIGHT black hair and blunt bangs, small silver septum ring, floral tattoo on LEFT arm, dark plum/charcoal dress. Líria exactly canonical copper-olive young woman with TWO tight dark-brown braids, gray-green eyes, hooked nose, short chin scar, gray coat with red seams. Exactly one of each; no Ordelia; no body duplicates or extra hands. Heads and gestures below clear upper stone arches for balloons, no text in art.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Sua fratura não explica o calor recente.",
+          "balloon": {
+            "x": 2,
+            "y": 19,
+            "w": 44,
+            "target_x": 33,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "E sua água não mostra o vazio na pedra.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 44,
+            "target_x": 82,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1172,
+      "title": "A arruela fria",
+      "time": "Dia 593 · tarde",
+      "place": "forja-leste",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Single Ilyan at forge with cold iron washer in hand, safe distance from fire, head in midframe, high beams clear for small balloon",
+      "scene": "Canonical Ilyan alone in familiar red-brick eastern forge: youthful olive-skinned clean-shaven oval face, very long wavy black hair center part, charcoal linen tunic and worn sleeveless indigo vest. He holds one cold iron washer between anatomically correct fingers, notices he is gripping too hard and releases breath; forge glows at a distance but he has NOT created a flame. Exactly two arms and two hands, one body. Head below empty upper beams for lettering; no text in image.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Forçar calor não vai provar onde ela foi.",
+          "balloon": {
+            "x": 3,
+            "y": 16,
+            "w": 74,
+            "target_x": 48,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1173,
+      "title": "Pedido limitado",
+      "time": "Dia 593 · fim da tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Eda alone at archive desk sealing a formal inquiry, top wall empty for balloon",
+      "scene": "Canonical Eda alone at school archive desk: warm-brown skin, firm oval face, short dark-brown curly hair pulled back, teal surveyor cloak over working dress, wooden measuring staff beside desk. She seals a narrow written request to Talveira about external drawings, not authorization to open the lower passage. One person, two arms, two hands visible, full face below upper empty wall, no legible text in art.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Solicitamos plantas externas. O selo fica fechado.",
+          "balloon": {
+            "x": 4,
+            "y": 11,
+            "w": 72,
+            "target_x": 48,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1174,
+      "title": "Carta para Pedra-Mansa",
+      "time": "Dia 593 · entardecer",
+      "place": "posto-correio",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Ilyan writing at wooden postal counter, envelope and ruler sketch in foreground, one head low, upper wall free for balloon",
+      "scene": "Canonical Ilyan alone at Valecobre ordinary post counter, youthful clean-shaven face and long center-parted WAVY black hair, charcoal tunic and worn indigo vest. He folds a letter to adult Nima in Pedra-Mansa with a small sketch of mechanical hinge, without claiming Mira entered the stair. Exactly one body and two hands, no Nima present, no postal clerk, no readable text, face in lower area and upper shelves empty for lettering.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Nima talvez reconheça o fecho.",
+          "balloon": {
+            "x": 4,
+            "y": 12,
+            "w": 68,
+            "target_x": 55,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1175,
+      "title": "Pela estrada comum",
+      "time": "Dia 593 · noite",
+      "place": "estrada-rio-sal",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 27,
+      "layout": "Wide scenic road at twilight with a small closed mail cart departing, no visible faces, top sky clear for caption",
+      "scene": "A physical medieval road from Valecobre toward river ferry in twilight, one closed ordinary mail cart moving away with no visible driver face, no portal and no fantasy teleportation; farms, willow trees and distant landing. Atmospheric complete painted scenery, no identifiable characters, no legible writing. The letter will take days.",
+      "lines": [],
+      "narration": "A resposta viria pela estrada, não por magia."
+    },
+    {
+      "number": 1176,
+      "title": "Talveira responde",
+      "time": "Dia 596 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "ordelia",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Ordelia LEFT holds newly delivered letter, Ilyan RIGHT listens, both heads middle-lower, upper archive arches free for two short balloons",
+      "scene": "In the same House archive, canonical Ordelia LEFT (mature olive skin, iron-gray hair in ONE low braid, wine gown, brass keys) reads the formal answer from Talveira. Canonical Ilyan RIGHT (young olive skin, narrow clean-shaven face, very long wavy black center-parted hair, charcoal tunic and indigo vest) listens. Exactly two people, no Runa, no Mira, no extra limbs; large letter below, heads and hands fully visible beneath upper empty stone wall, no text generated in image.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Talveira permite ver as plantas externas.",
+          "balloon": {
+            "x": 2,
+            "y": 18,
+            "w": 44,
+            "target_x": 37,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E o selo?",
+          "balloon": {
+            "x": 55,
+            "y": 18,
+            "w": 40,
+            "target_x": 76,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "O selo continuava fechado. A cidade ainda podia dizer não."
+    }
+  ]
+}

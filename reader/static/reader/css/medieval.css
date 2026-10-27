@@ -102,7 +102,7 @@
 /* Show complete arc cover art in both the catalog and each arc opening. */
 .twilight-arc-list .twilight-arc-art{height:clamp(450px,47vw,650px);min-height:0;display:grid;place-items:center;background:#101b24}
 .twilight-arc-list .twilight-arc-art img{object-fit:contain;object-position:center center}
-.twilight-arc-list .twilight-arc-card--1 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--6 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--7 .twilight-arc-art{height:clamp(350px,35vw,510px)}
+.twilight-arc-list .twilight-arc-card--1 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--6 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--7 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--9 .twilight-arc-art{height:clamp(350px,35vw,510px)}
 .twilight-subhero[class*="twilight-subhero--arc-"]{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(320px,.9fr);align-items:stretch;min-height:0}
 .twilight-subhero[class*="twilight-subhero--arc-"]::after{display:none}
 .twilight-subhero[class*="twilight-subhero--arc-"]>img{position:relative;inset:auto;z-index:0;display:block;width:100%;height:clamp(560px,56vw,720px);object-fit:contain;object-position:center;background:#101b24}
@@ -112,7 +112,7 @@
   .twilight-subhero[class*="twilight-subhero--arc-"]>img{height:auto;max-height:680px;object-fit:contain}
   .twilight-subhero[class*="twilight-subhero--arc-"] .twilight-subhero-copy{padding:30px 24px 42px}
   .twilight-arc-list .twilight-arc-art{height:min(125vw,680px)}
-  .twilight-arc-list .twilight-arc-card--1 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--6 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--7 .twilight-arc-art{height:min(72vw,420px)}
+  .twilight-arc-list .twilight-arc-card--1 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--6 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--7 .twilight-arc-art,.twilight-arc-list .twilight-arc-card--9 .twilight-arc-art{height:min(72vw,420px)}
 }
 
 /* Lettering follows the emotion while every balloon stays inside its assigned art. */
