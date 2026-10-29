@@ -1,0 +1,907 @@
+{
+  "chapters": [
+    {
+      "title": "Licenças, limites e cartas",
+      "start": 1177,
+      "end": 1194
+    },
+    {
+      "title": "Duas viagens até Talveira",
+      "start": 1195,
+      "end": 1208
+    }
+  ],
+  "pages": [
+    {
+      "number": 1177,
+      "title": "As condições da cidade",
+      "time": "Dia 596 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "eda",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Eda LEFT reads three signed conditions at an archive table; Ilyan RIGHT writes them down. Medium two-shot, faces around y38 percent, clear wall above.",
+      "scene": "Eda LEFT reads three signed conditions at an archive table; Ilyan RIGHT writes them down. Medium two-shot, faces around y38 percent, clear wall above.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A régua permanece na oficina.",
+          "balloon": {
+            "x": 2,
+            "y": 16,
+            "w": 44,
+            "target_x": 27,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vou registrar as condições.",
+          "balloon": {
+            "x": 54,
+            "y": 16,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1178,
+      "title": "Uma recusa legítima",
+      "time": "Dia 596 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Ilyan alone in close medium profile at archive window, holding the refusal letter below his chest; reflective, no anger. Face around x60 y40, free shelving at upper left.",
+      "scene": "Ilyan alone in close medium profile at archive window, holding the refusal letter below his chest; reflective, no anger. Face around x60 y40, free shelving at upper left.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Uma marca de Mira não vale mais que a cidade.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 94,
+            "target_x": 58,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1179,
+      "title": "Só o trajeto público",
+      "time": "Dia 596 · meio-dia",
+      "place": "sala-elementos",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Overhead still-life: a school route map, outer stair drawing, twine boundary and closed wax-sealed envelope. A route stops outside a heavily hatched lower passage. No people, no hands, no text.",
+      "scene": "Overhead still-life: a school route map, outer stair drawing, twine boundary and closed wax-sealed envelope. A route stops outside a heavily hatched lower passage. No people, no hands, no text.",
+      "lines": [],
+      "narration": "A autorização alcançava as plantas externas. O selo inferior continuava fechado."
+    },
+    {
+      "number": 1180,
+      "title": "Água contada",
+      "time": "Dia 596 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Runa alone packing THREE small glass water flasks into a cloth-lined satchel on archive table, not casting magic. Three-quarter portrait with her LEFT floral arm visible; head around x50 y36, empty upper shelves.",
+      "scene": "Runa alone packing THREE small glass water flasks into a cloth-lined satchel on archive table, not casting magic. Three-quarter portrait with her LEFT floral arm visible; head around x50 y36, empty upper shelves.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Levo só o necessário para cada teste.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 94,
+            "target_x": 54,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1181,
+      "title": "Quatro respirações",
+      "time": "Dia 596 · tarde",
+      "place": "casa-das-quatro-luas",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "School courtyard: Caio LEFT controls existing breeze aligning three ribbons between columns; Sere RIGHT observes with notebook. Medium-wide single frame; both faces around y37, hands below them; no other figures.",
+      "scene": "School courtyard: Caio LEFT controls existing breeze aligning three ribbons between columns; Sere RIGHT observes with notebook. Medium-wide single frame; both faces around y37, hands below them; no other figures.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Uma... duas... três... quatro.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 44,
+            "target_x": 45,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Agora pare e observe.",
+          "balloon": {
+            "x": 54,
+            "y": 10,
+            "w": 44,
+            "target_x": 84,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1182,
+      "title": "O nó cede",
+      "time": "Dia 596 · tarde",
+      "place": "casa-das-quatro-luas",
+      "cast": [
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Close medium Caio alone stopping his wind gesture as one loose ribbon flutters safely sideways; concerned but controlled, one head at x50 y37, exactly two arms, no glowing tornado.",
+      "scene": "Close medium Caio alone stopping his wind gesture as one loose ribbon flutters safely sideways; concerned but controlled, one head at x50 y37, exactly two arms, no glowing tornado.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Parei. Não vou corrigir com outra rajada.",
+          "balloon": {
+            "x": 3,
+            "y": 6,
+            "w": 90,
+            "target_x": 48,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1183,
+      "title": "O ombro avisa",
+      "time": "Dia 596 · tarde",
+      "place": "forja-leste",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Tovo alone in forge training bay beside a tool chest on wooden rollers; he stops pushing and rests a hand against his sore shoulder with a restrained wince. No broken bones or magic glow. One tall broad body; head x50 y35; chest and rollers visible.",
+      "scene": "Tovo alone in forge training bay beside a tool chest on wooden rollers; he stops pushing and rests a hand against his sore shoulder with a restrained wince. No broken bones or magic glow. One tall broad body; head x50 y35; chest and rollers visible.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Mais força não fez meu ombro doer menos.",
+          "balloon": {
+            "x": 3,
+            "y": 8,
+            "w": 90,
+            "target_x": 52,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1184,
+      "title": "A talha",
+      "time": "Dia 596 · tarde",
+      "place": "forja-leste",
+      "cast": [
+        "teren",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Teren LEFT demonstrates a securely overhead-mounted rope pulley; Tovo RIGHT uses the free rope to move the tool chest slowly along rollers. Chest remains on floor, consistent functional ropes. Two distinct bodies, heads y33, clear upper brick strip for balloons.",
+      "scene": "Teren LEFT demonstrates a securely overhead-mounted rope pulley; Tovo RIGHT uses the free rope to move the tool chest slowly along rollers. Chest remains on floor, consistent functional ropes. Two distinct bodies, heads y33, clear upper brick strip for balloons.",
+      "lines": [
+        {
+          "speaker": "Teren",
+          "text": "Deixe a talha dividir o peso.",
+          "balloon": {
+            "x": 2,
+            "y": 16,
+            "w": 44,
+            "target_x": 27,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Assim eu termino sem piorar o ombro.",
+          "balloon": {
+            "x": 54,
+            "y": 16,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1185,
+      "title": "Autoria não é acordo",
+      "time": "Dia 596 · fim da tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Liria alone leaning over her own stone-fracture diagram at separate archive desk, fierce concentration, exactly TWO long tight brown braids, grey coat red seams, short chin scar. Face x50 y38. No Runa.",
+      "scene": "Liria alone leaning over her own stone-fracture diagram at separate archive desk, fierce concentration, exactly TWO long tight brown braids, grey coat red seams, short chin scar. Face x50 y38. No Runa.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Anexe minha leitura da junta inferior.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 94,
+            "target_x": 54,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Líria ficaria na Casa e prepararia sua análise separadamente."
+    },
+    {
+      "number": 1186,
+      "title": "O limite permanece",
+      "time": "Dia 596 · fim da tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "eda",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Eda LEFT quietly checks Runa RIGHT packing satchel in archive room, respectful distance. Runa tense, holding small water flask low; her LEFT floral tattoo visible. Both heads y39; no Liria or reconciliation.",
+      "scene": "Eda LEFT quietly checks Runa RIGHT packing satchel in archive room, respectful distance. Runa tense, holding small water flask low; her LEFT floral tattoo visible. Both heads y39; no Liria or reconciliation.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Outra análise pode entrar no relatório. Outra agressão, não.",
+          "balloon": {
+            "x": 2,
+            "y": 1,
+            "w": 44,
+            "target_x": 25,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu sei. O limite continua claro.",
+          "balloon": {
+            "x": 54,
+            "y": 1,
+            "w": 44,
+            "target_x": 74,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1187,
+      "title": "Fora da avaliação",
+      "time": "Dia 596 · noite",
+      "place": "casa-das-quatro-luas",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Tender fully clothed adult couple Caio LEFT and Sere RIGHT sitting close on courtyard bench at night, gently touching foreheads, relaxed. Same heights (Sere slightly taller), no kiss covering faces, hands resting separately. Faces y43, moonlit wall free above.",
+      "scene": "Tender fully clothed adult couple Caio LEFT and Sere RIGHT sitting close on courtyard bench at night, gently touching foreheads, relaxed. Same heights (Sere slightly taller), no kiss covering faces, hands resting separately. Faces y43, moonlit wall free above.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Prefiro ouvir isso fora de uma avaliação.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 39,
+            "target_y": 23,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Não preciso de você perfeito para querer ficar.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 59,
+            "target_y": 24,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1188,
+      "title": "A carta chega a Pedra-Mansa",
+      "time": "Dia 599 · depois do almoço",
+      "place": "pedra-mansa",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone on an adult-appropriate LOW stool at a low forge worktable in Pedra-Mansa, reading Ilyan letter, curly copper bob, freckles, pointed ears, moss cap with brass goggles and teal vest. Scale about 90cm relative to normal-height bench behind. Head x50 y36. No Ilyan present.",
+      "scene": "Nima alone on an adult-appropriate LOW stool at a low forge worktable in Pedra-Mansa, reading Ilyan letter, curly copper bob, freckles, pointed ears, moss cap with brass goggles and teal vest. Scale about 90cm relative to normal-height bench behind. Head x50 y36. No Ilyan present.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Essa marca lembra um contrapeso antigo.",
+          "balloon": {
+            "x": 4,
+            "y": 8,
+            "w": 76,
+            "target_x": 45,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1189,
+      "title": "O que ela quer construir",
+      "time": "Dia 599 · tarde",
+      "place": "pedra-mansa",
+      "cast": [
+        "bram",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Bram LEFT adult broad human blacksmith with tied dark hair grey temples and short grey beard, cream shirt and dark apron, leans at forge workbench; adult gnome Nima RIGHT sits on a raised work stool so faces near same picture level, her body still half human height. He listens, she points to mechanism sketch below. ONLY Bram from first reference, NOT Ilyan. Faces y38, space above.",
+      "scene": "Bram LEFT adult broad human blacksmith with tied dark hair grey temples and short grey beard, cream shirt and dark apron, leans at forge workbench; adult gnome Nima RIGHT sits on a raised work stool so faces near same picture level, her body still half human height. He listens, she points to mechanism sketch below. ONLY Bram from first reference, NOT Ilyan. Faces y38, space above.",
+      "lines": [
+        {
+          "speaker": "Bram",
+          "text": "O que você quer construir em Talveira?",
+          "balloon": {
+            "x": 2,
+            "y": 6,
+            "w": 44,
+            "target_x": 43,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Algo que a artesã consiga consertar sem mim.",
+          "balloon": {
+            "x": 54,
+            "y": 6,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1190,
+      "title": "Uma contratação própria",
+      "time": "Dia 599 · tarde",
+      "place": "pedra-mansa",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Macro still-life on a forge desk: two separately sealed letters, a contract with blank illegible ruled lines, hinge drawing, small brass measuring caliper and rolled tool list. No people or limbs; warm light.",
+      "scene": "Macro still-life on a forge desk: two separately sealed letters, a contract with blank illegible ruled lines, hinge drawing, small brass measuring caliper and rolled tool list. No people or limbs; warm light.",
+      "lines": [],
+      "narration": "O convite da artesã vinha de uma recomendação de Beren. Nima viajaria por trabalho."
+    },
+    {
+      "number": 1191,
+      "title": "Lentes bem guardadas",
+      "time": "Dia 599 · tarde",
+      "place": "pedra-mansa",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone at low workshop bench carefully wraps two brass lenses in padded cloth, focused adult face. Correct small adult gnome proportions, goggles on moss cap, tool belt; fingers distinct and two hands. Face y35, clear upper forge beams.",
+      "scene": "Nima alone at low workshop bench carefully wraps two brass lenses in padded cloth, focused adult face. Correct small adult gnome proportions, goggles on moss cap, tool belt; fingers distinct and two hands. Face y35, clear upper forge beams.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Desenhos, acompanhante local e direito de parar.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 94,
+            "target_x": 52,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1192,
+      "title": "Duas respostas",
+      "time": "Dia 599 · entardecer",
+      "place": "pedra-mansa",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone at low writing desk in forge folds two different letters, one sealed near edge, one in her hands. Mature gnome face copper curls, teal waistcoat, cream sleeves, no extra people; face y35, airy top background.",
+      "scene": "Nima alone at low writing desk in forge folds two different letters, one sealed near edge, one in her hands. Mature gnome face copper curls, teal waistcoat, cream sleeves, no extra people; face y35, airy top background.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Para a artesã, as condições. Para Ilyan, uma conversa.",
+          "balloon": {
+            "x": 4,
+            "y": 8,
+            "w": 76,
+            "target_x": 48,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1193,
+      "title": "O peso da mala",
+      "time": "Dia 599 · noite",
+      "place": "pedra-mansa",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Full three-quarter Nima alone packing a compact leather tool case on low bench; heavier brass test cylinders remain clearly on forge shelf behind. Her moss cap/goggles on head, petite adult 90cm body, no oversized adult-human stature. Face y34; warm night lantern.",
+      "scene": "Full three-quarter Nima alone packing a compact leather tool case on low bench; heavier brass test cylinders remain clearly on forge shelf behind. Her moss cap/goggles on head, petite adult 90cm body, no oversized adult-human stature. Face y34; warm night lantern.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Os cilindros pesados ficam. Posso montá-los lá.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 94,
+            "target_x": 52,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1194,
+      "title": "A forja ao anoitecer",
+      "time": "Dia 599 · noite",
+      "place": "pedra-mansa",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Wide atmospheric exterior of Pedra-Mansa forge at blue hour, warm furnace seen through door, ordinary road leading away; one packed compact case near door, no people, no readable signs, no magic portal.",
+      "scene": "Wide atmospheric exterior of Pedra-Mansa forge at blue hour, warm furnace seen through door, ordinary road leading away; one packed compact case near door, no people, no readable signs, no magic portal.",
+      "lines": [],
+      "narration": "A partida seria pela estrada comum, com comida, ferramentas e dias de viagem."
+    },
+    {
+      "number": 1195,
+      "title": "Licenças no tubo",
+      "time": "Dia 600 · amanhecer",
+      "place": "casa-arquivos",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Ilyan alone at archive counter tucks signed travel papers into a dry leather document tube, provisions and boundary rope on table. His long wavy black center-parted hair, narrow youthful clean-shaven face, indigo vest. Face y36; no literal glass ruler.",
+      "scene": "Ilyan alone at archive counter tucks signed travel papers into a dry leather document tube, provisions and boundary rope on table. His long wavy black center-parted hair, narrow youthful clean-shaven face, indigo vest. Face y36; no literal glass ruler.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A rota de volta também está registrada.",
+          "balloon": {
+            "x": 3,
+            "y": 2,
+            "w": 94,
+            "target_x": 52,
+            "target_y": 25,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1196,
+      "title": "À espera da maré",
+      "time": "Dia 600 · tarde",
+      "place": "balsa-do-sal",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Runa LEFT and Ilyan RIGHT stand safely at ferry landing waiting beside rope barrier, normal adult heights, travel satchels and dry tube. Boat moored farther behind, river tide visibly low. Three-quarter two shot with heads y38, open awning/sky above. No other close figures.",
+      "scene": "Runa LEFT and Ilyan RIGHT stand safely at ferry landing waiting beside rope barrier, normal adult heights, travel satchels and dry tube. Boat moored farther behind, river tide visibly low. Three-quarter two shot with heads y38, open awning/sky above. No other close figures.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A maré ainda não permite cruzar.",
+          "balloon": {
+            "x": 2,
+            "y": 10,
+            "w": 44,
+            "target_x": 32,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Então esperamos.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 68,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1197,
+      "title": "Outra estrada",
+      "time": "Dia 600 · manhã",
+      "place": "pedra-mansa",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone seated safely on a low padded crate inside a merchant cart, her compact tool case secured beside her. Petite adult gnome, copper curly bob, moss cap brass goggles, teal vest. Framing through wagon opening, road toward countryside, other traders not visible. Head x50 y40.",
+      "scene": "Nima alone seated safely on a low padded crate inside a merchant cart, her compact tool case secured beside her. Petite adult gnome, copper curly bob, moss cap brass goggles, teal vest. Framing through wagon opening, road toward countryside, other traders not visible. Head x50 y40.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Primeiro a Casa. Depois a travessia autorizada.",
+          "balloon": {
+            "x": 4,
+            "y": 8,
+            "w": 76,
+            "target_x": 44,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1198,
+      "title": "Uma cadeira de cliente",
+      "time": "Dia 600 · noite",
+      "place": "estrada-rio-sal",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone at inn counter, adult gnome standing on floor beside an absurdly tall human chair and a proper low sturdy chair she indicates. Serious self-possessed mature face, no childish pout, exact copper bob and cap. Full body visible, sensible height comparison; no innkeeper face.",
+      "scene": "Nima alone at inn counter, adult gnome standing on floor beside an absurdly tall human chair and a proper low sturdy chair she indicates. Serious self-possessed mature face, no childish pout, exact copper bob and cap. Full body visible, sensible height comparison; no innkeeper face.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Sou uma cliente adulta. Preciso de uma cadeira adequada.",
+          "balloon": {
+            "x": 3,
+            "y": 15,
+            "w": 94,
+            "target_x": 31,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1199,
+      "title": "A margem oeste",
+      "time": "Dia 600 · noite",
+      "place": "atracadouro-do-sal",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Wide riverside inn at night on west ferry bank, tethered empty boat, lit windows, quiet river and untraveled far shore. No people or readable signs, complete medieval hand-painted scene.",
+      "scene": "Wide riverside inn at night on west ferry bank, tethered empty boat, lit windows, quiet river and untraveled far shore. No people or readable signs, complete medieval hand-painted scene.",
+      "lines": [],
+      "narration": "A equipe pagou a passagem e dormiu na pousada da margem oeste."
+    },
+    {
+      "number": 1200,
+      "title": "Nomes, prazo e retorno",
+      "time": "Dia 601 · manhã",
+      "place": "posto-guardioes-ambar",
+      "cast": [
+        "ysra",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "Ysra LEFT at woodland guardian checkpoint verifies Ilyan RIGHT dry permit tube and paper; bark-fiber dark hair and small temple twigs, fully golden eyes, dark earth skin, moss robes. Ilyan matches exact reference. Two figures, faces y37, carved trees/green light above. No portal.",
+      "scene": "Ysra LEFT at woodland guardian checkpoint verifies Ilyan RIGHT dry permit tube and paper; bark-fiber dark hair and small temple twigs, fully golden eyes, dark earth skin, moss robes. Ilyan matches exact reference. Two figures, faces y37, carved trees/green light above. No portal.",
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Nomes, prazo e caminho de volta.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 31,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Tudo está nas licenças.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 70,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1201,
+      "title": "Talveira volta a abrir",
+      "time": "Dia 601 · tarde",
+      "place": "talveira",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 28,
+      "layout": "New wide establishing view of canonical Talveira from street level: blue glass-roofed bridge between gothic stone canal towers, stone quay and golden lamps, tiny anonymous distant passersby only for scale, no identifiable heroes, complete architecture no cut-sky collage.",
+      "scene": "New wide establishing view of canonical Talveira from street level: blue glass-roofed bridge between gothic stone canal towers, stone quay and golden lamps, tiny anonymous distant passersby only for scale, no identifiable heroes, complete architecture no cut-sky collage.",
+      "lines": [],
+      "narration": "A ponte estava aberta sob controle. A cidade recebia visitantes, não donos."
+    },
+    {
+      "number": 1202,
+      "title": "O pino da roda",
+      "time": "Dia 601 · tarde",
+      "place": "estrada-rio-sal",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima kneels safely beside stationary merchant wagon wheel supported by chocks, replaces missing retaining pin with temporary copper wire. Three-quarter side view, anatomically correct two hands, body outside wheel, no moving wagon. Face x45 y36, wagon frame background, tool case open below.",
+      "scene": "Nima kneels safely beside stationary merchant wagon wheel supported by chocks, replaces missing retaining pin with temporary copper wire. Three-quarter side view, anatomically correct two hands, body outside wheel, no moving wagon. Face x45 y36, wagon frame background, tool case open below.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Até a próxima vila. Depois, troquem por um pino novo.",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 94,
+            "target_x": 47,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1203,
+      "title": "O desvio pelo vau",
+      "time": "Dia 602 · tarde",
+      "place": "estrada-rio-sal",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Wide landscape showing a closed rain-damaged bridge in background and a shallow safe ford farther upstream with a merchant wagon stopped on bank and half-unloaded crates. No close people, no magic, warm afternoon and practical muddy road.",
+      "scene": "Wide landscape showing a closed rain-damaged bridge in background and a shallow safe ford farther upstream with a merchant wagon stopped on bank and half-unloaded crates. No close people, no magic, warm afternoon and practical muddy road.",
+      "lines": [],
+      "narration": "No terceiro dia, descarregaram metade da carroça antes de seguir pelo vau.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1204,
+      "title": "Medir duas vezes",
+      "time": "Dia 603 · manhã",
+      "place": "estrada-rio-sal",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone examines an old brass hinge at village market stall, measuring it with small calipers, paying coins visible on table. Adult short gnome stands on ground at low end of counter, waist not stretched, curly copper bob, moss cap goggles, teal vest. Head x50 y36; merchant not visible.",
+      "scene": "Nima alone examines an old brass hinge at village market stall, measuring it with small calipers, paying coins visible on table. Adult short gnome stands on ground at low end of counter, waist not stretched, curly copper bob, moss cap goggles, teal vest. Head x50 y36; merchant not visible.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "A maioria dos consertos começa medindo duas vezes.",
+          "balloon": {
+            "x": 3,
+            "y": 4,
+            "w": 94,
+            "target_x": 48,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1205,
+      "title": "A Casa já estava vazia",
+      "time": "Dia 604 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "ordelia",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Ordelia LEFT stands at archive counter and hands a letter to Nima RIGHT, adult gnome on a properly low visitor stool, her head lower than Ordelia by natural 90cm vs human scale. Side by side not child. One iron-grey braid wine robe versus copper bob/moss cap teal vest. Upper wall clear, no Ilyan.",
+      "scene": "Ordelia LEFT stands at archive counter and hands a letter to Nima RIGHT, adult gnome on a properly low visitor stool, her head lower than Ordelia by natural 90cm vs human scale. Side by side not child. One iron-grey braid wine robe versus copper bob/moss cap teal vest. Upper wall clear, no Ilyan.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "Eles já estão em Talveira.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 42,
+            "target_y": 25,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Runa deixou uma carta para mim?",
+          "balloon": {
+            "x": 54,
+            "y": 23,
+            "w": 44,
+            "target_x": 83,
+            "target_y": 45,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1206,
+      "title": "Uma conversa antes do abraço",
+      "time": "Dia 604 · noite",
+      "place": "casa-arquivos",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone sitting by school guestroom window reads two letters privately, touched and teary without exaggerated sobbing. Copper curls, freckles, adult gnome, moss cap with goggles placed on small table, teal vest cream blouse retained. Head x50 y38, night sky upper background.",
+      "scene": "Nima alone sitting by school guestroom window reads two letters privately, touched and teary without exaggerated sobbing. Copper curls, freckles, adult gnome, moss cap with goggles placed on small table, teal vest cream blouse retained. Head x50 y38, night sky upper background.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Também prefiro uma conversa difícil a uma surpresa.",
+          "balloon": {
+            "x": 3,
+            "y": 4,
+            "w": 94,
+            "target_x": 44,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Runa escrevera antes da partida. Ilyan respondera de Talveira e oferecera a rota autorizada."
+    },
+    {
+      "number": 1207,
+      "title": "A barca regular",
+      "time": "Dia 606 · tarde",
+      "place": "barca-enseada",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Nima alone seated safely inside regular river ferry cabin beside her shut tool case, moss cap brass goggles back on, exact adult small gnome proportions. Looking through window at willow bank, no magical shortcut or heroic flying craft. Face x50 y38; cabin upper wall clear.",
+      "scene": "Nima alone seated safely inside regular river ferry cabin beside her shut tool case, moss cap brass goggles back on, exact adult small gnome proportions. Looking through window at willow bank, no magical shortcut or heroic flying craft. Face x50 y38; cabin upper wall clear.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "O horário é da barca. Não da minha pressa.",
+          "balloon": {
+            "x": 3,
+            "y": 9,
+            "w": 94,
+            "target_x": 52,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Ordelia organizou a passagem comum. Nima percorreu a estrada e esperou os guardiões."
+    },
+    {
+      "number": 1208,
+      "title": "Chegar por inteiro",
+      "time": "Dia 608 · tarde",
+      "place": "talveira",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 29,
+      "layout": "Talveira workshop doorway and canal square: Nima LEFT (90cm tall adult gnome, exact copper curly bob, moss cap goggles, teal vest cream blouse toolbelt) exits having finished her contracted conversation offscreen; Ilyan RIGHT (175cm adult human canonical long wavy black hair clean-shaven indigo vest) waits a few steps away at respectful distance with relieved smile. Show FULL bodies and clear natural height contrast: Nima head about Ilyan waist, no raised platform, no toddler proportions, no hug yet. Reserve unobstructed sky/stone for lettering. No Runa or other close people.",
+      "scene": "Talveira workshop doorway and canal square: Nima LEFT (90cm tall adult gnome, exact copper curly bob, moss cap goggles, teal vest cream blouse toolbelt) exits having finished her contracted conversation offscreen; Ilyan RIGHT (175cm adult human canonical long wavy black hair clean-shaven indigo vest) waits a few steps away at respectful distance with relieved smile. Show FULL bodies and clear natural height contrast: Nima head about Ilyan waist, no raised platform, no toddler proportions, no hug yet. Reserve unobstructed sky/stone for lettering. No Runa or other close people.",
+      "lines": [],
+      "narration": "Nima concluiu primeiro a conversa com a artesã. Ilyan a esperava na praça, sem exigir que a chegada respondesse a tudo."
+    }
+  ]
+}

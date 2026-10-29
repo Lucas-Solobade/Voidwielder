@@ -88,6 +88,9 @@ ARC_EIGHT_CONTINUED = json.loads((STORY_DIR / "arc8-1111-1166.json").read_text(e
 ARC_EIGHT["arc"]["chapters"].extend(ARC_EIGHT_CONTINUED["chapters"])
 ARC_EIGHT["pages"].extend(ARC_EIGHT_CONTINUED["pages"])
 ARC_NINE = json.loads((STORY_DIR / "arc9-1167-1176.json").read_text(encoding="utf-8"))
+ARC_NINE_NEXT = json.loads((STORY_DIR / "arc9-1177-1208.json").read_text(encoding="utf-8"))
+ARC_NINE["arc"]["chapters"].extend(ARC_NINE_NEXT["chapters"])
+ARC_NINE["pages"].extend(ARC_NINE_NEXT["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
