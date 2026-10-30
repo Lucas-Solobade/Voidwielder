@@ -7,6 +7,11 @@ def test_home_links_to_catalog_and_studies(client):
     content = response.content.decode()
     assert reverse("reader:search") in content
     assert reverse("reader:studies") in content
+    featured = content.split('aria-labelledby="destaques-title"')[1]
+    assert "As Vozes Sob Talveira" in featured
+    assert "Volume II" in featured
+    assert "Homus Bananus" not in featured
+    assert "Aprenda fazendo" not in featured
 
 
 def test_studies_catalog_opens_each_project_without_showing_the_whole_track(client):

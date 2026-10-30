@@ -1,0 +1,713 @@
+{
+  "chapters": [
+    {
+      "title": "A escada seca",
+      "start": 1282,
+      "end": 1295
+    },
+    {
+      "title": "O último lugar confirmado",
+      "start": 1296,
+      "end": 1302
+    }
+  ],
+  "pages": [
+    {
+      "number": 1282,
+      "title": "Pedra fria, água ao lado",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "At the first dry stair landing Nima LEFT on a raised solid step inspects ONE rusty railing with a small tool. Ilyan RIGHT waits one step back holding an ordinary oil lantern in his right hand, other hand relaxed. Full figures: adult gnome90cm, human175cm. Dark stone staircase curves up LEFT toward open courtyard gate, thick glass channel wall RIGHT contains flowing blue water behind glass. No people in background. Portrait wide establishing composition. Heads at35percent, railing action at60percent.",
+      "scene": "At the first dry stair landing Nima LEFT on a raised solid step inspects ONE rusty railing with a small tool. Ilyan RIGHT waits one step back holding an ordinary oil lantern in his right hand, other hand relaxed. Full figures: adult gnome90cm, human175cm. Dark stone staircase curves up LEFT toward open courtyard gate, thick glass channel wall RIGHT contains flowing blue water behind glass. No people in background. Portrait wide establishing composition. Heads at35percent, railing action at60percent.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Três marcas de ferrugem. Vou comparar com a planta.",
+          "balloon": {
+            "x": 2,
+            "y": 24,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Espero aqui com a luz.",
+          "balloon": {
+            "x": 54,
+            "y": 24,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 21,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "O canal corria atrás do vidro. Os degraus permaneciam secos.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1283,
+      "title": "Cada curva tem saída",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Sere alone in a long dry stone stair corridor, uses ONE chalk in right hand to mark small abstract tally at wall beside an upward exit arch. Left hand holds compact notebook at waist; ash bow leans safely against wall. Silver single braid, dark brown skin and green cloak unchanged. Upper30percent free stone arch for lettering, face40percent. No readable writing. Thick blue water glass wall opposite, normal lanternlight.",
+      "scene": "Sere alone in a long dry stone stair corridor, uses ONE chalk in right hand to mark small abstract tally at wall beside an upward exit arch. Left hand holds compact notebook at waist; ash bow leans safely against wall. Silver single braid, dark brown skin and green cloak unchanged. Upper30percent free stone arch for lettering, face40percent. No readable writing. Thick blue water glass wall opposite, normal lanternlight.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Saída um. Receberam a marca?",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 94,
+            "target_x": 35,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Os vigias respondiam de cima. Nenhuma curva ficava sem referência de retorno.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1284,
+      "title": "O chamado impossível",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "beren",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Beren LEFT mature mason and Nima RIGHT adult small gnome stand on SAME first stair landing, camera at medium distance showing complete90cm vs170cm scale. Beren shows her a small paper in left hand without touching her, Nima looks up at his real face. Background empty dark stair bends downward. No Tovo, no monster, no phantom silhouette. Portrait heads Beren35percent, Nima55percent, top area stone arches. Two arms per person.",
+      "scene": "Beren LEFT mature mason and Nima RIGHT adult small gnome stand on SAME first stair landing, camera at medium distance showing complete90cm vs170cm scale. Beren shows her a small paper in left hand without touching her, Nima looks up at his real face. Background empty dark stair bends downward. No Tovo, no monster, no phantom silhouette. Portrait heads Beren35percent, Nima55percent, top area stone arches. Two arms per person.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Tovo ficou na superfície. Este bilhete é dele.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 24,
+            "target_x": 39,
+            "target_y": 18,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Então o chamado lá embaixo não é dele.",
+          "balloon": {
+            "x": 54,
+            "y": 22,
+            "w": 44,
+            "target_x": 76,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A voz tinha o timbre de Tovo. O patamar adiante estava vazio.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1285,
+      "title": "O ar perde a voz",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Caio alone beside existing thin cloth airflow ribbon on wall of dry landing, one hand open at waist directs only a weak existing air current upward toward exit; other arm lowered. He observes ribbon and stops. Small dust stays near floor, no cyclone or battle flame. Face35percent, upper25percent arch free. Blue water behind thickglass on right. Canonical short auburn brown hair and teal uniform.",
+      "scene": "Caio alone beside existing thin cloth airflow ribbon on wall of dry landing, one hand open at waist directs only a weak existing air current upward toward exit; other arm lowered. He observes ribbon and stops. Small dust stays near floor, no cyclone or battle flame. Face35percent, upper25percent arch free. Blue water behind thickglass on right. Canonical short auburn brown hair and teal uniform.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "O som perdeu força. Vou parar antes de levantar pó.",
+          "balloon": {
+            "x": 3,
+            "y": 5,
+            "w": 60,
+            "target_x": 40,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "O ar já existia no corredor. Caio alterou sua direção por um instante.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1286,
+      "title": "A leitura da pedra",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "liria",
+        "beren"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Liria LEFT stands at UPPER geological landing with two tight brown braids, chin scar, gray coat red seams, measures thin porous stone crack with gauge. Beren RIGHT kneels at distance writing her numbers on card. They are on same upper landing, neither Runa nor Eda visible. Solid floor, railing and staircurve to lower landing out of view. Heads around38percent. No magic combat. Portrait.",
+      "scene": "Liria LEFT stands at UPPER geological landing with two tight brown braids, chin scar, gray coat red seams, measures thin porous stone crack with gauge. Beren RIGHT kneels at distance writing her numbers on card. They are on same upper landing, neither Runa nor Eda visible. Solid floor, railing and staircurve to lower landing out of view. Heads around38percent. No magic combat. Portrait.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A abertura cresce quando o canal sobe.",
+          "balloon": {
+            "x": 2,
+            "y": 4,
+            "w": 44,
+            "target_x": 39,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Beren",
+          "text": "Vou levar a medida por escrito.",
+          "balloon": {
+            "x": 54,
+            "y": 20,
+            "w": 44,
+            "target_x": 79,
+            "target_y": 50,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1287,
+      "title": "A marca do canal",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "runa",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Runa LEFT and Eda RIGHT at LOWER inspection landing, thick old blue water channel glass window behind. Runa holds small clean authorized WATER VIAL with right hand near chest, left tattooed arm uses small measuring rod at trough. Eda holds notebook and pencil at waist. EXACTLY two women; Liria absent. Runa long straight black bangs septum floral tattooLEFT; Eda dark short curls teal surveying cape. Faces38percent, upper25percent stone arch free.",
+      "scene": "Runa LEFT and Eda RIGHT at LOWER inspection landing, thick old blue water channel glass window behind. Runa holds small clean authorized WATER VIAL with right hand near chest, left tattooed arm uses small measuring rod at trough. Eda holds notebook and pencil at waist. EXACTLY two women; Liria absent. Runa long straight black bangs septum floral tattooLEFT; Eda dark short curls teal surveying cape. Faces38percent, upper25percent stone arch free.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A vibração aumenta nesta marca de água.",
+          "balloon": {
+            "x": 2,
+            "y": 21,
+            "w": 44,
+            "target_x": 31,
+            "target_y": 50,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Vou comparar com a leitura de Líria.",
+          "balloon": {
+            "x": 54,
+            "y": 21,
+            "w": 44,
+            "target_x": 63,
+            "target_y": 50,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "As rivais trabalhavam em patamares diferentes, com comunicação mediada.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1288,
+      "title": "Duas medidas, uma sequência",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Eda alone at stone shelf desk on LOWER stair landing, studies two separately signed cards placed side by side with a pressure gauge between them. She is thoughtful, one hand pointing to card, other holding pencil, simple arms. Ordinary lantern and small mechanical clock. Upper25percent clear stone, face40percent. No readable invented words.",
+      "scene": "Eda alone at stone shelf desk on LOWER stair landing, studies two separately signed cards placed side by side with a pressure gauge between them. She is thoughtful, one hand pointing to card, other holding pencil, simple arms. Ordinary lantern and small mechanical clock. Upper25percent clear stone, face40percent. No readable invented words.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Pedra ou água sozinhas não bastam. Preciso da sequência.",
+          "balloon": {
+            "x": 3,
+            "y": 14,
+            "w": 94,
+            "target_x": 52,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Uma janela curta separava duas variações do fluxo. O selo inferior continuava fechado.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1289,
+      "title": "Corrigir também é registrar",
+      "time": "Dia 617 · manhã",
+      "place": "talveira-escada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Landscape close still-life at dry stone ledge: two distinct small handwritten cards with abstract nonlegible ink marks and a visible correction line, one capped inkpot, pencil, small hourglass and a clean water vial near a warm cloth. Blue water dimly visible through thick glass. No people, hands or faces. Detailed medieval material study, horizontal composition, not plain parchment background.",
+      "scene": "Landscape close still-life at dry stone ledge: two distinct small handwritten cards with abstract nonlegible ink marks and a visible correction line, one capped inkpot, pencil, small hourglass and a clean water vial near a warm cloth. Blue water dimly visible through thick glass. No people, hands or faces. Detailed medieval material study, horizontal composition, not plain parchment background.",
+      "lines": [],
+      "narration": "Líria corrigiu uma unidade ilegível. Runa refez a leitura: o frasco aquecera em sua mão. Os dois erros ficaram registrados.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1290,
+      "title": "O nicho da planta",
+      "time": "Dia 617 · fim da manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Nima alone adult90cm gnome stands on SOLID low step looking into open shallow public TOOL NICHE set low in stone wall. Her two hands remain outside niche, one holds plan lowerwaist other rests on toolcase. Inside one waxed sealed envelope under small inspection lid, wooden wedges and narrow etched glass strip. NO touching envelope. Full body, mature adultface cap goggles bob curls. Face38percent, tools below60percent, roomupperquarter for speech.",
+      "scene": "Nima alone adult90cm gnome stands on SOLID low step looking into open shallow public TOOL NICHE set low in stone wall. Her two hands remain outside niche, one holds plan lowerwaist other rests on toolcase. Inside one waxed sealed envelope under small inspection lid, wooden wedges and narrow etched glass strip. NO touching envelope. Full body, mature adultface cap goggles bob curls. Face38percent, tools below60percent, roomupperquarter for speech.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Há um envelope lacrado sob a tampa. Chamem as testemunhas.",
+          "balloon": {
+            "x": 3,
+            "y": 16,
+            "w": 94,
+            "target_x": 45,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1291,
+      "title": "As mãos ficam na lanterna",
+      "time": "Dia 617 · fim da manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Ilyan alone close medium at dry stair alcove looking at thin glass strip lying on stone shelf beside SEALED wax envelope. His BOTH hands hold ONE ordinary oil lantern at waist. Expression shocked, controlled longing, face40percent below spare upperstone arch. Long wavy black hair clean shaven exactreference. No reaching third hand, no magical portrait of Mira.",
+      "scene": "Ilyan alone close medium at dry stair alcove looking at thin glass strip lying on stone shelf beside SEALED wax envelope. His BOTH hands hold ONE ordinary oil lantern at waist. Expression shocked, controlled longing, face40percent below spare upperstone arch. Long wavy black hair clean shaven exactreference. No reaching third hand, no magical portrait of Mira.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Essa marca... é igual à dela.",
+          "balloon": {
+            "x": 3,
+            "y": 7,
+            "w": 94,
+            "target_x": 45,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A vontade era pegar o papel. Ele manteve as mãos na lanterna.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1292,
+      "title": "O lacre antes da pergunta",
+      "time": "Dia 617 · fim da manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "nima",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Nima LEFT adult small90cm gnome on raisedsolid platform by low niche and Eda RIGHT human surveyor at same worksite. Nima points with ONE hand at SEALED envelope stayingoutside, other ontoolcase. Eda records wax seal in notebook. FaceNima40percent Eda35percent, spaceupper25percent clear. No Ilyan, extra gnomes or women. Bronze lanterns blueglass channel unchanged.",
+      "scene": "Nima LEFT adult small90cm gnome on raisedsolid platform by low niche and Eda RIGHT human surveyor at same worksite. Nima points with ONE hand at SEALED envelope stayingoutside, other ontoolcase. Eda records wax seal in notebook. FaceNima40percent Eda35percent, spaceupper25percent clear. No Ilyan, extra gnomes or women. Bronze lanterns blueglass channel unchanged.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Registrar a peça também é uma forma de não perdê-la.",
+          "balloon": {
+            "x": 2,
+            "y": 7,
+            "w": 44,
+            "target_x": 32,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Posição e lacre anotados. As testemunhas conferiram.",
+          "balloon": {
+            "x": 54,
+            "y": 7,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1293,
+      "title": "Primeiro a pessoa",
+      "time": "Dia 617 · fim da manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Ilyan LEFT turns his eyes toward REAL Runa RIGHT at safe lower landing. Runa holds water vial, notempty yet, and answers frombeside stone measuring shelf. No other faces in glass, no ghost or duplicate Runa. Background dim thickglass overwater, creature NOT visible, no dooropened. Faces at36percent. Exactlongwavy vs straightbangs distinction, Runa septum andleft floral tattoo. Two hands each.",
+      "scene": "Ilyan LEFT turns his eyes toward REAL Runa RIGHT at safe lower landing. Runa holds water vial, notempty yet, and answers frombeside stone measuring shelf. No other faces in glass, no ghost or duplicate Runa. Background dim thickglass overwater, creature NOT visible, no dooropened. Faces at36percent. Exactlongwavy vs straightbangs distinction, Runa septum andleft floral tattoo. Two hands each.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ouvi sua voz dizendo que a água acabou.",
+          "balloon": {
+            "x": 2,
+            "y": 8,
+            "w": 44,
+            "target_x": 29,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Estou aqui. Olhe para mim antes de seguir o som.",
+          "balloon": {
+            "x": 54,
+            "y": 8,
+            "w": 44,
+            "target_x": 67,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A imitação veio de baixo. A pessoa verdadeira continuava diante dele.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1294,
+      "title": "Subir com a pergunta",
+      "time": "Dia 617 · meio-dia",
+      "place": "talveira-escada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Landscape architectural scene: EMPTY dry stairs curving UP toward small bright ordinary daylight courtyard gate, blue channel behind thick glass on right, lanterns on left, shallow tool niche nowclosed. No people, ghost or creature. Lower curve is closed by iron railing and stays beyond frame, no opened main seal. Cinematic ascending perspective, deliberate quiet horizontal panorama.",
+      "scene": "Landscape architectural scene: EMPTY dry stairs curving UP toward small bright ordinary daylight courtyard gate, blue channel behind thick glass on right, lanterns on left, shallow tool niche nowclosed. No people, ghost or creature. Lower curve is closed by iron railing and stays beyond frame, no opened main seal. Cinematic ascending perspective, deliberate quiet horizontal panorama.",
+      "lines": [],
+      "narration": "O envelope lacrado foi recolhido com autorização. A equipe subiu para a leitura diante do conselho; ninguém seguiu a curva do selo inferior.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1295,
+      "title": "O frasco vazio",
+      "time": "Dia 617 · meio-dia",
+      "place": "talveira-patio",
+      "cast": [
+        "runa",
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 38,
+      "layout": "Runa LEFT at courtyard exit register presents EMPTY small glass vial with open neck, visibly missingcap, both hands anatomically clear; Ysra RIGHT at separate standing desk writes register. Runa worried notmysticallyshocked. Ysra darkearthskin barklike darkwavyhair templetwigs glowinggoldeneyes NOwhite silverhair. Blueglassedbridge distant clear midday sky no sunset. Faces40percent, upper25percent architecturalspace. Exactly2women.",
+      "scene": "Runa LEFT at courtyard exit register presents EMPTY small glass vial with open neck, visibly missingcap, both hands anatomically clear; Ysra RIGHT at separate standing desk writes register. Runa worried notmysticallyshocked. Ysra darkearthskin barklike darkwavyhair templetwigs glowinggoldeneyes NOwhite silverhair. Blueglassedbridge distant clear midday sky no sunset. Faces40percent, upper25percent architecturalspace. Exactly2women.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A tampa se perdeu. A água vazou na curva.",
+          "balloon": {
+            "x": 2,
+            "y": 3,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Registre a perda. Vamos medir outra reserva.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Todos os nomes estavam no registro de saída. Um erro pequeno ainda precisava ser corrigido.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1296,
+      "title": "Abrir diante de testemunhas",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "eda",
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "layout": "Eda LEFT and Ysra RIGHT seated at large workshop table under arched clear afternoon window. Eda opens old wax envelope on wooden tray with a small blunt bone letter opener, Ysra watches and records chain of custody. Tools on shelves, bronze halfplate and clamps behind. Mature exactidentities, upper25percent wall/arch blank for lettering. Additional witnesses remain OFF FRAME, no new invented namedcharacters. Two hands each, only2figures.",
+      "scene": "Eda LEFT and Ysra RIGHT seated at large workshop table under arched clear afternoon window. Eda opens old wax envelope on wooden tray with a small blunt bone letter opener, Ysra watches and records chain of custody. Tools on shelves, bronze halfplate and clamps behind. Mature exactidentities, upper25percent wall/arch blank for lettering. Additional witnesses remain OFF FRAME, no new invented namedcharacters. Two hands each, only2figures.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Lacre conferido. Vamos ler na presença das testemunhas.",
+          "balloon": {
+            "x": 3,
+            "y": 15,
+            "w": 94,
+            "target_x": 38,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A artesã e a representante do conselho acompanhavam a abertura do outro lado da mesa.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1297,
+      "title": "Uma direção, não uma chegada",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "layout": "Landscape detail on wooden workshop table: one aged pressure measurement sheet with geometric diagrams, a short separate handwritten message with abstract illegible lines, opened wax envelope, narrow etched glass toolstrip and bronze platehalf. Natural afternoonlight, blue glassbridge glimpsed through distant window. No people or hands. No readable generated text or map portal. Exact same oldletter objects, not many arbitrary scrolls.",
+      "scene": "Landscape detail on wooden workshop table: one aged pressure measurement sheet with geometric diagrams, a short separate handwritten message with abstract illegible lines, opened wax envelope, narrow etched glass toolstrip and bronze platehalf. Natural afternoonlight, blue glassbridge glimpsed through distant window. No people or hands. No readable generated text or map portal. Exact same oldletter objects, not many arbitrary scrolls.",
+      "lines": [],
+      "narration": "Mira escrevera que seguiria à Vigília de Aram. A frase registrava uma intenção naquela data; não provava que ela chegara ao posto.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1298,
+      "title": "Três suportes",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "eda",
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "layout": "Eda LEFT and Ysra RIGHT compare three separated evidences laid on workshop desk: copy of oldentryledger, thin etched glassstrip, message from oldenvelope. Eda index finger at ledger, Ysra indexatguardiansindex; each otherhandrestingdesk. No Mira portrait or presence. Faces40percent, upperquarter windowandstone clear. Neutral afternoondaylight bluecanalbridge outside. Exactlytwofigures.",
+      "scene": "Eda LEFT and Ysra RIGHT compare three separated evidences laid on workshop desk: copy of oldentryledger, thin etched glassstrip, message from oldenvelope. Eda index finger at ledger, Ysra indexatguardiansindex; each otherhandrestingdesk. No Mira portrait or presence. Faces40percent, upperquarter windowandstone clear. Neutral afternoondaylight bluecanalbridge outside. Exactlytwofigures.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "O livro de entrada registra a visita depois do desaparecimento.",
+          "balloon": {
+            "x": 2,
+            "y": 36,
+            "w": 44,
+            "target_x": 38,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Aram existe no índice. Não há confirmação da chegada.",
+          "balloon": {
+            "x": 54,
+            "y": 36,
+            "w": 44,
+            "target_x": 74,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1299,
+      "title": "As datas da cheia",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "layout": "Eda alone at workshop desk aligns THREE distinct old calendars using one floodlevel mark ascommon reference; brass straightedge and darkink, no moderntext. She holds straightedgewithonehand andpencilother, face38percent. Backgroundagedtoolsstonewallupperquarterclear. Clear daylight no sunsets. Quiet thoughtful pose, exact shortdarkcurls tealcloak.",
+      "scene": "Eda alone at workshop desk aligns THREE distinct old calendars using one floodlevel mark ascommon reference; brass straightedge and darkink, no moderntext. She holds straightedgewithonehand andpencilother, face38percent. Backgroundagedtoolsstonewallupperquarterclear. Clear daylight no sunsets. Quiet thoughtful pose, exact shortdarkcurls tealcloak.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A mesma cheia aparece nos três livros. A visita foi posterior.",
+          "balloon": {
+            "x": 3,
+            "y": 36,
+            "w": 94,
+            "target_x": 55,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Duas testemunhas de comunidades diferentes repetiram a conversão das datas.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1300,
+      "title": "Pode sentar",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "layout": "Ilyan LEFT and Runa RIGHT sit side byside onwoodenbench in quietworkshopcorner. Ilyan overwhelmed lookingdown, bothhands on knees, Runa sitsnear without demandingeyecontact, her twohands folded onlap. Longwavyblack hairvs straightbangs, nochangefaces. No Nima ornewpeople. Upper25percent stonearch free, heads38percent. No kissing orduelling, emotionally restrained warmneutral daylight.",
+      "scene": "Ilyan LEFT and Runa RIGHT sit side byside onwoodenbench in quietworkshopcorner. Ilyan overwhelmed lookingdown, bothhands on knees, Runa sitsnear without demandingeyecontact, her twohands folded onlap. Longwavyblack hairvs straightbangs, nochangefaces. No Nima ornewpeople. Upper25percent stonearch free, heads38percent. No kissing orduelling, emotionally restrained warmneutral daylight.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela esteve aqui... e nós não sabíamos.",
+          "balloon": {
+            "x": 2,
+            "y": 7,
+            "w": 44,
+            "target_x": 37,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "O documento não explica por que ela não escreveu.",
+          "balloon": {
+            "x": 54,
+            "y": 7,
+            "w": 44,
+            "target_x": 68,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Alívio e raiva chegaram juntos. Runa não inventou uma resposta para protegê-lo.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1301,
+      "title": "Sim às duas",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "layout": "ExactlyTHREE adults at quietworkshopbench: Ilyan humanmale175cm seated LEFT, Runa humanfemale seated CENTER, Nima adultfemalegnome90cm standing RIGHT foreground at SAMEdepth nearbench, her head lowerthan seatedhumanheads. Nima offers ONE cupwater withright hand, left lowered. Ilyan palmsrestknees, Runahandsfoldlap. Noembrace tangledarms. Canonical facesandclothes; matureNima, nothumanadultheight. Upper25percent sparestonewall, faceshumans38percent Nima52percent. No extra gnome. Portrait mediumwide.",
+      "scene": "ExactlyTHREE adults at quietworkshopbench: Ilyan humanmale175cm seated LEFT, Runa humanfemale seated CENTER, Nima adultfemalegnome90cm standing RIGHT foreground at SAMEdepth nearbench, her head lowerthan seatedhumanheads. Nima offers ONE cupwater withright hand, left lowered. Ilyan palmsrestknees, Runahandsfoldlap. Noembrace tangledarms. Canonical facesandclothes; matureNima, nothumanadultheight. Upper25percent sparestonewall, faceshumans38percent Nima52percent. No extra gnome. Portrait mediumwide.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Quer que eu fique também?",
+          "balloon": {
+            "x": 54,
+            "y": 1,
+            "w": 44,
+            "target_x": 86,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Sim. Quero vocês duas aqui.",
+          "balloon": {
+            "x": 2,
+            "y": 10,
+            "w": 44,
+            "target_x": 25,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1302,
+      "title": "Os nomes no relatório",
+      "time": "Dia 617 · fim da tarde",
+      "place": "talveira-oficina",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "layout": "Landscape stilllife at workshopdesk, two separated technical reports with distinct abstract signature marks, one porous rocksample withcaliper, watermeasureglass, two notebooks kept apart. Behind table a partlyopenwoodenpartition divides empty neighboringworkspaces. No people or hands, no magical reconciliation scene. Clear lateafternoon amber sidelight without sunball orcitymural. Detailed painted medieval comic.",
+      "scene": "Landscape stilllife at workshopdesk, two separated technical reports with distinct abstract signature marks, one porous rocksample withcaliper, watermeasureglass, two notebooks kept apart. Behind table a partlyopenwoodenpartition divides empty neighboringworkspaces. No people or hands, no magical reconciliation scene. Clear lateafternoon amber sidelight without sunball orcitymural. Detailed painted medieval comic.",
+      "lines": [],
+      "narration": "Líria e Runa entregaram análises em horários separados. Os dados podiam compor um relatório; as duas continuavam se detestando.",
+      "art_width": 1536,
+      "art_height": 1024
+    }
+  ]
+}

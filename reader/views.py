@@ -27,7 +27,9 @@ from .web_catalog import WEB_BOOK, get_web_pages, get_web_sections
 
 @require_GET
 def home(request: HttpRequest) -> HttpResponse:
-    return render(request, "reader/home.html", {"manga": MANGA, "arcs": ARCS})
+    return render(request, "reader/home.html", {
+        "current_arc": MEDIEVAL_ARCS[-1], "novel_ii": NOVEL_II,
+    })
 
 
 @require_GET

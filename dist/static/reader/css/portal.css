@@ -37,6 +37,7 @@
 .portal-feature{min-width:0;overflow:hidden;border:1px solid #ffffff1d;border-radius:19px;background:#171720;display:flex;flex-direction:column}
 .portal-feature-image{aspect-ratio:16/7;overflow:hidden;background:#101015}
 .portal-feature-image img{width:100%;height:100%;object-fit:cover;object-position:center 38%}
+.portal-feature-image--complete img{object-fit:contain;object-position:center}
 .portal-feature-copy{padding:1.4rem 1.55rem 1.6rem;display:flex;flex:1;flex-direction:column;align-items:flex-start}
 .portal-feature-copy .eyebrow{margin:.1rem 0 .45rem}
 .portal-feature-copy h3{font-size:clamp(1.45rem,2.2vw,2rem);line-height:1.1;letter-spacing:-.025em;margin:0}

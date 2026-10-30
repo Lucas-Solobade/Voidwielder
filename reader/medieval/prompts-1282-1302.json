@@ -1,0 +1,195 @@
+{
+  "tool": "built-in image_gen",
+  "identity_references": {
+    "ilyan": "reader\\medieval\\references\\ilyan-sheet.png",
+    "runa": "reader\\medieval\\references\\runa-sheet.png",
+    "nima": "reader\\medieval\\references\\individual\\nima.png",
+    "beren": "reader\\medieval\\references\\individual\\beren.png",
+    "sere": "reader\\medieval\\references\\individual\\sere.png",
+    "caio": "reader\\medieval\\references\\individual\\caio.png",
+    "liria": "reader\\medieval\\references\\individual\\liria.png",
+    "eda": "reader\\medieval\\references\\individual\\eda.png",
+    "ysra": "reader\\medieval\\references\\individual\\ysra.png"
+  },
+  "shared_constraints": "Painted medieval fantasy comic; canonical identity and costume sheets; each person exactly two arms, hands and legs; adult Nima90cm vs human175cm; natural upper architectural breathing room; no generated lettering or balloons; speech added in HTML.",
+  "pages": [
+    {
+      "number": 1282,
+      "scene_prompt": "At the first dry stair landing Nima LEFT on a raised solid step inspects ONE rusty railing with a small tool. Ilyan RIGHT waits one step back holding an ordinary oil lantern in his right hand, other hand relaxed. Full figures: adult gnome90cm, human175cm. Dark stone staircase curves up LEFT toward open courtyard gate, thick glass channel wall RIGHT contains flowing blue water behind glass. No people in background. Portrait wide establishing composition. Heads at35percent, railing action at60percent.",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1282.webp"
+    },
+    {
+      "number": 1283,
+      "scene_prompt": "Sere alone in a long dry stone stair corridor, uses ONE chalk in right hand to mark small abstract tally at wall beside an upward exit arch. Left hand holds compact notebook at waist; ash bow leans safely against wall. Silver single braid, dark brown skin and green cloak unchanged. Upper30percent free stone arch for lettering, face40percent. No readable writing. Thick blue water glass wall opposite, normal lanternlight.",
+      "cast": [
+        "sere"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1283.webp"
+    },
+    {
+      "number": 1284,
+      "scene_prompt": "Beren LEFT mature mason and Nima RIGHT adult small gnome stand on SAME first stair landing, camera at medium distance showing complete90cm vs170cm scale. Beren shows her a small paper in left hand without touching her, Nima looks up at his real face. Background empty dark stair bends downward. No Tovo, no monster, no phantom silhouette. Portrait heads Beren35percent, Nima55percent, top area stone arches. Two arms per person.",
+      "cast": [
+        "beren",
+        "nima"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1284.webp"
+    },
+    {
+      "number": 1285,
+      "scene_prompt": "Caio alone beside existing thin cloth airflow ribbon on wall of dry landing, one hand open at waist directs only a weak existing air current upward toward exit; other arm lowered. He observes ribbon and stops. Small dust stays near floor, no cyclone or battle flame. Face35percent, upper25percent arch free. Blue water behind thickglass on right. Canonical short auburn brown hair and teal uniform.",
+      "cast": [
+        "caio"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1285.webp"
+    },
+    {
+      "number": 1286,
+      "scene_prompt": "Liria LEFT stands at UPPER geological landing with two tight brown braids, chin scar, gray coat red seams, measures thin porous stone crack with gauge. Beren RIGHT kneels at distance writing her numbers on card. They are on same upper landing, neither Runa nor Eda visible. Solid floor, railing and staircurve to lower landing out of view. Heads around38percent. No magic combat. Portrait.",
+      "cast": [
+        "liria",
+        "beren"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1286.webp"
+    },
+    {
+      "number": 1287,
+      "scene_prompt": "Runa LEFT and Eda RIGHT at LOWER inspection landing, thick old blue water channel glass window behind. Runa holds small clean authorized WATER VIAL with right hand near chest, left tattooed arm uses small measuring rod at trough. Eda holds notebook and pencil at waist. EXACTLY two women; Liria absent. Runa long straight black bangs septum floral tattooLEFT; Eda dark short curls teal surveying cape. Faces38percent, upper25percent stone arch free.",
+      "cast": [
+        "runa",
+        "eda"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1287.webp"
+    },
+    {
+      "number": 1288,
+      "scene_prompt": "Eda alone at stone shelf desk on LOWER stair landing, studies two separately signed cards placed side by side with a pressure gauge between them. She is thoughtful, one hand pointing to card, other holding pencil, simple arms. Ordinary lantern and small mechanical clock. Upper25percent clear stone, face40percent. No readable invented words.",
+      "cast": [
+        "eda"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1288.webp"
+    },
+    {
+      "number": 1289,
+      "scene_prompt": "Landscape close still-life at dry stone ledge: two distinct small handwritten cards with abstract nonlegible ink marks and a visible correction line, one capped inkpot, pencil, small hourglass and a clean water vial near a warm cloth. Blue water dimly visible through thick glass. No people, hands or faces. Detailed medieval material study, horizontal composition, not plain parchment background.",
+      "cast": [],
+      "selected_asset": "reader/static/reader/images/medieval/page-1289.webp"
+    },
+    {
+      "number": 1290,
+      "scene_prompt": "Nima alone adult90cm gnome stands on SOLID low step looking into open shallow public TOOL NICHE set low in stone wall. Her two hands remain outside niche, one holds plan lowerwaist other rests on toolcase. Inside one waxed sealed envelope under small inspection lid, wooden wedges and narrow etched glass strip. NO touching envelope. Full body, mature adultface cap goggles bob curls. Face38percent, tools below60percent, roomupperquarter for speech.",
+      "cast": [
+        "nima"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1290.webp"
+    },
+    {
+      "number": 1291,
+      "scene_prompt": "Ilyan alone close medium at dry stair alcove looking at thin glass strip lying on stone shelf beside SEALED wax envelope. His BOTH hands hold ONE ordinary oil lantern at waist. Expression shocked, controlled longing, face40percent below spare upperstone arch. Long wavy black hair clean shaven exactreference. No reaching third hand, no magical portrait of Mira.",
+      "cast": [
+        "ilyan"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1291.webp"
+    },
+    {
+      "number": 1292,
+      "scene_prompt": "Nima LEFT adult small90cm gnome on raisedsolid platform by low niche and Eda RIGHT human surveyor at same worksite. Nima points with ONE hand at SEALED envelope stayingoutside, other ontoolcase. Eda records wax seal in notebook. FaceNima40percent Eda35percent, spaceupper25percent clear. No Ilyan, extra gnomes or women. Bronze lanterns blueglass channel unchanged.",
+      "cast": [
+        "nima",
+        "eda"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1292.webp"
+    },
+    {
+      "number": 1293,
+      "scene_prompt": "Ilyan LEFT turns his eyes toward REAL Runa RIGHT at safe lower landing. Runa holds water vial, notempty yet, and answers frombeside stone measuring shelf. No other faces in glass, no ghost or duplicate Runa. Background dim thickglass overwater, creature NOT visible, no dooropened. Faces at36percent. Exactlongwavy vs straightbangs distinction, Runa septum andleft floral tattoo. Two hands each.",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1293.webp"
+    },
+    {
+      "number": 1294,
+      "scene_prompt": "Landscape architectural scene: EMPTY dry stairs curving UP toward small bright ordinary daylight courtyard gate, blue channel behind thick glass on right, lanterns on left, shallow tool niche nowclosed. No people, ghost or creature. Lower curve is closed by iron railing and stays beyond frame, no opened main seal. Cinematic ascending perspective, deliberate quiet horizontal panorama.",
+      "cast": [],
+      "selected_asset": "reader/static/reader/images/medieval/page-1294.webp"
+    },
+    {
+      "number": 1295,
+      "scene_prompt": "Runa LEFT at courtyard exit register presents EMPTY small glass vial with open neck, visibly missingcap, both hands anatomically clear; Ysra RIGHT at separate standing desk writes register. Runa worried notmysticallyshocked. Ysra darkearthskin barklike darkwavyhair templetwigs glowinggoldeneyes NOwhite silverhair. Blueglassedbridge distant clear midday sky no sunset. Faces40percent, upper25percent architecturalspace. Exactly2women.",
+      "cast": [
+        "runa",
+        "ysra"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1295.webp"
+    },
+    {
+      "number": 1296,
+      "scene_prompt": "Eda LEFT and Ysra RIGHT seated at large workshop table under arched clear afternoon window. Eda opens old wax envelope on wooden tray with a small blunt bone letter opener, Ysra watches and records chain of custody. Tools on shelves, bronze halfplate and clamps behind. Mature exactidentities, upper25percent wall/arch blank for lettering. Additional witnesses remain OFF FRAME, no new invented namedcharacters. Two hands each, only2figures.",
+      "cast": [
+        "eda",
+        "ysra"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1296.webp"
+    },
+    {
+      "number": 1297,
+      "scene_prompt": "Landscape detail on wooden workshop table: one aged pressure measurement sheet with geometric diagrams, a short separate handwritten message with abstract illegible lines, opened wax envelope, narrow etched glass toolstrip and bronze platehalf. Natural afternoonlight, blue glassbridge glimpsed through distant window. No people or hands. No readable generated text or map portal. Exact same oldletter objects, not many arbitrary scrolls.",
+      "cast": [],
+      "selected_asset": "reader/static/reader/images/medieval/page-1297.webp"
+    },
+    {
+      "number": 1298,
+      "scene_prompt": "Eda LEFT and Ysra RIGHT compare three separated evidences laid on workshop desk: copy of oldentryledger, thin etched glassstrip, message from oldenvelope. Eda index finger at ledger, Ysra indexatguardiansindex; each otherhandrestingdesk. No Mira portrait or presence. Faces40percent, upperquarter windowandstone clear. Neutral afternoondaylight bluecanalbridge outside. Exactlytwofigures.",
+      "cast": [
+        "eda",
+        "ysra"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1298.webp"
+    },
+    {
+      "number": 1299,
+      "scene_prompt": "Eda alone at workshop desk aligns THREE distinct old calendars using one floodlevel mark ascommon reference; brass straightedge and darkink, no moderntext. She holds straightedgewithonehand andpencilother, face38percent. Backgroundagedtoolsstonewallupperquarterclear. Clear daylight no sunsets. Quiet thoughtful pose, exact shortdarkcurls tealcloak.",
+      "cast": [
+        "eda"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1299.webp"
+    },
+    {
+      "number": 1300,
+      "scene_prompt": "Ilyan LEFT and Runa RIGHT sit side byside onwoodenbench in quietworkshopcorner. Ilyan overwhelmed lookingdown, bothhands on knees, Runa sitsnear without demandingeyecontact, her twohands folded onlap. Longwavyblack hairvs straightbangs, nochangefaces. No Nima ornewpeople. Upper25percent stonearch free, heads38percent. No kissing orduelling, emotionally restrained warmneutral daylight.",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1300.webp"
+    },
+    {
+      "number": 1301,
+      "scene_prompt": "ExactlyTHREE adults at quietworkshopbench: Ilyan humanmale175cm seated LEFT, Runa humanfemale seated CENTER, Nima adultfemalegnome90cm standing RIGHT foreground at SAMEdepth nearbench, her head lowerthan seatedhumanheads. Nima offers ONE cupwater withright hand, left lowered. Ilyan palmsrestknees, Runahandsfoldlap. Noembrace tangledarms. Canonical facesandclothes; matureNima, nothumanadultheight. Upper25percent sparestonewall, faceshumans38percent Nima52percent. No extra gnome. Portrait mediumwide.",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "selected_asset": "reader/static/reader/images/medieval/page-1301.webp"
+    },
+    {
+      "number": 1302,
+      "scene_prompt": "Landscape stilllife at workshopdesk, two separated technical reports with distinct abstract signature marks, one porous rocksample withcaliper, watermeasureglass, two notebooks kept apart. Behind table a partlyopenwoodenpartition divides empty neighboringworkspaces. No people or hands, no magical reconciliation scene. Clear lateafternoon amber sidelight without sunball orcitymural. Detailed painted medieval comic.",
+      "cast": [],
+      "selected_asset": "reader/static/reader/images/medieval/page-1302.webp"
+    }
+  ],
+  "repairs": {
+    "1282": "Uniformly reduce entire Nima18percent while preserving face, costume, feet step and all other scene.",
+    "1284": "Uniformly reduce entire Nima18percent, adult90cm vs human175cm, preserve all other scene.",
+    "1287": "Remove all ink from Runa RIGHT forearm measuring rod; preserve LEFT floral tattoo and vial.",
+    "1288": "Replace the two invented portrait papers with technical measurements and geometric diagrams; preserve Eda and scene."
+  }
+}
