@@ -97,6 +97,10 @@ ARC_NINE["pages"].extend(ARC_NINE_FURTHER["pages"])
 ARC_NINE_STAIR = json.loads((STORY_DIR / "arc9-1282-1302.json").read_text(encoding="utf-8"))
 ARC_NINE["arc"]["chapters"].extend(ARC_NINE_STAIR["chapters"])
 ARC_NINE["pages"].extend(ARC_NINE_STAIR["pages"])
+ARC_NINE_FINALE = json.loads((STORY_DIR / "arc9-1303-1402.json").read_text(encoding="utf-8"))
+ARC_NINE["arc"]["chapters"].extend(ARC_NINE_FINALE["chapters"])
+ARC_NINE["pages"].extend(ARC_NINE_FINALE["pages"])
+ARC_NINE["arc"]["status"] = "Concluído"
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

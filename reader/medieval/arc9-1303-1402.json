@@ -1,0 +1,3085 @@
+{
+  "chapters": [
+    {
+      "title": "Antes da próxima luz",
+      "start": 1303,
+      "end": 1314
+    },
+    {
+      "title": "A placa e a chama",
+      "start": 1315,
+      "end": 1342
+    },
+    {
+      "title": "O peso e o carinho",
+      "start": 1343,
+      "end": 1380
+    },
+    {
+      "title": "O nome além do selo",
+      "start": 1381,
+      "end": 1402
+    }
+  ],
+  "pages": [
+    {
+      "number": 1303,
+      "title": "Ainda falta fechar",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "eda",
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Eda LEFT and Ysra RIGHT at workshop table examine two bronze halfplates beside closed plan, afternoon blueglassbridge through window. Faces below35percent.",
+      "layout": "Eda LEFT and Ysra RIGHT at workshop table examine two bronze halfplates beside closed plan, afternoon blueglassbridge through window. Faces below35percent.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A pista pode esperar. As casas continuam fora de uso.",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 33,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "A instalação depende das condições do canal.",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1304,
+      "title": "O apoio primeiro",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "beren"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Beren alone points with one hand at a wooden support model on workbench, other hand at belt. Left knee brace visible. High stone wall above head.",
+      "layout": "Beren alone points with one hand at a wooden support model on workbench, other hand at belt. Left knee brace visible. High stone wall above head.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "A escora não pode empurrar a carga para o selo.",
+          "balloon": {
+            "x": 3,
+            "y": 26,
+            "w": 94,
+            "target_x": 40,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1305,
+      "title": "Uma trava reversível",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Adult small Nima alone stands on solid work platform turning a removable small bronze latch with two gloved hands, tools laid separately, mature face below35percent.",
+      "layout": "Adult small Nima alone stands on solid work platform turning a removable small bronze latch with two gloved hands, tools laid separately, mature face below35percent.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Se a pressão subir demais, podemos retirar as metades.",
+          "balloon": {
+            "x": 3,
+            "y": 39,
+            "w": 94,
+            "target_x": 62,
+            "target_y": 56,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1306,
+      "title": "Acima da escada",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-patio",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Tovo alone at courtyard winch, injured shoulder supported by plain sling; he points with GOOD hand to operating card while bad arm stays inside sling. No lifting.",
+      "layout": "Tovo alone at courtyard winch, injured shoulder supported by plain sling; he points with GOOD hand to operating card while bad arm stays inside sling. No lifting.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Eu coordeno. O peso fica com a talha.",
+          "balloon": {
+            "x": 3,
+            "y": 22,
+            "w": 94,
+            "target_x": 58,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1307,
+      "title": "A rota respira",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-patio",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Caio LEFT and Sere RIGHT inspect thin airflow ribbon by EXIT arch. Both arms simple, no crossed limbs. Sere bow slung, silver single braid.",
+      "layout": "Caio LEFT and Sere RIGHT inspect thin airflow ribbon by EXIT arch. Both arms simple, no crossed limbs. Sere bow slung, silver single braid.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Aviso antes de corrigir o ar.",
+          "balloon": {
+            "x": 2,
+            "y": 28,
+            "w": 44,
+            "target_x": 34,
+            "target_y": 49,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "E mantemos a saída desocupada.",
+          "balloon": {
+            "x": 54,
+            "y": 28,
+            "w": 44,
+            "target_x": 74,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1308,
+      "title": "Luz de reserva",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Ilyan LEFT seated on low bench, elderly small Oru RIGHT standing beside table. Ordinary oil lantern and two unlit backup torches on table; no magic yet. Compact adult gnome100cm vs seated human.",
+      "layout": "Ilyan LEFT seated on low bench, elderly small Oru RIGHT standing beside table. Ordinary oil lantern and two unlit backup torches on table; no magic yet. Compact adult gnome100cm vs seated human.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Posso ajudar com o calor, se faltar luz.",
+          "balloon": {
+            "x": 2,
+            "y": 28,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 52,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Só dentro do limite combinado. A reserva comum vem primeiro.",
+          "balloon": {
+            "x": 54,
+            "y": 28,
+            "w": 44,
+            "target_x": 76,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1309,
+      "title": "Antes da descida",
+      "time": "Dia 617 · tarde",
+      "place": "talveira-oficina",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Still-life two protected torches, ordinary lantern, separate folded operating card and small glass cup with wick on wooden bench. No hands or people.",
+      "layout": "Still-life two protected torches, ordinary lantern, separate folded operating card and small glass cup with wick on wooden bench. No hands or people.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A técnica rara não substituía a iluminação de reserva nem a rota de saída.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1310,
+      "title": "Uma carta sem triunfo",
+      "time": "Dia 617 · noite",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Ilyan alone writing letter at table by night lantern, serious clean-shaven face and long wavy hair, other hand holds page flat, spare wall above.",
+      "layout": "Ilyan alone writing letter at table by night lantern, serious clean-shaven face and long wavy hair, other hand holds page flat, spare wall above.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Como contar esperança e mais uma espera na mesma carta?",
+          "balloon": {
+            "x": 3,
+            "y": 43,
+            "w": 94,
+            "target_x": 56,
+            "target_y": 61,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1311,
+      "title": "O pai conhece a pessoa",
+      "time": "Dia 617 · noite",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Ilyan LEFT seated at desk, Nima RIGHT on raised workseat, adult gnome significantly smaller. Nima leaves letter untouched and talks with hands on knees.",
+      "layout": "Ilyan LEFT seated at desk, Nima RIGHT on raised workseat, adult gnome significantly smaller. Nima leaves letter untouched and talks with hands on knees.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Queria achar a frase certa.",
+          "balloon": {
+            "x": 2,
+            "y": 43,
+            "w": 44,
+            "target_x": 32,
+            "target_y": 69,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Bram conheceu Mira. Pode receber uma verdade incompleta.",
+          "balloon": {
+            "x": 54,
+            "y": 43,
+            "w": 44,
+            "target_x": 74,
+            "target_y": 68,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1312,
+      "title": "A data da revisão",
+      "time": "Dia 617 · noite",
+      "place": "talveira-oficina",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Close still-life hand-free sealed ordinary letter, a small dated maintenance card with abstract ink lines, brass nib and extinguished wick. Warm evening interior.",
+      "layout": "Close still-life hand-free sealed ordinary letter, a small dated maintenance card with abstract ink lines, brass nib and extinguished wick. Warm evening interior.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "Ele acrescentou a data da próxima revisão, para explicar por que ainda não partiria.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1313,
+      "title": "Ficar também é escolher",
+      "time": "Dia 617 · noite",
+      "place": "talveira-patio",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Ilyan LEFT and Runa RIGHT on quiet courtyard bench at night, two hands resting separately on bench, look at each other with exhausted affection. No kissing yet.",
+      "layout": "Ilyan LEFT and Runa RIGHT on quiet courtyard bench at night, two hands resting separately on bench, look at each other with exhausted affection. No kissing yet.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Quero correr atrás da pista.",
+          "balloon": {
+            "x": 2,
+            "y": 29,
+            "w": 44,
+            "target_x": 37,
+            "target_y": 49,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Eu sei. Amanhã ainda temos pessoas para trazer de volta.",
+          "balloon": {
+            "x": 54,
+            "y": 29,
+            "w": 44,
+            "target_x": 73,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1314,
+      "title": "A cidade antes da resposta",
+      "time": "Dia 617 · noite",
+      "place": "talveira-pontes",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 39,
+      "scene": "Wide nighttime city of Talveira, intact blue glass bridge over canal, quiet houses and small closed external service gate far to one side. No people, portals or ruin.",
+      "layout": "Wide nighttime city of Talveira, intact blue glass bridge over canal, quiet houses and small closed external service gate far to one side. No people, portals or ruin.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A carta ficou guardada. A janela externa continuava aberta; o selo inferior, fechado.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1315,
+      "title": "A marca combinada",
+      "time": "Dia 618 · amanhecer",
+      "place": "talveira-patio",
+      "cast": [
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Sere alone at dawn evacuation street examines exit ribbon, bow on back, hands hold notebook at waist, street clear behind her.",
+      "layout": "Sere alone at dawn evacuation street examines exit ribbon, bow on back, hands hold notebook at waist, street clear behind her.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Rua vazia. Vigias nas saídas.",
+          "balloon": {
+            "x": 55,
+            "y": 3,
+            "w": 42,
+            "target_x": 22,
+            "target_y": 13,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1316,
+      "title": "Ar suficiente",
+      "time": "Dia 618 · amanhecer",
+      "place": "talveira-escada",
+      "cast": [
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Caio alone at dry stairs, one palm low controls weak existing upward airflow, other points at real wall ribbon. No vortex.",
+      "layout": "Caio alone at dry stairs, one palm low controls weak existing upward airflow, other points at real wall ribbon. No vortex.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Há corrente para levar o pó. Não prometo uma rajada estável.",
+          "balloon": {
+            "x": 3,
+            "y": 24,
+            "w": 52,
+            "target_x": 40,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1317,
+      "title": "Duas condições",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Eda alone at lower landing reads TWO separate cards above a pressure gauge, holds one pencil and notebook. No portraits on cards.",
+      "layout": "Eda alone at lower landing reads TWO separate cards above a pressure gauge, holds one pencil and notebook. No portraits on cards.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Água e pedra dentro do plano. Nima, primeira metade.",
+          "balloon": {
+            "x": 3,
+            "y": 35,
+            "w": 68,
+            "target_x": 58,
+            "target_y": 49,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1318,
+      "title": "A primeira metade",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Small adult Nima alone on securely bolted work platform inserts ONE bronze halfplate in shallow rectangular exterior niche beside thick bluewater glass; exactly two hands on plate. No human sized gnome.",
+      "layout": "Small adult Nima alone on securely bolted work platform inserts ONE bronze halfplate in shallow rectangular exterior niche beside thick bluewater glass; exactly two hands on plate. No human sized gnome.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "A peça entrava pelo lado de fora. O lacre do selo principal não era tocado.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1319,
+      "title": "Uma voz sem boca",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Close eerie old frosted glass showing only indistinct SALT body mass behind narrow slit, bronze halfplate outside, no human face, no human mouths or ghosts. No creature exits.",
+      "layout": "Close eerie old frosted glass showing only indistinct SALT body mass behind narrow slit, bronze halfplate outside, no human face, no human mouths or ghosts. No creature exits.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A coisa imitou Nima: «Solte a trava». A gnoma verdadeira estava em silêncio, com as mãos ocupadas.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1320,
+      "title": "O comando escrito",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Ilyan alone holds operating card in left hand and ordinary lantern in right, speaks firmly toward worksite out of frame. Face below35percent.",
+      "layout": "Ilyan alone holds operating card in left hand and ordinary lantern in right, speaks firmly toward worksite out of frame. Face below35percent.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Segurar. O comando escrito é segurar, não soltar.",
+          "balloon": {
+            "x": 3,
+            "y": 30,
+            "w": 56,
+            "target_x": 47,
+            "target_y": 45,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1321,
+      "title": "O cartão na talha",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-patio",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Tovo alone surface winch injured arm in sling, reads ONE attached card and signals with good hand, rope carries load, no amplified muscles.",
+      "layout": "Tovo alone surface winch injured arm in sling, reads ONE attached card and signals with good hand, rope carries load, no amplified muscles.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Mantenham. A ordem falsa veio da parede.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 54,
+            "target_x": 47,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1322,
+      "title": "Uma linha que cresce",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Liria alone on separate UPPER geological landing measures hairline porous stone crack with caliper; two tight braids chin scar. No Runa or other figures.",
+      "layout": "Liria alone on separate UPPER geological landing measures hairline porous stone crack with caliper; two tight braids chin scar. No Runa or other figures.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A escora precisa entrar antes da segunda metade.",
+          "balloon": {
+            "x": 3,
+            "y": 3,
+            "w": 45,
+            "target_x": 65,
+            "target_y": 15,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1323,
+      "title": "A água sobe",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Runa alone on LOWER inspection landing, clean water vial at belt, her LEFT floral arm holds narrow measuring rod, right hand points at rising level behind thick glass. Right arm unmarked.",
+      "layout": "Runa alone on LOWER inspection landing, clean water vial at belt, her LEFT floral arm holds narrow measuring rod, right hand points at rising level behind thick glass. Right arm unmarked.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O nível está subindo. Precisamos do desvio autorizado.",
+          "balloon": {
+            "x": 4,
+            "y": 26,
+            "w": 44,
+            "target_x": 25,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1324,
+      "title": "Interromper a peça",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Nima alone on low safe work platform withdraws both hands from SECOND bronze halfplate resting on shelf, firstplate fixed; she waits, no impossible reach.",
+      "layout": "Nima alone on low safe work platform withdraws both hands from SECOND bronze halfplate resting on shelf, firstplate fixed; she waits, no impossible reach.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Parei. Beren, primeiro o calço.",
+          "balloon": {
+            "x": 3,
+            "y": 29,
+            "w": 54,
+            "target_x": 56,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1325,
+      "title": "O calço",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "beren"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Beren alone kneels at stone support, left knee brace, uses TWO hands to position a short wooden support wedge, no extra arm or huge beams.",
+      "layout": "Beren alone kneels at stone support, left knee brace, uses TWO hands to position a short wooden support wedge, no extra arm or huge beams.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "O apoio recebeu a escora antes de outra mudança de pressão.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1326,
+      "title": "A responsável pela válvula",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Eda alone holds permit card beside closed brass MECHANICAL water valve at lower landing; local operator remains off frame. No magical valve turning.",
+      "layout": "Eda alone holds permit card beside closed brass MECHANICAL water valve at lower landing; local operator remains off frame. No magical valve turning.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A responsável local autorizou a abertura pelo tempo marcado.",
+          "balloon": {
+            "x": 3,
+            "y": 38,
+            "w": 61,
+            "target_x": 55,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1327,
+      "title": "Água liberada",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Runa alone carefully guides a SMALL sheet of existing released clean water along narrow authorized trough. One left tattooed hand palm open, other hand lowered. No water from nothing, no flooding.",
+      "layout": "Runa alone carefully guides a SMALL sheet of existing released clean water along narrow authorized trough. One left tattooed hand palm open, other hand lowered. No water from nothing, no flooding.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "A pressão caiu. Mantenham a leitura.",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 43,
+            "target_x": 30,
+            "target_y": 16,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1328,
+      "title": "O limite de uma volta",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "runa",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Runa LEFT and Eda RIGHT at lower landing with pressure gauge and ordinary valve, hands simple, Runa stops with palm at waist; Eda reads permit.",
+      "layout": "Runa LEFT and Eda RIGHT at lower landing with pressure gauge and ordinary valve, hands simple, Runa stops with palm at waist; Eda reads permit.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Minha medida não autoriza gastar a cisterna.",
+          "balloon": {
+            "x": 2,
+            "y": 43,
+            "w": 44,
+            "target_x": 34,
+            "target_y": 61,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Vou consultar a responsável antes de ampliar o desvio.",
+          "balloon": {
+            "x": 54,
+            "y": 43,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 61,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1329,
+      "title": "Meio giro",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Landscape close of ordinary brass valve at a HALF TURN stop mark and small hourglass, trough water passing, no hands people or readable symbols.",
+      "layout": "Landscape close of ordinary brass valve at a HALF TURN stop mark and small hourglass, trough water passing, no hands people or readable symbols.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "Foi permitido apenas meio giro adicional. As cozinhas receberam o aviso da queda temporária de vazão.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1330,
+      "title": "A fratura parou",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Liria alone upper landing reads caliper at thin crack and writes measurement on card. No reconciliation, focused hostile face.",
+      "layout": "Liria alone upper landing reads caliper at thin crack and writes measurement on card. No reconciliation, focused hostile face.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "O valor parou de crescer. Enviem o número a Eda.",
+          "balloon": {
+            "x": 3,
+            "y": 36,
+            "w": 57,
+            "target_x": 58,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1331,
+      "title": "Retomar",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Nima alone small adult on secure platform starts SECOND bronze halfplate toward rectangular exterior niche. Two hands visible supporting same smallpiece. Warm oil lantern visible in bracket.",
+      "layout": "Nima alone small adult on secure platform starts SECOND bronze halfplate toward rectangular exterior niche. Two hands visible supporting same smallpiece. Warm oil lantern visible in bracket.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "As duas condições conferem. Vou retomar.",
+          "balloon": {
+            "x": 3,
+            "y": 29,
+            "w": 52,
+            "target_x": 44,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1332,
+      "title": "A luz apaga",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Close ordinary oil lantern extinguished by changed airflow, wick smoking slightly, bronze latch blurred beyond, bluewater glass wall. No hands or silhouettes.",
+      "layout": "Close ordinary oil lantern extinguished by changed airflow, wick smoking slightly, bronze latch blurred beyond, bluewater glass wall. No hands or silhouettes.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "O ar mudou antes que a segunda trava alcançasse sua marca.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1333,
+      "title": "A rajada na curva",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Caio alone in dry corridor checks airflow ribbon bending hard, two unlit reserve torches safely in wallrack, one hand points toward exit, no conjured cyclone.",
+      "layout": "Caio alone in dry corridor checks airflow ribbon bending hard, two unlit reserve torches safely in wallrack, one hand points toward exit, no conjured cyclone.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "As tochas cairiam nesta rajada. Esperem na curva.",
+          "balloon": {
+            "x": 3,
+            "y": 30,
+            "w": 52,
+            "target_x": 36,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1334,
+      "title": "Pode recusar",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Ilyan LEFT seated low, elderly Oru RIGHT small adult stands beside protected glass cup with wick. Oru holds simple thermometer near Ilyan single extended hand; Ilyan other hand rests knee. Precisely four hands total.",
+      "layout": "Ilyan LEFT seated low, elderly Oru RIGHT small adult stands beside protected glass cup with wick. Oru holds simple thermometer near Ilyan single extended hand; Ilyan other hand rests knee. Precisely four hands total.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Um pavio, alguns batimentos. Você pode recusar.",
+          "balloon": {
+            "x": 54,
+            "y": 20,
+            "w": 44,
+            "target_x": 79,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Só para essa luz. Se eu tremer, paramos.",
+          "balloon": {
+            "x": 2,
+            "y": 25,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 45,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1335,
+      "title": "Calor contado",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Ilyan alone focused close medium, one open palm beneath protected glass wick cup, SMALL flame begins overwick only; his other arm lowered. No extra hands, no body engulfed in fire. Faceupper35percent below clear stonearch.",
+      "layout": "Ilyan alone focused close medium, one open palm beneath protected glass wick cup, SMALL flame begins overwick only; his other arm lowered. No extra hands, no body engulfed in fire. Faceupper35percent below clear stonearch.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "A chama nasceu pequena do calor da palma. Os dedos perderam o conforto antes de a marca aparecer.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1336,
+      "title": "A trava certa",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Nima alone turns small bronze latch beside second halfplate under SMALL protected wick light in wallbracket, both her hands clearly on separate latch edges, matureface. No floating human hand in frame.",
+      "layout": "Nima alone turns small bronze latch beside second halfplate under SMALL protected wick light in wallbracket, both her hands clearly on separate latch edges, matureface. No floating human hand in frame.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Marca visível. Trava encaixada.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 54,
+            "target_x": 54,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1337,
+      "title": "Subir agora",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Ilyan LEFT and Oru RIGHT ascend dry stairs toward daylight. Ilyan wraps both hands INSIDE one wool cloth so fingers hidden, Oru points UP with one hand, other carries notebook. No carrying human on back or lifting.",
+      "layout": "Ilyan LEFT and Oru RIGHT ascend dry stairs toward daylight. Ilyan wraps both hands INSIDE one wool cloth so fingers hidden, Oru points UP with one hand, other carries notebook. No carrying human on back or lifting.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "A chama acabou. Venha aquecer as mãos.",
+          "balloon": {
+            "x": 48,
+            "y": 40,
+            "w": 48,
+            "target_x": 69,
+            "target_y": 57,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1338,
+      "title": "Um toque",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-escada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Landscape close external bronze plate in TWO joined halves, fixed support wedge and little mechanical pressure bell. Glass remains intact behind, no creature outside, no portal.",
+      "layout": "Landscape close external bronze plate in TWO joined halves, fixed support wedge and little mechanical pressure bell. Glass remains intact behind, no creature outside, no portal.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A campainha tocou uma vez, como previsto. A placa tentou mover-se e voltou à posição.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1339,
+      "title": "A separação permanece",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-patio",
+      "cast": [
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Ysra alone inspects numbered SEALED lower-route register and separate exterior pressure reading at surface desk, no opening mainseal; exact gold eyes templetwigs.",
+      "layout": "Ysra alone inspects numbered SEALED lower-route register and separate exterior pressure reading at surface desk, no opening mainseal; exact gold eyes templetwigs.",
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Janela fechada. Mesmo lacre no selo principal.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 60,
+            "target_x": 53,
+            "target_y": 49,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1340,
+      "title": "Voltar pela rua alta",
+      "time": "Dia 618 · manhã",
+      "place": "talveira-pontes",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Wide Talveira street with a FEW small distant anonymous adult residents walking cautiously home, intact blueglassbridge inbackground, no crowd of duplicated protagonists.",
+      "layout": "Wide Talveira street with a FEW small distant anonymous adult residents walking cautiously home, intact blueglassbridge inbackground, no crowd of duplicated protagonists.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A criatura recuou para o bolsão. A cidade autorizou um retorno gradual, com vigilância.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1341,
+      "title": "O preço da chama",
+      "time": "Dia 618 · fim da manhã",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Ilyan LEFT seated with heavy blanket fully over clothed shoulders andlap, holds broth mug with2hands; small Oru RIGHT on high stool writes pulse temperature in notebook. Facesbelow35percent.",
+      "layout": "Ilyan LEFT seated with heavy blanket fully over clothed shoulders andlap, holds broth mug with2hands; small Oru RIGHT on high stool writes pulse temperature in notebook. Facesbelow35percent.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Acendi o pavio e agora não consigo aquecer os pés.",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Registre as duas coisas. O frio também é parte da técnica.",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 41,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1342,
+      "title": "Dentro do conjunto",
+      "time": "Dia 618 · meio-dia",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 40,
+      "scene": "Ilyan alone under same full blanket with mug on table, he writes a few abstract tally marks onehand, other restsunderblanket. Ordinary worktools and meal nearby.",
+      "layout": "Ilyan alone under same full blanket with mug on table, he writes a few abstract tally marks onehand, other restsunderblanket. Ordinary worktools and meal nearby.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "A luz de Mira cabia entre as tarefas de todos. Ilyan decidiu lembrar os batimentos, não apenas o brilho.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1343,
+      "title": "Não reabrir tudo",
+      "time": "Dia 619 · manhã",
+      "place": "talveira-patio",
+      "cast": [
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Ysra alone at courtyard rail shows a small boundary rope and observes external bell from safe distance; residents off frame.",
+      "layout": "Ysra alone at courtyard rail shows a small boundary rope and observes external bell from safe distance; residents off frame.",
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Só a retirada de objetos. A faixa junto à grade continua fechada.",
+          "balloon": {
+            "x": 48,
+            "y": 2,
+            "w": 48,
+            "target_x": 47,
+            "target_y": 12,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1344,
+      "title": "O saber fica aqui",
+      "time": "Dia 619 · manhã",
+      "place": "talveira-oficina",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Nima adult small alone on work platform writes a compact maintenance notebook beside removable bronze model, tools secure and legs complete.",
+      "layout": "Nima adult small alone on work platform writes a compact maintenance notebook beside removable bronze model, tools secure and legs complete.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "O caderno precisa servir mesmo quando eu não estiver na cidade.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 53,
+            "target_y": 11,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1345,
+      "title": "Uma medida corrigida",
+      "time": "Dia 619 · manhã",
+      "place": "talveira-oficina",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Landscape close final maintenance page with an abstract corrected dimension and TWO distinct signature strokes, brass caliper and nib. No portraits or hands.",
+      "layout": "Landscape close final maintenance page with an abstract corrected dimension and TWO distinct signature strokes, brass caliper and nib. No portraits or hands.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A artesã local corrigiu a medida e assinou. O conhecimento ficava com quem carregava o risco.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1346,
+      "title": "Três partes",
+      "time": "Dia 619 · manhã",
+      "place": "talveira-oficina",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Eda alone sorts three separate report bundles on desk, first exteriorwindow, second sealedroute, third evidenceMira abstract diagrams, no readabletext.",
+      "layout": "Eda alone sorts three separate report bundles on desk, first exteriorwindow, second sealedroute, third evidenceMira abstract diagrams, no readabletext.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Falha externa, selo intacto, descoberta de Mira. Cada prova no seu lugar.",
+          "balloon": {
+            "x": 3,
+            "y": 22,
+            "w": 68,
+            "target_x": 63,
+            "target_y": 49,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1347,
+      "title": "O desenho sob guarda",
+      "time": "Dia 619 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Ilyan LEFT and Ysra RIGHT at archivecounter. Ysra offers sealed copy, originalroutefile remains closed behindcounter. Simple hands at waist, clear upperwall.",
+      "layout": "Ilyan LEFT and Ysra RIGHT at archivecounter. Ysra offers sealed copy, originalroutefile remains closed behindcounter. Simple hands at waist, clear upperwall.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Queria levar o desenho inteiro.",
+          "balloon": {
+            "x": 2,
+            "y": 25,
+            "w": 44,
+            "target_x": 26,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Consulta e cópia lacrada. A rota precisa dos guardiões.",
+          "balloon": {
+            "x": 54,
+            "y": 25,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 45,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1348,
+      "title": "Uma folha para os moradores",
+      "time": "Dia 619 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Eda alone writes a simple PUBLIC notice at table with a little drawing of upperstreet and closedgate, no complex magical jargon or generatedletters.",
+      "layout": "Eda alone writes a simple PUBLIC notice at table with a little drawing of upperstreet and closedgate, no complex magical jargon or generatedletters.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Por onde buscar água e quem chamar se o sino tocar.",
+          "balloon": {
+            "x": 3,
+            "y": 33,
+            "w": 62,
+            "target_x": 49,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1349,
+      "title": "Um pulso, uma pausa",
+      "time": "Dia 619 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "tovo",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Tovo LEFT seated injured arm in sling, Oru RIGHT small elderlyadult stands bylowtable, points at small benchpulley, no strength demonstration.",
+      "layout": "Tovo LEFT seated injured arm in sling, Oru RIGHT small elderlyadult stands bylowtable, points at small benchpulley, no strength demonstration.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Então fico sem levantar panelas por semanas?",
+          "balloon": {
+            "x": 2,
+            "y": 25,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Pode organizar o turno. O ombro precisa de carga leve.",
+          "balloon": {
+            "x": 54,
+            "y": 25,
+            "w": 44,
+            "target_x": 74,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1350,
+      "title": "Fora do turno",
+      "time": "Dia 619 · entardecer",
+      "place": "talveira-pontes",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Caio LEFT and Sere RIGHT walk by publicwateredge atlamplight holding ONE pair of hands, outer arms lowered, greensilverbraid vs shortauburn hair clear. Fullyclothed sweet adultcouple.",
+      "layout": "Caio LEFT and Sere RIGHT walk by publicwateredge atlamplight holding ONE pair of hands, outer arms lowered, greensilverbraid vs shortauburn hair clear. Fullyclothed sweet adultcouple.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Tive medo de ouvir minha voz sair da grade.",
+          "balloon": {
+            "x": 54,
+            "y": 11,
+            "w": 44,
+            "target_x": 75,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Procurei sua mão. Eu também tive.",
+          "balloon": {
+            "x": 2,
+            "y": 21,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1351,
+      "title": "O arquivo não decide vencedoras",
+      "time": "Dia 619 · entardecer",
+      "place": "talveira-oficina",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Liria LEFT and Runa RIGHT stand well APART in archive doorway, angry, arms resting separately, no smiles friendship or touch. Upperstonearch free. Exactlytwofigures.",
+      "layout": "Liria LEFT and Runa RIGHT stand well APART in archive doorway, angry, arms resting separately, no smiles friendship or touch. Upperstonearch free. Exactlytwofigures.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "O desvio quase fez a peça escorregar.",
+          "balloon": {
+            "x": 2,
+            "y": 19,
+            "w": 44,
+            "target_x": 16,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Sua escora sozinha teria aumentado a pressão.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 44,
+            "target_x": 82,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1352,
+      "title": "Objeções por escrito",
+      "time": "Dia 619 · entardecer",
+      "place": "talveira-oficina",
+      "cast": [
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Oru alone small elderlyadult on lowstep inarchivecorridor, stern face gold copper glasses, holds blankreport atwaist. Rivals off frame.",
+      "layout": "Oru alone small elderlyadult on lowstep inarchivecorridor, stern face gold copper glasses, holds blankreport atwaist. Rivals off frame.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Escrevam as objeções. Não vou declarar uma vencedora.",
+          "balloon": {
+            "x": 3,
+            "y": 23,
+            "w": 61,
+            "target_x": 42,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1353,
+      "title": "A colher caída",
+      "time": "Dia 619 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Ilyan alone fullyclothed at guesthousebench with bowl onsidetable, one hand trembles atwaist other rests knee, droppedspoon on floor below, no thirdhand.",
+      "layout": "Ilyan alone fullyclothed at guesthousebench with bowl onsidetable, one hand trembles atwaist other rests knee, droppedspoon on floor below, no thirdhand.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "A mão está quente. O tremor ainda não foi embora.",
+          "balloon": {
+            "x": 3,
+            "y": 17,
+            "w": 60,
+            "target_x": 53,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1354,
+      "title": "Cuidado sem vigia",
+      "time": "Dia 619 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Ilyan LEFT and Runa RIGHT seated on SAME quiet guesthousebench, bothfullyclothed, clean spoon andwarm bowl on smalltable. Runa calmly listens, simplehands onlap.",
+      "layout": "Ilyan LEFT and Runa RIGHT seated on SAME quiet guesthousebench, bothfullyclothed, clean spoon andwarm bowl on smalltable. Runa calmly listens, simplehands onlap.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Você vai precisar me vigiar em toda parte?",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 40,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Podemos cuidar um do outro sem decidir pelo outro.",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 82,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1355,
+      "title": "Contar quando vier o frio",
+      "time": "Dia 619 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Same two adults Ilyan LEFT Runa RIGHT onbench gently hold ONE pair of hands overbench, otherhands resting separately. Affectionate eyecontact, no kiss yet, no entangled fingers.",
+      "layout": "Same two adults Ilyan LEFT Runa RIGHT onbench gently hold ONE pair of hands overbench, otherhands resting separately. Affectionate eyecontact, no kiss yet, no entangled fingers.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Prometo contar quando o frio começar.",
+          "balloon": {
+            "x": 2,
+            "y": 22,
+            "w": 44,
+            "target_x": 34,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "É isso que quero ouvir de você.",
+          "balloon": {
+            "x": 54,
+            "y": 22,
+            "w": 44,
+            "target_x": 70,
+            "target_y": 52,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1356,
+      "title": "Um beijo pedido",
+      "time": "Dia 619 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Two ADULTS Ilyan18 LEFT and Runa18 RIGHT share a tender CLOSED-MOUTH kiss, fully dressed in canonical outfits seated sidebyside, simple two arms each lowered or restingbench. Exact longwavyhair vs straightbangs septum LEFTtattoo. No tongues or sexualpose. Natural sparewall top.",
+      "layout": "Two ADULTS Ilyan18 LEFT and Runa18 RIGHT share a tender CLOSED-MOUTH kiss, fully dressed in canonical outfits seated sidebyside, simple two arms each lowered or restingbench. Exact longwavyhair vs straightbangs septum LEFTtattoo. No tongues or sexualpose. Natural sparewall top.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Runa pediu um beijo. Ilyan sorriu e foi encontrá-la.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1357,
+      "title": "Outros silêncios",
+      "time": "Dia 619 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Two fullyclothed adults Ilyan and Runa gently rest foreheads together AFTER kiss, hands onownknees, warmquiet lamplitbench, no extra faces.",
+      "layout": "Two fullyclothed adults Ilyan and Runa gently rest foreheads together AFTER kiss, hands onownknees, warmquiet lamplitbench, no extra faces.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Vou sentir falta deste silêncio na Casa.",
+          "balloon": {
+            "x": 2,
+            "y": 28,
+            "w": 44,
+            "target_x": 39,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Vamos procurar outros. Também em dias tranquilos.",
+          "balloon": {
+            "x": 54,
+            "y": 28,
+            "w": 44,
+            "target_x": 66,
+            "target_y": 52,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1358,
+      "title": "Há espaço no banco",
+      "time": "Dia 619 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "ExactlyTHREE adults fullyclothed: Ilyan seated LEFT, Runa seatedCENTER, adultgnome Nima90cm standingRIGHT with notebook. They make space onbench ratherthan excludeher. Correctsmallscale, hands simpleandseparate.",
+      "layout": "ExactlyTHREE adults fullyclothed: Ilyan seated LEFT, Runa seatedCENTER, adultgnome Nima90cm standingRIGHT with notebook. They make space onbench ratherthan excludeher. Correctsmallscale, hands simpleandseparate.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Quando Nima chegou, abriram espaço. O carinho não precisava virar segredo.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1359,
+      "title": "Posso ficar?",
+      "time": "Dia 620 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Runa human LEFT seated onnormalchair, Nima adultgnome RIGHT onraised secureworkplatform, lens safely in tray, facelevel similar dueplatform. Fullyclothed quietday workshop.",
+      "layout": "Runa human LEFT seated onnormalchair, Nima adultgnome RIGHT onraised secureworkplatform, lens safely in tray, facelevel similar dueplatform. Fullyclothed quietday workshop.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Posso ficar um pouco?",
+          "balloon": {
+            "x": 2,
+            "y": 22,
+            "w": 44,
+            "target_x": 27,
+            "target_y": 49,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Sente aqui. Hoje até o carvão da forja me faz falta.",
+          "balloon": {
+            "x": 54,
+            "y": 22,
+            "w": 44,
+            "target_x": 69,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1360,
+      "title": "Uma história só dela",
+      "time": "Dia 620 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Nima alone mature adultgnome sits onraisedworkstool beside repaired tinyhandpump model, tells story proudly, bothhands onstool no floatingtools.",
+      "layout": "Nima alone mature adultgnome sits onraisedworkstool beside repaired tinyhandpump model, tells story proudly, bothhands onstool no floatingtools.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Consertei a bomba da praça sem os dois por perto.",
+          "balloon": {
+            "x": 3,
+            "y": 30,
+            "w": 57,
+            "target_x": 47,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "narration": "Runa pediu uma lembrança que ainda não conhecia. Nima contou uma conquista sua.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1361,
+      "title": "Uma pergunta própria",
+      "time": "Dia 620 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Runa LEFT and Nima RIGHT seated atworkbench with raisedgnomeseat, fullyclothed, sincere eyecontact, lensguardedtray and hands separately ontable.",
+      "layout": "Runa LEFT and Nima RIGHT seated atworkbench with raisedgnomeseat, fullyclothed, sincere eyecontact, lensguardedtray and hands separately ontable.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Nosso carinho depende só de Ilyan?",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 54,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Você quer estar comigo quando ele não está aqui?",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 54,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1362,
+      "title": "Foi por isso que vim",
+      "time": "Dia 620 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Two ADULT WOMEN Runa18 human LEFT seated and Nima26gnome RIGHT seated onraisedplatform share a gentle CLOSED-MOUTH kiss, fullyclothed. Headsize andfaces referenceexact; Nima matureadultsmallbody, copperbob pointyears freckles; Runa blackstraightbangs septum. Hands each onownlap, no sexualpose, no extra limbs.",
+      "layout": "Two ADULT WOMEN Runa18 human LEFT seated and Nima26gnome RIGHT seated onraisedplatform share a gentle CLOSED-MOUTH kiss, fullyclothed. Headsize andfaces referenceexact; Nima matureadultsmallbody, copperbob pointyears freckles; Runa blackstraightbangs septum. Hands each onownlap, no sexualpose, no extra limbs.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Runa respondeu que era por isso que procurara a oficina. O beijo foi uma escolha das duas.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1363,
+      "title": "Maçãs assadas",
+      "time": "Dia 620 · fim da tarde",
+      "place": "talveira-pontes",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Runa LEFT human and Nima RIGHT smalladult90cmgnome walking sameplane publicupperstreet, modest cloth bag of roastedapples heldbyNima. Sunsetordinarylanterns, no giantgnome. Widefullbody.",
+      "layout": "Runa LEFT human and Nima RIGHT smalladult90cmgnome walking sameplane publicupperstreet, modest cloth bag of roastedapples heldbyNima. Sunsetordinarylanterns, no giantgnome. Widefullbody.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Primeiro, a banca das maçãs.",
+          "balloon": {
+            "x": 54,
+            "y": 29,
+            "w": 44,
+            "target_x": 71,
+            "target_y": 60,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Essa negociação vai ser fácil.",
+          "balloon": {
+            "x": 2,
+            "y": 40,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1364,
+      "title": "Espaço também é carinho",
+      "time": "Dia 620 · entardecer",
+      "place": "talveira-pontes",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Runa seatedLEFT onlowpublicbench, Nima smalladult standingRIGHT nearbench, listening withouttouching, hands restownlap. Calm publicstreet, no Liria present.",
+      "layout": "Runa seatedLEFT onlowpublicbench, Nima smalladult standingRIGHT nearbench, listening withouttouching, hands restownlap. Calm publicstreet, no Liria present.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Ainda confiro a distância das portas.",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 50,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Se precisar de espaço, pode me dizer. Mesmo depois de me chamar.",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 55,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1365,
+      "title": "Uma conversa, três cadeiras",
+      "time": "Dia 620 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "ExactlyTHREE fullyclothed adults at ordinary dinner table: Ilyan LEFT seated, Runa CENTER seated, Nima RIGHT on raisedgnomechair withfeetrest. Three bowls and threechairs, no extra people. Handsresttableseparately.",
+      "layout": "ExactlyTHREE fullyclothed adults at ordinary dinner table: Ilyan LEFT seated, Runa CENTER seated, Nima RIGHT on raisedgnomechair withfeetrest. Three bowls and threechairs, no extra people. Handsresttableseparately.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Contaram a Ilyan sobre o passeio e o beijo. Ele quis entender por que aquilo o deixara tão quieto.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1366,
+      "title": "O medo de ficar de fora",
+      "time": "Dia 620 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Ilyan alone mediumclose seated dinnerplace, thoughtful notangry, handsaroundemptycup, upperwall free, fullyclothed exactface.",
+      "layout": "Ilyan alone mediumclose seated dinnerplace, thoughtful notangry, handsaroundemptycup, upperwall free, fullyclothed exactface.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Tive medo de voltar e não haver uma cadeira para mim.",
+          "balloon": {
+            "x": 3,
+            "y": 34,
+            "w": 63,
+            "target_x": 55,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1367,
+      "title": "Sem contagem de gestos",
+      "time": "Dia 620 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Runa LEFT and Nima RIGHT onraisedchair atdinnertable, gentle seriousfaces, two hands eachrestingtable. Fullyclothed.",
+      "layout": "Runa LEFT and Nima RIGHT onraisedchair atdinnertable, gentle seriousfaces, two hands eachrestingtable. Fullyclothed.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não quero transformar amor numa contagem de minutos.",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 29,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Um encontro de duas pessoas não precisa excluir a terceira da verdade.",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 55,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1368,
+      "title": "As cadeiras continuam",
+      "time": "Dia 620 · noite",
+      "place": "talveira-pousada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Wide quiet stilllife THREE occupied-looking dinnerplaces after conversation, threechairs empty now, simplebowls andwarm lantern, no bodiesorhands.",
+      "layout": "Wide quiet stilllife THREE occupied-looking dinnerplaces after conversation, threechairs empty now, simplebowls andwarm lantern, no bodiesorhands.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "Nenhuma frase resolveu tudo. Nenhum sentimento difícil precisou ser escondido para preservar a conversa.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1369,
+      "title": "Palavras mais compridas",
+      "time": "Dia 621 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Ilyan LEFT seatedlowbench and Nima RIGHT standingonsecureworkplatform with removablelatch ontray, playful fullyclothedtalk. Human175cmvs adultgnome90cm, facesnearlevel due seatingonly.",
+      "layout": "Ilyan LEFT seatedlowbench and Nima RIGHT standingonsecureworkplatform with removablelatch ontray, playful fullyclothedtalk. Human175cmvs adultgnome90cm, facesnearlevel due seatingonly.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Uma peça feita para revisão parece mais honesta.",
+          "balloon": {
+            "x": 2,
+            "y": 24,
+            "w": 44,
+            "target_x": 29,
+            "target_y": 61,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "É o que Bram diria. Com palavras menores.",
+          "balloon": {
+            "x": 54,
+            "y": 24,
+            "w": 44,
+            "target_x": 72,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1370,
+      "title": "Além da lembrança",
+      "time": "Dia 621 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Same two fullyclothed adults Ilyanleft seated and Nimaright onsecureplatform, storedlensandfile visible ontray, tender seriouseyecontact.",
+      "layout": "Same two fullyclothed adults Ilyanleft seated and Nimaright onsecureplatform, storedlensandfile visible ontray, tender seriouseyecontact.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Não quero ser só a amiga que ficou esperando.",
+          "balloon": {
+            "x": 54,
+            "y": 18,
+            "w": 44,
+            "target_x": 76,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Quero saber o que você vai construir. Mesmo quando não for para mim.",
+          "balloon": {
+            "x": 2,
+            "y": 24,
+            "w": 44,
+            "target_x": 38,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1371,
+      "title": "A ferramenta pode esperar",
+      "time": "Dia 621 · tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Two ADULTS Ilyan18 human LEFT seatedLOW and Nima26 adultgnome RIGHT onraisedsecureplatform share gentle CLOSED-MOUTH kiss fullyclothed. Tools safelyontray, NO toolsinhands, handsrestownkneesorplatform. Canonicalfaces longwavyblackhair vs maturecopperbob pointedears. No explicitsexualpose.",
+      "layout": "Two ADULTS Ilyan18 human LEFT seatedLOW and Nima26 adultgnome RIGHT onraisedsecureplatform share gentle CLOSED-MOUTH kiss fullyclothed. Tools safelyontray, NO toolsinhands, handsrestownkneesorplatform. Canonicalfaces longwavyblackhair vs maturecopperbob pointedears. No explicitsexualpose.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Nima guardou a lente e a lima antes de perguntar. Ilyan disse sim.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1372,
+      "title": "Testar a embalagem",
+      "time": "Dia 621 · fim da tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "ExactlyTHREE fullyclothed adults atworkbench: IlyanLEFT seated, RunaCENTER stands holdingsmallreinforcedclothbag, adultsmallNimaRIGHT onworkstep. Three apples sit in tray, amusedfaces, arms simple.",
+      "layout": "ExactlyTHREE fullyclothed adults atworkbench: IlyanLEFT seated, RunaCENTER stands holdingsmallreinforcedclothbag, adultsmallNimaRIGHT onworkstep. Three apples sit in tray, amusedfaces, arms simple.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Podemos testar o saco em vez de discutir até escurecer.",
+          "balloon": {
+            "x": 3,
+            "y": 12,
+            "w": 56,
+            "target_x": 52,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1373,
+      "title": "O carinho circula",
+      "time": "Dia 621 · fim da tarde",
+      "place": "talveira-oficina",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Exactly3ADULTS fullyclothed affectionate group: IlyanLEFT seatedlow kisses RunaCENTER gently CLOSEDmouth; Nima26smalladultRIGHT onsecureworkseat smiles and holds Runa free hand lightly. No simultaneous three mouths tangled, exactly2arms each, coherent anatomy. Canonicalfaces. Nonsexual.",
+      "layout": "Exactly3ADULTS fullyclothed affectionate group: IlyanLEFT seatedlow kisses RunaCENTER gently CLOSEDmouth; Nima26smalladultRIGHT onsecureworkseat smiles and holds Runa free hand lightly. No simultaneous three mouths tangled, exactly2arms each, coherent anatomy. Canonicalfaces. Nonsexual.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Um beijo entre dois não expulsava a terceira pessoa da cena. Runa estendeu a mão para Nima.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1374,
+      "title": "A partida tem data",
+      "time": "Dia 622 · tarde",
+      "place": "talveira-patio",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Exactlythree adults fullyclothed onquietplazabench: Ilyanleft Runa center Nima rightonraisedseat, folded ordinaryletters ontable, sincerefaces no sobbing.",
+      "layout": "Exactlythree adults fullyclothed onquietplazabench: Ilyanleft Runa center Nima rightonraisedseat, folded ordinaryletters ontable, sincerefaces no sobbing.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Nima enviou a carta do mecanismo a Bram. Sua volta a Pedra-Mansa continuava marcada.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1375,
+      "title": "Presença por escolha",
+      "time": "Dia 622 · tarde",
+      "place": "talveira-patio",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Nima alone adult90cmgnome withclosedtraveltoolcase atfeet, matureface hopesandresolve, fullbody, mossgreenhatgoggles tealvest canonical.",
+      "layout": "Nima alone adult90cmgnome withclosedtraveltoolcase atfeet, matureface hopesandresolve, fullbody, mossgreenhatgoggles tealvest canonical.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Posso voltar para casa e continuar presente por cartas e visitas.",
+          "balloon": {
+            "x": 3,
+            "y": 32,
+            "w": 62,
+            "target_x": 47,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1376,
+      "title": "Depois da ronda",
+      "time": "Dia 622 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Runa LEFT and Ilyan RIGHT fullyclothed inplain guestroom, handover-dutycard placedonsidetable, twoemptychairs forinvitation. Warmprivateevening butnosexbeddingfocus.",
+      "layout": "Runa LEFT and Ilyan RIGHT fullyclothed inplain guestroom, handover-dutycard placedonsidetable, twoemptychairs forinvitation. Warmprivateevening butnosexbeddingfocus.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Vocês querem ficar comigo esta noite?",
+          "balloon": {
+            "x": 2,
+            "y": 32,
+            "w": 44,
+            "target_x": 26,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Quero. E quero poder continuar conversando.",
+          "balloon": {
+            "x": 54,
+            "y": 32,
+            "w": 44,
+            "target_x": 78,
+            "target_y": 53,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1377,
+      "title": "Três, sem pressa",
+      "time": "Dia 622 · noite",
+      "place": "talveira-pousada",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Exactly3ADULTS fullyclothed seatedclose onwideguestroomsofa: RunaLEFT softly kisses adultsmallNimaCENTER on cheek, IlyanRIGHT leans in for affectionate foreheadtouch withRuna; Nima raisedcushion stableadultscale. Goggles storedontable. Exactlythreeheads, twoarms each loweredonownlaps. No tangledmouths, eroticposeornudity.",
+      "layout": "Exactly3ADULTS fullyclothed seatedclose onwideguestroomsofa: RunaLEFT softly kisses adultsmallNimaCENTER on cheek, IlyanRIGHT leans in for affectionate foreheadtouch withRuna; Nima raisedcushion stableadultscale. Goggles storedontable. Exactlythreeheads, twoarms each loweredonownlaps. No tangledmouths, eroticposeornudity.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "O beijo percorreu os três em gestos diferentes. Também havia lugar para rir e para recuar.",
+      "art_width": 1082,
+      "art_height": 1454
+    },
+    {
+      "number": 1378,
+      "title": "A noite escolhida",
+      "time": "Dia 622 · noite",
+      "place": "talveira-pousada",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Landscape quiet CLOSED guestroom curtain and extinguished oil lamp, greenhat andgoggles ontable, threecups, NO PEOPLE no visiblebodiesorbedsex.",
+      "layout": "Landscape quiet CLOSED guestroom curtain and extinguished oil lamp, greenhat andgoggles ontable, threecups, NO PEOPLE no visiblebodiesorbedsex.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "Depois de conversar, fecharam a cortina. A intimidade ficou fora de quadro.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1379,
+      "title": "Três respostas",
+      "time": "Dia 623 · manhã",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "ExactlyTHREE fullyclothed adults atmorningbreakfast table IlyanLEFT RunaCENTER NimaRIGHT raisedgnomechairfeetrest. THREE separatefoldedletters by threecups. Gentledaylight no nudity orbed.",
+      "layout": "ExactlyTHREE fullyclothed adults atmorningbreakfast table IlyanLEFT RunaCENTER NimaRIGHT raisedgnomechairfeetrest. THREE separatefoldedletters by threecups. Gentledaylight no nudity orbed.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Quero receber cartas minhas também.",
+          "balloon": {
+            "x": 28,
+            "y": 10,
+            "w": 44,
+            "target_x": 52,
+            "target_y": 45,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "E eu quero respostas próprias dos dois.",
+          "balloon": {
+            "x": 54,
+            "y": 22,
+            "w": 44,
+            "target_x": 80,
+            "target_y": 49,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1380,
+      "title": "Saudade sem cobrança",
+      "time": "Dia 623 · manhã",
+      "place": "talveira-pousada",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 41,
+      "scene": "Ilyan LEFT seated andNimaRIGHT atsamelevel raisedchair fullyclothed looktenderly whileplacingseparateletters inmailpouch. No toolsorhandsoverlap.",
+      "layout": "Ilyan LEFT seated andNimaRIGHT atsamelevel raisedchair fullyclothed looktenderly whileplacingseparateletters inmailpouch. No toolsorhandsoverlap.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Vou contar quando sentir falta. Sem fazer disso uma cobrança.",
+          "balloon": {
+            "x": 2,
+            "y": 14,
+            "w": 44,
+            "target_x": 39,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Eu também vou escrever sobre coisas pequenas.",
+          "balloon": {
+            "x": 54,
+            "y": 14,
+            "w": 44,
+            "target_x": 74,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1381,
+      "title": "Seis dias",
+      "time": "Dia 624 · manhã",
+      "place": "talveira-patio",
+      "cast": [
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Ysra alone observes exteriorbronzeplate via shortspyglass from SAFE uppercourtyard, littlebellstill, clear morningcity, no monsters.",
+      "layout": "Ysra alone observes exteriorbronzeplate via shortspyglass from SAFE uppercourtyard, littlebellstill, clear morningcity, no monsters.",
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "Seis dias sem movimento. A vigilância continua.",
+          "balloon": {
+            "x": 3,
+            "y": 40,
+            "w": 61,
+            "target_x": 51,
+            "target_y": 57,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1382,
+      "title": "As bancas voltam",
+      "time": "Dia 624 · manhã",
+      "place": "talveira-patio",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Wide publicuppercourtyard stalls opening behindfixedropeboundary toservicegate, fewdistantanonymousadultstallkeepers, repairedmainblueglassbridgeintact. No namedcharacters duplicated.",
+      "layout": "Wide publicuppercourtyard stalls opening behindfixedropeboundary toservicegate, fewdistantanonymousadultstallkeepers, repairedmainblueglassbridgeintact. No namedcharacters duplicated.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "As bancas voltaram ao pátio superior. A faixa junto à grade permaneceu livre.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1383,
+      "title": "O pagamento combinado",
+      "time": "Dia 624 · manhã",
+      "place": "talveira-oficina",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Nima alone smalladult returns borrowedtoolbundle onto counter and receives countedcoins restingintray, no floatinghand. Greenhatgoggles onhead, travelcaseclosed.",
+      "layout": "Nima alone smalladult returns borrowedtoolbundle onto counter and receives countedcoins restingintray, no floatinghand. Greenhatgoggles onhead, travelcaseclosed.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Ferramentas devolvidas. A última correção está no caderno.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 37,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1384,
+      "title": "As despedidas são diferentes",
+      "time": "Dia 624 · manhã",
+      "place": "talveira-patio",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Two fullyclothed ADULT women Runa18 humanLEFT seatedonlowquaybench, Nima26 smallgnomeRIGHT standingonsameground closebesidebench, gentle CLOSEDMOUTH farewellkiss. Clear adultmatureNimaface, nochildbody, coherenthands ownlaps. Daylight boatwaitingbackgroundnoextraidentifiablepeople.",
+      "layout": "Two fullyclothed ADULT women Runa18 humanLEFT seatedonlowquaybench, Nima26 smallgnomeRIGHT standingonsameground closebesidebench, gentle CLOSEDMOUTH farewellkiss. Clear adultmatureNimaface, nochildbody, coherenthands ownlaps. Daylight boatwaitingbackgroundnoextraidentifiablepeople.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "Runa beijou Nima antes do embarque. A promessa era escrever, não fingir que a distância desaparecera.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1385,
+      "title": "A parte verdadeira",
+      "time": "Dia 624 · manhã",
+      "place": "talveira-patio",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "IlyanLEFT seatedlowquaybench andNimaRIGHT adultsmallgnomestanding samelevel, gentleclothed conversation withtoolcaseonfloor. Facesnearlevel byseating.",
+      "layout": "IlyanLEFT seatedlowquaybench andNimaRIGHT adultsmallgnomestanding samelevel, gentleclothed conversation withtoolcaseonfloor. Facesnearlevel byseating.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Conte a Bram o que provamos. E o que ainda não sabemos.",
+          "balloon": {
+            "x": 2,
+            "y": 34,
+            "w": 44,
+            "target_x": 36,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Vou contar as duas coisas.",
+          "balloon": {
+            "x": 54,
+            "y": 34,
+            "w": 44,
+            "target_x": 83,
+            "target_y": 54,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1386,
+      "title": "Até a próxima carta",
+      "time": "Dia 624 · manhã",
+      "place": "talveira-patio",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Two ADULTS Ilyan18 LEFT seatedlow andNima26 RIGHT smalladult standing besidebench share tender CLOSEDMOUTH kiss fullydressed farewell, tools instablecase aside, exactly2arms eachsimple. Canonicalfaces, boatropesbelow no entanglement.",
+      "layout": "Two ADULTS Ilyan18 LEFT seatedlow andNima26 RIGHT smalladult standing besidebench share tender CLOSEDMOUTH kiss fullydressed farewell, tools instablecase aside, exactly2arms eachsimple. Canonicalfaces, boatropesbelow no entanglement.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "O beijo de Ilyan não repetiu o de Runa. Cada despedida tinha sua própria saudade.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1387,
+      "title": "A barca regular",
+      "time": "Dia 624 · manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Nima alone adultsmall90cmgnome boards ordinary wooden passengerboat via shortsecuregangway withclosedtoolcase, onehandonrail otherholds case. Boatproportionsnormal, distantadultpassengers faceless. No wagon onboard.",
+      "layout": "Nima alone adultsmall90cmgnome boards ordinary wooden passengerboat via shortsecuregangway withclosedtoolcase, onehandonrail otherholds case. Boatproportionsnormal, distantadultpassengers faceless. No wagon onboard.",
+      "lines": [],
+      "format": "portrait",
+      "narration": "A carroça seria tomada na margem seguinte. Até Pedra-Mansa ainda havia uma viagem comum pela frente.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1388,
+      "title": "O espaço que ela deixou",
+      "time": "Dia 624 · fim da manhã",
+      "place": "talveira-pontes",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "IlyanLEFT andRunaRIGHT fullyclothed stand quay watchingboatfaraway, ONEpairhandslinked outerarmslowered. Tendermelancholicdaylight, noduplicateNimaashore.",
+      "layout": "IlyanLEFT andRunaRIGHT fullyclothed stand quay watchingboatfaraway, ONEpairhandslinked outerarmslowered. Tendermelancholicdaylight, noduplicateNimaashore.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Já estou com saudade.",
+          "balloon": {
+            "x": 54,
+            "y": 18,
+            "w": 44,
+            "target_x": 72,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu também. Ainda bem que dissemos isso antes de ela ir.",
+          "balloon": {
+            "x": 2,
+            "y": 27,
+            "w": 44,
+            "target_x": 32,
+            "target_y": 41,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1389,
+      "title": "O índice de Aram",
+      "time": "Dia 624 · tarde",
+      "place": "talveira-arquivo",
+      "cast": [
+        "ysra",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "YsraLEFT EdaRIGHT at archivebench compareold index andtransportledger, nonewcharacters. Warmdaylight, goldirises vsbrown, handsseparate.",
+      "layout": "YsraLEFT EdaRIGHT at archivebench compareold index andtransportledger, nonewcharacters. Warmdaylight, goldirises vsbrown, handsseparate.",
+      "lines": [
+        {
+          "speaker": "Ysra",
+          "text": "O posto existe no índice. Falta uma assinatura de Mira.",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 27,
+            "target_y": 52,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Há uma remessa do mesmo mês. Vamos conferir o número.",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 71,
+            "target_y": 55,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1390,
+      "title": "Instrumentos e papel",
+      "time": "Dia 624 · tarde",
+      "place": "talveira-arquivo",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Landscape technicalstilllife oldshippingledger withboxdiagram, tiedpaperbundle measuringtools andnumberedwaxsealabstract; no portraits orpeople.",
+      "layout": "Landscape technicalstilllife oldshippingledger withboxdiagram, tiedpaperbundle measuringtools andnumberedwaxsealabstract; no portraits orpeople.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A remessa correspondia a uma caixa. Uma caixa não provava que a destinatária viajara com ela.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1391,
+      "title": "A imagem fácil",
+      "time": "Dia 624 · tarde",
+      "place": "talveira-arquivo",
+      "cast": [
+        "ilyan",
+        "ysra"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "IlyanLEFT andYsraRIGHT standarchivecounter, shepointstoTHREEotherconsignments onledger, hekeepshandslowered thoughtful. No imaginedMira apparition.",
+      "layout": "IlyanLEFT andYsraRIGHT standarchivecounter, shepointstoTHREEotherconsignments onledger, hekeepshandslowered thoughtful. No imaginedMira apparition.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Imaginei minha mãe levando a caixa até lá.",
+          "balloon": {
+            "x": 2,
+            "y": 18,
+            "w": 44,
+            "target_x": 37,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ysra",
+          "text": "Outras cargas chegaram sem o destinatário viajar com elas.",
+          "balloon": {
+            "x": 54,
+            "y": 22,
+            "w": 44,
+            "target_x": 72,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1392,
+      "title": "Procurar quem transportou",
+      "time": "Dia 624 · tarde",
+      "place": "talveira-arquivo",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Edaalone writesordinaryrequesttoconsult transportbook, index openbeside. Nofakeportablemagic, exactshortcurls tealcloak.",
+      "layout": "Edaalone writesordinaryrequesttoconsult transportbook, index openbeside. Nofakeportablemagic, exactshortcurls tealcloak.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "O mensageiro pode lembrar quem entregou a caixa.",
+          "balloon": {
+            "x": 3,
+            "y": 27,
+            "w": 60,
+            "target_x": 55,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1393,
+      "title": "Uma esperança com apoio",
+      "time": "Dia 624 · fim da tarde",
+      "place": "talveira-arquivo",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Ilyanalone copiesconfirmedfacts into twoletters, originalsafelyoffcounter, thoughtfulface, ordinaryinkpen twohands. Fullupperwallspace.",
+      "layout": "Ilyanalone copiesconfirmedfacts into twoletters, originalsafelyoffcounter, thoughtfulface, ordinaryinkpen twohands. Fullupperwallspace.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Esteve viva em Talveira depois de desaparecer. Ainda não a encontramos.",
+          "balloon": {
+            "x": 49,
+            "y": 2,
+            "w": 48,
+            "target_x": 43,
+            "target_y": 13,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1075,
+      "art_height": 1463
+    },
+    {
+      "number": 1394,
+      "title": "Revisão pela Casa",
+      "time": "Dia 624 · fim da tarde",
+      "place": "talveira-arquivo",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Landscape twolettercopies andcovernote addressedbyabstractmarks forschoolregistry,ordinarymessengermailpouchready, no portal or moderntelephone.",
+      "layout": "Landscape twolettercopies andcovernote addressedbyabstractmarks forschoolregistry,ordinarymessengermailpouchready, no portal or moderntelephone.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "Uma via seguiria para a família; outra, ao arquivo da Casa. Ordelia receberia as cópias para revisão por correio comum.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1395,
+      "title": "O desacordo fica",
+      "time": "Dia 624 · fim da tarde",
+      "place": "talveira-patio",
+      "cast": [
+        "liria",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "LiriaLEFT RunaRIGHT standing WELL APART atpublicreturnpost, angrycontrolledfaces, twoarmsownbody no touching. Travelbags atfeet, separated departuretimecards atdesk.",
+      "layout": "LiriaLEFT RunaRIGHT standing WELL APART atpublicreturnpost, angrycontrolledfaces, twoarmsownbody no touching. Travelbags atfeet, separated departuretimecards atdesk.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Sua primeira leitura foi precipitada.",
+          "balloon": {
+            "x": 2,
+            "y": 22,
+            "w": 44,
+            "target_x": 23,
+            "target_y": 43,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E a primeira escora era rígida demais.",
+          "balloon": {
+            "x": 54,
+            "y": 22,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 41,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1396,
+      "title": "Sem repetir a guerra",
+      "time": "Dia 624 · entardecer",
+      "place": "talveira-patio",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "IlyanLEFT RunaRIGHT walking awayfrompublicpost, shechoosesbesidehim andholdsownreport, hewalksquietlyarmslowered notchargingattack. No Liria inframe.",
+      "layout": "IlyanLEFT RunaRIGHT walking awayfrompublicpost, shechoosesbesidehim andholdsownreport, hewalksquietlyarmslowered notchargingattack. No Liria inframe.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não preciso que nossa raiva vire outra luta.",
+          "balloon": {
+            "x": 54,
+            "y": 19,
+            "w": 44,
+            "target_x": 76,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu caminho com você.",
+          "balloon": {
+            "x": 2,
+            "y": 29,
+            "w": 44,
+            "target_x": 36,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1397,
+      "title": "Uma saída de cada vez",
+      "time": "Dia 624 · entardecer",
+      "place": "talveira-pontes",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Landscape actualrouteleavingTalveira via stoneguardianspost road into forest, distantblueglasscity behind; NO simultaneous montageportals. No peoplecloseup.",
+      "layout": "Landscape actualrouteleavingTalveira via stoneguardianspost road into forest, distantblueglasscity behind; NO simultaneous montageportals. No peoplecloseup.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "A equipe iniciou o retorno pelo posto dos guardiões. Nima já seguia sua própria rota.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1398,
+      "title": "O ombro viaja apoiado",
+      "time": "Dia 625 · manhã",
+      "place": "estrada-norte",
+      "cast": [
+        "tovo",
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "TovoLEFT seatedordinarycart injuredarmFULLYsupportedbysling, CaioRIGHT seatedhandsrestknees no windspells. Correctlargegreenorc andslimauburnhuman, intactordinaryroadcart.",
+      "layout": "TovoLEFT seatedordinarycart injuredarmFULLYsupportedbysling, CaioRIGHT seatedhandsrestknees no windspells. Correctlargegreenorc andslimauburnhuman, intactordinaryroadcart.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Desta vez, a carga vai sem mim.",
+          "balloon": {
+            "x": 2,
+            "y": 30,
+            "w": 44,
+            "target_x": 31,
+            "target_y": 47,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "E a carroça vai sem uma rajada minha.",
+          "balloon": {
+            "x": 54,
+            "y": 30,
+            "w": 44,
+            "target_x": 68,
+            "target_y": 50,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1399,
+      "title": "Provisões na margem",
+      "time": "Dia 625 · tarde",
+      "place": "estrada-norte",
+      "cast": [
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Serealone countsordinaryprovisionpouches atrealwooden ferrylanding, greencloak silversinglebraid bowonback, bothhandsseparatebags no extraarm.",
+      "layout": "Serealone countsordinaryprovisionpouches atrealwooden ferrylanding, greencloak silversinglebraid bowonback, bothhandsseparatebags no extraarm.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Água para a travessia e para o trecho de estrada.",
+          "balloon": {
+            "x": 3,
+            "y": 28,
+            "w": 58,
+            "target_x": 45,
+            "target_y": 56,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1400,
+      "title": "O banco dividido",
+      "time": "Dia 625 · entardecer",
+      "place": "estrada-norte",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Two fullyclothed adults IlyanLEFT RunaRIGHT seatedsidebyside onordinarymovingcart bench atsunset, onepairhandslinked, outsidearmsrestside, tenderfaces. No magiccart or croppedbodyfragments.",
+      "layout": "Two fullyclothed adults IlyanLEFT RunaRIGHT seatedsidebyside onordinarymovingcart bench atsunset, onepairhandslinked, outsidearmsrestside, tenderfaces. No magiccart or croppedbodyfragments.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Tem medo da próxima pista?",
+          "balloon": {
+            "x": 2,
+            "y": 20,
+            "w": 44,
+            "target_x": 36,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Tenho. Prefiro isso a fingir que sabemos onde Mira está.",
+          "balloon": {
+            "x": 54,
+            "y": 20,
+            "w": 44,
+            "target_x": 72,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1401,
+      "title": "As duas coisas juntas",
+      "time": "Dia 625 · noite",
+      "place": "estrada-norte",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "IlyanLEFT RunaRIGHT sitordinaryroadinn table atnight. Ilyanwritesletter, Runahandholdsitscorner flat; eachotherhandownlap. No sexyposes, warmquietlamplight.",
+      "layout": "IlyanLEFT RunaRIGHT sitordinaryroadinn table atnight. Ilyanwritesletter, Runahandholdsitscorner flat; eachotherhandownlap. No sexyposes, warmquietlamplight.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Acendi a chama. Depois precisei de cobertores.",
+          "balloon": {
+            "x": 2,
+            "y": 32,
+            "w": 44,
+            "target_x": 34,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Deixe espaço para a saudação de Nima quando chegar.",
+          "balloon": {
+            "x": 54,
+            "y": 32,
+            "w": 44,
+            "target_x": 73,
+            "target_y": 51,
+            "kind": "normal"
+          }
+        }
+      ],
+      "format": "portrait",
+      "narration": "A carta seria entregue na próxima posta. A descoberta não reduzia as pessoas a partes de um mistério.",
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1402,
+      "title": "Um nome além do selo",
+      "time": "Dia 626 · amanhecer",
+      "place": "estrada-norte",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 42,
+      "scene": "Final wide dawn roadtowarddistant schoolcity beneathcopperindigohills, closedmailpouch andfoldedmap onforegroundinnwindowsill, abstractmarkedroute, no peopleclose or portals. Beautifulfinishedpaintedcomiclandscape, NO generated titleletters.",
+      "layout": "Final wide dawn roadtowarddistant schoolcity beneathcopperindigohills, closedmailpouch andfoldedmap onforegroundinnwindowsill, abstractmarkedroute, no peopleclose or portals. Beautifulfinishedpaintedcomiclandscape, NO generated titleletters.",
+      "lines": [],
+      "format": "landscape",
+      "narration": "Talveira guardava a janela fechada. Aram tinha um nome no mapa. Antes de seguir, ainda seria preciso pedir entrada. Fim do arco 9.",
+      "art_width": 1536,
+      "art_height": 1024
+    }
+  ]
+}
