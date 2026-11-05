@@ -28,7 +28,10 @@
     "beren": "reader/medieval/references/individual/beren.png",
     "ysra": "reader/medieval/references/individual/ysra.png",
     "imitador-de-sal": "reader/medieval/references/imitador-de-sal.png",
-    "faminto-de-inverno": "reader/medieval/references/faminto-de-inverno.png"
+    "faminto-de-inverno": "reader/medieval/references/faminto-de-inverno.png",
+    "bram": "reader/medieval/references/individual/bram.png",
+    "mara": "reader/medieval/references/individual/mara.png",
+    "radesa": "reader/medieval/references/individual/radesa.png"
   },
   "characters": {
     "ilyan": {
@@ -404,7 +407,31 @@
     "talveira-patio": "Pátio de serviço acima da escada seca, separado da ponte principal reparada. A grade externa abre apenas mediante dois responsáveis; a janela antiga de inspeção fica além dela.",
     "talveira-escada": "Escada de serviço seca sob o pátio de Talveira, com canal atrás de vidro, patamares curtos, nicho de ferramentas e janela de inspeção externa. O selo inferior continua fechado; a licença do arco 9 alcança só o primeiro trecho.",
     "vigilia-aram": "Posto inferior e escada contínua até pátio central de sino rachado; observatório ao NORTE, jardim envidraçado a LESTE, armazenamento a OESTE, descarga para tanque vazio isolado ao SUL. Passagem funda abaixo da licença permanece sem exploração. Carta e registro comprovam passagem histórica posterior de Mira; não seu paradeiro presente.",
-    "talveira-pousada": "Pousada na rua alta de Talveira, acima da zona isolada. Entrada pelo pátio oeste; sala comum com mesa e três cadeiras junto à janela para a cidade, oficina de apoio ao lado, banco no pátio coberto. Quarto dos hóspedes no piso superior, porta para corredor, cama ao fundo e janela leste; circulação livre, ferramentas guardadas antes dos encontros. Recuperação e encontros nos dias619–623."
+    "talveira-pousada": "Pousada na rua alta de Talveira, acima da zona isolada. Entrada pelo pátio oeste; sala comum com mesa e três cadeiras junto à janela para a cidade, oficina de apoio ao lado, banco no pátio coberto. Quarto dos hóspedes no piso superior, porta para corredor, cama ao fundo e janela leste; circulação livre, ferramentas guardadas antes dos encontros. Recuperação e encontros nos dias619–623.",
+    "cozinha-escola": "Cozinha da Casa: porta para corredor a sul, fogareiros a oeste, bancada de porções a leste, prateleiras baixas para evitar cargas no ombro de Tovo.",
+    "corredor-leste": "Corredor físico entre enfermaria, alojamento de cedro e refeitório; portas continuam no mesmo lado, sem teleporte.",
+    "horta-escola": "Horta ao lado do pátio de treino; muro baixo com banco e passagem para porta lateral da cozinha.",
+    "forja-bram": "Forja de Bram em Pedra-Mansa: bigorna perto da lareira oeste, bancada iluminada por janela leste, porta norte para rua e casa contígua.",
+    "casa-bram": "Casa de Bram contígua à forja: cozinha e mesa no térreo, escada para quarto de hóspedes no andar superior.",
+    "oficina-nima": "Oficina própria de Nima em Pedra-Mansa junto à curva da praça; bancada de altura gnoma e plataforma firme para visitantes, porta à rua, torno lateral e estojo de ferramentas.",
+    "casa-nima": "Moradia de Nima junto à sua oficina em Pedra-Mansa, mesa de escrita própria e janela para a rua; trabalho e clientes independentes da escola.",
+    "praca-pedra-mansa": "Praça de Pedra-Mansa: bomba pública com alavanca reparada e próxima revisão, banco baixo, rua curva até oficina de Nima.",
+    "pomar-pedra-mansa": "Caminho público de terra firme ao pomar perto da praça; bancos baixos e poço, sem barreiras que exijam carregar Nima.",
+    "deposito-pedra-mansa": "Depósito e galpão de arreios junto à via de carroças; livro de carga numa tábua firme, banco ao lado da porta para luz de leitura de Radesa.",
+    "quarto-hospedes-bram": "Quarto de hóspedes no andar superior da casa de Bram: cama larga, janela com cortina, duas cadeiras e mesa de lamparina. Privacidade dos três adultos é respeitada.",
+    "abrigo-posta": "Abrigo comum da posta na estrada de cinco dias entre Casa e Pedra-Mansa; mercadorias e notícias viajam por pessoas e carroças comuns.",
+    "feira-ponte": "Feira pública junto à ponte de Valecobre: barracas de pão, cerâmica e tecidos, muro onde se pode sentar e banco diante da rua principal.",
+    "estrada-oeste": "Rota de fornecedores autorizados entre Pedra-Mansa e posto inferior de Aram, com três postos e esperas; percurso de Nima dias672–680.",
+    "abrigo-montanha": "Parada de acampamento na rota da Casa a Aram; toldo preso por cordas e fogareiro comum, vento descendente da encosta.",
+    "posto-aram": "Posto inferior de Aram: abrigo, depósito e local onde a carroça fica. Escada de rocha começa ao norte. Pernoite e preparação antes de subir.",
+    "escada-aram": "Escada contínua de rocha do posto à estação, dois patamares estreitos examinados por Beren; cordas de apoio iguais para todos, interditada se o vento trouxer gelo.",
+    "observatorio-aram": "Edifício ao NORTE do pátio do sino: janelas para o vale, bancada de registros, armário seco e abrigo para equipe quando o jardim fica frio.",
+    "patio-sino-aram": "Pátio central de Aram, ONE sino rachado fixo em suporte, haste mecânica ainda ligada ao limite de carga dos reservatórios; observatório norte, jardim leste, depósito oeste.",
+    "jardim-aram": "Estufa envidraçada a LESTE do sino de Aram: canteiros e canaleta oeste, marcas de carvão no piso para registrar avanço do gelo, retorno separado da água de cuidados.",
+    "armazenamento-aram": "Salas OESTE de Aram: núcleos térmicos cerâmicos, vigia de vidro espesso independente da porta principal e faixa de segurança; galerias fundas fechadas.",
+    "galeria-fria-aram": "Corredor inferior físico sob o depósito oeste, visto somente através da vigia fechada. Fratura do Fundo de Sal e Faminto ficam separados por contenções, sem perseguição pela equipe.",
+    "tanque-sul-aram": "Tanque de descarga vazio e isolado ao SUL longe das casas. Plataforma de válvula, fitas de vento e caminho de retirada conferidos antes da operação.",
+    "valvula-aram": "Face EXTERIOR acessível dos mecanismos oeste, plataforma firme com pino e presilha, descarga primeiro até tanque sul; luz reserva vem pela rota externa afastada da vigia."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -554,8 +581,9 @@
     "HQ1282–1302: dia617, VolumeII capítulos38–39. Escada seca inspecionada sob licença externa; Líria no patamar superior, Runa/Eda no inferior, Tovo na superfície. A criatura imita chamados sem aparecer como pessoa. Envelope lacrado documentado, recolhido e aberto na oficina diante das testemunhas; três suportes e calendários cotejados confirmam passagem de Mira após desaparecer, sem provar chegada à Vigília de Aram. Runa registra água perdida por tampa solta. Rivalidade permanece, placa ainda não instalada, selo inferior intocado. Fim1302 ainda no dia617.",
     "HQ1303–1402 conclui o arco9, substituindo o antigo limite planejado1326. Dias617–626: preparativos, operação externa autorizada no618, placa em duas metades com escora e desvio limitado, selo principal intacto; recuperação e afetos adultos nos619–623; Nima parte de barca no624 e segue por carroça da outra margem; equipe inicia retorno até626. LivroII ampliado primeiro: capítulo41 dá vínculos próprios a Runa/Ilyan, Runa/Nima e Ilyan/Nima, jantar sobre ciúme e encontros dos três com escolha e conversa; Nima90cm mantém ofício e autonomia. LivroII total420páginas. Aram continua intenção de Mira, sem prova de chegada. Cópias via correio comum, sem resposta instantânea de Ordelia. Líria e Runa continuam rivais.",
     "Livro II, arco 10 completo, capítulos 43–74, dias 626–692: retorno à Casa; custo e interrupção da chama corporal; cartas ordinárias; viagem de cinco dias até Pedra-Mansa; Bram revela episódio anterior ao desaparecimento; reconciliação parcial; reencontro adulto do trisal; retorno e aprendizagem com limites; Caio e Sere na feira; Runa e Líria continuam rivais; contrato de Nima e viagem comum até Aram; jardim congelado e Faminto de Inverno; resgate e contenção com ajuda da equipe; Ilyan escolhe apagar a chama; carta datada autentica passagem passada de Mira e tentativa interrompida de voltar, sem provar localização atual.",
-    "HQ 1403 é capa editorial do arco 10, não avanço literal. HQ 1404–1410: dias 626–629, estrada, portão sul, recuperação de Tovo, quarto de cedro, treino com vela apagada, pequena fagulha e cuidado após perder sensibilidade. Nima permanece em Pedra-Mansa e não aparece na narrativa da abertura.",
-    "O trisal Ilyan e Runa (18) e Nima (26, gnoma de 90cm) se reencontra nos capítulos 54–59; intimidade consensual termina fora de cena e amanhecer mantém corpos cobertos por lençóis, apenas ombros expostos. O pacto de não revelar a Ilyan a agressão antiga de Líria continua. Não há perdão entre Runa e Líria."
+    "HQ 1403 foi corrigida: Ilyan estuda o mapa na pousada ao amanhecer do dia626. A capa permanece exclusivamente na apresentação do arco. HQ 1404–1410: dias 626–629, estrada, portão sul, recuperação de Tovo, quarto de cedro, treino com vela apagada, pequena fagulha e cuidado após perder sensibilidade. Nima permanece em Pedra-Mansa e não aparece na narrativa da abertura.",
+    "O trisal Ilyan e Runa (18) e Nima (26, gnoma de 90cm) se reencontra nos capítulos 54–59; intimidade consensual termina fora de cena e amanhecer mantém corpos cobertos por lençóis, apenas ombros expostos. O pacto de não revelar a Ilyan a agressão antiga de Líria continua. Não há perdão entre Runa e Líria.",
+    "Roteiro HQ1411–1542 pronto a partir do livroII45–74. Publicação ilustrada deste lote alcança somente1463, dia648, capítulo57. A geração atingiu limite da conta;1464–1542 são planejadas e não entram no leitor antes de geração e revisão. O arco10 da HQ continua em andamento."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

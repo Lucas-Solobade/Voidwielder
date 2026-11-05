@@ -17,22 +17,19 @@
   "pages": [
     {
       "number": 1403,
-      "title": "O Inverno Dentro da Chama",
-      "time": "Dia 626 · abertura do arco 10",
-      "place": "vigilia-aram",
+      "title": "A estrada ainda existe",
+      "time": "Dia 626 · amanhecer",
+      "place": "estrada-norte",
       "cast": [
-        "ilyan",
-        "runa",
-        "nima"
+        "ilyan"
       ],
       "novel_volume": 2,
       "novel_chapter": 43,
       "format": "landscape",
-      "cover": true,
-      "scene": "Editorial cover tableau anticipating Aram. Not a literal jump forward in chronology. Ilyan with small flame, Runa with water, adult gnome Nima at half human height, cracked bell and frozen observatory.",
-      "layout": "Single full landscape cover, all art visible.",
+      "scene": "Ilyan alone at rural inn table studies ordinary travel map. Waiting wagon outside. Narrative scene before departure, no cover or Aram tableau.",
+      "layout": "Wide quiet inn scene.",
       "lines": [],
-      "narration": "Arco 10 · O Inverno Dentro da Chama",
+      "narration": "Aram era um nome no mapa. A Casa permanecia do outro lado da estrada.",
       "art_width": 1536,
       "art_height": 1024
     },
@@ -193,8 +190,8 @@
             "x": 2,
             "y": 6,
             "w": 43,
-            "target_x": 31,
-            "target_y": 32,
+            "target_x": 18,
+            "target_y": 30,
             "kind": "normal"
           }
         },
@@ -202,11 +199,11 @@
           "speaker": "Oru",
           "text": "Hoje vamos treinar como terminar.",
           "balloon": {
-            "x": 55,
-            "y": 16,
-            "w": 43,
-            "target_x": 79,
-            "target_y": 37,
+            "x": 46,
+            "y": 26,
+            "w": 27,
+            "target_x": 76,
+            "target_y": 38,
             "kind": "normal"
           }
         }

@@ -1,0 +1,4427 @@
+{
+  "chapters": [
+    {
+      "title": "O preço e a espera",
+      "start": 1411,
+      "end": 1434
+    },
+    {
+      "title": "A estrada de casa",
+      "start": 1435,
+      "end": 1458
+    },
+    {
+      "title": "Escolher estar junto",
+      "start": 1459,
+      "end": 1478
+    },
+    {
+      "title": "O cuidado e o retorno",
+      "start": 1479,
+      "end": 1498
+    },
+    {
+      "title": "As duas rotas de Aram",
+      "start": 1499,
+      "end": 1518
+    },
+    {
+      "title": "O Inverno Dentro da Chama",
+      "start": 1519,
+      "end": 1542
+    }
+  ],
+  "pages": [
+    {
+      "number": 1411,
+      "title": "O que não se sente",
+      "time": "Dia 629 · fim da tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 45,
+      "format": "portrait",
+      "scene": "Ilyan LEFT sits with his RIGHT hand wrapped on his lap, Runa RIGHT seated nearby listening; her hands folded on her own lap, no touching injured hand, stone infirmary and warm cup.",
+      "layout": "Ilyan LEFT sits with his RIGHT hand wrapped on his lap, Runa RIGHT seated nearby listening; her hands folded on her own lap, no touching injured hand, stone infirmary and warm cup.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Está doendo?",
+          "balloon": {
+            "x": 55,
+            "y": 37,
+            "w": 43,
+            "target_x": 82,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "É não sentir que me assusta.",
+          "balloon": {
+            "x": 2,
+            "y": 47,
+            "w": 44,
+            "target_x": 37,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1312,
+      "art_height": 1199
+    },
+    {
+      "number": 1412,
+      "title": "O formigamento",
+      "time": "Dia 629 · fim da tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 45,
+      "format": "portrait",
+      "scene": "Close medium Ilyan alone, looking down at cloth-wrapped RIGHT hand resting on blanket, LEFT hand holds cup by handle. Expression relief mixed with fear. No magic.",
+      "layout": "Close medium Ilyan alone, looking down at cloth-wrapped RIGHT hand resting on blanket, LEFT hand holds cup by handle. Expression relief mixed with fear. No magic.",
+      "lines": [],
+      "narration": "A sensibilidade voltou devagar. O dedo mínimo continuava dolorido.",
+      "art_width": 1227,
+      "art_height": 1282
+    },
+    {
+      "number": 1413,
+      "title": "Duas linhas",
+      "time": "Dia 629 · noite",
+      "place": "dormitorio-cedro",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 45,
+      "format": "portrait",
+      "scene": "Ilyan alone at cedar desk writing in notebook with uninjured LEFT hand, wrapped RIGHT hand resting visibly on desk edge. Lamp ordinary. Side profile, no readable lettering.",
+      "layout": "Ilyan alone at cedar desk writing in notebook with uninjured LEFT hand, wrapped RIGHT hand resting visibly on desk edge. Lamp ordinary. Side profile, no readable lettering.",
+      "lines": [],
+      "narration": "No caderno, riscou a frase heroica. Quisera continuar porque estava bonito.",
+      "art_width": 1227,
+      "art_height": 1282
+    },
+    {
+      "number": 1414,
+      "title": "Bonito também fere",
+      "time": "Dia 629 · noite",
+      "place": "corredor-leste",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 45,
+      "format": "landscape",
+      "scene": "Runa LEFT and Ilyan RIGHT walk slowly toward refectory, her RIGHT hand holds his LEFT hand naturally between bodies; tattooed LEFT hand at own side, his RIGHT wrapped hand close to torso.",
+      "layout": "Runa LEFT and Ilyan RIGHT walk slowly toward refectory, her RIGHT hand holds his LEFT hand naturally between bodies; tattooed LEFT hand at own side, his RIGHT wrapped hand close to torso.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Uma coisa bonita ainda pode ferir você.",
+          "balloon": {
+            "x": 2,
+            "y": 35,
+            "w": 44,
+            "target_x": 29,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Sei agora um pouco melhor.",
+          "balloon": {
+            "x": 54,
+            "y": 35,
+            "w": 44,
+            "target_x": 62,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1415,
+      "title": "O banco ocupado",
+      "time": "Dia 630 · manhã",
+      "place": "cozinha-escola",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 46,
+      "format": "portrait",
+      "scene": "Tovo alone at kitchen doorway, anatomical RIGHT arm entirely in single cream sling, LEFT hand empty by side, assigned portion ledger on small table. Empty kitchen tools not extra people.",
+      "layout": "Tovo alone at kitchen doorway, anatomical RIGHT arm entirely in single cream sling, LEFT hand empty by side, assigned portion ledger on small table. Empty kitchen tools not extra people.",
+      "lines": [],
+      "narration": "Suas tarefas tinham sido distribuídas. O banco de cortar legumes já não o esperava.",
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1416,
+      "title": "O cesto fica",
+      "time": "Dia 630 · manhã",
+      "place": "cozinha-escola",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 46,
+      "format": "portrait",
+      "scene": "Tovo seated beside a LOW basket on floor, free LEFT hand released basket handle, injured RIGHT contained sling; concerned expression, no lifting and no magic. Exactly two arms.",
+      "layout": "Tovo seated beside a LOW basket on floor, free LEFT hand released basket handle, injured RIGHT contained sling; concerned expression, no lifting and no magic. Exactly two arms.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Nem precisei usar magia para sentir puxar.",
+          "balloon": {
+            "x": 62,
+            "y": 15,
+            "w": 36,
+            "target_x": 57,
+            "target_y": 24,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1417,
+      "title": "Tendão não é pedra",
+      "time": "Dia 630 · tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "tovo",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 46,
+      "format": "landscape",
+      "scene": "Tovo LEFT seated with right sling, tiny Oru RIGHT on same floor by low table with wooden spoon resting on two blocks. Oru one hand points toward spoon, other at own belt. No hand crossing.",
+      "layout": "Tovo LEFT seated with right sling, tiny Oru RIGHT on same floor by low table with wooden spoon resting on two blocks. Oru one hand points toward spoon, other at own belt. No hand crossing.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Estraguei a minha magia?",
+          "balloon": {
+            "x": 2,
+            "y": 5,
+            "w": 22,
+            "target_x": 27,
+            "target_y": 22,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "O impulso aumenta. O tendão não vira pedra.",
+          "balloon": {
+            "x": 46,
+            "y": 10,
+            "w": 27,
+            "target_x": 76,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1418,
+      "title": "Por onde seguir",
+      "time": "Dia 630 · noite",
+      "place": "cozinha-escola",
+      "cast": [
+        "tovo",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 46,
+      "format": "portrait",
+      "scene": "Tovo LEFT seated with right sling and ledger, free left hand resting beside charcoal route sketch; Ilyan RIGHT seated with wrapped right hand resting on own lap and bread in left. Kitchen simple shelves.",
+      "layout": "Tovo LEFT seated with right sling and ledger, free left hand resting beside charcoal route sketch; Ilyan RIGHT seated with wrapped right hand resting on own lap and bread in left. Kitchen simple shelves.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "E se descobrirem que não precisam de mim?",
+          "balloon": {
+            "x": 2,
+            "y": 38,
+            "w": 44,
+            "target_x": 29,
+            "target_y": 30,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Também me mandaram sentar.",
+          "balloon": {
+            "x": 54,
+            "y": 38,
+            "w": 44,
+            "target_x": 72,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1312,
+      "art_height": 1199
+    },
+    {
+      "number": 1419,
+      "title": "Três fitas",
+      "time": "Dia 631 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 47,
+      "format": "landscape",
+      "scene": "Caio LEFT and Sere RIGHT beside three wind ribbons at doorway, between columns and above basin, ribbons moving in DIFFERENT directions. Both hands at own sides. Open school practice court.",
+      "layout": "Caio LEFT and Sere RIGHT beside three wind ribbons at doorway, between columns and above basin, ribbons moving in DIFFERENT directions. Both hands at own sides. Open school practice court.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Tem vento para atravessar o pátio.",
+          "balloon": {
+            "x": 2,
+            "y": 35,
+            "w": 44,
+            "target_x": 22,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Olhe de novo a fita do meio.",
+          "balloon": {
+            "x": 54,
+            "y": 35,
+            "w": 44,
+            "target_x": 79,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1420,
+      "title": "Interromper a corrente",
+      "time": "Dia 631 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 47,
+      "format": "portrait",
+      "scene": "Caio alone side view, ONE left arm raised open hand controlling small existing airflow at ribbon, right arm lowered. He stops before steam-tray crossing path outside frame, no person drawn.",
+      "layout": "Caio alone side view, ONE left arm raised open hand controlling small existing airflow at ribbon, right arm lowered. He stops before steam-tray crossing path outside frame, no person drawn.",
+      "lines": [],
+      "narration": "Caio interrompeu ao perceber alguém entrando no alcance do exercício.",
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1421,
+      "title": "A dobradiça",
+      "time": "Dia 631 · meio-dia",
+      "place": "horta-escola",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 47,
+      "format": "portrait",
+      "scene": "Caio LEFT and Sere RIGHT sit beside garden wall; Sere looks back anxiously at distant ordinary wooden doorway, her one hand on own bow strap, other on lap. Caio waits quietly.",
+      "layout": "Caio LEFT and Sere RIGHT sit beside garden wall; Sere looks back anxiously at distant ordinary wooden doorway, her one hand on own bow strap, other on lap. Caio waits quietly.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Às vezes espero ouvir minha voz onde não há ninguém.",
+          "balloon": {
+            "x": 54,
+            "y": 8,
+            "w": 44,
+            "target_x": 86,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Quer sair daqui?",
+          "balloon": {
+            "x": 2,
+            "y": 19,
+            "w": 44,
+            "target_x": 18,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1422,
+      "title": "Uma tarde possível",
+      "time": "Dia 631 · meio-dia",
+      "place": "horta-escola",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 47,
+      "format": "landscape",
+      "scene": "Caio LEFT and Sere RIGHT seated same bench, gentle closed-mouth kiss, fully clothed, each both hands rest on own lap, Caio bag on ground. Canonical adult elf Sere, no magic.",
+      "layout": "Caio LEFT and Sere RIGHT seated same bench, gentle closed-mouth kiss, fully clothed, each both hands rest on own lap, Caio bag on ground. Canonical adult elf Sere, no magic.",
+      "lines": [],
+      "narration": "A feira ainda estava longe. Já havia lugar para ela nos planos dos dois.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1423,
+      "title": "O som das ferramentas",
+      "time": "Dia 632 · manhã",
+      "place": "forja-bram",
+      "cast": [
+        "nima",
+        "bram"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 48,
+      "format": "landscape",
+      "scene": "Adult tiny Nima LEFT stands at threshold of Bram forge with tool case on ground; Bram RIGHT kneels on one knee to her eye level smiling welcome, both hands resting on own knees; Nima hand at toolbelt. Warm workshop.",
+      "layout": "Adult tiny Nima LEFT stands at threshold of Bram forge with tool case on ground; Bram RIGHT kneels on one knee to her eye level smiling welcome, both hands resting on own knees; Nima hand at toolbelt. Warm workshop.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Aram é uma pista. Ainda não sabemos onde Mira está.",
+          "balloon": {
+            "x": 2,
+            "y": 1,
+            "w": 46,
+            "target_x": 26,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1424,
+      "title": "O gesto de Bram",
+      "time": "Dia 632 · manhã",
+      "place": "forja-bram",
+      "cast": [
+        "nima",
+        "bram"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 48,
+      "format": "portrait",
+      "scene": "Nima LEFT standing on a stable work platform reaching low workbench, Bram RIGHT standing looking troubled, one hand gripping table edge other hanging at side. Cooling hearth behind. No magic.",
+      "layout": "Nima LEFT standing on a stable work platform reaching low workbench, Bram RIGHT standing looking troubled, one hand gripping table edge other hanging at side. Cooling hearth behind. No magic.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Ele acendeu fogo na própria palma.",
+          "balloon": {
+            "x": 2,
+            "y": 22,
+            "w": 44,
+            "target_x": 18,
+            "target_y": 44,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Bram",
+          "text": "Preciso ler a carta do meu filho.",
+          "balloon": {
+            "x": 54,
+            "y": 40,
+            "w": 44,
+            "target_x": 84,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1425,
+      "title": "A bomba da praça",
+      "time": "Dia 633 · manhã",
+      "place": "praca-pedra-mansa",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 48,
+      "format": "landscape",
+      "scene": "Tiny adult Nima alone standing full body beside ordinary public hand pump, using ONE small wrench on low mechanism, other hand rests on own belt, tools in open case on paving, repair work not magical.",
+      "layout": "Tiny adult Nima alone standing full body beside ordinary public hand pump, using ONE small wrench on low mechanism, other hand rests on own belt, tools in open case on paving, repair work not magical.",
+      "lines": [],
+      "narration": "A casa, os clientes e a bancada continuavam sendo seus.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1426,
+      "title": "Duas folhas",
+      "time": "Dia 633 · noite",
+      "place": "casa-nima",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 48,
+      "format": "portrait",
+      "scene": "Adult Nima alone at appropriately scaled own desk in village home, writing separate letters with ONE pen, other hand holding paper flat, goggles and cap on chair nearby, copper curly bob and adult face visible.",
+      "layout": "Adult Nima alone at appropriately scaled own desk in village home, writing separate letters with ONE pen, other hand holding paper flat, goggles and cap on chair nearby, copper curly bob and adult face visible.",
+      "lines": [],
+      "narration": "Escreveu para os dois. Saudade não precisava transformar sua vida numa espera.",
+      "art_width": 1230,
+      "art_height": 1278
+    },
+    {
+      "number": 1427,
+      "title": "O ferro escurece",
+      "time": "Dia 635 · manhã",
+      "place": "forja-bram",
+      "cast": [
+        "bram",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 49,
+      "format": "landscape",
+      "scene": "Bram LEFT holds cooling iron bar in tongs over anvil, Nima RIGHT on fixed work platform watches dark ceramic-wrapped scrap in stone tray. Exactly two arms each, clear separate tools, no flame casting.",
+      "layout": "Bram LEFT holds cooling iron bar in tongs over anvil, Nima RIGHT on fixed work platform watches dark ceramic-wrapped scrap in stone tray. Exactly two arms each, clear separate tools, no flame casting.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Ela perdeu o brilho antes de chegar à bigorna.",
+          "balloon": {
+            "x": 54,
+            "y": 5,
+            "w": 44,
+            "target_x": 84,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Bram",
+          "text": "Afaste o resto da carga.",
+          "balloon": {
+            "x": 2,
+            "y": 37,
+            "w": 44,
+            "target_x": 23,
+            "target_y": 23,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1428,
+      "title": "Comparação pequena",
+      "time": "Dia 635 · manhã",
+      "place": "forja-bram",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 49,
+      "format": "portrait",
+      "scene": "Nima alone on safe standing platform watches TWO identical cups of warm water on stone table, one cup near a dark ceramic-broken metal fragment in stone tray and other farther away; she holds a wooden pointer in one hand, other on own belt.",
+      "layout": "Nima alone on safe standing platform watches TWO identical cups of warm water on stone table, one cup near a dark ceramic-broken metal fragment in stone tray and other farther away; she holds a wooden pointer in one hand, other on own belt.",
+      "lines": [],
+      "narration": "A caneca próxima esfriou primeiro. Nima encerrou o teste.",
+      "art_width": 1217,
+      "art_height": 1292
+    },
+    {
+      "number": 1429,
+      "title": "O mesmo lote",
+      "time": "Dia 635 · tarde",
+      "place": "forja-bram",
+      "cast": [
+        "bram",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 49,
+      "format": "landscape",
+      "scene": "Bram LEFT and tiny Nima RIGHT compare unlettered shipping ledger and sketch at low bench, Bram open palm near ledger, Nima points with ONE pencil at copper ring sketch. Scrap tray isolated on floor.",
+      "layout": "Bram LEFT and tiny Nima RIGHT compare unlettered shipping ledger and sketch at low bench, Bram open palm near ledger, Nima points with ONE pencil at copper ring sketch. Scrap tray isolated on floor.",
+      "lines": [
+        {
+          "speaker": "Bram",
+          "text": "Parte dessa sucata foi para a escola.",
+          "balloon": {
+            "x": 2,
+            "y": 10,
+            "w": 44,
+            "target_x": 16,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "O aviso segue pela posta hoje.",
+          "balloon": {
+            "x": 54,
+            "y": 10,
+            "w": 44,
+            "target_x": 84,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1430,
+      "title": "O nome no frio",
+      "time": "Dia 635 · noite",
+      "place": "forja-bram",
+      "cast": [
+        "nima",
+        "bram"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 49,
+      "format": "portrait",
+      "scene": "Nima LEFT standing on platform and Bram RIGHT at quiet forge bench, Nima worried face looks up to Bram; Bram sits heavily both hands on own knees. Distance between them palpable, cold hearth.",
+      "layout": "Nima LEFT standing on platform and Bram RIGHT at quiet forge bench, Nima worried face looks up to Bram; Bram sits heavily both hands on own knees. Distance between them palpable, cold hearth.",
+      "lines": [
+        {
+          "speaker": "Bram",
+          "text": "Conheço esse frio no corpo de Mira.",
+          "balloon": {
+            "x": 54,
+            "y": 10,
+            "w": 44,
+            "target_x": 86,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Não leve essa resposta incompleta ao seu filho.",
+          "balloon": {
+            "x": 2,
+            "y": 20,
+            "w": 44,
+            "target_x": 20,
+            "target_y": 46,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1431,
+      "title": "Duas bancadas",
+      "time": "Dia 636 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 50,
+      "format": "landscape",
+      "scene": "Runa LEFT at low water basin, Liria RIGHT at existing stone support with notebook brass chain at belt, separate school evaluation benches and mechanical gate between. Both hostile expressions, no friendly gesture. Hands low on own respective bench.",
+      "layout": "Runa LEFT at low water basin, Liria RIGHT at existing stone support with notebook brass chain at belt, separate school evaluation benches and mechanical gate between. Both hostile expressions, no friendly gesture. Hands low on own respective bench.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Não altere a minha medida.",
+          "balloon": {
+            "x": 54,
+            "y": 1,
+            "w": 44,
+            "target_x": 92,
+            "target_y": 28,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não vou deixar o tanque transbordar.",
+          "balloon": {
+            "x": 2,
+            "y": 23,
+            "w": 22,
+            "target_x": 24,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1432,
+      "title": "A ameaça ouvida",
+      "time": "Dia 636 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 50,
+      "format": "portrait",
+      "scene": "Runa LEFT and Liria RIGHT stand at separate stone benches hands withdrawn away from devices; Liria narrowed eyes and hard mouth, Runa tense alert looking toward exit to LEFT. Tiny water spill below, no fight.",
+      "layout": "Runa LEFT and Liria RIGHT stand at separate stone benches hands withdrawn away from devices; Liria narrowed eyes and hard mouth, Runa tense alert looking toward exit to LEFT. Tiny water spill below, no fight.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Aprendeu a se esconder atrás dos outros.",
+          "balloon": {
+            "x": 54,
+            "y": 1,
+            "w": 44,
+            "target_x": 82,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Repita isso diante da professora.",
+          "balloon": {
+            "x": 2,
+            "y": 33,
+            "w": 37,
+            "target_x": 20,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1433,
+      "title": "O registro distingue",
+      "time": "Dia 636 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "avel",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 50,
+      "format": "portrait",
+      "scene": "Avel LEFT facing Liria RIGHT, Avel hand held low firm STOP gesture below chest, other hand at ledger. Liria both hands at sides with brass chain notebook. School evaluation archway.",
+      "layout": "Avel LEFT facing Liria RIGHT, Avel hand held low firm STOP gesture below chest, other hand at ledger. Liria both hands at sides with brass chain notebook. School evaluation archway.",
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "O exercício acabou. Vou registrar o que foi dito.",
+          "balloon": {
+            "x": 2,
+            "y": 5,
+            "w": 44,
+            "target_x": 22,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1434,
+      "title": "Companhia",
+      "time": "Dia 636 · tarde",
+      "place": "corredor-leste",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 50,
+      "format": "landscape",
+      "scene": "Runa LEFT and Ilyan RIGHT pause beside hallway exit; Runa tattooed left hand clenched at own side, right hand holds his left. Ilyan right hand still lightly cloth-protected. No Liria visible.",
+      "layout": "Runa LEFT and Ilyan RIGHT pause beside hallway exit; Runa tattooed left hand clenched at own side, right hand holds his left. Ilyan right hand still lightly cloth-protected. No Liria visible.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não vá atrás dela. Quero alguém que me escute.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 22,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu vou com você.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 85,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1435,
+      "title": "O barro da posta",
+      "time": "Dia 638 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "ordelia",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 51,
+      "format": "landscape",
+      "scene": "Ordelia LEFT behind archive counter hands TWO closed letters to Ilyan RIGHT. Both faces clear, one normal hand each involved, other arms at own side, no extra people.",
+      "layout": "Ordelia LEFT behind archive counter hands TWO closed letters to Ilyan RIGHT. Both faces clear, one normal hand each involved, other arms at own side, no extra people.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "O aviso vai para a forja. Estas cartas são suas.",
+          "balloon": {
+            "x": 2,
+            "y": 1,
+            "w": 44,
+            "target_x": 38,
+            "target_y": 27,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1436,
+      "title": "Antes da pergunta",
+      "time": "Dia 638 · manhã",
+      "place": "forja-leste",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 51,
+      "format": "portrait",
+      "scene": "Tiny Oru LEFT stands on same floor beside stone tray of unopened ceramic-wrapped scrap, Ilyan RIGHT human standing; low worktable. Both keep hands away from fragments.",
+      "layout": "Tiny Oru LEFT stands on same floor beside stone tray of unopened ceramic-wrapped scrap, Ilyan RIGHT human standing; low worktable. Both keep hands away from fragments.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Meu pai lembrou de Mira.",
+          "balloon": {
+            "x": 54,
+            "y": 21,
+            "w": 44,
+            "target_x": 82,
+            "target_y": 17,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Primeiro, precisamos isolar essas peças.",
+          "balloon": {
+            "x": 2,
+            "y": 47,
+            "w": 40,
+            "target_x": 22,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1437,
+      "title": "Palavras próprias",
+      "time": "Dia 638 · tarde",
+      "place": "dormitorio-cedro",
+      "cast": [
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 51,
+      "format": "portrait",
+      "scene": "Runa alone by cedar-room window reads Nima separate letter, paper held only in RIGHT hand, tattooed LEFT hand on own lap. Ordinary daylight, reflective expression.",
+      "layout": "Runa alone by cedar-room window reads Nima separate letter, paper held only in RIGHT hand, tattooed LEFT hand on own lap. Ordinary daylight, reflective expression.",
+      "lines": [],
+      "narration": "Escreveu de volta sem esperar que a resposta chegasse naquela noite.",
+      "art_width": 1312,
+      "art_height": 1199
+    },
+    {
+      "number": 1438,
+      "title": "A pergunta guardada",
+      "time": "Dia 638 · noite",
+      "place": "dormitorio-cedro",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 51,
+      "format": "landscape",
+      "scene": "Ilyan LEFT and Runa RIGHT sit across small cedar desk with opened letters, hands at own sides. His eyes angry and confused, she calm but firm.",
+      "layout": "Ilyan LEFT and Runa RIGHT sit across small cedar desk with opened letters, hands at own sides. His eyes angry and confused, she calm but firm.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Nima fez perguntas. Bram ainda precisa responder.",
+          "balloon": {
+            "x": 54,
+            "y": 1,
+            "w": 44,
+            "target_x": 86,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Quero perguntar por que esperou tanto.",
+          "balloon": {
+            "x": 2,
+            "y": 10,
+            "w": 44,
+            "target_x": 18,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1439,
+      "title": "Uma saída com tarefas",
+      "time": "Dia 640 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "eda",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 52,
+      "format": "portrait",
+      "scene": "Eda LEFT gives Ilyan RIGHT a folded travel permission at archive desk, separate sample containers ceramic sealed low on table. Ilyan holds healed right hand relaxed, no bandage now after medical check.",
+      "layout": "Eda LEFT gives Ilyan RIGHT a folded travel permission at archive desk, separate sample containers ceramic sealed low on table. Ilyan holds healed right hand relaxed, no bandage now after medical check.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Viajaremos com a carroça de suprimentos.",
+          "balloon": {
+            "x": 2,
+            "y": 13,
+            "w": 44,
+            "target_x": 17,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Sem fogo corporal durante o caminho.",
+          "balloon": {
+            "x": 54,
+            "y": 13,
+            "w": 44,
+            "target_x": 84,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1440,
+      "title": "Onde o encaixe quebra",
+      "time": "Dia 640 · manhã",
+      "place": "cozinha-escola",
+      "cast": [
+        "tovo",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 52,
+      "format": "landscape",
+      "scene": "Tovo LEFT seated right sling, free left hand offers an unlettered handle-mechanism sketch to Ilyan RIGHT standing at kitchen door. Tovo no lifting.",
+      "layout": "Tovo LEFT seated right sling, free left hand offers an unlettered handle-mechanism sketch to Ilyan RIGHT standing at kitchen door. Tovo no lifting.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Mostre a Bram. Quero saber onde essa alça quebra.",
+          "balloon": {
+            "x": 2,
+            "y": 1,
+            "w": 44,
+            "target_x": 26,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1441,
+      "title": "A última palavra",
+      "time": "Dia 640 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 52,
+      "format": "portrait",
+      "scene": "Runa LEFT and Liria RIGHT stand apart in archive corridor, Runa travel bag and roll at side, Liria chain-bound notebook. Hostility, no smiles, no touch.",
+      "layout": "Runa LEFT and Liria RIGHT stand apart in archive corridor, Runa travel bag and roll at side, Liria chain-bound notebook. Hostility, no smiles, no touch.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "A viagem é recompensa pela prova interrompida?",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 44,
+            "target_x": 90,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "É trabalho. Não vou discutir minha visita.",
+          "balloon": {
+            "x": 2,
+            "y": 9,
+            "w": 44,
+            "target_x": 12,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1442,
+      "title": "Uma tarde reservada",
+      "time": "Dia 640 · noite",
+      "place": "dormitorio-cedro",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 52,
+      "format": "portrait",
+      "scene": "Ilyan LEFT seated beside packed travel bag, Runa RIGHT seated facing him on separate chair, both fully clothed, her tattoo left arm and straight bangs preserved, his hands ownknees.",
+      "layout": "Ilyan LEFT seated beside packed travel bag, Runa RIGHT seated facing him on separate chair, both fully clothed, her tattoo left arm and straight bangs preserved, his hands ownknees.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Não quero chegar como figurante da sua discussão.",
+          "balloon": {
+            "x": 54,
+            "y": 0,
+            "w": 44,
+            "target_x": 86,
+            "target_y": 28,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "O que você quer fazer na visita?",
+          "balloon": {
+            "x": 2,
+            "y": 40,
+            "w": 40,
+            "target_x": 18,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1443,
+      "title": "A roda frouxa",
+      "time": "Dia 641 · manhã",
+      "place": "estrada-norte",
+      "cast": [
+        "eda",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 53,
+      "format": "landscape",
+      "scene": "Eda LEFT standing observes Ilyan RIGHT kneeling beside stopped ordinary wagon wheel, he holds wooden wedge in right hand, left hand on own knee, tools on ground. No unsupported wagon or magic.",
+      "layout": "Eda LEFT standing observes Ilyan RIGHT kneeling beside stopped ordinary wagon wheel, he holds wooden wedge in right hand, left hand on own knee, tools on ground. No unsupported wagon or magic.",
+      "lines": [],
+      "narration": "A primeira manhã perdeu tempo com uma roda. A distância continuava sendo distância.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1444,
+      "title": "Saudade não é prova",
+      "time": "Dia 642 · tarde",
+      "place": "estrada-norte",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 53,
+      "format": "landscape",
+      "scene": "Runa LEFT and Ilyan RIGHT walk side by side along plain rural road, wagon far behind empty-looking. Hands ownbelts, naturallegs fullbody.",
+      "layout": "Runa LEFT and Ilyan RIGHT walk side by side along plain rural road, wagon far behind empty-looking. Hands ownbelts, naturallegs fullbody.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "E se a visita virar uma disputa de saudade?",
+          "balloon": {
+            "x": 54,
+            "y": 3,
+            "w": 44,
+            "target_x": 72,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não pretendo medir afeto assim.",
+          "balloon": {
+            "x": 2,
+            "y": 25,
+            "w": 25,
+            "target_x": 33,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1445,
+      "title": "A caixa da montanha",
+      "time": "Dia 643 · noite",
+      "place": "abrigo-posta",
+      "cast": [
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 53,
+      "format": "portrait",
+      "scene": "Eda alone kneels near CLOSED ceramic-wrapped cargo box at ordinary roadside post, copies simple geometric maker mark to notebook with one pencil, not readable text. No opening, no mysterious person.",
+      "layout": "Eda alone kneels near CLOSED ceramic-wrapped cargo box at ordinary roadside post, copies simple geometric maker mark to notebook with one pencil, not readable text. No opening, no mysterious person.",
+      "lines": [],
+      "narration": "O vendedor indicou um depósito nas montanhas. Eda anotou para conferir.",
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1446,
+      "title": "A coisa que ela fez",
+      "time": "Dia 645 · tarde",
+      "place": "pedra-mansa",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 53,
+      "format": "landscape",
+      "scene": "Runa LEFT and Ilyan RIGHT standing before village hand pump with newly repaired brass linkage. Runa points one RIGHT finger to low mechanism, tattooLEFT handatbeltside, Ilyan smiles faintly. Both travelbags.",
+      "layout": "Runa LEFT and Ilyan RIGHT standing before village hand pump with newly repaired brass linkage. Runa points one RIGHT finger to low mechanism, tattooLEFT handatbeltside, Ilyan smiles faintly. Both travelbags.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "É a bomba que Nima descreveu na carta.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 20,
+            "target_y": 35,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A oficina fica na próxima curva.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 85,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1447,
+      "title": "Antes das palavras",
+      "time": "Dia 645 · tarde",
+      "place": "oficina-nima",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 54,
+      "format": "portrait",
+      "scene": "Runa LEFT KNEELS to adult tiny Nima RIGHT at village workshop threshold, gentle brief closed-mouth kiss, both smiling, Runa hands own knees, Nima one hand on Runa shoulder other at toolbelt. Nima actual90cm adult, Runa kneeling makes faces meet. Exactly2arms each.",
+      "layout": "Runa LEFT KNEELS to adult tiny Nima RIGHT at village workshop threshold, gentle brief closed-mouth kiss, both smiling, Runa hands own knees, Nima one hand on Runa shoulder other at toolbelt. Nima actual90cm adult, Runa kneeling makes faces meet. Exactly2arms each.",
+      "lines": [],
+      "narration": "Runa se abaixou antes que Nima precisasse escolher por quem começar.",
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1448,
+      "title": "Também chegou",
+      "time": "Dia 645 · tarde",
+      "place": "oficina-nima",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 54,
+      "format": "portrait",
+      "scene": "Ilyan LEFT KNEELS on dry ground to adult90cm Nima RIGHT standing. Gentle closed-mouth kiss, fully clothed, his hands own knees, Nima right hand gently holds edge of his indigo vest, other handatbelt. NO Runa visible and no otherpeople.",
+      "layout": "Ilyan LEFT KNEELS on dry ground to adult90cm Nima RIGHT standing. Gentle closed-mouth kiss, fully clothed, his hands own knees, Nima right hand gently holds edge of his indigo vest, other handatbelt. NO Runa visible and no otherpeople.",
+      "lines": [],
+      "narration": "Quando Nima o puxou pelo colete, Ilyan se ajoelhou e a beijou também.",
+      "art_width": 1227,
+      "art_height": 1282
+    },
+    {
+      "number": 1449,
+      "title": "Nesta visita",
+      "time": "Dia 645 · fim da tarde",
+      "place": "forja-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 54,
+      "format": "landscape",
+      "scene": "Bram LEFT and Ilyan RIGHT stand at forge doorway, father hands resting on son's shoulders, Ilyan bothhands atownside. Fatheradult47strongdarkwarmbrownlongtiedhairshortgreybeard not baldTeren. Emotional hesitant welcome.",
+      "layout": "Bram LEFT and Ilyan RIGHT stand at forge doorway, father hands resting on son's shoulders, Ilyan bothhands atownside. Fatheradult47strongdarkwarmbrownlongtiedhairshortgreybeard not baldTeren. Emotional hesitant welcome.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Tenho perguntas.",
+          "balloon": {
+            "x": 54,
+            "y": 8,
+            "w": 44,
+            "target_x": 85,
+            "target_y": 40,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Bram",
+          "text": "Vamos comer. Não vou adiar para outra viagem.",
+          "balloon": {
+            "x": 2,
+            "y": 15,
+            "w": 44,
+            "target_x": 25,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1450,
+      "title": "Já conhecia a praça",
+      "time": "Dia 645 · noite",
+      "place": "praca-pedra-mansa",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 54,
+      "format": "portrait",
+      "scene": "Runa LEFT seated on low public bench and adult tiny Nima RIGHT beside her same bench, Nima feet rest on footstool not floating, pumpsquare behind. Runa gentlylooksdownNima, hands separateonownlaps.",
+      "layout": "Runa LEFT seated on low public bench and adult tiny Nima RIGHT beside her same bench, Nima feet rest on footstool not floating, pumpsquare behind. Runa gentlylooksdownNima, hands separateonownlaps.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Reconheci a bomba antes de encontrar você.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 38,
+            "target_y": 28,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Escrevi detalhes demais?",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Runa gostara de encontrar um lugar que já conhecia por ter escutado Nima.",
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1451,
+      "title": "A lua torta",
+      "time": "Dia 646 · manhã",
+      "place": "casa-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 55,
+      "format": "landscape",
+      "scene": "Bram LEFT and Ilyan RIGHT seated at kitchen table, small old copper buckle with crooked crescent engraving centered on tabletop, both both hands flat on own tableedges, troubled expressions.",
+      "layout": "Bram LEFT and Ilyan RIGHT seated at kitchen table, small old copper buckle with crooked crescent engraving centered on tabletop, both both hands flat on own tableedges, troubled expressions.",
+      "lines": [
+        {
+          "speaker": "Bram",
+          "text": "Sua mãe voltou gelada, semanas antes de desaparecer.",
+          "balloon": {
+            "x": 2,
+            "y": 1,
+            "w": 43,
+            "target_x": 20,
+            "target_y": 28,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E você nunca me contou.",
+          "balloon": {
+            "x": 54,
+            "y": 1,
+            "w": 44,
+            "target_x": 85,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1452,
+      "title": "Uma noite doméstica",
+      "time": "Dia 646 · manhã",
+      "place": "casa-bram",
+      "cast": [
+        "bram"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 55,
+      "format": "portrait",
+      "scene": "Bram alone close medium seated, looking toward old doorway and folded blankets on bench. In foreground small copper buckle on table. Present-day recollection, NO ghost and NO flashback Mira.",
+      "layout": "Bram alone close medium seated, looking toward old doorway and folded blankets on bench. In foreground small copper buckle on table. Present-day recollection, NO ghost and NO flashback Mira.",
+      "lines": [
+        {
+          "speaker": "Bram",
+          "text": "Chamamos a curandeira. Aquecemos a sala devagar.",
+          "balloon": {
+            "x": 2,
+            "y": 14,
+            "w": 62,
+            "target_x": 61,
+            "target_y": 41,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1453,
+      "title": "A bênção e o custo",
+      "time": "Dia 646 · manhã",
+      "place": "casa-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 55,
+      "format": "portrait",
+      "scene": "Bram LEFT Ilyan RIGHT at same plain table, father points one finger toward own palm low overtable, son hands ownlap, old buckle visible. Faces angryandregretful no magic.",
+      "layout": "Bram LEFT Ilyan RIGHT at same plain table, father points one finger toward own palm low overtable, son hands ownlap, old buckle visible. Faces angryandregretful no magic.",
+      "lines": [
+        {
+          "speaker": "Bram",
+          "text": "A bênção não tornava o corpo dela inesgotável.",
+          "balloon": {
+            "x": 2,
+            "y": 13,
+            "w": 44,
+            "target_x": 25,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Devia ter contado quando soube do meu fogo.",
+          "balloon": {
+            "x": 54,
+            "y": 13,
+            "w": 44,
+            "target_x": 85,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1454,
+      "title": "O que ele desenhou",
+      "time": "Dia 646 · manhã",
+      "place": "casa-bram",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 55,
+      "format": "portrait",
+      "scene": "Close Ilyan alone holding small OLD copper buckle in ONE hand at chestheight, other handrestsontable; crooked little crescent engraving recognizable but no text, face conflicted, presentday not child.",
+      "layout": "Close Ilyan alone holding small OLD copper buckle in ONE hand at chestheight, other handrestsontable; crooked little crescent engraving recognizable but no text, face conflicted, presentday not child.",
+      "lines": [],
+      "narration": "A lua fora feita por ele quando pequeno. A lembrança que a cercava era nova.",
+      "art_width": 1227,
+      "art_height": 1282
+    },
+    {
+      "number": 1455,
+      "title": "Fique",
+      "time": "Dia 647 · manhã",
+      "place": "praca-pedra-mansa",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 56,
+      "format": "portrait",
+      "scene": "Ilyan LEFT Runa RIGHT sit at village pumpbench, apartbyhalfseat, his elbowsownkneeshandsclasped, her hands ownlap. Sad angry gaze, morning.",
+      "layout": "Ilyan LEFT Runa RIGHT sit at village pumpbench, apartbyhalfseat, his elbowsownkneeshandsclasped, her hands ownlap. Sad angry gaze, morning.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Parece que me mantiveram no lugar de uma criança.",
+          "balloon": {
+            "x": 2,
+            "y": 9,
+            "w": 44,
+            "target_x": 18,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Quer que eu fique?",
+          "balloon": {
+            "x": 54,
+            "y": 9,
+            "w": 44,
+            "target_x": 83,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Ilyan pediu que ela ficasse.",
+      "art_width": 1217,
+      "art_height": 1292
+    },
+    {
+      "number": 1456,
+      "title": "Sem sentimento pronto",
+      "time": "Dia 647 · meio-dia",
+      "place": "casa-nima",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 56,
+      "format": "landscape",
+      "scene": "Ilyan LEFT seated low stool, tinyadultNima RIGHT standing by own draftingtable sameground, she closes drawingbox withbothnormalhands. Quiet serious expression.",
+      "layout": "Ilyan LEFT seated low stool, tinyadultNima RIGHT standing by own draftingtable sameground, she closes drawingbox withbothnormalhands. Quiet serious expression.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Você acha que devo confiar nele?",
+          "balloon": {
+            "x": 2,
+            "y": 1,
+            "w": 44,
+            "target_x": 18,
+            "target_y": 33,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Posso ficar ao seu lado. Não escolher por você.",
+          "balloon": {
+            "x": 54,
+            "y": 1,
+            "w": 44,
+            "target_x": 85,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1457,
+      "title": "Um lugar para conferir",
+      "time": "Dia 647 · tarde",
+      "place": "casa-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 56,
+      "format": "portrait",
+      "scene": "Bram LEFT stands just inside guestroomdoor holding ONE paper with approximate timeline, Ilyan RIGHT seated bededge fullyclothed armsatownsides. Distanceandprivacy, no touch.",
+      "layout": "Bram LEFT stands just inside guestroomdoor holding ONE paper with approximate timeline, Ilyan RIGHT seated bededge fullyclothed armsatownsides. Distanceandprivacy, no touch.",
+      "lines": [
+        {
+          "speaker": "Bram",
+          "text": "O papel não substitui a conversa.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 25,
+            "target_y": 29,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Agora eu preciso que você saia.",
+          "balloon": {
+            "x": 54,
+            "y": 18,
+            "w": 44,
+            "target_x": 83,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1458,
+      "title": "Ainda há louça",
+      "time": "Dia 647 · noite",
+      "place": "casa-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 56,
+      "format": "landscape",
+      "scene": "Bram LEFT washes bowl at kitchenbasin while Ilyan RIGHT carries ONE empty bowl withbothhands tocounter, shoulders tenseandquiet not cheerful reconciled.",
+      "layout": "Bram LEFT washes bowl at kitchenbasin while Ilyan RIGHT carries ONE empty bowl withbothhands tocounter, shoulders tenseandquiet not cheerful reconciled.",
+      "lines": [],
+      "narration": "Não estavam reconciliados. Naquela noite, os dois ainda recolheram a mesa.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1459,
+      "title": "O livro do depósito",
+      "time": "Dia 648 · manhã",
+      "place": "deposito-pedra-mansa",
+      "cast": [
+        "eda",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 57,
+      "format": "landscape",
+      "scene": "Eda LEFT seated and tiny Nima RIGHT standing on secure low platform examine open merchant ledger and closed scrapcrate at warehouse low table. No other people. Eda handflatbook, Nimaholdsonepencil.",
+      "layout": "Eda LEFT seated and tiny Nima RIGHT standing on secure low platform examine open merchant ledger and closed scrapcrate at warehouse low table. No other people. Eda handflatbook, Nimaholdsonepencil.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "Vieram de uma oficina antiga nas encostas de Aram.",
+          "balloon": {
+            "x": 2,
+            "y": 2,
+            "w": 44,
+            "target_x": 23,
+            "target_y": 28,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "O vendedor aceitou suspender o restante.",
+          "balloon": {
+            "x": 54,
+            "y": 2,
+            "w": 44,
+            "target_x": 85,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1460,
+      "title": "O pino ausente",
+      "time": "Dia 648 · manhã",
+      "place": "oficina-nima",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 57,
+      "format": "portrait",
+      "scene": "Nima alone on safe platform at workbench, wooden pointer in one hand traces missing pin slot of broken ceramic casing and dark porous stone on dry stone tray, otherhandownbelt. NO explosive mechanism.",
+      "layout": "Nima alone on safe platform at workbench, wooden pointer in one hand traces missing pin slot of broken ceramic casing and dark porous stone on dry stone tray, otherhandownbelt. NO explosive mechanism.",
+      "lines": [],
+      "narration": "O pino perdido deixara o caminho de calor sempre aberto.",
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1461,
+      "title": "Nem tudo é dela",
+      "time": "Dia 648 · tarde",
+      "place": "oficina-nima",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 57,
+      "format": "portrait",
+      "scene": "Nima LEFT on platform and Ilyan RIGHT seated beside bench, both same eyeheight, she points pencil toward OLD toolmarks on ceramic fragment, he listens hands onownknees.",
+      "layout": "Nima LEFT on platform and Ilyan RIGHT seated beside bench, both same eyeheight, she points pencil toward OLD toolmarks on ceramic fragment, he listens hands onownknees.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Mira fez isso?",
+          "balloon": {
+            "x": 62,
+            "y": 1,
+            "w": 36,
+            "target_x": 79,
+            "target_y": 26,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "As marcas são mais antigas que a passagem dela.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 38,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1462,
+      "title": "Pensar juntos",
+      "time": "Dia 648 · tarde",
+      "place": "forja-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 57,
+      "format": "landscape",
+      "scene": "Bram LEFT Ilyan RIGHT at forge bench jointly inspect wooden carrying handle sketch, each uses own separate tool low ontable, nooverlappingarms. Small ordinary handle between them.",
+      "layout": "Bram LEFT Ilyan RIGHT at forge bench jointly inspect wooden carrying handle sketch, each uses own separate tool low ontable, nooverlappingarms. Small ordinary handle between them.",
+      "lines": [],
+      "narration": "A alça de Tovo ofereceu um trabalho que os dois ainda sabiam dividir.",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1463,
+      "title": "Depois do expediente",
+      "time": "Dia 648 · entardecer",
+      "place": "oficina-nima",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 57,
+      "format": "portrait",
+      "scene": "Runa LEFT kneels by tiny Nima RIGHT standing workshopdoor, brief gentle kiss closed-mouth; hands ownknees/belt. Finished small hinge clamped safely onbench inbackground.",
+      "layout": "Runa LEFT kneels by tiny Nima RIGHT standing workshopdoor, brief gentle kiss closed-mouth; hands ownknees/belt. Finished small hinge clamped safely onbench inbackground.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Preciso terminar esta encomenda.",
+          "balloon": {
+            "x": 74,
+            "y": 20,
+            "w": 24,
+            "target_x": 73,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Então nos encontramos na praça depois.",
+          "balloon": {
+            "x": 2,
+            "y": 31,
+            "w": 35,
+            "target_x": 40,
+            "target_y": 39,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    },
+    {
+      "number": 1464,
+      "title": "A maior maçã",
+      "time": "Dia 649 · tarde",
+      "place": "praca-pedra-mansa",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 58,
+      "format": "landscape",
+      "scene": "Runa LEFT seated low bench, adult90cmNima CENTER seated feetonfootstool and Ilyan RIGHT seated, allthreeadult. Runa holds bowl of baked apples, Nima one hand takesapple otherownlap, Ilyan handsownknees. Warm village normalday.",
+      "layout": "Runa LEFT seated low bench, adult90cmNima CENTER seated feetonfootstool and Ilyan RIGHT seated, allthreeadult. Runa holds bowl of baked apples, Nima one hand takesapple otherownlap, Ilyan handsownknees. Warm village normalday.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Quero a maior.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "E os cinco dias de estrada não contam?",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1465,
+      "title": "Sem medir gestos",
+      "time": "Dia 649 · tarde",
+      "place": "pomar-pedra-mansa",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 58,
+      "format": "portrait",
+      "scene": "Runa LEFT seated on low gardenbench and tiny adultNima RIGHT standing besidebench, Nima gently kisses BACK of Runa tattooed LEFT hand; Nima bothhands holds onlythatonehand; Runa otherRIGHThandownlap. Clear simpleanatomy, noclothingremoval.",
+      "layout": "Runa LEFT seated on low gardenbench and tiny adultNima RIGHT standing besidebench, Nima gently kisses BACK of Runa tattooed LEFT hand; Nima bothhands holds onlythatonehand; Runa otherRIGHThandownlap. Clear simpleanatomy, noclothingremoval.",
+      "lines": [],
+      "narration": "Runa e Nima não precisavam transformar cada gesto numa compensação."
+    },
+    {
+      "number": 1466,
+      "title": "Pode perguntar",
+      "time": "Dia 649 · tarde",
+      "place": "pomar-pedra-mansa",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 58,
+      "format": "portrait",
+      "scene": "Ilyan LEFT crouches to tinyadultNima RIGHT standing orchardpath. One half apple on nearbylowbench. Bothhandsownknees/belt. Faces warmconversational.",
+      "layout": "Ilyan LEFT crouches to tinyadultNima RIGHT standing orchardpath. One half apple on nearbylowbench. Bothhandsownknees/belt. Faces warmconversational.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Às vezes não sei onde me colocar.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Pode sentar e perguntar se queremos companhia.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1467,
+      "title": "A chave pode esperar",
+      "time": "Dia 649 · fim da tarde",
+      "place": "oficina-nima",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 58,
+      "format": "portrait",
+      "scene": "Ilyan LEFT sits lowworkstool and adultNima RIGHT stands sameground; faces meet in gentleclosedmouthkiss. Nima right hand lightlyholdsvestlapel otherhandatownbelt, Ilyan handsrestownknees. Key rests table, fullyclothed.",
+      "layout": "Ilyan LEFT sits lowworkstool and adultNima RIGHT stands sameground; faces meet in gentleclosedmouthkiss. Nima right hand lightlyholdsvestlapel otherhandatownbelt, Ilyan handsrestownknees. Key rests table, fullyclothed.",
+      "lines": [],
+      "narration": "A chave ficou sobre a bancada por mais alguns instantes."
+    },
+    {
+      "number": 1468,
+      "title": "A porta fechada",
+      "time": "Dia 649 · noite",
+      "place": "quarto-hospedes-bram",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 58,
+      "format": "landscape",
+      "scene": "Three ADULTS fully clothed seated on wide guestroombededge: Runa LEFT, adult90cmNima CENTER smallbodynaturalscale feetonstool, Ilyan RIGHT. Simple gentle closeness, hands remain on own laps, no entangled limbs. Folded shawl and goggles on sidetable, ordinarylamp. Warm privateconversation not sexualact.",
+      "layout": "Three ADULTS fully clothed seated on wide guestroombededge: Runa LEFT, adult90cmNima CENTER smallbodynaturalscale feetonstool, Ilyan RIGHT. Simple gentle closeness, hands remain on own laps, no entangled limbs. Folded shawl and goggles on sidetable, ordinarylamp. Warm privateconversation not sexualact.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Querem passar a noite juntos?",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Quero. Amanhã ainda tenho trabalho.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Conversaram sem pressa. O que veio depois da luz apagada pertenceu aos três."
+    },
+    {
+      "number": 1469,
+      "title": "Antes da cortina",
+      "time": "Dia 650 · manhã",
+      "place": "quarto-hospedes-bram",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 59,
+      "format": "landscape",
+      "scene": "Quiet nonsexual morning conversation between THREE ADULTS resting side-by-side propped against pillows in wide bed: Runa LEFT, adult Nima CENTER (26yo mature adult face copper curly bob, tiny90cm gnome body SHORTER, head on raised pillow at same conversation level), Ilyan RIGHT (18). Opaque cream blanket covers all bodies from shoulders DOWN fully; ONLY faces, necks and shoulders visible, no breasts/chest/genitals, NO sexual action. All hands remain UNDER blanket, no extra limbs. Runa longstraightblackhairbluntfringe, Ilyanlongwavyblackhairclean-shaven, Nimaadultdistinctface. Warm morningwindow, clothes folded chairs, ordinaryroom.",
+      "layout": "Quiet nonsexual morning conversation between THREE ADULTS resting side-by-side propped against pillows in wide bed: Runa LEFT, adult Nima CENTER (26yo mature adult face copper curly bob, tiny90cm gnome body SHORTER, head on raised pillow at same conversation level), Ilyan RIGHT (18). Opaque cream blanket covers all bodies from shoulders DOWN fully; ONLY faces, necks and shoulders visible, no breasts/chest/genitals, NO sexual action. All hands remain UNDER blanket, no extra limbs. Runa longstraightblackhairbluntfringe, Ilyanlongwavyblackhairclean-shaven, Nimaadultdistinctface. Warm morningwindow, clothes folded chairs, ordinaryroom.",
+      "lines": [],
+      "narration": "A manhã encontrou os três sob o mesmo lençol."
+    },
+    {
+      "number": 1470,
+      "title": "Uma resposta verdadeira",
+      "time": "Dia 650 · manhã",
+      "place": "quarto-hospedes-bram",
+      "cast": [
+        "runa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 59,
+      "format": "portrait",
+      "scene": "Nonsexual close two-adult morning shot Runa LEFT and Ilyan RIGHT propped on pillows, cream opaque blanket fullycoversthem fromshouldersdown, onlyheadsandshouldersvisible, hands UNDER blanket. Separate natural bodies, soft morning. Nima explicitly outside framing only.",
+      "layout": "Nonsexual close two-adult morning shot Runa LEFT and Ilyan RIGHT propped on pillows, cream opaque blanket fullycoversthem fromshouldersdown, onlyheadsandshouldersvisible, hands UNDER blanket. Separate natural bodies, soft morning. Nima explicitly outside framing only.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Estou feliz. E ainda confuso com algumas coisas.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Posso ouvir isso.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1471,
+      "title": "Compensação em maçãs",
+      "time": "Dia 650 · manhã",
+      "place": "quarto-hospedes-bram",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 59,
+      "format": "portrait",
+      "scene": "Nonsexual closeup adult26yo gnome Nima alone proppedagainstpillow, mature freckled face coppercurlybobpointedears, creamblanketcoverstoSHOULDERS fully, onlyheadneckshouldersvisible, handshiddenbelowblanket. Playful amusedexpression. No childlikeproportions.",
+      "layout": "Nonsexual closeup adult26yo gnome Nima alone proppedagainstpillow, mature freckled face coppercurlybobpointedears, creamblanketcoverstoSHOULDERS fully, onlyheadneckshouldersvisible, handshiddenbelowblanket. Playful amusedexpression. No childlikeproportions.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Se me derrubarem da cama, vou cobrar em maçãs.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1472,
+      "title": "Por escolha própria",
+      "time": "Dia 650 · manhã",
+      "place": "quarto-hospedes-bram",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 59,
+      "format": "landscape",
+      "scene": "Nonsexual morning conversation Runa LEFT and adultNima RIGHT at pillows, creamblanket coversfullyfromshouldersdown, onlyfacesandshouldersvisible, allhandshidden. Nima naturallysmalleradultheadandbody, supported raisedpillow. Warmseriousaffection.",
+      "layout": "Nonsexual morning conversation Runa LEFT and adultNima RIGHT at pillows, creamblanket coversfullyfromshouldersdown, onlyfacesandshouldersvisible, allhandshidden. Nima naturallysmalleradultheadandbody, supported raisedpillow. Warmseriousaffection.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Eu quis estar aqui por mim.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "E eu também. Não para resolver tudo numa noite.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1473,
+      "title": "O pão",
+      "time": "Dia 650 · manhã",
+      "place": "casa-bram",
+      "cast": [
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 59,
+      "format": "portrait",
+      "scene": "Nima LEFT fullydressed canonicaltealvestcreamshirtgogglescap on highstablefootrest at kitchen table; Ilyan RIGHT fullydressed opposite, passes breadbasket withONEhand hisotherhandowncup. Casual affectionate breakfast, no bedroom.",
+      "layout": "Nima LEFT fullydressed canonicaltealvestcreamshirtgogglescap on highstablefootrest at kitchen table; Ilyan RIGHT fullydressed opposite, passes breadbasket withONEhand hisotherhandowncup. Casual affectionate breakfast, no bedroom.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Pode me passar o pão?",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Posso.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "O dia voltou a pedir coisas pequenas e inteiras."
+    },
+    {
+      "number": 1474,
+      "title": "O banco da porta",
+      "time": "Dia 651 · manhã",
+      "place": "deposito-pedra-mansa",
+      "cast": [
+        "radesa",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 60,
+      "format": "landscape",
+      "scene": "Radesa LEFT human52 darkchinlengthbob stiffleftthumb workclothes and harnessledger, Eda RIGHT seated facingher at stableboardtable near warehouse open door. Bothhandsonowntableedge, ledgercenter.",
+      "layout": "Radesa LEFT human52 darkchinlengthbob stiffleftthumb workclothes and harnessledger, Eda RIGHT seated facingher at stableboardtable near warehouse open door. Bothhandsonowntableedge, ledgercenter.",
+      "lines": [
+        {
+          "speaker": "Radesa",
+          "text": "Deixe o banco aí. É onde consigo ler.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Trouxe a cópia da remessa.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1475,
+      "title": "Foi uma caixa",
+      "time": "Dia 651 · manhã",
+      "place": "deposito-pedra-mansa",
+      "cast": [
+        "radesa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 60,
+      "format": "portrait",
+      "scene": "Radesa LEFT and Ilyan RIGHT seated across warehouse table with old receipt, Radesa points ONE rightfinger tolongboxsketch unlettered, leftthumbstiffnearownlap. Ilyan handsownknees disappointed.",
+      "layout": "Radesa LEFT and Ilyan RIGHT seated across warehouse table with old receipt, Radesa points ONE rightfinger tolongboxsketch unlettered, leftthumbstiffnearownlap. Ilyan handsownknees disappointed.",
+      "lines": [
+        {
+          "speaker": "Radesa",
+          "text": "Levei instrumentos e papel. Não levei Mira como passageira.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1476,
+      "title": "Quem recebeu",
+      "time": "Dia 651 · manhã",
+      "place": "deposito-pedra-mansa",
+      "cast": [
+        "radesa",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 60,
+      "format": "portrait",
+      "scene": "Radesa LEFT Eda RIGHT inspect receipt underdoorlight, Eda onehandholdingnotebookotherpencil, Radesa hand atownside. Ordinary cargo shelves.",
+      "layout": "Radesa LEFT Eda RIGHT inspect receipt underdoorlight, Eda onehandholdingnotebookotherpencil, Radesa hand atownside. Ordinary cargo shelves.",
+      "lines": [
+        {
+          "speaker": "Radesa",
+          "text": "Mara desceu da estação para receber a caixa.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Vou conferir com o recibo do depósito.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1477,
+      "title": "Sem inventar rosto",
+      "time": "Dia 651 · meio-dia",
+      "place": "deposito-pedra-mansa",
+      "cast": [
+        "radesa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 60,
+      "format": "landscape",
+      "scene": "Radesa LEFT sits firmexpression, Ilyan RIGHT standing handsopenlowatownsidesashamed at warehouse doorway. Plain receipt tabletop no Mira apparition.",
+      "layout": "Radesa LEFT sits firmexpression, Ilyan RIGHT standing handsopenlowatownsidesashamed at warehouse doorway. Plain receipt tabletop no Mira apparition.",
+      "lines": [
+        {
+          "speaker": "Radesa",
+          "text": "Não vou inventar uma lembrança porque você a procura.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Desculpe pela insistência.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1478,
+      "title": "O pedido segue",
+      "time": "Dia 651 · tarde",
+      "place": "oficina-nima",
+      "cast": [
+        "eda",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 60,
+      "format": "portrait",
+      "scene": "Eda LEFT seated seals ordinary letter, tiny Nima RIGHT standsplatform attaching pin sketch tocopy, dryceramicmodelinbox. Singleletterandpencil, no magicalpost.",
+      "layout": "Eda LEFT seated seals ordinary letter, tiny Nima RIGHT standsplatform attaching pin sketch tocopy, dryceramicmodelinbox. Singleletterandpencil, no magicalpost.",
+      "lines": [],
+      "narration": "A consulta à estação seguiu pela posta comum. O nome de Mara ainda era uma pessoa a procurar."
+    },
+    {
+      "number": 1479,
+      "title": "A aresta",
+      "time": "Dia 652 · manhã",
+      "place": "forja-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 61,
+      "format": "landscape",
+      "scene": "Bram LEFT Ilyan RIGHT at forgeworkbench, son usesONEfile on woodenhandle heldclamp securely, fatherhandsonowntableedgewatching. Son'sbothhandsonefileonehandle supported.",
+      "layout": "Bram LEFT Ilyan RIGHT at forgeworkbench, son usesONEfile on woodenhandle heldclamp securely, fatherhandsonowntableedgewatching. Son'sbothhandsonefileonehandle supported.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Essa aresta vai machucar a mão.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Bram",
+          "text": "Quer corrigir?",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1480,
+      "title": "A resposta inteira",
+      "time": "Dia 652 · manhã",
+      "place": "forja-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 61,
+      "format": "portrait",
+      "scene": "FatherLEFT sonRIGHT faceeachother bybench, smallcopperbuckle ontable. Bothhands own sides, serious tentative reconnection.",
+      "layout": "FatherLEFT sonRIGHT faceeachother bybench, smallcopperbuckle ontable. Bothhands own sides, serious tentative reconnection.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ainda estou magoado.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Bram",
+          "text": "Vou mandar a resposta inteira da curandeira.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1481,
+      "title": "Um acordo para cumprir",
+      "time": "Dia 652 · fim da tarde",
+      "place": "forja-bram",
+      "cast": [
+        "bram",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 61,
+      "format": "portrait",
+      "scene": "Bram LEFT Ilyan RIGHT sharing respectful father-son hug, EACH two arms, onehandonother'sback each otherarmsnaturallyvisible, simplemediumcloseupperbodies no crowd; toolsbenchbehind.",
+      "layout": "Bram LEFT Ilyan RIGHT sharing respectful father-son hug, EACH two arms, onehandonother'sback each otherarmsnaturallyvisible, simplemediumcloseupperbodies no crowd; toolsbenchbehind.",
+      "lines": [],
+      "narration": "O abraço não encerrou a conversa. A promessa teria de ser cumprida depois."
+    },
+    {
+      "number": 1482,
+      "title": "A vida continua aqui",
+      "time": "Dia 653 · manhã",
+      "place": "pedra-mansa",
+      "cast": [
+        "nima",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 61,
+      "format": "landscape",
+      "scene": "AdulttinyNima LEFT stands besidepackedcase, Runa RIGHT kneels atwagonstep tosaygoodbye, handsownknees/belt, onegentlebriefclosedmouthkiss. Villagepumpfarbackground noextrapeople.",
+      "layout": "AdulttinyNima LEFT stands besidepackedcase, Runa RIGHT kneels atwagonstep tosaygoodbye, handsownknees/belt, onegentlebriefclosedmouthkiss. Villagepumpfarbackground noextrapeople.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Se houver contrato, avalio a viagem.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Escreva sobre as outras coisas também.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1483,
+      "title": "Cinco dias de volta",
+      "time": "Dia 657 · tarde",
+      "place": "portao-sul",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 61,
+      "format": "landscape",
+      "scene": "Ilyan LEFT Runa RIGHT carryingowntravelbags walking through familiar moon-banner schoolgate, fullbody sameground. No Nima. Lateafternoon exhausted yetcalm.",
+      "layout": "Ilyan LEFT Runa RIGHT carryingowntravelbags walking through familiar moon-banner schoolgate, fullbody sameground. No Nima. Lateafternoon exhausted yetcalm.",
+      "lines": [],
+      "narration": "Voltaram com a fivela, as amostras e uma conversa que ainda precisava continuar."
+    },
+    {
+      "number": 1484,
+      "title": "A alça pronta",
+      "time": "Dia 658 · manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "tovo",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 62,
+      "format": "portrait",
+      "scene": "Tovo LEFT seated rightarmrestingfullyinRIGHTsling, freeLEFThand holdsnewwoodenhandle EMPTY, Ilyan RIGHT standsnexttochairafterdeliveringobject handsownbelt. No weights.",
+      "layout": "Tovo LEFT seated rightarmrestingfullyinRIGHTsling, freeLEFThand holdsnewwoodenhandle EMPTY, Ilyan RIGHT standsnexttochairafterdeliveringobject handsownbelt. No weights.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Ele mudou o apoio.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Bram quis que você testasse vazio primeiro.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1485,
+      "title": "Água no tecido",
+      "time": "Dia 658 · manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 62,
+      "format": "landscape",
+      "scene": "Runa LEFT stands beside Tovo RIGHT seated; his RIGHTinjuredarm rests on single supportivecloth on lap, LEFTfreehand ownleftthigh. Runa moves small existingwater stream frombowl tocleancloth overRIGHTshoulder usingLEFTtattooedhand, RIGHThand atownwaist. No extrahands or instanthealingglow.",
+      "layout": "Runa LEFT stands beside Tovo RIGHT seated; his RIGHTinjuredarm rests on single supportivecloth on lap, LEFTfreehand ownleftthigh. Runa moves small existingwater stream frombowl tocleancloth overRIGHTshoulder usingLEFTtattooedhand, RIGHThand atownwaist. No extrahands or instanthealingglow.",
+      "lines": [],
+      "narration": "Com supervisão, Runa manteve a temperatura do tecido e retirou a água na hora indicada."
+    },
+    {
+      "number": 1486,
+      "title": "O aviso também importa",
+      "time": "Dia 658 · manhã",
+      "place": "enfermaria-leste",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 62,
+      "format": "portrait",
+      "scene": "Runa LEFT and curandeira RIGHT seated bywashbowl, handsownlaps. Cleanwhiteclothlowerforeground. Calmlearning conversation.",
+      "layout": "Runa LEFT and curandeira RIGHT seated bywashbowl, handsownlaps. Cleanwhiteclothlowerforeground. Calmlearning conversation.",
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Diminuir a dor também pode esconder um aviso.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Não vou experimentar o que ainda não compreendo.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1487,
+      "title": "Uma pessoa cansada",
+      "time": "Dia 658 · tarde",
+      "place": "corredor-leste",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 62,
+      "format": "landscape",
+      "scene": "Ilyan LEFT and Runa RIGHT in sunlitinfirmarycorridor; heholdsclosedbagcontainingbuckle, herhandsfoldedlowatownwaist. Intimatequietconversation fullyclothed.",
+      "layout": "Ilyan LEFT and Runa RIGHT in sunlitinfirmarycorridor; heholdsclosedbagcontainingbuckle, herhandsfoldedlowatownwaist. Intimatequietconversation fullyclothed.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Uma fama pode exigir antes de ensinar.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Deixe espaço para Mira ter sido uma pessoa cansada.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1488,
+      "title": "O cesto vazio",
+      "time": "Dia 658 · noite",
+      "place": "cozinha-escola",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 62,
+      "format": "portrait",
+      "scene": "Tovoalone standingrightarmfullyprotectedinsinglecreamSling, LEFTfreehand usesnewhandle tohold EMPTYlightbasket atleftsidewithoutleaning. Proud quietsmile andclear2arms2legs. Kitchencorridor.",
+      "layout": "Tovoalone standingrightarmfullyprotectedinsinglecreamSling, LEFTfreehand usesnewhandle tohold EMPTYlightbasket atleftsidewithoutleaning. Proud quietsmile andclear2arms2legs. Kitchencorridor.",
+      "lines": [],
+      "narration": "A alça funcionou. A lesão permaneceu, e ele sabia explicar a diferença."
+    },
+    {
+      "number": 1489,
+      "title": "Sem o arco hoje",
+      "time": "Dia 660 · manhã",
+      "place": "portao-sul",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 63,
+      "format": "portrait",
+      "scene": "Caio LEFT Sere RIGHT at schoolgate, Sere placesownbow in emptywallrack withonehandotheronbelt, Caio holdsclosednotebookatownside. Both smiling softly.",
+      "layout": "Caio LEFT Sere RIGHT at schoolgate, Sere placesownbow in emptywallrack withonehandotheronbelt, Caio holdsclosednotebookatownside. Both smiling softly.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Ainda quer ir à feira?",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Quero. Vou deixar o arco aqui.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1490,
+      "title": "Só uma tarde",
+      "time": "Dia 660 · tarde",
+      "place": "feira-ponte",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 63,
+      "format": "landscape",
+      "scene": "Caio LEFT Sere RIGHT walkingfairlane with colorfulclothstalls but NOdistinctbystanders, awningcords tied, both carrysmallfoodbowls. Caiohandrelaxednotcasting.",
+      "layout": "Caio LEFT Sere RIGHT walkingfairlane with colorfulclothstalls but NOdistinctbystanders, awningcords tied, both carrysmallfoodbowls. Caiohandrelaxednotcasting.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Estou tentando não transformar tudo em exercício.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Acabei de conferir três saídas.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1491,
+      "title": "A companhia dela",
+      "time": "Dia 660 · tarde",
+      "place": "feira-ponte",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 63,
+      "format": "portrait",
+      "scene": "Caio LEFT Sere RIGHT seatedonbridgewall withbreadbowls heldlowontheirlaps. No weapons, warmlight. Sere thoughtfulandvulnerable.",
+      "layout": "Caio LEFT Sere RIGHT seatedonbridgewall withbreadbowls heldlowontheirlaps. No weapons, warmlight. Sere thoughtfulandvulnerable.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Às vezes não sei se querem companhia ou um caminho seguro.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "Quero ouvir coisas que não preciso aprender.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1492,
+      "title": "O dia ainda é bom",
+      "time": "Dia 660 · fim da tarde",
+      "place": "feira-ponte",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 63,
+      "format": "landscape",
+      "scene": "Caio LEFT and Sere RIGHT standbybench afterdoorbang; shetenseonehandonownlap seated, hecrouchesnotgrabbingher. No visiblemonster.",
+      "layout": "Caio LEFT and Sere RIGHT standbybench afterdoorbang; shetenseonehandonownlap seated, hecrouchesnotgrabbingher. No visiblemonster.",
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Odeio precisar parar num dia bom.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Caio",
+          "text": "O dia ainda é bom.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1493,
+      "title": "A escolha dela",
+      "time": "Dia 660 · fim da tarde",
+      "place": "feira-ponte",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 63,
+      "format": "portrait",
+      "scene": "Caio LEFT Sere RIGHT gentle closedmouthkiss nearbridge, SereLEFT hand touchesCaiocheekotheronownbelt, Caiobothhandsrelaxedownwaist. Clear2armseach no overlappinghands, no bow.",
+      "layout": "Caio LEFT Sere RIGHT gentle closedmouthkiss nearbridge, SereLEFT hand touchesCaiocheekotheronownbelt, Caiobothhandsrelaxedownwaist. Clear2armseach no overlappinghands, no bow.",
+      "lines": [],
+      "narration": "O beijo não era uma nota de exercício. Era uma escolha dos dois."
+    },
+    {
+      "number": 1494,
+      "title": "Retornos separados",
+      "time": "Dia 662 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "avel",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 64,
+      "format": "landscape",
+      "scene": "Avel LEFT Liria RIGHT standbesideindependentmechanicalwaterchannels, Liriachainnotebook, stonewedgesonbench. Supervised serious notfriendly.",
+      "layout": "Avel LEFT Liria RIGHT standbesideindependentmechanicalwaterchannels, Liriachainnotebook, stonewedgesonbench. Supervised serious notfriendly.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Consigo cumprir o desenho original.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Avel",
+          "text": "A ameaça continua sendo outra questão.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1495,
+      "title": "A cunha comum",
+      "time": "Dia 662 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 64,
+      "format": "portrait",
+      "scene": "Liria alone at stonebench haltsmagic, handpullsordinarywoodenwedge beneathsmallstone support, otherhand restsownbelt. EXISTINGstone tankreceivesfallenedge safely, no newwallcreated. Angryembarrassedexpression.",
+      "layout": "Liria alone at stonebench haltsmagic, handpullsordinarywoodenwedge beneathsmallstone support, otherhand restsownbelt. EXISTINGstone tankreceivesfallenedge safely, no newwallcreated. Angryembarrassedexpression.",
+      "lines": [],
+      "narration": "Líria interrompeu. O erro e a correção ficaram visíveis."
+    },
+    {
+      "number": 1496,
+      "title": "A cisterna não lê números",
+      "time": "Dia 662 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "runa",
+        "curandeira"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 64,
+      "format": "portrait",
+      "scene": "Runa LEFT finishesmeasuringwater bowl usingONEtattooedLEFThandgentlegesture, RIGHThandonbench, curandeira RIGHTobserves handsownwaist. Clearseparatepositions nointerlacedlimbs.",
+      "layout": "Runa LEFT finishesmeasuringwater bowl usingONEtattooedLEFThandgentlegesture, RIGHThandonbench, curandeira RIGHTobserves handsownwaist. Clearseparatepositions nointerlacedlimbs.",
+      "lines": [
+        {
+          "speaker": "Curandeira",
+          "text": "Por que não escondeu a primeira perda?",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Um número bonito não repõe a cisterna.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1497,
+      "title": "O passo para o espaço",
+      "time": "Dia 662 · meio-dia",
+      "place": "corredor-leste",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 64,
+      "format": "landscape",
+      "scene": "Runa LEFT retreatingonestep intoopenhallway, Liria RIGHT advancingonestep gloweringhandsatownsides. NOcontact noassault, visibledoorbehindRuna open.",
+      "layout": "Runa LEFT retreatingonestep intoopenhallway, Liria RIGHT advancingonestep gloweringhandsatownsides. NOcontact noassault, visibledoorbehindRuna open.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Gostam do jeito como você admite os erros.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "Você também pode admitir os seus.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1498,
+      "title": "A palavra corrigida",
+      "time": "Dia 662 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "runa",
+        "ordelia"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 64,
+      "format": "portrait",
+      "scene": "Runa LEFT seatedcorrectsONEwordinrecordwithpencil, Ordelia RIGHT seatedwatching keysatbeltwinegownsinglegraybraid, paperslow. Runaexpressionfirm notsmiling.",
+      "layout": "Runa LEFT seatedcorrectsONEwordinrecordwithpencil, Ordelia RIGHT seatedwatching keysatbeltwinegownsinglegraybraid, paperslow. Runaexpressionfirm notsmiling.",
+      "lines": [],
+      "narration": "Runa assinou o que reconhecia. O registro não apagava a violência antiga que a escola desconhecia."
+    },
+    {
+      "number": 1499,
+      "title": "A resposta de Aram",
+      "time": "Dia 665 · manhã",
+      "place": "casa-arquivos",
+      "cast": [
+        "avel",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 65,
+      "format": "landscape",
+      "scene": "Avel LEFT seated Oru RIGHT standinggnomesamefloor at lowarchivedesk, letteropened center and toolmap below. Serious planning no extrapeople.",
+      "layout": "Avel LEFT seated Oru RIGHT standinggnomesamefloor at lowarchivedesk, letteropened center and toolmap below. Serious planning no extrapeople.",
+      "lines": [
+        {
+          "speaker": "Avel",
+          "text": "Mara aceita a inspeção das salas superiores.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "O frio avançou para o jardim.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1500,
+      "title": "Tarefas e limites",
+      "time": "Dia 665 · tarde",
+      "place": "casa-arquivos",
+      "cast": [
+        "eda",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 65,
+      "format": "portrait",
+      "scene": "Eda LEFT Runa RIGHT at deskwith teamtaskdiagram unlettered, Eda pencilinonehand otherhandflatpaper,Runa handsownlap. Separate travelcases below.",
+      "layout": "Eda LEFT Runa RIGHT at deskwith teamtaskdiagram unlettered, Eda pencilinonehand otherhandflatpaper,Runa handsownlap. Separate travelcases below.",
+      "lines": [
+        {
+          "speaker": "Eda",
+          "text": "A subida tem risco ativo. Cada tarefa terá limite.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E posições separadas de Líria.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1501,
+      "title": "O nome dela",
+      "time": "Dia 670 · manhã",
+      "place": "oficina-nima",
+      "cast": [
+        "nima",
+        "bram"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 65,
+      "format": "landscape",
+      "scene": "Nima LEFT on securelowplatform Bram RIGHT seatedbesideworktable, Nima readsordinarycontractholdingonepaperwithbothhands, Bramhandsonownknees. No magicalspark.",
+      "layout": "Nima LEFT on securelowplatform Bram RIGHT seatedbesideworktable, Nima readsordinarycontractholdingonepaperwithbothhands, Bramhandsonownknees. No magicalspark.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Não vou assumir sozinha um sistema inteiro.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Bram",
+          "text": "A tarefa está limitada às peças identificadas.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1502,
+      "title": "O que cabe no estojo",
+      "time": "Dia 671 · tarde",
+      "place": "oficina-nima",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 65,
+      "format": "portrait",
+      "scene": "Nimaalone kneelsbesidesmallopensturdytoolcase packingONEpairtongs, otherhand holdswoodencalço, gogglescapcanonical. Drawingskeptseparatefromtools. Villagewindow.",
+      "layout": "Nimaalone kneelsbesidesmallopensturdytoolcase packingONEpairtongs, otherhand holdswoodencalço, gogglescapcanonical. Drawingskeptseparatefromtools. Villagewindow.",
+      "lines": [],
+      "narration": "Aceitou as condições. A via de resposta partiu pela posta; a outra seguiu com ela."
+    },
+    {
+      "number": 1503,
+      "title": "A hora de parar",
+      "time": "Dia 672 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 66,
+      "format": "landscape",
+      "scene": "Ilyan LEFT seatedlowstool Oru RIGHT standing100cm samefloor, tinyflameaboverightpalm nearwick abovebronzesandbasin, lefthandownthigh. Facesbelow40percentandhandbelow60. Oru handsbehindownback.",
+      "layout": "Ilyan LEFT seatedlowstool Oru RIGHT standing100cm samefloor, tinyflameaboverightpalm nearwick abovebronzesandbasin, lefthandownthigh. Facesbelow40percentandhandbelow60. Oru handsbehindownback.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Interrompa.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Ainda está tudo bem.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1504,
+      "title": "A mão inteira",
+      "time": "Dia 672 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 66,
+      "format": "portrait",
+      "scene": "Ilyanalone medium seated atsamepracticebasin, palmRIGHTraisedempty flameEXTINGUISHED, LEFT hand ownthigh. Reliefandsurprise face, hourglassnotyetempty.",
+      "layout": "Ilyanalone medium seated atsamepracticebasin, palmRIGHTraisedempty flameEXTINGUISHED, LEFT hand ownthigh. Reliefandsurprise face, hourglassnotyetempty.",
+      "lines": [],
+      "narration": "Retirou o impulso. Sentiu o ar, os dedos e os pés aquecidos dentro das botas."
+    },
+    {
+      "number": 1505,
+      "title": "Um sopro de força",
+      "time": "Dia 672 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "tovo",
+        "beren"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 66,
+      "format": "landscape",
+      "scene": "Tovo LEFT seatedsupportedlowstool, RIGHTarmprotectedinsinglesling, LEFThand alonepresseslongwoodenlever withfulcrumto shift SMALLstoneblock. Beren RIGHT bracesleverfarendwithbothhands, separatecleararms, LEFTkneebracevisible. Feetfirmground,noloadrightshoulder.",
+      "layout": "Tovo LEFT seatedsupportedlowstool, RIGHTarmprotectedinsinglesling, LEFThand alonepresseslongwoodenlever withfulcrumto shift SMALLstoneblock. Beren RIGHT bracesleverfarendwithbothhands, separatecleararms, LEFTkneebracevisible. Feetfirmground,noloadrightshoulder.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Uma expiração. Depois, solte.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "O bloco já chegou à marca?",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1506,
+      "title": "Sem outra tentativa",
+      "time": "Dia 672 · meio-dia",
+      "place": "patio-treino",
+      "cast": [
+        "ilyan",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 66,
+      "format": "portrait",
+      "scene": "Ilyan LEFT Tovo RIGHT seatedapartbybasin, Ilyanhandsonownknees Tovorightslingleftfreehandbread. Sharedgenuinefriendssmile afterrest.",
+      "layout": "Ilyan LEFT Tovo RIGHT seatedapartbybasin, Ilyanhandsonownknees Tovorightslingleftfreehandbread. Sharedgenuinefriendssmile afterrest.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Acho que a areia venceu o treino.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Ela não precisou demonstrar nada.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1507,
+      "title": "A rota oeste",
+      "time": "Dia 672 · manhã",
+      "place": "estrada-oeste",
+      "cast": [
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 67,
+      "format": "landscape",
+      "scene": "TinyadultNimaalone seatedinordinarysupplierwagon withclosedtoolcase securedbystrap, canonicaltravelcapeovertealvestcreamshirt, capgoggles. Rollinghillsordinaryroad noflyingtransport.",
+      "layout": "TinyadultNimaalone seatedinordinarysupplierwagon withclosedtoolcase securedbystrap, canonicaltravelcapeovertealvestcreamshirt, capgoggles. Rollinghillsordinaryroad noflyingtransport.",
+      "lines": [],
+      "narration": "Nima partiu por uma rota comum. Esperou travessias e chegou ao posto no dia 680."
+    },
+    {
+      "number": 1508,
+      "title": "Outra partida",
+      "time": "Dia 677 · manhã",
+      "place": "portao-sul",
+      "cast": [
+        "ilyan",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 67,
+      "format": "landscape",
+      "scene": "Ilyan LEFT and Tovo RIGHT walkingoutschoolgatecarryingLIGHTtravelbags atwaist. Tovo rightshoulderprotected strapnotloadingit, slingforcrowdedtravel, LEFThandcarriessmallbreadbagonly. No hugeweapon. Fullbodies2legs.",
+      "layout": "Ilyan LEFT and Tovo RIGHT walkingoutschoolgatecarryingLIGHTtravelbags atwaist. Tovo rightshoulderprotected strapnotloadingit, slingforcrowdedtravel, LEFThandcarriessmallbreadbagonly. No hugeweapon. Fullbodies2legs.",
+      "lines": [],
+      "narration": "A equipe da Casa saiu cinco dias depois. As amostras ficaram separadas das provisões quentes."
+    },
+    {
+      "number": 1509,
+      "title": "Uma corrente curta",
+      "time": "Dia 678 · noite",
+      "place": "abrigo-montanha",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 67,
+      "format": "portrait",
+      "scene": "Caio LEFT directs existing shortairflowawayfromcookpotwithONEopenrighthandleftonownbelt, Sere RIGHT fastens tarpCORDtopeg usingbothhandslow, separateanatomy. Mountaincampwarmordinaryfire.",
+      "layout": "Caio LEFT directs existing shortairflowawayfromcookpotwithONEopenrighthandleftonownbelt, Sere RIGHT fastens tarpCORDtopeg usingbothhandslow, separateanatomy. Mountaincampwarmordinaryfire.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "A corrente desce por baixo do toldo.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Corrija só este trecho. Eu prendo a lona.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1510,
+      "title": "A lista antes da subida",
+      "time": "Dia 681 · tarde",
+      "place": "posto-aram",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 67,
+      "format": "landscape",
+      "scene": "Runa LEFT kneels adultNima CENTER standing90cmwithclosedtoolcase atbelt; Ilyan RIGHT crouches. All3fullyclothed, friendlyquietreunionwithhandsownknees/belt, noentangledhug. Stonepost mountainsbehind.",
+      "layout": "Runa LEFT kneels adultNima CENTER standing90cmwithclosedtoolcase atbelt; Ilyan RIGHT crouches. All3fullyclothed, friendlyquietreunionwithhandsownknees/belt, noentangledhug. Stonepost mountainsbehind.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Cheguei ontem. A bancada e os mantimentos estão conferidos.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Amanhã subimos juntos.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1511,
+      "title": "O degrau alto",
+      "time": "Dia 682 · manhã",
+      "place": "escada-aram",
+      "cast": [
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 68,
+      "format": "landscape",
+      "scene": "Runa LEFT standingonrockstep slightlyaboveNima RIGHT adult90cm who climbsnextstep, Runa offersONE RIGHT hand andNima takeswithONEleft, otherhandsatbelts/rope. Full bodies andcontinuousstonepathclearlysupported nofloating nohorizontalstretcher.",
+      "layout": "Runa LEFT standingonrockstep slightlyaboveNima RIGHT adult90cm who climbsnextstep, Runa offersONE RIGHT hand andNima takeswithONEleft, otherhandsatbelts/rope. Full bodies andcontinuousstonepathclearlysupported nofloating nohorizontalstretcher.",
+      "lines": [],
+      "narration": "Nima aceitou apoio para o degrau, sem abrir mão de caminhar."
+    },
+    {
+      "number": 1512,
+      "title": "As quatro direções",
+      "time": "Dia 682 · manhã",
+      "place": "vigilia-aram",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 68,
+      "format": "landscape",
+      "scene": "Wide environmental establishing view ONLY, nopeople. MountainstationpatiocentralwithONEcrackedbronzeBell, northobservatoryabove, eastglassgardenimageRIGHT, weststorehouseimageLEFT, dischargechannelssouthforegroundrunintodistantemptyisolatedstonetank. Continuouspaths andstairs, frozenpatches notsnowblanketcover.",
+      "layout": "Wide environmental establishing view ONLY, nopeople. MountainstationpatiocentralwithONEcrackedbronzeBell, northobservatoryabove, eastglassgardenimageRIGHT, weststorehouseimageLEFT, dischargechannelssouthforegroundrunintodistantemptyisolatedstonetank. Continuouspaths andstairs, frozenpatches notsnowblanketcover.",
+      "lines": [],
+      "narration": "Observatório ao norte; jardim a leste; armazenamento a oeste. Ao sul, a descarga ficava longe das casas."
+    },
+    {
+      "number": 1513,
+      "title": "Conferir antes de lembrar",
+      "time": "Dia 682 · manhã",
+      "place": "observatorio-aram",
+      "cast": [
+        "mara",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 68,
+      "format": "portrait",
+      "scene": "Mara LEFT elderlyhuman68weatheredbrownskinshortblackgreybraidpatchedwoolcoatrightthumbscar, Ilyan RIGHT standingatobservatorydoor. Bothhandsatownsides, tensehopefulIlyan cautiousMara.",
+      "layout": "Mara LEFT elderlyhuman68weatheredbrownskinshortblackgreybraidpatchedwoolcoatrightthumbscar, Ilyan RIGHT standingatobservatorydoor. Bothhandsatownsides, tensehopefulIlyan cautiousMara.",
+      "lines": [
+        {
+          "speaker": "Mara",
+          "text": "Vou conferir os cadernos. Seu rosto não completa uma lembrança.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Eu espero.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1514,
+      "title": "O sino sem voz",
+      "time": "Dia 682 · tarde",
+      "place": "patio-sino-aram",
+      "cast": [
+        "nima",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 68,
+      "format": "landscape",
+      "scene": "TinyadultNima LEFT standingonsecureplatform reachONEcrackedbronzeBell withwoodenwand ONEhand, otherhandownbelt. Mara RIGHT standsonsamegroundwatching handsowncoat. Bellmountedsturdyironframe.",
+      "layout": "TinyadultNima LEFT standingonsecureplatform reachONEcrackedbronzeBell withwoodenwand ONEhand, otherhandownbelt. Mara RIGHT standsonsamegroundwatching handsowncoat. Bellmountedsturdyironframe.",
+      "lines": [
+        {
+          "speaker": "Mara",
+          "text": "Ele avisava quando a carga passava da capacidade.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Preciso da planta desse mecanismo.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1515,
+      "title": "O jardim por dentro",
+      "time": "Dia 683 · manhã",
+      "place": "jardim-aram",
+      "cast": [
+        "runa",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 69,
+      "format": "landscape",
+      "scene": "Runa LEFT Mara RIGHT standBEHINDcharcoalsafetyline justinsideglassgarden, frozenpaleherbsinbedsbeyondline, outsidesunlitstonewithmeltingfrost. Handskeptawayplants.",
+      "layout": "Runa LEFT Mara RIGHT standBEHINDcharcoalsafetyline justinsideglassgarden, frozenpaleherbsinbedsbeyondline, outsidesunlitstonewithmeltingfrost. Handskeptawayplants.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O sol já soltou o gelo lá fora.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Mara",
+          "text": "Aqui dentro, ele continua avançando.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1516,
+      "title": "A linha acrescentada",
+      "time": "Dia 683 · manhã",
+      "place": "armazenamento-aram",
+      "cast": [
+        "nima",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 69,
+      "format": "portrait",
+      "scene": "Nima LEFT onstableplatform Oru RIGHT standinggnome100cm atlowbench, overlaytwoparchmentplans showingaddedchannel unlettered. Bothholdonepaperedgeeachwithnormalhands noextrafingers. Coldwestroomdry.",
+      "layout": "Nima LEFT onstableplatform Oru RIGHT standinggnome100cm atlowbench, overlaytwoparchmentplans showingaddedchannel unlettered. Bothholdonepaperedgeeachwithnormalhands noextrafingers. Coldwestroomdry.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Esse traço não está na planta mais antiga.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Vamos comparar as datas antes de atribuir função.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1517,
+      "title": "A folga necessária",
+      "time": "Dia 683 · meio-dia",
+      "place": "jardim-aram",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 69,
+      "format": "landscape",
+      "scene": "Runa LEFT Liria RIGHT standingfarapartbyeastgardenstonebrace, bothhandsonownbeltsnotcasting. Existingstonepillarandclearreturnchannelbetween, icyplantsbehind. Coldhostility.",
+      "layout": "Runa LEFT Liria RIGHT standingfarapartbyeastgardenstonebrace, bothhandsonownbeltsnotcasting. Existingstonepillarandclearreturnchannelbetween, icyplantsbehind. Coldhostility.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Uma escora rígida resolve.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E por onde a água passa se o retorno congelar?",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1518,
+      "title": "Não basta reconhecer",
+      "time": "Dia 683 · noite",
+      "place": "observatorio-aram",
+      "cast": [
+        "ilyan",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 69,
+      "format": "portrait",
+      "scene": "Ilyan LEFT Eda RIGHT sit atobservatorytable comparingTWOoldletterpages unlettered, hisbothhandstableedgesheronehandpencilotherpaper. Windowshowsdarkfrozengardenoutside, noMirafigure.",
+      "layout": "Ilyan LEFT Eda RIGHT sit atobservatorytable comparingTWOoldletterpages unlettered, hisbothhandstableedgesheronehandpencilotherpaper. Windowshowsdarkfrozengardenoutside, noMirafigure.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Parece a letra dela.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "Então podemos conferir com a carta conhecida.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1519,
+      "title": "A vigia",
+      "time": "Dia 684 · manhã",
+      "place": "armazenamento-aram",
+      "cast": [
+        "nima",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 70,
+      "format": "portrait",
+      "scene": "Nima LEFT and Oru RIGHT standonsecureplatformatnarrow observationport, THICK CLOSED glass remainsinplace, Nima holds removedOUTERcover lowinonehandotheronbelt, Oru holdsordinaryshieldedlamp wellawayglass. No openingtointerior.",
+      "layout": "Nima LEFT and Oru RIGHT standonsecureplatformatnarrow observationport, THICK CLOSED glass remainsinplace, Nima holds removedOUTERcover lowinonehandotheronbelt, Oru holdsordinaryshieldedlamp wellawayglass. No openingtointerior.",
+      "lines": [],
+      "narration": "Retiraram apenas a tampa externa. O vidro espesso continuou entre eles e a sala."
+    },
+    {
+      "number": 1520,
+      "title": "O Faminto de Inverno",
+      "time": "Dia 684 · manhã",
+      "place": "galeria-fria-aram",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 70,
+      "format": "landscape",
+      "scene": "ONE single canonical Faminto creature alone FULLBODY behindthickfrostedobservationglass, dimstonecorridor brokenemptythermalvessels, quadruped exactly TWO longfrontlimbs and TWO benthindlimbs, longlowbody, frostpaleplates darkindigomembranes, roundedCLOSEDbellheadNOeyesNObeakNOhumanface, ventralgills notgorymouth, allfourfeetgrounded. Creature reference is identity; do not invent humanoid.",
+      "layout": "ONE single canonical Faminto creature alone FULLBODY behindthickfrostedobservationglass, dimstonecorridor brokenemptythermalvessels, quadruped exactly TWO longfrontlimbs and TWO benthindlimbs, longlowbody, frostpaleplates darkindigomembranes, roundedCLOSEDbellheadNOeyesNObeakNOhumanface, ventralgills notgorymouth, allfourfeetgrounded. Creature reference is identity; do not invent humanoid.",
+      "lines": [],
+      "narration": "Não disse palavra. Moveu-se em direção ao calor da lamparina."
+    },
+    {
+      "number": 1521,
+      "title": "Ver melhor",
+      "time": "Dia 684 · manhã",
+      "place": "armazenamento-aram",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 70,
+      "format": "landscape",
+      "scene": "Ilyan LEFT seatedbyobservationbench tinybriefsparkaboveRIGHTpalm, LEFT handownthigh. Oru RIGHTstandinggnomesamesground raisesONEhandSTOP atownchestotheratbelt, distanceclearseparatearms. Glassportbehindfogged no creaturevisible.",
+      "layout": "Ilyan LEFT seatedbyobservationbench tinybriefsparkaboveRIGHTpalm, LEFT handownthigh. Oru RIGHTstandinggnomesamesground raisesONEhandSTOP atownchestotheratbelt, distanceclearseparatearms. Glassportbehindfogged no creaturevisible.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "Apague. Você acabou de ver o que o atrai.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Pensei só em iluminar o fundo.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1522,
+      "title": "Medo, não admiração",
+      "time": "Dia 684 · noite",
+      "place": "observatorio-aram",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 70,
+      "format": "portrait",
+      "scene": "Ilyan LEFT seatedlowstool adultNima RIGHT standingbesideownworktable, shehandsownbelt hehandsonownknees, candleordinaryfaraway. Serious vulnerable.",
+      "layout": "Ilyan LEFT seatedlowstool adultNima RIGHT standingbesideownworktable, shehandsownbelt hehandsonownknees, candleordinaryfaraway. Serious vulnerable.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Tive vergonha quando ele me interrompeu.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Eu tive medo quando ouvi a pedra bater.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1523,
+      "title": "As reclamações nas margens",
+      "time": "Dia 685 · manhã",
+      "place": "observatorio-aram",
+      "cast": [
+        "mara",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 71,
+      "format": "landscape",
+      "scene": "Mara LEFT Eda RIGHT seatedatoldarchiveworktable, openhistoricledgerswithunreadablescribbles and diagramofgarden thermalreservoir. Maraonefingerpaper Edaonepencil otherhandflat. No ghosts.",
+      "layout": "Mara LEFT Eda RIGHT seatedatoldarchiveworktable, openhistoricledgerswithunreadablescribbles and diagramofgarden thermalreservoir. Maraonefingerpaper Edaonepencil otherhandflat. No ghosts.",
+      "lines": [],
+      "narration": "No começo, guardavam calor do sol e das forjas. Depois aumentaram a carga e deixaram de registrar as perdas."
+    },
+    {
+      "number": 1524,
+      "title": "Um caminho físico",
+      "time": "Dia 685 · manhã",
+      "place": "observatorio-aram",
+      "cast": [
+        "oru",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 71,
+      "format": "portrait",
+      "scene": "Oru LEFT onsecurelowplatform and Ilyan RIGHT seated, lowtablewithrockcrosssectionmodelandpaper, OruwoodpointerheldONEhandotheratbelt. Nofloatingportal or demonhumanoids.",
+      "layout": "Oru LEFT onsecurelowplatform and Ilyan RIGHT seated, lowtablewithrockcrosssectionmodelandpaper, OruwoodpointerheldONEhandotheratbelt. Nofloatingportal or demonhumanoids.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "O Fundo de Sal alcança a montanha por uma fratura.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Não por qualquer espelho ou pensamento.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1525,
+      "title": "Quarenta passos",
+      "time": "Dia 685 · tarde",
+      "place": "armazenamento-aram",
+      "cast": [
+        "nima",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 71,
+      "format": "portrait",
+      "scene": "Nima LEFT onplatform Mara RIGHT standingatdryoutermechanismtable, woodenpinmodelandceramicinsulationclear. Bothhandslowownimplements.",
+      "layout": "Nima LEFT onplatform Mara RIGHT standingatdryoutermechanismtable, woodenpinmodelandceramicinsulationclear. Bothhandslowownimplements.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Ele percebe um gradiente forte num percurso contínuo.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Mara",
+          "text": "As notas falam em cerca de quarenta passos.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "O perigo estava no caminho aberto ali, sem alcançar o quarto de Ilyan na escola."
+    },
+    {
+      "number": 1526,
+      "title": "O aviso ainda funciona",
+      "time": "Dia 685 · noite",
+      "place": "patio-sino-aram",
+      "cast": [
+        "mara",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 71,
+      "format": "landscape",
+      "scene": "Mara LEFT Oru RIGHT standclearofONEcrackedbronzeBell mountedframe, thinmechanicalrodconnectingweststorehouse, frostcrossingpavingjointforeground. Bothfacesconcerned, handsonowncoats.",
+      "layout": "Mara LEFT Oru RIGHT standclearofONEcrackedbronzeBell mountedframe, thinmechanicalrodconnectingweststorehouse, frostcrossingpavingjointforeground. Bothfacesconcerned, handsonowncoats.",
+      "lines": [
+        {
+          "speaker": "Mara",
+          "text": "Ninguém tocou no sino.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Precisamos reduzir a carga enquanto ainda há saída.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1527,
+      "title": "A base gelada",
+      "time": "Dia 686 · amanhecer",
+      "place": "armazenamento-aram",
+      "cast": [
+        "beren",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 72,
+      "format": "portrait",
+      "scene": "Beren LEFT kneelsbywoodbrace basecheckingfrostline, LEFTkneebrace visible, onehandpointinglow otheronknee; Tovo RIGHT standswithRIGHTarmrecolhidoinslingandLEFTfreebyownside, NO heavyload. Narrowcorridor safeedge.",
+      "layout": "Beren LEFT kneelsbywoodbrace basecheckingfrostline, LEFTkneebrace visible, onehandpointinglow otheronknee; Tovo RIGHT standswithRIGHTarmrecolhidoinslingandLEFTfreebyownside, NO heavyload. Narrowcorridor safeedge.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "O piso não suporta todos aqui.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Vou organizar o que precisa sair.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1528,
+      "title": "A medida entre rivais",
+      "time": "Dia 686 · manhã",
+      "place": "jardim-aram",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 72,
+      "format": "landscape",
+      "scene": "Runa LEFT Liria RIGHT stand separatedbywaterchannel and existingstonejoint, RunaLEFThandpointerbywaterlevelgaugeRIGHTatbelt, Liriabothhandsonownstonebench. Hostileprofessionalconcentrationnotfriendship.",
+      "layout": "Runa LEFT Liria RIGHT stand separatedbywaterchannel and existingstonejoint, RunaLEFThandpointerbywaterlevelgaugeRIGHTatbelt, Liriabothhandsonownstonebench. Hostileprofessionalconcentrationnotfriendship.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Vou prender a junta inteira.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "O nível sobe contra ela. Precisamos de uma folga.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1529,
+      "title": "Sinal e pausa",
+      "time": "Dia 686 · manhã",
+      "place": "tanque-sul-aram",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 72,
+      "format": "landscape",
+      "scene": "Caio LEFT Sere RIGHT onstoneplatformnearEMPTYisolatedsouthdischargetank, visibleclothribbons winddownstairsandbackcorner, CaiohandpointsribbonSerehandtiedowncordallownside. No civiliansoranimals.",
+      "layout": "Caio LEFT Sere RIGHT onstoneplatformnearEMPTYisolatedsouthdischargetank, visibleclothribbons winddownstairsandbackcorner, CaiohandpointsribbonSerehandtiedowncordallownside. No civiliansoranimals.",
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "O vapor pode voltar para a válvula.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "Fluxo estreito. No sinal, eu fecho.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1530,
+      "title": "A primeira descarga",
+      "time": "Dia 686 · meio-dia",
+      "place": "valvula-aram",
+      "cast": [
+        "nima",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 72,
+      "format": "portrait",
+      "scene": "TinyadultNima LEFT onsecuredplatform Mara RIGHT besideexteriorvalvehousing, darkpinmarkemergeswhilewaterwithicechipsrunsinchannel BELOWsafeplatform, bothhandsownseparatetools, lamp mountedside. No hand trapped yet.",
+      "layout": "TinyadultNima LEFT onsecuredplatform Mara RIGHT besideexteriorvalvehousing, darkpinmarkemergeswhilewaterwithicechipsrunsinchannel BELOWsafeplatform, bothhandsownseparatetools, lamp mountedside. No hand trapped yet.",
+      "lines": [],
+      "narration": "A primeira descarga soltou gelo. Uma vibração obrigou parte da equipe a recuar."
+    },
+    {
+      "number": 1531,
+      "title": "A presilha no escuro",
+      "time": "Dia 686 · meio-dia",
+      "place": "valvula-aram",
+      "cast": [
+        "ilyan",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 73,
+      "format": "landscape",
+      "scene": "Ilyan LEFT stands onexteriorplatform RIGHTpalm emitsSMALLcontrolledflamelight hisLEFTonownbelt. Mara RIGHT, ONEright hand heldinmechanicalclip(openvisiblearoundgloveWRISTnotsevered) whileleft handloosenscatch usingONEtool. Exactly2arms each, smallpinslotclear, no bodyhorror no extra hands. Ordinarylampunlitprotectedpotbelow.",
+      "layout": "Ilyan LEFT stands onexteriorplatform RIGHTpalm emitsSMALLcontrolledflamelight hisLEFTonownbelt. Mara RIGHT, ONEright hand heldinmechanicalclip(openvisiblearoundgloveWRISTnotsevered) whileleft handloosenscatch usingONEtool. Exactly2arms each, smallpinslotclear, no bodyhorror no extra hands. Ordinarylampunlitprotectedpotbelow.",
+      "lines": [],
+      "narration": "A luz comum apagou. Uma chama breve permitiu que Mara soltasse a mão."
+    },
+    {
+      "number": 1532,
+      "title": "Já cumpriu a tarefa",
+      "time": "Dia 686 · meio-dia",
+      "place": "valvula-aram",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 73,
+      "format": "portrait",
+      "scene": "Ilyan alone sideview stepsBACKtwoordinarypacesfromexteriorvalvehousing, palmRIGHTclosedNOflame, LEFThandlowgivingrecallsignal; facefearandresolve, shadowedwoolwallandemptylampshield. No creaturevisible no newpowerburst.",
+      "layout": "Ilyan alone sideview stepsBACKtwoordinarypacesfromexteriorvalvehousing, palmRIGHTclosedNOflame, LEFThandlowgivingrecallsignal; facefearandresolve, shadowedwoolwallandemptylampshield. No creaturevisible no newpowerburst.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Luz de reserva! Vou recuar.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "Desta vez, ouviu a própria vontade de continuar e decidiu apagar."
+    },
+    {
+      "number": 1533,
+      "title": "Uma expiração",
+      "time": "Dia 686 · meio-dia",
+      "place": "tanque-sul-aram",
+      "cast": [
+        "beren",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 73,
+      "format": "landscape",
+      "scene": "Beren LEFT braceslongleverwithfulcrumandtwohandsseparate, Tovo RIGHT kneelsfootfirmLEFTfreehandpushesONEdesignatedleverhandlelowatlefthip, injuredRIGHTarmcontainedinslingagainstchest, NO rightshoulderload. SMALLwoodwedge slides tomarknotgiantstone. Clear2arms2legseach.",
+      "layout": "Beren LEFT braceslongleverwithfulcrumandtwohandsseparate, Tovo RIGHT kneelsfootfirmLEFTfreehandpushesONEdesignatedleverhandlelowatlefthip, injuredRIGHTarmcontainedinslingagainstchest, NO rightshoulderload. SMALLwoodwedge slides tomarknotgiantstone. Clear2arms2legseach.",
+      "lines": [
+        {
+          "speaker": "Beren",
+          "text": "Chegou à marca. Solte!",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Tovo",
+          "text": "Chega. A perna está travando.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1534,
+      "title": "Deixe a folga",
+      "time": "Dia 686 · meio-dia",
+      "place": "jardim-aram",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 73,
+      "format": "landscape",
+      "scene": "Runa LEFT maintainsnarrowexistingwatercurrentwithONEtattooedLEFThandabovechannel otherhandownbelt. Liria RIGHT bracesexistingstoneedgewithONEopenpalm lowotheronownbelt. Farapartclearanatomy, levelgaugecenter, icyfloorbychannel. No friendlygesture.",
+      "layout": "Runa LEFT maintainsnarrowexistingwatercurrentwithONEtattooedLEFThandabovechannel otherhandownbelt. Liria RIGHT bracesexistingstoneedgewithONEopenpalm lowotheronownbelt. Farapartclearanatomy, levelgaugecenter, icyfloorbychannel. No friendlygesture.",
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "O nível ainda precisa passar!",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Líria",
+          "text": "Estou vendo. A folga fica aberta.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1535,
+      "title": "O pino entra",
+      "time": "Dia 686 · meio-dia",
+      "place": "valvula-aram",
+      "cast": [
+        "nima",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 73,
+      "format": "landscape",
+      "scene": "Nima LEFT onsolidplatformusesONEpairtongs toinsertrepairedwoodbronzePIN intomechanism, otherhandrestsownbench. Mara RIGHT holdsplatewithbothhands. Separateclearhands, shieldedRESERVElampoffside enoughlight, nospark. Exteriorvalvewithtwoclosedbarriersmarkedbyphysicalbolts.",
+      "layout": "Nima LEFT onsolidplatformusesONEpairtongs toinsertrepairedwoodbronzePIN intomechanism, otherhandrestsownbench. Mara RIGHT holdsplatewithbothhands. Separateclearhands, shieldedRESERVElampoffside enoughlight, nospark. Exteriorvalvewithtwoclosedbarriersmarkedbyphysicalbolts.",
+      "lines": [],
+      "narration": "O pino entrou. Duas contenções separaram a fratura dos reservatórios. Ninguém desceu para caçar a criatura."
+    },
+    {
+      "number": 1536,
+      "title": "Ouvi o sinal",
+      "time": "Dia 686 · tarde",
+      "place": "observatorio-aram",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 73,
+      "format": "portrait",
+      "scene": "Ilyan LEFT seatedlowstoolunderwarmblanketshouldersbutfullyclothedhandsownlap, adulttinyNima RIGHT standingtouchesforeheadtohis gently, bothhandsownbelt. Ordinarybreadandsouptable, exhaustedreliefnotcelebration.",
+      "layout": "Ilyan LEFT seatedlowstoolunderwarmblanketshouldersbutfullyclothedhandsownlap, adulttinyNima RIGHT standingtouchesforeheadtohis gently, bothhandsownbelt. Ordinarybreadandsouptable, exhaustedreliefnotcelebration.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Ouvi o sinal quando você apagou.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vocês terminaram o que eu não precisava continuar.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1537,
+      "title": "Depois do esforço",
+      "time": "Dia 687 · manhã",
+      "place": "observatorio-aram",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 74,
+      "format": "portrait",
+      "scene": "Caio LEFT fullyclothedrestsonbenchwithblanketoverlegs, Sere RIGHT seatednearbyholdsonecupsoupbothhandslow, hehandsownlap. Calmrest recoverheadache, nobednudity.",
+      "layout": "Caio LEFT fullyclothedrestsonbenchwithblanketoverlegs, Sere RIGHT seatednearbyholdsonecupsoupbothhandslow, hehandsownlap. Calmrest recoverheadache, nobednudity.",
+      "lines": [],
+      "narration": "O corpo ainda cobrava o esforço. A estação entrou em dias de repouso e conferência."
+    },
+    {
+      "number": 1538,
+      "title": "A rivalidade fica",
+      "time": "Dia 688 · tarde",
+      "place": "jardim-aram",
+      "cast": [
+        "runa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 74,
+      "format": "landscape",
+      "scene": "Runa LEFT Liria RIGHT standseparatedatstonebracebydamagedfrozengarden, neither friendlybothhandsownbelt Liriachainnotebook. Clearcoldtension not physicalfight.",
+      "layout": "Runa LEFT Liria RIGHT standseparatedatstonebracebydamagedfrozengarden, neither friendlybothhandsownbelt Liriachainnotebook. Clearcoldtension not physicalfight.",
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Sua vazão ficou acima do desenho.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E a folga ficou aberta porque precisava.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1539,
+      "title": "Uma carta para Bram",
+      "time": "Dia 689 · manhã",
+      "place": "observatorio-aram",
+      "cast": [
+        "mara",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 74,
+      "format": "portrait",
+      "scene": "Mara LEFT Ilyan RIGHT atdryobservatorycabinet, sheholdsONEcharrededgeletterwithinopenprotectivefolder BOTHhands, hehandsownchestheightopenstoppedbeforetouch. No magicaltextlegible. Emotionhopepain.",
+      "layout": "Mara LEFT Ilyan RIGHT atdryobservatorycabinet, sheholdsONEcharrededgeletterwithinopenprotectivefolder BOTHhands, hehandsownchestheightopenstoppedbeforetouch. No magicaltextlegible. Emotionhopepain.",
+      "lines": [
+        {
+          "speaker": "Mara",
+          "text": "Estava junto ao registro de recebimento.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "A carta começa com o nome do meu pai.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1540,
+      "title": "A parte que falta",
+      "time": "Dia 689 · tarde",
+      "place": "observatorio-aram",
+      "cast": [
+        "ilyan",
+        "eda"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 74,
+      "format": "portrait",
+      "scene": "Ilyan LEFT Eda RIGHT seatedattable, copperbuckle crookedcrescent besideletter withPHYSICALLYmissingburntedgelowerhalf, Edaonepencilhovering no restorationmagic, Ilyanonehandownlapotherholdingcopy. Facesbelow40%.",
+      "layout": "Ilyan LEFT Eda RIGHT seatedattable, copperbuckle crookedcrescent besideletter withPHYSICALLYmissingburntedgelowerhalf, Edaonepencilhovering no restorationmagic, Ilyanonehandownlapotherholdingcopy. Facesbelow40%.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Ela tentou voltar. A frase termina em «alguém que…».",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Eda",
+          "text": "A continuação não está na folha.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "A data, a escrita e as lembranças confirmavam uma passagem passada por Aram."
+    },
+    {
+      "number": 1541,
+      "title": "Permanecer diante da pergunta",
+      "time": "Dia 689 · noite",
+      "place": "observatorio-aram",
+      "cast": [
+        "runa",
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 74,
+      "format": "landscape",
+      "scene": "Runa LEFT seated, Ilyan CENTERseatedsofttearsCOPYletteronlapheldbybothownhands, tinyadultNima RIGHTstandingonstablefootrest besidebench. Runahandsownlap andNimaownbelt, simplethreebodyanatomy NOextraarms. Quietcompanionshipnotgroupkiss.",
+      "layout": "Runa LEFT seated, Ilyan CENTERseatedsofttearsCOPYletteronlapheldbybothownhands, tinyadultNima RIGHTstandingonstablefootrest besidebench. Runahandsownlap andNimaownbelt, simplethreebodyanatomy NOextraarms. Quietcompanionshipnotgroupkiss.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Tenho raiva de ela não estar aqui.",
+          "balloon": {
+            "x": 2,
+            "y": 12,
+            "w": 44,
+            "target_x": 28,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Nima",
+          "text": "Continuo aqui para ouvir isso também.",
+          "balloon": {
+            "x": 54,
+            "y": 12,
+            "w": 44,
+            "target_x": 77,
+            "target_y": 42,
+            "kind": "normal"
+          }
+        }
+      ],
+      "narration": "O carinho não terminou a pergunta."
+    },
+    {
+      "number": 1542,
+      "title": "Quando a luz basta",
+      "time": "Dia 692 · noite",
+      "place": "posto-aram",
+      "cast": [
+        "runa",
+        "nima",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 74,
+      "format": "landscape",
+      "scene": "ThreeADULTS fullyclothed sit at LOW stonepostinn table: Runa LEFT, tinyNima CENTERonseathighfootrest, Ilyan RIGHT. OrdinarylampcenterLOW, smallcopperbucklebesidefoldedletter, IlyanONEhandgentlycoverslampwithsnufferotherownlap; RunaandNimahandsownlaps. No magicalflames, no bed. Calmphysicalendofarc.",
+      "layout": "ThreeADULTS fullyclothed sit at LOW stonepostinn table: Runa LEFT, tinyNima CENTERonseathighfootrest, Ilyan RIGHT. OrdinarylampcenterLOW, smallcopperbucklebesidefoldedletter, IlyanONEhandgentlycoverslampwithsnufferotherownlap; RunaandNimahandsownlaps. No magicalflames, no bed. Calmphysicalendofarc.",
+      "lines": [],
+      "narration": "Mira tentara voltar. Ainda não sabiam por que não conseguira. Quando o óleo acabou, Ilyan apagou a luz."
+    }
+  ],
+  "published_through": 1463
+}

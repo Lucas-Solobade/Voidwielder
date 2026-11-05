@@ -102,6 +102,14 @@ ARC_NINE["arc"]["chapters"].extend(ARC_NINE_FINALE["chapters"])
 ARC_NINE["pages"].extend(ARC_NINE_FINALE["pages"])
 ARC_NINE["arc"]["status"] = "Concluído"
 ARC_TEN = json.loads((STORY_DIR / "arc10-1403-1410.json").read_text(encoding="utf-8"))
+ARC_TEN_NEXT = json.loads((STORY_DIR / "arc10-1411-1542.json").read_text(encoding="utf-8"))
+ARC_TEN_PUBLISHED_END = ARC_TEN_NEXT["published_through"]
+ARC_TEN["arc"]["chapters"].extend(
+    {**chapter, "end": min(chapter["end"], ARC_TEN_PUBLISHED_END)}
+    for chapter in ARC_TEN_NEXT["chapters"] if chapter["start"] <= ARC_TEN_PUBLISHED_END
+)
+ARC_TEN["pages"].extend(page for page in ARC_TEN_NEXT["pages"] if page["number"] <= ARC_TEN_PUBLISHED_END)
+ARC_TEN["arc"]["status"] = "Em andamento"
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

@@ -2,7 +2,7 @@
 
 Livro escrito integralmente antes da geração da capa: capítulos 43–74 do volume II, 161 páginas de prosa, começando na página 421. O volume II passa a 74 capítulos e 581 páginas. O plano aprovado e a cobertura dos acontecimentos estão em `reader/books/estradas_crepusculo_ii/arc10-plan.md`.
 
-A página 1402 encerra o arco 9 e foi preservada. A capa editorial do arco 10 é a 1403; a narrativa nova vai de 1404 a 1410, dias 626–629. A presença de Nima na capa antecipa o reencontro; ela continua em Pedra-Mansa durante esta abertura. A intimidade adulta dos três está nos capítulos 58–59, com transição fora de cena e amanhecer sob lençóis.
+A página 1402 encerra o arco 9 e foi preservada. A página 1403 foi substituída por uma cena narrativa de Ilyan preparando a viagem, sem Nima. A capa permanece apenas no portal do arco e no livro. A narrativa da abertura vai de 1403 a 1410, dias 626–629. Nima continua em Pedra-Mansa durante esta abertura. A intimidade adulta dos três está nos capítulos 58–59, com transição fora de cena e amanhecer sob lençóis.
 
 Correção 1398: removido antebraço excedente. Tovo tem dois braços: direito protegido pela tipoia, esquerdo livre, duas pernas. Cache da arte atualizado. Recuperação permanece gradual no livro e na HQ.
 
