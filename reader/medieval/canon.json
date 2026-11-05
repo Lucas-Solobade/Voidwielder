@@ -27,7 +27,8 @@
     "eda": "reader/medieval/references/individual/eda.png",
     "beren": "reader/medieval/references/individual/beren.png",
     "ysra": "reader/medieval/references/individual/ysra.png",
-    "imitador-de-sal": "reader/medieval/references/imitador-de-sal.png"
+    "imitador-de-sal": "reader/medieval/references/imitador-de-sal.png",
+    "faminto-de-inverno": "reader/medieval/references/faminto-de-inverno.png"
   },
   "characters": {
     "ilyan": {
@@ -113,7 +114,8 @@
       "age": 18,
       "role": "estudante meio-orc bem-humorado, bolsista com turnos na cozinha; sua trapalhada não apaga a competência prática",
       "fixed_appearance": "Alto e largo, pele verde-sálvia, pequenas presas inferiores, cabelo castanho curto muito cacheado, olhos castanhos gentis.",
-      "fixed_clothing": "Túnica escolar azul e avental âmbar de cozinha quando trabalha."
+      "fixed_clothing": "Túnica escolar azul e avental âmbar de cozinha quando trabalha.",
+      "injury_arc10": "Ombro DIREITO ferido: braço direito inteiramente na tipoia, esquerdo livre. Exatamente dois braços. Recuperação gradual; amplificação não cura o tendão e só retorna sob limite e liberação. Page 1398 corrigida com a mesma lateralidade."
     },
     "ordelia": {
       "name": "Ordelia",
@@ -286,6 +288,20 @@
       "role": "guardiã feérica eleita pelo pequeno conselho da ponte do Entremeio; pode autorizar ou encerrar uma visita limitada, não governa todo o mundo",
       "fixed_appearance": "Feérica adulta de pele castanho-acobreada, rosto comprido, olhos dourados sem branco, cabelo preto curto em tranças finas e três marcas naturais claras paralelas na bochecha esquerda. Diferente de Ysra, não tem galhos nas têmporas.",
       "fixed_clothing": "Manto prático de fibras de junco em verde escuro sobre túnica de linho marfim; cordão trançado da comunidade no pulso direito."
+    },
+    "mara": {
+      "name": "Mara",
+      "age": 68,
+      "species": "humana",
+      "appearance": "Pele castanha marcada pelo vento, trança curta preta e grisalha, cicatriz no polegar direito, casaco de lã escura. Zeladora da Vigília de Aram; não confundir com Mira.",
+      "role": "Testemunha do recebimento de uma caixa e responsável pelos mecanismos locais. Primeira aparição no livro II capítulo 68."
+    },
+    "radesa": {
+      "name": "Radesa",
+      "age": 52,
+      "species": "humana",
+      "appearance": "Cabelo preto curto até a mandíbula, polegar esquerdo rígido, roupa de transportadora e bolsa de registros.",
+      "role": "Transportadora em Pedra-Mansa. Viu caixa em viagem, não Mira como passageira; primeira aparição no livro II capítulo 60."
     }
   },
   "creatures": {
@@ -298,7 +314,14 @@
     "roedora-de-escoria": "Grande enguia de casca calcária e mandíbulas laterais, sem pernas ou braços. Sai da grelha quando o fluxo da eclusa muda. Ataca por defesa e alimento; cai na vala durante a contenção, sem morte confirmada.",
     "raspa-frio": "Predador do Fundo de Sal: corpo comprido e baixo de couro cinza, QUATRO membros finos articulados e placas pálidas que se fecham sobre a boca. Segue calor e minerais, não fala, não serve a Maelor. Duas surgem perto da muralha no segundo acesso do arco 6; uma terceira é ouvida, sem contagem além disso.",
     "oco-de-vidro": "Predador singular do Fundo de Sal: placas minerais translúcidas e assimétricas circundam uma fenda escura, com membros articulados de anatomia não humana. Percebe gradientes térmicos. No livro II arco 7 atravessa uma microfenda sob a cava pública, separada da costura protegida já fechada; não foi invocado por Mira ou pela escola.",
-    "imitador-de-sal": "Uma criatura singular no bolsão de ar externo sob Talveira: corpo magro de placas de sal translúcidas ligadas por membranas escuras, exatamente DOIS membros inferiores e DOIS anteriores, cabeça estreita sem face humana. Empurra ar pela fresta e reproduz somente sons que ouviu pelos dutos, com atraso variável; não lê pensamentos, não sabe fatos novos e não conhece necessariamente a voz de Mira. A fresta é estreita demais para atravessá-la. A placa externa fecha a janela no dia 618 sem declarar a criatura morta ou o Fundo de Sal vazio."
+    "imitador-de-sal": "Uma criatura singular no bolsão de ar externo sob Talveira: corpo magro de placas de sal translúcidas ligadas por membranas escuras, exatamente DOIS membros inferiores e DOIS anteriores, cabeça estreita sem face humana. Empurra ar pela fresta e reproduz somente sons que ouviu pelos dutos, com atraso variável; não lê pensamentos, não sabe fatos novos e não conhece necessariamente a voz de Mira. A fresta é estreita demais para atravessá-la. A placa externa fecha a janela no dia 618 sem declarar a criatura morta ou o Fundo de Sal vazio.",
+    "faminto-de-inverno": {
+      "name": "Faminto de Inverno",
+      "reference": "reader/medieval/references/faminto-de-inverno.png",
+      "appearance": "Quadrúpede baixo e comprido: exatamente duas patas anteriores e duas posteriores, placas claras foscas com geada, membranas índigo, cabeça arredondada como sino fechado, sem bico, olhos ou rosto humano, fendas ventrais de troca térmica.",
+      "lore": "Habitante do Fundo de Sal atraído por forte gradiente térmico local através do ar e da pedra, aproximadamente quarenta passos. Não imita vozes, não lê pensamentos e não localiza pessoas através do mundo. Aram acumulou calor e abriu uma comunicação física local. Distinto do imitador de Talveira, cujo selo permanece fechado.",
+      "limits": "Usa energia térmica disponível; as contenções isolam caminhos, não apagam o submundo. Cuidado com moradores e retirada têm prioridade sobre persegui-lo."
+    }
   },
   "places": {
     "eiravena": "Eiravena: mundo de vales, cidades medievais e rotas antigas; Pedra-Mansa é um vilarejo de pedra e madeira junto a uma ponte de arco sobre o rio.",
@@ -380,7 +403,7 @@
     "talveira-oficina": "Oficina habitada que guarda a régua de vidro original de Mira, com livro de serviço, bancada e ferramentas de medição; a artesã local autoriza cópias, mas o original não sai dali.",
     "talveira-patio": "Pátio de serviço acima da escada seca, separado da ponte principal reparada. A grade externa abre apenas mediante dois responsáveis; a janela antiga de inspeção fica além dela.",
     "talveira-escada": "Escada de serviço seca sob o pátio de Talveira, com canal atrás de vidro, patamares curtos, nicho de ferramentas e janela de inspeção externa. O selo inferior continua fechado; a licença do arco 9 alcança só o primeiro trecho.",
-    "vigilia-aram": "Antigo posto de observação das rotas acima do Fundo de Sal. Uma folha de Mira na escada externa de Talveira registra intenção de seguir para lá depois do desaparecimento; a chegada e o paradeiro atual dela não foram comprovados.",
+    "vigilia-aram": "Posto inferior e escada contínua até pátio central de sino rachado; observatório ao NORTE, jardim envidraçado a LESTE, armazenamento a OESTE, descarga para tanque vazio isolado ao SUL. Passagem funda abaixo da licença permanece sem exploração. Carta e registro comprovam passagem histórica posterior de Mira; não seu paradeiro presente.",
     "talveira-pousada": "Pousada na rua alta de Talveira, acima da zona isolada. Entrada pelo pátio oeste; sala comum com mesa e três cadeiras junto à janela para a cidade, oficina de apoio ao lado, banco no pátio coberto. Quarto dos hóspedes no piso superior, porta para corredor, cama ao fundo e janela leste; circulação livre, ferramentas guardadas antes dos encontros. Recuperação e encontros nos dias619–623."
   },
   "school_map": {
@@ -529,7 +552,10 @@
     "Livro, arco 9, dias 593–624, Volume II capítulos 27–42: a marca na régua original permanece em Talveira e é cotejada com livros independentes. Conselho e guardiões autorizam só a escada externa; Nima viaja de Pedra-Mansa por estrada, barca e posto após convite profissional. Runa e Líria seguem rivais e medem água e pedra em equipes separadas. Uma janela antiga de inspeção, independente da ponte reparada e do selo inferior, cede por pressão acumulada e deixa a criatura imitadora repetir sons realmente ouvidos, sem telepatia. A cidade evacua a rua próxima, preserva a ponte em uso controlado, e fecha a janela por placa externa no dia 618; o selo principal nunca é aberto. Ilyan acende apenas um pavio com calor corporal e precisa aquecer-se; Caio conduz ar presente, Tovo limita a ampliação, Runa usa água limpa autorizada. Livro de entrada, tira de vidro e folha no nicho comprovam que Mira examinou a escada após desaparecer da família e pretendia procurar Vigília de Aram; não provam chegada ao posto nem paradeiro atual. Nima retorna a Pedra-Mansa por viagem comum. HQ arc9 é planejada para páginas 1167–1326, páginas 1167–1208 publicadas até a chegada profissional de Nima no dia 608; Líria fica na Casa, a régua permanece na oficina e o selo inferior fechado.",
     "HQ arco 9, páginas 1209–1281: retoma explicitamente os dias 602–607 antes de Nima chegar e volta ao dia 608 na página 1217. Adapta capítulos 30–37 até a licença estreita e abertura somente da grade externa no dia 617. No livro, capítulo 31, Ilyan e Nima se beijam e partilham uma noite íntima sugerida no dia 609, após conversa dos três e entrega da ronda; Runa descansa ao lado e os três combinam desjejum. Ambos são adultos, Ilyan18 e Nima26, gnoma de90cm. A cena futura dos três no capítulo41 ocorre depois do fechamento da janela e não antecipa reconciliação nem resolve dúvidas por intimidade. O selo inferior permanece fechado, a criatura só repete sons ouvidos e Líria permanece inimiga de Runa.",
     "HQ1282–1302: dia617, VolumeII capítulos38–39. Escada seca inspecionada sob licença externa; Líria no patamar superior, Runa/Eda no inferior, Tovo na superfície. A criatura imita chamados sem aparecer como pessoa. Envelope lacrado documentado, recolhido e aberto na oficina diante das testemunhas; três suportes e calendários cotejados confirmam passagem de Mira após desaparecer, sem provar chegada à Vigília de Aram. Runa registra água perdida por tampa solta. Rivalidade permanece, placa ainda não instalada, selo inferior intocado. Fim1302 ainda no dia617.",
-    "HQ1303–1402 conclui o arco9, substituindo o antigo limite planejado1326. Dias617–626: preparativos, operação externa autorizada no618, placa em duas metades com escora e desvio limitado, selo principal intacto; recuperação e afetos adultos nos619–623; Nima parte de barca no624 e segue por carroça da outra margem; equipe inicia retorno até626. LivroII ampliado primeiro: capítulo41 dá vínculos próprios a Runa/Ilyan, Runa/Nima e Ilyan/Nima, jantar sobre ciúme e encontros dos três com escolha e conversa; Nima90cm mantém ofício e autonomia. LivroII total420páginas. Aram continua intenção de Mira, sem prova de chegada. Cópias via correio comum, sem resposta instantânea de Ordelia. Líria e Runa continuam rivais."
+    "HQ1303–1402 conclui o arco9, substituindo o antigo limite planejado1326. Dias617–626: preparativos, operação externa autorizada no618, placa em duas metades com escora e desvio limitado, selo principal intacto; recuperação e afetos adultos nos619–623; Nima parte de barca no624 e segue por carroça da outra margem; equipe inicia retorno até626. LivroII ampliado primeiro: capítulo41 dá vínculos próprios a Runa/Ilyan, Runa/Nima e Ilyan/Nima, jantar sobre ciúme e encontros dos três com escolha e conversa; Nima90cm mantém ofício e autonomia. LivroII total420páginas. Aram continua intenção de Mira, sem prova de chegada. Cópias via correio comum, sem resposta instantânea de Ordelia. Líria e Runa continuam rivais.",
+    "Livro II, arco 10 completo, capítulos 43–74, dias 626–692: retorno à Casa; custo e interrupção da chama corporal; cartas ordinárias; viagem de cinco dias até Pedra-Mansa; Bram revela episódio anterior ao desaparecimento; reconciliação parcial; reencontro adulto do trisal; retorno e aprendizagem com limites; Caio e Sere na feira; Runa e Líria continuam rivais; contrato de Nima e viagem comum até Aram; jardim congelado e Faminto de Inverno; resgate e contenção com ajuda da equipe; Ilyan escolhe apagar a chama; carta datada autentica passagem passada de Mira e tentativa interrompida de voltar, sem provar localização atual.",
+    "HQ 1403 é capa editorial do arco 10, não avanço literal. HQ 1404–1410: dias 626–629, estrada, portão sul, recuperação de Tovo, quarto de cedro, treino com vela apagada, pequena fagulha e cuidado após perder sensibilidade. Nima permanece em Pedra-Mansa e não aparece na narrativa da abertura.",
+    "O trisal Ilyan e Runa (18) e Nima (26, gnoma de 90cm) se reencontra nos capítulos 54–59; intimidade consensual termina fora de cena e amanhecer mantém corpos cobertos por lençóis, apenas ombros expostos. O pacto de não revelar a Ilyan a agressão antiga de Líria continua. Não há perdão entre Runa e Líria."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",

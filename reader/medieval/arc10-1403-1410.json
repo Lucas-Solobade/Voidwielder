@@ -1,0 +1,279 @@
+{
+  "arc": {
+    "number": 10,
+    "title": "O Inverno Dentro da Chama",
+    "slug": "o-inverno-dentro-da-chama",
+    "description": "De volta à Casa, Ilyan aprende o preço de acender e apagar sua própria chama. Uma descoberta de Nima conduz os amigos à Vigília de Aram, onde o frio guarda marcas de Mira.",
+    "status": "Em andamento",
+    "start": 1403,
+    "chapters": [
+      {
+        "title": "A estrada e a chama",
+        "start": 1403,
+        "end": 1410
+      }
+    ]
+  },
+  "pages": [
+    {
+      "number": 1403,
+      "title": "O Inverno Dentro da Chama",
+      "time": "Dia 626 · abertura do arco 10",
+      "place": "vigilia-aram",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 43,
+      "format": "landscape",
+      "cover": true,
+      "scene": "Editorial cover tableau anticipating Aram. Not a literal jump forward in chronology. Ilyan with small flame, Runa with water, adult gnome Nima at half human height, cracked bell and frozen observatory.",
+      "layout": "Single full landscape cover, all art visible.",
+      "lines": [],
+      "narration": "Arco 10 · O Inverno Dentro da Chama",
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1404,
+      "title": "Um nome no mapa",
+      "time": "Dia 626 · manhã",
+      "place": "estrada-norte",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 43,
+      "format": "landscape",
+      "scene": "Ilyan LEFT and Runa RIGHT sit on an ordinary stopped wagon beside rural roadside inn. Map on Ilyan lap, Runa holds bread. Rural road and muted fields. No other people. Nima is elsewhere. Natural two arms each, travel fatigue, daylight. Both faces centered near y50%, free scenery above them.",
+      "layout": "Ilyan LEFT and Runa RIGHT sit on an ordinary stopped wagon beside rural roadside inn. Map on Ilyan lap, Runa holds bread. Rural road and muted fields. No other people. Nima is elsewhere. Natural two arms each, travel fatigue, daylight. Both faces centered near y50%, free scenery above them.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Aram ainda é só um nome no mapa.",
+          "balloon": {
+            "x": 1,
+            "y": 7,
+            "w": 23,
+            "target_x": 32,
+            "target_y": 34,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Runa",
+          "text": "E a Casa continua do outro lado da estrada.",
+          "balloon": {
+            "x": 70,
+            "y": 8,
+            "w": 29,
+            "target_x": 62,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1672,
+      "art_height": 941
+    },
+    {
+      "number": 1405,
+      "title": "Primeiro, comam",
+      "time": "Dia 627 · fim da tarde",
+      "place": "portao-sul",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 43,
+      "format": "portrait",
+      "scene": "Ilyan LEFT standing with travel bag and elderly tiny Oru RIGHT standing on the SAME ground at school southern moon gate. Show full figures and ground to establish human 180cm vs gnome100cm scale. Stone arch and moon banner above. Only two characters. Ilyan head near y32%, Oru head near y58%. No extra people.",
+      "layout": "Ilyan LEFT standing with travel bag and elderly tiny Oru RIGHT standing on the SAME ground at school southern moon gate. Show full figures and ground to establish human 180cm vs gnome100cm scale. Stone arch and moon banner above. Only two characters. Ilyan head near y32%, Oru head near y58%. No extra people.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Trouxemos uma pista de Mira.",
+          "balloon": {
+            "x": 2,
+            "y": 4,
+            "w": 44,
+            "target_x": 35,
+            "target_y": 23,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Primeiro, comam. As perguntas esperam esta noite.",
+          "balloon": {
+            "x": 54,
+            "y": 29,
+            "w": 44,
+            "target_x": 74,
+            "target_y": 48,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1406,
+      "title": "O ombro primeiro",
+      "time": "Dia 627 · noite",
+      "place": "enfermaria-leste",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 43,
+      "format": "portrait",
+      "scene": "Tovo ALONE sits on infirmary bench, TWO arms and TWO legs. His anatomical RIGHT arm (viewer LEFT) is completely contained in a single cream sling hanging from RIGHT injured shoulder, no free right forearm outside sling. Anatomical LEFT free arm (viewer RIGHT) rests left hand on thigh. One body. Exactly two hands total. Quiet candlelit stone infirmary, bandage basket, head near y40%, clear wall above for speech. No other characters.",
+      "layout": "Tovo ALONE sits on infirmary bench, TWO arms and TWO legs. His anatomical RIGHT arm (viewer LEFT) is completely contained in a single cream sling hanging from RIGHT injured shoulder, no free right forearm outside sling. Anatomical LEFT free arm (viewer RIGHT) rests left hand on thigh. One body. Exactly two hands total. Quiet candlelit stone infirmary, bandage basket, head near y40%, clear wall above for speech. No other characters.",
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "A carga pode esperar. Primeiro, o ombro.",
+          "balloon": {
+            "x": 3,
+            "y": 8,
+            "w": 68,
+            "target_x": 50,
+            "target_y": 31,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536
+    },
+    {
+      "number": 1407,
+      "title": "O quarto conhecido",
+      "time": "Dia 628 · manhã",
+      "place": "dormitorio-cedro",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 44,
+      "format": "portrait",
+      "scene": "Ilyan LEFT and Runa RIGHT seated on TWO low wooden chairs close together in their familiar cedar dormitory. Gentle closed-mouth kiss, fully clothed, nonsexual affectionate homecoming. Ilyan's BOTH hands rest on his own knees. Runa's anatomical LEFT tattooed arm with hand gently touching Ilyan cheek, her other hand on her own lap. Exactly TWO arms per person. Both same seated height. Single window left, cedar beds in background, travel bags by door, no extra people.",
+      "layout": "Ilyan LEFT and Runa RIGHT seated on TWO low wooden chairs close together in their familiar cedar dormitory. Gentle closed-mouth kiss, fully clothed, nonsexual affectionate homecoming. Ilyan's BOTH hands rest on his own knees. Runa's anatomical LEFT tattooed arm with hand gently touching Ilyan cheek, her other hand on her own lap. Exactly TWO arms per person. Both same seated height. Single window left, cedar beds in background, travel bags by door, no extra people.",
+      "lines": [],
+      "narration": "O quarto parecia menor. O beijo, por um instante, fez os dois pararem de pensar na estrada.",
+      "art_width": 1227,
+      "art_height": 1282
+    },
+    {
+      "number": 1408,
+      "title": "Aprender a terminar",
+      "time": "Dia 628 · tarde",
+      "place": "patio-treino",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 44,
+      "format": "landscape",
+      "scene": "School stone practice courtyard. Ilyan LEFT seated on LOW stool with both hands on own knees, elderly tiny Oru RIGHT standing on same ground, both realistic scale Oru100cm Ilyan180cm seated. Modest low table center with UNLIT candle, cup warm water, small hourglass. Oru both hands behind his own back. Only two characters. Both heads below40% with clean stone scenery immediately above heads for dialogue.",
+      "layout": "School stone practice courtyard. Ilyan LEFT seated on LOW stool with both hands on own knees, elderly tiny Oru RIGHT standing on same ground, both realistic scale Oru100cm Ilyan180cm seated. Modest low table center with UNLIT candle, cup warm water, small hourglass. Oru both hands behind his own back. Only two characters. Both heads below40% with clean stone scenery immediately above heads for dialogue.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Quero aprender.",
+          "balloon": {
+            "x": 2,
+            "y": 6,
+            "w": 43,
+            "target_x": 31,
+            "target_y": 32,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Oru",
+          "text": "Hoje vamos treinar como terminar.",
+          "balloon": {
+            "x": 55,
+            "y": 16,
+            "w": 43,
+            "target_x": 79,
+            "target_y": 37,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1536,
+      "art_height": 1024
+    },
+    {
+      "number": 1409,
+      "title": "A primeira fagulha",
+      "time": "Dia 629 · manhã",
+      "place": "patio-treino",
+      "cast": [
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 45,
+      "format": "portrait",
+      "scene": "Ilyan ALONE seated at same low stone table in school courtyard. A tiny short orange flame rises from his own anatomical RIGHT palm and lights wick of a candle over sand-filled bronze basin. His other LEFT hand stays flat on his own left thigh. Show exactly two normal arms naturally connected to shoulders, five fingers each hand, simple clear pose. Small hourglass beside basin. Expression fascinated and hesitant, not gigantic blast. No other people or hands.",
+      "layout": "Ilyan ALONE seated at same low stone table in school courtyard. A tiny short orange flame rises from his own anatomical RIGHT palm and lights wick of a candle over sand-filled bronze basin. His other LEFT hand stays flat on his own left thigh. Show exactly two normal arms naturally connected to shoulders, five fingers each hand, simple clear pose. Small hourglass beside basin. Expression fascinated and hesitant, not gigantic blast. No other people or hands.",
+      "lines": [],
+      "narration": "O pavio acendeu. Ilyan demorou a retirar a mão.",
+      "art_width": 1227,
+      "art_height": 1282
+    },
+    {
+      "number": 1410,
+      "title": "Vontade de continuar",
+      "time": "Dia 629 · fim da tarde",
+      "place": "enfermaria-leste",
+      "cast": [
+        "ilyan",
+        "oru"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 45,
+      "format": "portrait",
+      "scene": "Ilyan LEFT sits on chair with blanket over legs, anatomical RIGHT hand wrapped in soft cloth resting on lap, bare LEFT hand on own left knee. Oru RIGHT stands on same ground, elderly100cm gnome, BOTH hands behind his own back. No physical hand interaction. Cup of warm water on side table, stone infirmary shelves with folded cloths. Both heads below38%, reserved free wall above heads near them. Exactly two arms per person, no extra people. Quiet concerned conversation.",
+      "layout": "Ilyan LEFT sits on chair with blanket over legs, anatomical RIGHT hand wrapped in soft cloth resting on lap, bare LEFT hand on own left knee. Oru RIGHT stands on same ground, elderly100cm gnome, BOTH hands behind his own back. No physical hand interaction. Cup of warm water on side table, stone infirmary shelves with folded cloths. Both heads below38%, reserved free wall above heads near them. Exactly two arms per person, no extra people. Quiet concerned conversation.",
+      "lines": [
+        {
+          "speaker": "Oru",
+          "text": "O que você sentiu antes do frio?",
+          "balloon": {
+            "x": 49,
+            "y": 23,
+            "w": 22,
+            "target_x": 75,
+            "target_y": 41,
+            "kind": "normal"
+          }
+        },
+        {
+          "speaker": "Ilyan",
+          "text": "Vontade de continuar.",
+          "balloon": {
+            "x": 2,
+            "y": 42,
+            "w": 37,
+            "target_x": 35,
+            "target_y": 36,
+            "kind": "normal"
+          }
+        }
+      ],
+      "art_width": 1199,
+      "art_height": 1312
+    }
+  ]
+}

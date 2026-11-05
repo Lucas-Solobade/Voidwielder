@@ -170,7 +170,7 @@ def search(request: HttpRequest) -> HttpResponse:
         if not query or query.casefold() in novel2_text:
             results.append({
                 "kind": "Romance · Volume II", "title": NOVEL_II["subtitle"], "url": NOVEL_II["url"],
-                "detail": f"Arco 6 completo · {NOVEL_II['chapter_count']} capítulos · {NOVEL_II['page_count']} páginas escritas. {NOVEL_II['detail']}",
+                "detail": f"Arcos 6–10 completos · {NOVEL_II['chapter_count']} capítulos · {NOVEL_II['page_count']} páginas escritas. {NOVEL_II['detail']}",
                 "novel_art": True, "volume_number": 2,
             })
         linux_text = f"{LINUX_BOOK['title']} {LINUX_BOOK['detail']} {LINUX_BOOK['topics']}".casefold()
