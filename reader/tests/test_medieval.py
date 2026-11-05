@@ -8,7 +8,7 @@ from reader.medieval_catalog import ARCS, CANON, PAGES, PAGES_BY_NUMBER, STORY, 
 
 
 def test_medieval_canon_and_page_sequence():
-    assert [page["number"] for page in PAGES] == list(range(1, 1464))
+    assert [page["number"] for page in PAGES] == list(range(1, 1543))
     assert all(len(page["panels"]) == 3 for page in PAGES[:25])
     assert len({page["layout"] for page in PAGES[25:]}) >= 5
     assert all(set(page["cast"]) <= set(CANON["characters"]) for page in PAGES)
@@ -78,7 +78,7 @@ def test_medieval_canon_and_page_sequence():
     assert "Dia 499" in PAGES[829]["time"]
     assert "Dia 528" in PAGES[939]["time"]
     assert "Dia 569" in PAGES_BY_NUMBER[1100]["time"]
-    assert "Dia 648" in PAGES[-1]["time"]
+    assert "Dia 692" in PAGES[-1]["time"]
     assert PAGES[178]["title"] == "A licença tem limites"
     assert PAGES[188]["title"] == "A armadilha fica"
     assert PAGES[189]["title"] == "O ferro embrulhado"
@@ -432,7 +432,9 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert client.get(reverse("reader:medieval_read", args=(1402,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(1410,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(1463,))).status_code == 200
-    assert client.get(reverse("reader:medieval_read", args=(1464,))).status_code == 404
+    assert client.get(reverse("reader:medieval_read", args=(1464,))).status_code == 200
+    assert client.get(reverse("reader:medieval_read", args=(1542,))).status_code == 200
+    assert client.get(reverse("reader:medieval_read", args=(1543,))).status_code == 404
 
 
 def test_arc_four_coda_preserves_document_chain_and_speaker_balloon_assignment(client):
@@ -454,12 +456,26 @@ def test_arc_four_coda_preserves_document_chain_and_speaker_balloon_assignment(c
 
 def test_arc_ten_opens_after_arc_nine_and_keeps_nima_in_pedra_mansa(client):
     arc = ARCS[9]
-    assert (arc["start"], arc["end"], arc["status"]) == (1403, 1463, "Em andamento")
+    assert (arc["start"], arc["end"], arc["status"]) == (1403, 1542, "Concluído")
     assert not PAGES_BY_NUMBER[1403].get("cover", False)
     assert PAGES_BY_NUMBER[1403]["cast"] == ["ilyan"]
     assert all("nima" not in PAGES_BY_NUMBER[n]["cast"] for n in range(1404, 1411))
     assert [PAGES_BY_NUMBER[n]["novel_chapter"] for n in range(1403, 1411)] == [43, 43, 43, 43, 44, 44, 45, 45]
     assert PAGES_BY_NUMBER[1409]["lines"] == []
     assert [line["speaker"] for line in PAGES_BY_NUMBER[1410]["lines"]] == ["Oru", "Ilyan"]
-    assert client.get(reverse("reader:medieval_arc10")).content.decode().count('class="twilight-page-card"') == 61
+    assert client.get(reverse("reader:medieval_arc10")).content.decode().count('class="twilight-page-card"') == 140
     assert '?v=arms-2' in client.get(reverse("reader:medieval_read", args=(1398,))).content.decode()
+
+
+def test_lettered_comic_page_preserves_transcript_without_duplicate_balloon_layer(client):
+    page = PAGES_BY_NUMBER[1464]
+    assert page["lettering_baked"]
+    assert page["panel_count"] > 1
+    assert [line["speaker"] for line in page["lines"]] == ["Nima", "Ilyan"]
+    html = client.get(reverse("reader:medieval_read", args=(1464,))).content.decode()
+    assert 'twilight-comic--lettered' in html
+    assert html.count('data-embedded="true"') == len(page["lines"])
+    for line in page["lines"]:
+        assert line["text"] in html
+    old_html = client.get(reverse("reader:medieval_read", args=(1408,))).content.decode()
+    assert 'twilight-comic--lettered' not in old_html

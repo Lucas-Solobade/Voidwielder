@@ -109,7 +109,7 @@ ARC_TEN["arc"]["chapters"].extend(
     for chapter in ARC_TEN_NEXT["chapters"] if chapter["start"] <= ARC_TEN_PUBLISHED_END
 )
 ARC_TEN["pages"].extend(page for page in ARC_TEN_NEXT["pages"] if page["number"] <= ARC_TEN_PUBLISHED_END)
-ARC_TEN["arc"]["status"] = "Em andamento"
+ARC_TEN["arc"]["status"] = "Concluído" if ARC_TEN_PUBLISHED_END == 1542 else "Em andamento"
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

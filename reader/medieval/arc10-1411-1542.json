@@ -1832,7 +1832,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 58,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT seated low bench, adult90cmNima CENTER seated feetonfootstool and Ilyan RIGHT seated, allthreeadult. Runa holds bowl of baked apples, Nima one hand takesapple otherownlap, Ilyan handsownknees. Warm village normalday.",
       "layout": "Runa LEFT seated low bench, adult90cmNima CENTER seated feetonfootstool and Ilyan RIGHT seated, allthreeadult. Runa holds bowl of baked apples, Nima one hand takesapple otherownlap, Ilyan handsownknees. Warm village normalday.",
       "lines": [
@@ -1845,7 +1845,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -1857,10 +1858,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1199,
+      "art_height": 1312,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1465,
@@ -1873,11 +1879,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 58,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Runa LEFT seated on low gardenbench and tiny adultNima RIGHT standing besidebench, Nima gently kisses BACK of Runa tattooed LEFT hand; Nima bothhands holds onlythatonehand; Runa otherRIGHThandownlap. Clear simpleanatomy, noclothingremoval.",
       "layout": "Runa LEFT seated on low gardenbench and tiny adultNima RIGHT standing besidebench, Nima gently kisses BACK of Runa tattooed LEFT hand; Nima bothhands holds onlythatonehand; Runa otherRIGHThandownlap. Clear simpleanatomy, noclothingremoval.",
       "lines": [],
-      "narration": "Runa e Nima não precisavam transformar cada gesto numa compensação."
+      "narration": "Runa e Nima não precisavam transformar cada gesto numa compensação.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1466,
@@ -1890,7 +1900,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 58,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan LEFT crouches to tinyadultNima RIGHT standing orchardpath. One half apple on nearbylowbench. Bothhandsownknees/belt. Faces warmconversational.",
       "layout": "Ilyan LEFT crouches to tinyadultNima RIGHT standing orchardpath. One half apple on nearbylowbench. Bothhandsownknees/belt. Faces warmconversational.",
       "lines": [
@@ -1903,7 +1913,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -1915,10 +1926,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1467,
@@ -1931,11 +1947,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 58,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan LEFT sits lowworkstool and adultNima RIGHT stands sameground; faces meet in gentleclosedmouthkiss. Nima right hand lightlyholdsvestlapel otherhandatownbelt, Ilyan handsrestownknees. Key rests table, fullyclothed.",
       "layout": "Ilyan LEFT sits lowworkstool and adultNima RIGHT stands sameground; faces meet in gentleclosedmouthkiss. Nima right hand lightlyholdsvestlapel otherhandatownbelt, Ilyan handsrestownknees. Key rests table, fullyclothed.",
       "lines": [],
-      "narration": "A chave ficou sobre a bancada por mais alguns instantes."
+      "narration": "A chave ficou sobre a bancada por mais alguns instantes.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1468,
@@ -1949,7 +1969,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 58,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Three ADULTS fully clothed seated on wide guestroombededge: Runa LEFT, adult90cmNima CENTER smallbodynaturalscale feetonstool, Ilyan RIGHT. Simple gentle closeness, hands remain on own laps, no entangled limbs. Folded shawl and goggles on sidetable, ordinarylamp. Warm privateconversation not sexualact.",
       "layout": "Three ADULTS fully clothed seated on wide guestroombededge: Runa LEFT, adult90cmNima CENTER smallbodynaturalscale feetonstool, Ilyan RIGHT. Simple gentle closeness, hands remain on own laps, no entangled limbs. Folded shawl and goggles on sidetable, ordinarylamp. Warm privateconversation not sexualact.",
       "lines": [
@@ -1962,7 +1982,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -1974,11 +1995,16 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
       ],
-      "narration": "Conversaram sem pressa. O que veio depois da luz apagada pertenceu aos três."
+      "narration": "Conversaram sem pressa. O que veio depois da luz apagada pertenceu aos três.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1469,
@@ -1992,11 +2018,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 59,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Quiet nonsexual morning conversation between THREE ADULTS resting side-by-side propped against pillows in wide bed: Runa LEFT, adult Nima CENTER (26yo mature adult face copper curly bob, tiny90cm gnome body SHORTER, head on raised pillow at same conversation level), Ilyan RIGHT (18). Opaque cream blanket covers all bodies from shoulders DOWN fully; ONLY faces, necks and shoulders visible, no breasts/chest/genitals, NO sexual action. All hands remain UNDER blanket, no extra limbs. Runa longstraightblackhairbluntfringe, Ilyanlongwavyblackhairclean-shaven, Nimaadultdistinctface. Warm morningwindow, clothes folded chairs, ordinaryroom.",
       "layout": "Quiet nonsexual morning conversation between THREE ADULTS resting side-by-side propped against pillows in wide bed: Runa LEFT, adult Nima CENTER (26yo mature adult face copper curly bob, tiny90cm gnome body SHORTER, head on raised pillow at same conversation level), Ilyan RIGHT (18). Opaque cream blanket covers all bodies from shoulders DOWN fully; ONLY faces, necks and shoulders visible, no breasts/chest/genitals, NO sexual action. All hands remain UNDER blanket, no extra limbs. Runa longstraightblackhairbluntfringe, Ilyanlongwavyblackhairclean-shaven, Nimaadultdistinctface. Warm morningwindow, clothes folded chairs, ordinaryroom.",
       "lines": [],
-      "narration": "A manhã encontrou os três sob o mesmo lençol."
+      "narration": "A manhã encontrou os três sob o mesmo lençol.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 1
     },
     {
       "number": 1470,
@@ -2009,7 +2039,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 59,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Nonsexual close two-adult morning shot Runa LEFT and Ilyan RIGHT propped on pillows, cream opaque blanket fullycoversthem fromshouldersdown, onlyheadsandshouldersvisible, hands UNDER blanket. Separate natural bodies, soft morning. Nima explicitly outside framing only.",
       "layout": "Nonsexual close two-adult morning shot Runa LEFT and Ilyan RIGHT propped on pillows, cream opaque blanket fullycoversthem fromshouldersdown, onlyheadsandshouldersvisible, hands UNDER blanket. Separate natural bodies, soft morning. Nima explicitly outside framing only.",
       "lines": [
@@ -2022,7 +2052,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2034,10 +2065,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1471,
@@ -2049,7 +2085,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 59,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Nonsexual closeup adult26yo gnome Nima alone proppedagainstpillow, mature freckled face coppercurlybobpointedears, creamblanketcoverstoSHOULDERS fully, onlyheadneckshouldersvisible, handshiddenbelowblanket. Playful amusedexpression. No childlikeproportions.",
       "layout": "Nonsexual closeup adult26yo gnome Nima alone proppedagainstpillow, mature freckled face coppercurlybobpointedears, creamblanketcoverstoSHOULDERS fully, onlyheadneckshouldersvisible, handshiddenbelowblanket. Playful amusedexpression. No childlikeproportions.",
       "lines": [
@@ -2062,10 +2098,15 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1472,
@@ -2078,7 +2119,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 59,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Nonsexual morning conversation Runa LEFT and adultNima RIGHT at pillows, creamblanket coversfullyfromshouldersdown, onlyfacesandshouldersvisible, allhandshidden. Nima naturallysmalleradultheadandbody, supported raisedpillow. Warmseriousaffection.",
       "layout": "Nonsexual morning conversation Runa LEFT and adultNima RIGHT at pillows, creamblanket coversfullyfromshouldersdown, onlyfacesandshouldersvisible, allhandshidden. Nima naturallysmalleradultheadandbody, supported raisedpillow. Warmseriousaffection.",
       "lines": [
@@ -2091,7 +2132,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2103,10 +2145,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1473,
@@ -2119,7 +2166,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 59,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Nima LEFT fullydressed canonicaltealvestcreamshirtgogglescap on highstablefootrest at kitchen table; Ilyan RIGHT fullydressed opposite, passes breadbasket withONEhand hisotherhandowncup. Casual affectionate breakfast, no bedroom.",
       "layout": "Nima LEFT fullydressed canonicaltealvestcreamshirtgogglescap on highstablefootrest at kitchen table; Ilyan RIGHT fullydressed opposite, passes breadbasket withONEhand hisotherhandowncup. Casual affectionate breakfast, no bedroom.",
       "lines": [
@@ -2132,7 +2179,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2144,11 +2192,16 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
       ],
-      "narration": "O dia voltou a pedir coisas pequenas e inteiras."
+      "narration": "O dia voltou a pedir coisas pequenas e inteiras.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1474,
@@ -2161,7 +2214,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 60,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Radesa LEFT human52 darkchinlengthbob stiffleftthumb workclothes and harnessledger, Eda RIGHT seated facingher at stableboardtable near warehouse open door. Bothhandsonowntableedge, ledgercenter.",
       "layout": "Radesa LEFT human52 darkchinlengthbob stiffleftthumb workclothes and harnessledger, Eda RIGHT seated facingher at stableboardtable near warehouse open door. Bothhandsonowntableedge, ledgercenter.",
       "lines": [
@@ -2174,7 +2227,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2186,10 +2240,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1475,
@@ -2202,7 +2261,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 60,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Radesa LEFT and Ilyan RIGHT seated across warehouse table with old receipt, Radesa points ONE rightfinger tolongboxsketch unlettered, leftthumbstiffnearownlap. Ilyan handsownknees disappointed.",
       "layout": "Radesa LEFT and Ilyan RIGHT seated across warehouse table with old receipt, Radesa points ONE rightfinger tolongboxsketch unlettered, leftthumbstiffnearownlap. Ilyan handsownknees disappointed.",
       "lines": [
@@ -2215,10 +2274,15 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1476,
@@ -2231,7 +2295,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 60,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Radesa LEFT Eda RIGHT inspect receipt underdoorlight, Eda onehandholdingnotebookotherpencil, Radesa hand atownside. Ordinary cargo shelves.",
       "layout": "Radesa LEFT Eda RIGHT inspect receipt underdoorlight, Eda onehandholdingnotebookotherpencil, Radesa hand atownside. Ordinary cargo shelves.",
       "lines": [
@@ -2244,7 +2308,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2256,10 +2321,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1477,
@@ -2272,7 +2342,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 60,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Radesa LEFT sits firmexpression, Ilyan RIGHT standing handsopenlowatownsidesashamed at warehouse doorway. Plain receipt tabletop no Mira apparition.",
       "layout": "Radesa LEFT sits firmexpression, Ilyan RIGHT standing handsopenlowatownsidesashamed at warehouse doorway. Plain receipt tabletop no Mira apparition.",
       "lines": [
@@ -2285,7 +2355,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2297,10 +2368,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1478,
@@ -2313,11 +2389,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 60,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Eda LEFT seated seals ordinary letter, tiny Nima RIGHT standsplatform attaching pin sketch tocopy, dryceramicmodelinbox. Singleletterandpencil, no magicalpost.",
       "layout": "Eda LEFT seated seals ordinary letter, tiny Nima RIGHT standsplatform attaching pin sketch tocopy, dryceramicmodelinbox. Singleletterandpencil, no magicalpost.",
       "lines": [],
-      "narration": "A consulta à estação seguiu pela posta comum. O nome de Mara ainda era uma pessoa a procurar."
+      "narration": "A consulta à estação seguiu pela posta comum. O nome de Mara ainda era uma pessoa a procurar.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1479,
@@ -2330,7 +2410,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 61,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Bram LEFT Ilyan RIGHT at forgeworkbench, son usesONEfile on woodenhandle heldclamp securely, fatherhandsonowntableedgewatching. Son'sbothhandsonefileonehandle supported.",
       "layout": "Bram LEFT Ilyan RIGHT at forgeworkbench, son usesONEfile on woodenhandle heldclamp securely, fatherhandsonowntableedgewatching. Son'sbothhandsonefileonehandle supported.",
       "lines": [
@@ -2343,7 +2423,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2355,10 +2436,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1480,
@@ -2371,7 +2457,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 61,
-      "format": "portrait",
+      "format": "comic",
       "scene": "FatherLEFT sonRIGHT faceeachother bybench, smallcopperbuckle ontable. Bothhands own sides, serious tentative reconnection.",
       "layout": "FatherLEFT sonRIGHT faceeachother bybench, smallcopperbuckle ontable. Bothhands own sides, serious tentative reconnection.",
       "lines": [
@@ -2384,7 +2470,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2396,10 +2483,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1481,
@@ -2412,11 +2504,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 61,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Bram LEFT Ilyan RIGHT sharing respectful father-son hug, EACH two arms, onehandonother'sback each otherarmsnaturallyvisible, simplemediumcloseupperbodies no crowd; toolsbenchbehind.",
       "layout": "Bram LEFT Ilyan RIGHT sharing respectful father-son hug, EACH two arms, onehandonother'sback each otherarmsnaturallyvisible, simplemediumcloseupperbodies no crowd; toolsbenchbehind.",
       "lines": [],
-      "narration": "O abraço não encerrou a conversa. A promessa teria de ser cumprida depois."
+      "narration": "O abraço não encerrou a conversa. A promessa teria de ser cumprida depois.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1482,
@@ -2429,7 +2525,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 61,
-      "format": "landscape",
+      "format": "comic",
       "scene": "AdulttinyNima LEFT stands besidepackedcase, Runa RIGHT kneels atwagonstep tosaygoodbye, handsownknees/belt, onegentlebriefclosedmouthkiss. Villagepumpfarbackground noextrapeople.",
       "layout": "AdulttinyNima LEFT stands besidepackedcase, Runa RIGHT kneels atwagonstep tosaygoodbye, handsownknees/belt, onegentlebriefclosedmouthkiss. Villagepumpfarbackground noextrapeople.",
       "lines": [
@@ -2442,7 +2538,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2454,10 +2551,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1483,
@@ -2470,11 +2572,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 61,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Ilyan LEFT Runa RIGHT carryingowntravelbags walking through familiar moon-banner schoolgate, fullbody sameground. No Nima. Lateafternoon exhausted yetcalm.",
       "layout": "Ilyan LEFT Runa RIGHT carryingowntravelbags walking through familiar moon-banner schoolgate, fullbody sameground. No Nima. Lateafternoon exhausted yetcalm.",
       "lines": [],
-      "narration": "Voltaram com a fivela, as amostras e uma conversa que ainda precisava continuar."
+      "narration": "Voltaram com a fivela, as amostras e uma conversa que ainda precisava continuar.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1484,
@@ -2487,7 +2593,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 62,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Tovo LEFT seated rightarmrestingfullyinRIGHTsling, freeLEFThand holdsnewwoodenhandle EMPTY, Ilyan RIGHT standsnexttochairafterdeliveringobject handsownbelt. No weights.",
       "layout": "Tovo LEFT seated rightarmrestingfullyinRIGHTsling, freeLEFThand holdsnewwoodenhandle EMPTY, Ilyan RIGHT standsnexttochairafterdeliveringobject handsownbelt. No weights.",
       "lines": [
@@ -2500,7 +2606,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2512,10 +2619,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1485,
@@ -2528,11 +2640,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 62,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT stands beside Tovo RIGHT seated; his RIGHTinjuredarm rests on single supportivecloth on lap, LEFTfreehand ownleftthigh. Runa moves small existingwater stream frombowl tocleancloth overRIGHTshoulder usingLEFTtattooedhand, RIGHThand atownwaist. No extrahands or instanthealingglow.",
       "layout": "Runa LEFT stands beside Tovo RIGHT seated; his RIGHTinjuredarm rests on single supportivecloth on lap, LEFTfreehand ownleftthigh. Runa moves small existingwater stream frombowl tocleancloth overRIGHTshoulder usingLEFTtattooedhand, RIGHThand atownwaist. No extrahands or instanthealingglow.",
       "lines": [],
-      "narration": "Com supervisão, Runa manteve a temperatura do tecido e retirou a água na hora indicada."
+      "narration": "Com supervisão, Runa manteve a temperatura do tecido e retirou a água na hora indicada.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1486,
@@ -2545,7 +2661,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 62,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Runa LEFT and curandeira RIGHT seated bywashbowl, handsownlaps. Cleanwhiteclothlowerforeground. Calmlearning conversation.",
       "layout": "Runa LEFT and curandeira RIGHT seated bywashbowl, handsownlaps. Cleanwhiteclothlowerforeground. Calmlearning conversation.",
       "lines": [
@@ -2558,7 +2674,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2570,10 +2687,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1487,
@@ -2586,7 +2708,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 62,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Ilyan LEFT and Runa RIGHT in sunlitinfirmarycorridor; heholdsclosedbagcontainingbuckle, herhandsfoldedlowatownwaist. Intimatequietconversation fullyclothed.",
       "layout": "Ilyan LEFT and Runa RIGHT in sunlitinfirmarycorridor; heholdsclosedbagcontainingbuckle, herhandsfoldedlowatownwaist. Intimatequietconversation fullyclothed.",
       "lines": [
@@ -2599,7 +2721,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2611,10 +2734,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1488,
@@ -2626,11 +2754,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 62,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Tovoalone standingrightarmfullyprotectedinsinglecreamSling, LEFTfreehand usesnewhandle tohold EMPTYlightbasket atleftsidewithoutleaning. Proud quietsmile andclear2arms2legs. Kitchencorridor.",
       "layout": "Tovoalone standingrightarmfullyprotectedinsinglecreamSling, LEFTfreehand usesnewhandle tohold EMPTYlightbasket atleftsidewithoutleaning. Proud quietsmile andclear2arms2legs. Kitchencorridor.",
       "lines": [],
-      "narration": "A alça funcionou. A lesão permaneceu, e ele sabia explicar a diferença."
+      "narration": "A alça funcionou. A lesão permaneceu, e ele sabia explicar a diferença.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1489,
@@ -2643,7 +2775,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 63,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Caio LEFT Sere RIGHT at schoolgate, Sere placesownbow in emptywallrack withonehandotheronbelt, Caio holdsclosednotebookatownside. Both smiling softly.",
       "layout": "Caio LEFT Sere RIGHT at schoolgate, Sere placesownbow in emptywallrack withonehandotheronbelt, Caio holdsclosednotebookatownside. Both smiling softly.",
       "lines": [
@@ -2656,7 +2788,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2668,10 +2801,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1490,
@@ -2684,7 +2822,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 63,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Caio LEFT Sere RIGHT walkingfairlane with colorfulclothstalls but NOdistinctbystanders, awningcords tied, both carrysmallfoodbowls. Caiohandrelaxednotcasting.",
       "layout": "Caio LEFT Sere RIGHT walkingfairlane with colorfulclothstalls but NOdistinctbystanders, awningcords tied, both carrysmallfoodbowls. Caiohandrelaxednotcasting.",
       "lines": [
@@ -2697,7 +2835,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2709,10 +2848,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1491,
@@ -2725,7 +2869,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 63,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Caio LEFT Sere RIGHT seatedonbridgewall withbreadbowls heldlowontheirlaps. No weapons, warmlight. Sere thoughtfulandvulnerable.",
       "layout": "Caio LEFT Sere RIGHT seatedonbridgewall withbreadbowls heldlowontheirlaps. No weapons, warmlight. Sere thoughtfulandvulnerable.",
       "lines": [
@@ -2738,7 +2882,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2750,10 +2895,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1492,
@@ -2766,7 +2916,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 63,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Caio LEFT and Sere RIGHT standbybench afterdoorbang; shetenseonehandonownlap seated, hecrouchesnotgrabbingher. No visiblemonster.",
       "layout": "Caio LEFT and Sere RIGHT standbybench afterdoorbang; shetenseonehandonownlap seated, hecrouchesnotgrabbingher. No visiblemonster.",
       "lines": [
@@ -2779,7 +2929,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2791,10 +2942,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1493,
@@ -2807,11 +2963,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 63,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Caio LEFT Sere RIGHT gentle closedmouthkiss nearbridge, SereLEFT hand touchesCaiocheekotheronownbelt, Caiobothhandsrelaxedownwaist. Clear2armseach no overlappinghands, no bow.",
       "layout": "Caio LEFT Sere RIGHT gentle closedmouthkiss nearbridge, SereLEFT hand touchesCaiocheekotheronownbelt, Caiobothhandsrelaxedownwaist. Clear2armseach no overlappinghands, no bow.",
       "lines": [],
-      "narration": "O beijo não era uma nota de exercício. Era uma escolha dos dois."
+      "narration": "O beijo não era uma nota de exercício. Era uma escolha dos dois.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1494,
@@ -2824,7 +2984,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 64,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Avel LEFT Liria RIGHT standbesideindependentmechanicalwaterchannels, Liriachainnotebook, stonewedgesonbench. Supervised serious notfriendly.",
       "layout": "Avel LEFT Liria RIGHT standbesideindependentmechanicalwaterchannels, Liriachainnotebook, stonewedgesonbench. Supervised serious notfriendly.",
       "lines": [
@@ -2837,7 +2997,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2849,10 +3010,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1495,
@@ -2864,11 +3030,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 64,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Liria alone at stonebench haltsmagic, handpullsordinarywoodenwedge beneathsmallstone support, otherhand restsownbelt. EXISTINGstone tankreceivesfallenedge safely, no newwallcreated. Angryembarrassedexpression.",
       "layout": "Liria alone at stonebench haltsmagic, handpullsordinarywoodenwedge beneathsmallstone support, otherhand restsownbelt. EXISTINGstone tankreceivesfallenedge safely, no newwallcreated. Angryembarrassedexpression.",
       "lines": [],
-      "narration": "Líria interrompeu. O erro e a correção ficaram visíveis."
+      "narration": "Líria interrompeu. O erro e a correção ficaram visíveis.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1496,
@@ -2881,7 +3051,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 64,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Runa LEFT finishesmeasuringwater bowl usingONEtattooedLEFThandgentlegesture, RIGHThandonbench, curandeira RIGHTobserves handsownwaist. Clearseparatepositions nointerlacedlimbs.",
       "layout": "Runa LEFT finishesmeasuringwater bowl usingONEtattooedLEFThandgentlegesture, RIGHThandonbench, curandeira RIGHTobserves handsownwaist. Clearseparatepositions nointerlacedlimbs.",
       "lines": [
@@ -2894,7 +3064,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2906,10 +3077,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1497,
@@ -2922,7 +3098,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 64,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT retreatingonestep intoopenhallway, Liria RIGHT advancingonestep gloweringhandsatownsides. NOcontact noassault, visibledoorbehindRuna open.",
       "layout": "Runa LEFT retreatingonestep intoopenhallway, Liria RIGHT advancingonestep gloweringhandsatownsides. NOcontact noassault, visibledoorbehindRuna open.",
       "lines": [
@@ -2935,7 +3111,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -2947,10 +3124,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1498,
@@ -2963,11 +3145,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 64,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Runa LEFT seatedcorrectsONEwordinrecordwithpencil, Ordelia RIGHT seatedwatching keysatbeltwinegownsinglegraybraid, paperslow. Runaexpressionfirm notsmiling.",
       "layout": "Runa LEFT seatedcorrectsONEwordinrecordwithpencil, Ordelia RIGHT seatedwatching keysatbeltwinegownsinglegraybraid, paperslow. Runaexpressionfirm notsmiling.",
       "lines": [],
-      "narration": "Runa assinou o que reconhecia. O registro não apagava a violência antiga que a escola desconhecia."
+      "narration": "Runa assinou o que reconhecia. O registro não apagava a violência antiga que a escola desconhecia.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1499,
@@ -2980,7 +3166,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 65,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Avel LEFT seated Oru RIGHT standinggnomesamefloor at lowarchivedesk, letteropened center and toolmap below. Serious planning no extrapeople.",
       "layout": "Avel LEFT seated Oru RIGHT standinggnomesamefloor at lowarchivedesk, letteropened center and toolmap below. Serious planning no extrapeople.",
       "lines": [
@@ -2993,7 +3179,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3005,10 +3192,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1500,
@@ -3021,7 +3213,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 65,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Eda LEFT Runa RIGHT at deskwith teamtaskdiagram unlettered, Eda pencilinonehand otherhandflatpaper,Runa handsownlap. Separate travelcases below.",
       "layout": "Eda LEFT Runa RIGHT at deskwith teamtaskdiagram unlettered, Eda pencilinonehand otherhandflatpaper,Runa handsownlap. Separate travelcases below.",
       "lines": [
@@ -3034,7 +3226,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3046,10 +3239,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1501,
@@ -3062,7 +3260,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 65,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Nima LEFT on securelowplatform Bram RIGHT seatedbesideworktable, Nima readsordinarycontractholdingonepaperwithbothhands, Bramhandsonownknees. No magicalspark.",
       "layout": "Nima LEFT on securelowplatform Bram RIGHT seatedbesideworktable, Nima readsordinarycontractholdingonepaperwithbothhands, Bramhandsonownknees. No magicalspark.",
       "lines": [
@@ -3075,7 +3273,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3087,10 +3286,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1502,
@@ -3102,11 +3306,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 65,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Nimaalone kneelsbesidesmallopensturdytoolcase packingONEpairtongs, otherhand holdswoodencalço, gogglescapcanonical. Drawingskeptseparatefromtools. Villagewindow.",
       "layout": "Nimaalone kneelsbesidesmallopensturdytoolcase packingONEpairtongs, otherhand holdswoodencalço, gogglescapcanonical. Drawingskeptseparatefromtools. Villagewindow.",
       "lines": [],
-      "narration": "Aceitou as condições. A via de resposta partiu pela posta; a outra seguiu com ela."
+      "narration": "Aceitou as condições. A via de resposta partiu pela posta; a outra seguiu com ela.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1503,
@@ -3119,7 +3327,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 66,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Ilyan LEFT seatedlowstool Oru RIGHT standing100cm samefloor, tinyflameaboverightpalm nearwick abovebronzesandbasin, lefthandownthigh. Facesbelow40percentandhandbelow60. Oru handsbehindownback.",
       "layout": "Ilyan LEFT seatedlowstool Oru RIGHT standing100cm samefloor, tinyflameaboverightpalm nearwick abovebronzesandbasin, lefthandownthigh. Facesbelow40percentandhandbelow60. Oru handsbehindownback.",
       "lines": [
@@ -3132,7 +3340,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3144,10 +3353,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1504,
@@ -3159,11 +3373,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 66,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyanalone medium seated atsamepracticebasin, palmRIGHTraisedempty flameEXTINGUISHED, LEFT hand ownthigh. Reliefandsurprise face, hourglassnotyetempty.",
       "layout": "Ilyanalone medium seated atsamepracticebasin, palmRIGHTraisedempty flameEXTINGUISHED, LEFT hand ownthigh. Reliefandsurprise face, hourglassnotyetempty.",
       "lines": [],
-      "narration": "Retirou o impulso. Sentiu o ar, os dedos e os pés aquecidos dentro das botas."
+      "narration": "Retirou o impulso. Sentiu o ar, os dedos e os pés aquecidos dentro das botas.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1505,
@@ -3176,7 +3394,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 66,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Tovo LEFT seatedsupportedlowstool, RIGHTarmprotectedinsinglesling, LEFThand alonepresseslongwoodenlever withfulcrumto shift SMALLstoneblock. Beren RIGHT bracesleverfarendwithbothhands, separatecleararms, LEFTkneebracevisible. Feetfirmground,noloadrightshoulder.",
       "layout": "Tovo LEFT seatedsupportedlowstool, RIGHTarmprotectedinsinglesling, LEFThand alonepresseslongwoodenlever withfulcrumto shift SMALLstoneblock. Beren RIGHT bracesleverfarendwithbothhands, separatecleararms, LEFTkneebracevisible. Feetfirmground,noloadrightshoulder.",
       "lines": [
@@ -3189,7 +3407,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3201,10 +3420,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1506,
@@ -3217,7 +3441,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 66,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan LEFT Tovo RIGHT seatedapartbybasin, Ilyanhandsonownknees Tovorightslingleftfreehandbread. Sharedgenuinefriendssmile afterrest.",
       "layout": "Ilyan LEFT Tovo RIGHT seatedapartbybasin, Ilyanhandsonownknees Tovorightslingleftfreehandbread. Sharedgenuinefriendssmile afterrest.",
       "lines": [
@@ -3230,7 +3454,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3242,10 +3467,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1507,
@@ -3257,11 +3487,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 67,
-      "format": "landscape",
+      "format": "comic",
       "scene": "TinyadultNimaalone seatedinordinarysupplierwagon withclosedtoolcase securedbystrap, canonicaltravelcapeovertealvestcreamshirt, capgoggles. Rollinghillsordinaryroad noflyingtransport.",
       "layout": "TinyadultNimaalone seatedinordinarysupplierwagon withclosedtoolcase securedbystrap, canonicaltravelcapeovertealvestcreamshirt, capgoggles. Rollinghillsordinaryroad noflyingtransport.",
       "lines": [],
-      "narration": "Nima partiu por uma rota comum. Esperou travessias e chegou ao posto no dia 680."
+      "narration": "Nima partiu por uma rota comum. Esperou travessias e chegou ao posto no dia 680.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1508,
@@ -3274,11 +3508,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 67,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Ilyan LEFT and Tovo RIGHT walkingoutschoolgatecarryingLIGHTtravelbags atwaist. Tovo rightshoulderprotected strapnotloadingit, slingforcrowdedtravel, LEFThandcarriessmallbreadbagonly. No hugeweapon. Fullbodies2legs.",
       "layout": "Ilyan LEFT and Tovo RIGHT walkingoutschoolgatecarryingLIGHTtravelbags atwaist. Tovo rightshoulderprotected strapnotloadingit, slingforcrowdedtravel, LEFThandcarriessmallbreadbagonly. No hugeweapon. Fullbodies2legs.",
       "lines": [],
-      "narration": "A equipe da Casa saiu cinco dias depois. As amostras ficaram separadas das provisões quentes."
+      "narration": "A equipe da Casa saiu cinco dias depois. As amostras ficaram separadas das provisões quentes.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1509,
@@ -3291,7 +3529,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 67,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Caio LEFT directs existing shortairflowawayfromcookpotwithONEopenrighthandleftonownbelt, Sere RIGHT fastens tarpCORDtopeg usingbothhandslow, separateanatomy. Mountaincampwarmordinaryfire.",
       "layout": "Caio LEFT directs existing shortairflowawayfromcookpotwithONEopenrighthandleftonownbelt, Sere RIGHT fastens tarpCORDtopeg usingbothhandslow, separateanatomy. Mountaincampwarmordinaryfire.",
       "lines": [
@@ -3304,7 +3542,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3316,10 +3555,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1510,
@@ -3333,7 +3577,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 67,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT kneels adultNima CENTER standing90cmwithclosedtoolcase atbelt; Ilyan RIGHT crouches. All3fullyclothed, friendlyquietreunionwithhandsownknees/belt, noentangledhug. Stonepost mountainsbehind.",
       "layout": "Runa LEFT kneels adultNima CENTER standing90cmwithclosedtoolcase atbelt; Ilyan RIGHT crouches. All3fullyclothed, friendlyquietreunionwithhandsownknees/belt, noentangledhug. Stonepost mountainsbehind.",
       "lines": [
@@ -3346,7 +3590,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3358,10 +3603,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1511,
@@ -3374,11 +3624,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 68,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT standingonrockstep slightlyaboveNima RIGHT adult90cm who climbsnextstep, Runa offersONE RIGHT hand andNima takeswithONEleft, otherhandsatbelts/rope. Full bodies andcontinuousstonepathclearlysupported nofloating nohorizontalstretcher.",
       "layout": "Runa LEFT standingonrockstep slightlyaboveNima RIGHT adult90cm who climbsnextstep, Runa offersONE RIGHT hand andNima takeswithONEleft, otherhandsatbelts/rope. Full bodies andcontinuousstonepathclearlysupported nofloating nohorizontalstretcher.",
       "lines": [],
-      "narration": "Nima aceitou apoio para o degrau, sem abrir mão de caminhar."
+      "narration": "Nima aceitou apoio para o degrau, sem abrir mão de caminhar.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1512,
@@ -3388,11 +3642,15 @@
       "cast": [],
       "novel_volume": 2,
       "novel_chapter": 68,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Wide environmental establishing view ONLY, nopeople. MountainstationpatiocentralwithONEcrackedbronzeBell, northobservatoryabove, eastglassgardenimageRIGHT, weststorehouseimageLEFT, dischargechannelssouthforegroundrunintodistantemptyisolatedstonetank. Continuouspaths andstairs, frozenpatches notsnowblanketcover.",
       "layout": "Wide environmental establishing view ONLY, nopeople. MountainstationpatiocentralwithONEcrackedbronzeBell, northobservatoryabove, eastglassgardenimageRIGHT, weststorehouseimageLEFT, dischargechannelssouthforegroundrunintodistantemptyisolatedstonetank. Continuouspaths andstairs, frozenpatches notsnowblanketcover.",
       "lines": [],
-      "narration": "Observatório ao norte; jardim a leste; armazenamento a oeste. Ao sul, a descarga ficava longe das casas."
+      "narration": "Observatório ao norte; jardim a leste; armazenamento a oeste. Ao sul, a descarga ficava longe das casas.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 1
     },
     {
       "number": 1513,
@@ -3405,7 +3663,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 68,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Mara LEFT elderlyhuman68weatheredbrownskinshortblackgreybraidpatchedwoolcoatrightthumbscar, Ilyan RIGHT standingatobservatorydoor. Bothhandsatownsides, tensehopefulIlyan cautiousMara.",
       "layout": "Mara LEFT elderlyhuman68weatheredbrownskinshortblackgreybraidpatchedwoolcoatrightthumbscar, Ilyan RIGHT standingatobservatorydoor. Bothhandsatownsides, tensehopefulIlyan cautiousMara.",
       "lines": [
@@ -3418,7 +3676,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3430,10 +3689,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1514,
@@ -3446,7 +3710,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 68,
-      "format": "landscape",
+      "format": "comic",
       "scene": "TinyadultNima LEFT standingonsecureplatform reachONEcrackedbronzeBell withwoodenwand ONEhand, otherhandownbelt. Mara RIGHT standsonsamegroundwatching handsowncoat. Bellmountedsturdyironframe.",
       "layout": "TinyadultNima LEFT standingonsecureplatform reachONEcrackedbronzeBell withwoodenwand ONEhand, otherhandownbelt. Mara RIGHT standsonsamegroundwatching handsowncoat. Bellmountedsturdyironframe.",
       "lines": [
@@ -3459,7 +3723,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3471,10 +3736,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1515,
@@ -3487,7 +3757,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 69,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT Mara RIGHT standBEHINDcharcoalsafetyline justinsideglassgarden, frozenpaleherbsinbedsbeyondline, outsidesunlitstonewithmeltingfrost. Handskeptawayplants.",
       "layout": "Runa LEFT Mara RIGHT standBEHINDcharcoalsafetyline justinsideglassgarden, frozenpaleherbsinbedsbeyondline, outsidesunlitstonewithmeltingfrost. Handskeptawayplants.",
       "lines": [
@@ -3500,7 +3770,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3512,10 +3783,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1516,
@@ -3528,7 +3804,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 69,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Nima LEFT onstableplatform Oru RIGHT standinggnome100cm atlowbench, overlaytwoparchmentplans showingaddedchannel unlettered. Bothholdonepaperedgeeachwithnormalhands noextrafingers. Coldwestroomdry.",
       "layout": "Nima LEFT onstableplatform Oru RIGHT standinggnome100cm atlowbench, overlaytwoparchmentplans showingaddedchannel unlettered. Bothholdonepaperedgeeachwithnormalhands noextrafingers. Coldwestroomdry.",
       "lines": [
@@ -3541,7 +3817,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3553,10 +3830,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1517,
@@ -3569,7 +3851,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 69,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT Liria RIGHT standingfarapartbyeastgardenstonebrace, bothhandsonownbeltsnotcasting. Existingstonepillarandclearreturnchannelbetween, icyplantsbehind. Coldhostility.",
       "layout": "Runa LEFT Liria RIGHT standingfarapartbyeastgardenstonebrace, bothhandsonownbeltsnotcasting. Existingstonepillarandclearreturnchannelbetween, icyplantsbehind. Coldhostility.",
       "lines": [
@@ -3582,7 +3864,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3594,10 +3877,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1518,
@@ -3610,7 +3898,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 69,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan LEFT Eda RIGHT sit atobservatorytable comparingTWOoldletterpages unlettered, hisbothhandstableedgesheronehandpencilotherpaper. Windowshowsdarkfrozengardenoutside, noMirafigure.",
       "layout": "Ilyan LEFT Eda RIGHT sit atobservatorytable comparingTWOoldletterpages unlettered, hisbothhandstableedgesheronehandpencilotherpaper. Windowshowsdarkfrozengardenoutside, noMirafigure.",
       "lines": [
@@ -3623,7 +3911,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3635,10 +3924,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1519,
@@ -3651,11 +3945,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 70,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Nima LEFT and Oru RIGHT standonsecureplatformatnarrow observationport, THICK CLOSED glass remainsinplace, Nima holds removedOUTERcover lowinonehandotheronbelt, Oru holdsordinaryshieldedlamp wellawayglass. No openingtointerior.",
       "layout": "Nima LEFT and Oru RIGHT standonsecureplatformatnarrow observationport, THICK CLOSED glass remainsinplace, Nima holds removedOUTERcover lowinonehandotheronbelt, Oru holdsordinaryshieldedlamp wellawayglass. No openingtointerior.",
       "lines": [],
-      "narration": "Retiraram apenas a tampa externa. O vidro espesso continuou entre eles e a sala."
+      "narration": "Retiraram apenas a tampa externa. O vidro espesso continuou entre eles e a sala.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1520,
@@ -3665,11 +3963,15 @@
       "cast": [],
       "novel_volume": 2,
       "novel_chapter": 70,
-      "format": "landscape",
+      "format": "comic",
       "scene": "ONE single canonical Faminto creature alone FULLBODY behindthickfrostedobservationglass, dimstonecorridor brokenemptythermalvessels, quadruped exactly TWO longfrontlimbs and TWO benthindlimbs, longlowbody, frostpaleplates darkindigomembranes, roundedCLOSEDbellheadNOeyesNObeakNOhumanface, ventralgills notgorymouth, allfourfeetgrounded. Creature reference is identity; do not invent humanoid.",
       "layout": "ONE single canonical Faminto creature alone FULLBODY behindthickfrostedobservationglass, dimstonecorridor brokenemptythermalvessels, quadruped exactly TWO longfrontlimbs and TWO benthindlimbs, longlowbody, frostpaleplates darkindigomembranes, roundedCLOSEDbellheadNOeyesNObeakNOhumanface, ventralgills notgorymouth, allfourfeetgrounded. Creature reference is identity; do not invent humanoid.",
       "lines": [],
-      "narration": "Não disse palavra. Moveu-se em direção ao calor da lamparina."
+      "narration": "Não disse palavra. Moveu-se em direção ao calor da lamparina.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 1
     },
     {
       "number": 1521,
@@ -3682,7 +3984,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 70,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Ilyan LEFT seatedbyobservationbench tinybriefsparkaboveRIGHTpalm, LEFT handownthigh. Oru RIGHTstandinggnomesamesground raisesONEhandSTOP atownchestotheratbelt, distanceclearseparatearms. Glassportbehindfogged no creaturevisible.",
       "layout": "Ilyan LEFT seatedbyobservationbench tinybriefsparkaboveRIGHTpalm, LEFT handownthigh. Oru RIGHTstandinggnomesamesground raisesONEhandSTOP atownchestotheratbelt, distanceclearseparatearms. Glassportbehindfogged no creaturevisible.",
       "lines": [
@@ -3695,7 +3997,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3707,10 +4010,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1522,
@@ -3723,7 +4031,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 70,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan LEFT seatedlowstool adultNima RIGHT standingbesideownworktable, shehandsownbelt hehandsonownknees, candleordinaryfaraway. Serious vulnerable.",
       "layout": "Ilyan LEFT seatedlowstool adultNima RIGHT standingbesideownworktable, shehandsownbelt hehandsonownknees, candleordinaryfaraway. Serious vulnerable.",
       "lines": [
@@ -3736,7 +4044,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3748,10 +4057,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1523,
@@ -3764,11 +4078,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 71,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Mara LEFT Eda RIGHT seatedatoldarchiveworktable, openhistoricledgerswithunreadablescribbles and diagramofgarden thermalreservoir. Maraonefingerpaper Edaonepencil otherhandflat. No ghosts.",
       "layout": "Mara LEFT Eda RIGHT seatedatoldarchiveworktable, openhistoricledgerswithunreadablescribbles and diagramofgarden thermalreservoir. Maraonefingerpaper Edaonepencil otherhandflat. No ghosts.",
       "lines": [],
-      "narration": "No começo, guardavam calor do sol e das forjas. Depois aumentaram a carga e deixaram de registrar as perdas."
+      "narration": "No começo, guardavam calor do sol e das forjas. Depois aumentaram a carga e deixaram de registrar as perdas.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1524,
@@ -3781,7 +4099,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 71,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Oru LEFT onsecurelowplatform and Ilyan RIGHT seated, lowtablewithrockcrosssectionmodelandpaper, OruwoodpointerheldONEhandotheratbelt. Nofloatingportal or demonhumanoids.",
       "layout": "Oru LEFT onsecurelowplatform and Ilyan RIGHT seated, lowtablewithrockcrosssectionmodelandpaper, OruwoodpointerheldONEhandotheratbelt. Nofloatingportal or demonhumanoids.",
       "lines": [
@@ -3794,7 +4112,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3806,10 +4125,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1525,
@@ -3822,7 +4146,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 71,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Nima LEFT onplatform Mara RIGHT standingatdryoutermechanismtable, woodenpinmodelandceramicinsulationclear. Bothhandslowownimplements.",
       "layout": "Nima LEFT onplatform Mara RIGHT standingatdryoutermechanismtable, woodenpinmodelandceramicinsulationclear. Bothhandslowownimplements.",
       "lines": [
@@ -3835,7 +4159,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3847,11 +4172,16 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
       ],
-      "narration": "O perigo estava no caminho aberto ali, sem alcançar o quarto de Ilyan na escola."
+      "narration": "O perigo estava no caminho aberto ali, sem alcançar o quarto de Ilyan na escola.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1526,
@@ -3864,7 +4194,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 71,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Mara LEFT Oru RIGHT standclearofONEcrackedbronzeBell mountedframe, thinmechanicalrodconnectingweststorehouse, frostcrossingpavingjointforeground. Bothfacesconcerned, handsonowncoats.",
       "layout": "Mara LEFT Oru RIGHT standclearofONEcrackedbronzeBell mountedframe, thinmechanicalrodconnectingweststorehouse, frostcrossingpavingjointforeground. Bothfacesconcerned, handsonowncoats.",
       "lines": [
@@ -3877,7 +4207,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3889,10 +4220,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1527,
@@ -3905,7 +4241,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 72,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Beren LEFT kneelsbywoodbrace basecheckingfrostline, LEFTkneebrace visible, onehandpointinglow otheronknee; Tovo RIGHT standswithRIGHTarmrecolhidoinslingandLEFTfreebyownside, NO heavyload. Narrowcorridor safeedge.",
       "layout": "Beren LEFT kneelsbywoodbrace basecheckingfrostline, LEFTkneebrace visible, onehandpointinglow otheronknee; Tovo RIGHT standswithRIGHTarmrecolhidoinslingandLEFTfreebyownside, NO heavyload. Narrowcorridor safeedge.",
       "lines": [
@@ -3918,7 +4254,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3930,10 +4267,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1528,
@@ -3946,7 +4288,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 72,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT Liria RIGHT stand separatedbywaterchannel and existingstonejoint, RunaLEFThandpointerbywaterlevelgaugeRIGHTatbelt, Liriabothhandsonownstonebench. Hostileprofessionalconcentrationnotfriendship.",
       "layout": "Runa LEFT Liria RIGHT stand separatedbywaterchannel and existingstonejoint, RunaLEFThandpointerbywaterlevelgaugeRIGHTatbelt, Liriabothhandsonownstonebench. Hostileprofessionalconcentrationnotfriendship.",
       "lines": [
@@ -3959,7 +4301,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -3971,10 +4314,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1529,
@@ -3987,7 +4335,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 72,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Caio LEFT Sere RIGHT onstoneplatformnearEMPTYisolatedsouthdischargetank, visibleclothribbons winddownstairsandbackcorner, CaiohandpointsribbonSerehandtiedowncordallownside. No civiliansoranimals.",
       "layout": "Caio LEFT Sere RIGHT onstoneplatformnearEMPTYisolatedsouthdischargetank, visibleclothribbons winddownstairsandbackcorner, CaiohandpointsribbonSerehandtiedowncordallownside. No civiliansoranimals.",
       "lines": [
@@ -4000,7 +4348,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4012,10 +4361,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1530,
@@ -4028,11 +4382,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 72,
-      "format": "portrait",
+      "format": "comic",
       "scene": "TinyadultNima LEFT onsecuredplatform Mara RIGHT besideexteriorvalvehousing, darkpinmarkemergeswhilewaterwithicechipsrunsinchannel BELOWsafeplatform, bothhandsownseparatetools, lamp mountedside. No hand trapped yet.",
       "layout": "TinyadultNima LEFT onsecuredplatform Mara RIGHT besideexteriorvalvehousing, darkpinmarkemergeswhilewaterwithicechipsrunsinchannel BELOWsafeplatform, bothhandsownseparatetools, lamp mountedside. No hand trapped yet.",
       "lines": [],
-      "narration": "A primeira descarga soltou gelo. Uma vibração obrigou parte da equipe a recuar."
+      "narration": "A primeira descarga soltou gelo. Uma vibração obrigou parte da equipe a recuar.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1531,
@@ -4045,11 +4403,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 73,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Ilyan LEFT stands onexteriorplatform RIGHTpalm emitsSMALLcontrolledflamelight hisLEFTonownbelt. Mara RIGHT, ONEright hand heldinmechanicalclip(openvisiblearoundgloveWRISTnotsevered) whileleft handloosenscatch usingONEtool. Exactly2arms each, smallpinslotclear, no bodyhorror no extra hands. Ordinarylampunlitprotectedpotbelow.",
       "layout": "Ilyan LEFT stands onexteriorplatform RIGHTpalm emitsSMALLcontrolledflamelight hisLEFTonownbelt. Mara RIGHT, ONEright hand heldinmechanicalclip(openvisiblearoundgloveWRISTnotsevered) whileleft handloosenscatch usingONEtool. Exactly2arms each, smallpinslotclear, no bodyhorror no extra hands. Ordinarylampunlitprotectedpotbelow.",
       "lines": [],
-      "narration": "A luz comum apagou. Uma chama breve permitiu que Mara soltasse a mão."
+      "narration": "A luz comum apagou. Uma chama breve permitiu que Mara soltasse a mão.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1532,
@@ -4061,7 +4423,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 73,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan alone sideview stepsBACKtwoordinarypacesfromexteriorvalvehousing, palmRIGHTclosedNOflame, LEFThandlowgivingrecallsignal; facefearandresolve, shadowedwoolwallandemptylampshield. No creaturevisible no newpowerburst.",
       "layout": "Ilyan alone sideview stepsBACKtwoordinarypacesfromexteriorvalvehousing, palmRIGHTclosedNOflame, LEFThandlowgivingrecallsignal; facefearandresolve, shadowedwoolwallandemptylampshield. No creaturevisible no newpowerburst.",
       "lines": [
@@ -4074,11 +4436,16 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
       ],
-      "narration": "Desta vez, ouviu a própria vontade de continuar e decidiu apagar."
+      "narration": "Desta vez, ouviu a própria vontade de continuar e decidiu apagar.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1533,
@@ -4091,7 +4458,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 73,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Beren LEFT braceslongleverwithfulcrumandtwohandsseparate, Tovo RIGHT kneelsfootfirmLEFTfreehandpushesONEdesignatedleverhandlelowatlefthip, injuredRIGHTarmcontainedinslingagainstchest, NO rightshoulderload. SMALLwoodwedge slides tomarknotgiantstone. Clear2arms2legseach.",
       "layout": "Beren LEFT braceslongleverwithfulcrumandtwohandsseparate, Tovo RIGHT kneelsfootfirmLEFTfreehandpushesONEdesignatedleverhandlelowatlefthip, injuredRIGHTarmcontainedinslingagainstchest, NO rightshoulderload. SMALLwoodwedge slides tomarknotgiantstone. Clear2arms2legseach.",
       "lines": [
@@ -4104,7 +4471,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4116,10 +4484,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1534,
@@ -4132,7 +4505,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 73,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT maintainsnarrowexistingwatercurrentwithONEtattooedLEFThandabovechannel otherhandownbelt. Liria RIGHT bracesexistingstoneedgewithONEopenpalm lowotheronownbelt. Farapartclearanatomy, levelgaugecenter, icyfloorbychannel. No friendlygesture.",
       "layout": "Runa LEFT maintainsnarrowexistingwatercurrentwithONEtattooedLEFThandabovechannel otherhandownbelt. Liria RIGHT bracesexistingstoneedgewithONEopenpalm lowotheronownbelt. Farapartclearanatomy, levelgaugecenter, icyfloorbychannel. No friendlygesture.",
       "lines": [
@@ -4145,7 +4518,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4157,10 +4531,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1535,
@@ -4173,11 +4552,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 73,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Nima LEFT onsolidplatformusesONEpairtongs toinsertrepairedwoodbronzePIN intomechanism, otherhandrestsownbench. Mara RIGHT holdsplatewithbothhands. Separateclearhands, shieldedRESERVElampoffside enoughlight, nospark. Exteriorvalvewithtwoclosedbarriersmarkedbyphysicalbolts.",
       "layout": "Nima LEFT onsolidplatformusesONEpairtongs toinsertrepairedwoodbronzePIN intomechanism, otherhandrestsownbench. Mara RIGHT holdsplatewithbothhands. Separateclearhands, shieldedRESERVElampoffside enoughlight, nospark. Exteriorvalvewithtwoclosedbarriersmarkedbyphysicalbolts.",
       "lines": [],
-      "narration": "O pino entrou. Duas contenções separaram a fratura dos reservatórios. Ninguém desceu para caçar a criatura."
+      "narration": "O pino entrou. Duas contenções separaram a fratura dos reservatórios. Ninguém desceu para caçar a criatura.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1536,
@@ -4190,7 +4573,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 73,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan LEFT seatedlowstoolunderwarmblanketshouldersbutfullyclothedhandsownlap, adulttinyNima RIGHT standingtouchesforeheadtohis gently, bothhandsownbelt. Ordinarybreadandsouptable, exhaustedreliefnotcelebration.",
       "layout": "Ilyan LEFT seatedlowstoolunderwarmblanketshouldersbutfullyclothedhandsownlap, adulttinyNima RIGHT standingtouchesforeheadtohis gently, bothhandsownbelt. Ordinarybreadandsouptable, exhaustedreliefnotcelebration.",
       "lines": [
@@ -4203,7 +4586,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4215,10 +4599,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1537,
@@ -4231,11 +4620,15 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 74,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Caio LEFT fullyclothedrestsonbenchwithblanketoverlegs, Sere RIGHT seatednearbyholdsonecupsoupbothhandslow, hehandsownlap. Calmrest recoverheadache, nobednudity.",
       "layout": "Caio LEFT fullyclothedrestsonbenchwithblanketoverlegs, Sere RIGHT seatednearbyholdsonecupsoupbothhandslow, hehandsownlap. Calmrest recoverheadache, nobednudity.",
       "lines": [],
-      "narration": "O corpo ainda cobrava o esforço. A estação entrou em dias de repouso e conferência."
+      "narration": "O corpo ainda cobrava o esforço. A estação entrou em dias de repouso e conferência.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1538,
@@ -4248,7 +4641,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 74,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT Liria RIGHT standseparatedatstonebracebydamagedfrozengarden, neither friendlybothhandsownbelt Liriachainnotebook. Clearcoldtension not physicalfight.",
       "layout": "Runa LEFT Liria RIGHT standseparatedatstonebracebydamagedfrozengarden, neither friendlybothhandsownbelt Liriachainnotebook. Clearcoldtension not physicalfight.",
       "lines": [
@@ -4261,7 +4654,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4273,10 +4667,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1539,
@@ -4289,7 +4688,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 74,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Mara LEFT Ilyan RIGHT atdryobservatorycabinet, sheholdsONEcharrededgeletterwithinopenprotectivefolder BOTHhands, hehandsownchestheightopenstoppedbeforetouch. No magicaltextlegible. Emotionhopepain.",
       "layout": "Mara LEFT Ilyan RIGHT atdryobservatorycabinet, sheholdsONEcharrededgeletterwithinopenprotectivefolder BOTHhands, hehandsownchestheightopenstoppedbeforetouch. No magicaltextlegible. Emotionhopepain.",
       "lines": [
@@ -4302,7 +4701,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4314,10 +4714,15 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
-      ]
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1540,
@@ -4330,7 +4735,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 74,
-      "format": "portrait",
+      "format": "comic",
       "scene": "Ilyan LEFT Eda RIGHT seatedattable, copperbuckle crookedcrescent besideletter withPHYSICALLYmissingburntedgelowerhalf, Edaonepencilhovering no restorationmagic, Ilyanonehandownlapotherholdingcopy. Facesbelow40%.",
       "layout": "Ilyan LEFT Eda RIGHT seatedattable, copperbuckle crookedcrescent besideletter withPHYSICALLYmissingburntedgelowerhalf, Edaonepencilhovering no restorationmagic, Ilyanonehandownlapotherholdingcopy. Facesbelow40%.",
       "lines": [
@@ -4343,7 +4748,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4355,11 +4761,16 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
       ],
-      "narration": "A data, a escrita e as lembranças confirmavam uma passagem passada por Aram."
+      "narration": "A data, a escrita e as lembranças confirmavam uma passagem passada por Aram.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     },
     {
       "number": 1541,
@@ -4373,7 +4784,7 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 74,
-      "format": "landscape",
+      "format": "comic",
       "scene": "Runa LEFT seated, Ilyan CENTERseatedsofttearsCOPYletteronlapheldbybothownhands, tinyadultNima RIGHTstandingonstablefootrest besidebench. Runahandsownlap andNimaownbelt, simplethreebodyanatomy NOextraarms. Quietcompanionshipnotgroupkiss.",
       "layout": "Runa LEFT seated, Ilyan CENTERseatedsofttearsCOPYletteronlapheldbybothownhands, tinyadultNima RIGHTstandingonstablefootrest besidebench. Runahandsownlap andNimaownbelt, simplethreebodyanatomy NOextraarms. Quietcompanionshipnotgroupkiss.",
       "lines": [
@@ -4386,7 +4797,8 @@
             "w": 44,
             "target_x": 28,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         },
         {
@@ -4398,11 +4810,16 @@
             "w": 44,
             "target_x": 77,
             "target_y": 42,
-            "kind": "normal"
+            "kind": "normal",
+            "embedded": true
           }
         }
       ],
-      "narration": "O carinho não terminou a pergunta."
+      "narration": "O carinho não terminou a pergunta.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
     },
     {
       "number": 1542,
@@ -4416,12 +4833,16 @@
       ],
       "novel_volume": 2,
       "novel_chapter": 74,
-      "format": "landscape",
+      "format": "comic",
       "scene": "ThreeADULTS fullyclothed sit at LOW stonepostinn table: Runa LEFT, tinyNima CENTERonseathighfootrest, Ilyan RIGHT. OrdinarylampcenterLOW, smallcopperbucklebesidefoldedletter, IlyanONEhandgentlycoverslampwithsnufferotherownlap; RunaandNimahandsownlaps. No magicalflames, no bed. Calmphysicalendofarc.",
       "layout": "ThreeADULTS fullyclothed sit at LOW stonepostinn table: Runa LEFT, tinyNima CENTERonseathighfootrest, Ilyan RIGHT. OrdinarylampcenterLOW, smallcopperbucklebesidefoldedletter, IlyanONEhandgentlycoverslampwithsnufferotherownlap; RunaandNimahandsownlaps. No magicalflames, no bed. Calmphysicalendofarc.",
       "lines": [],
-      "narration": "Mira tentara voltar. Ainda não sabiam por que não conseguira. Quando o óleo acabou, Ilyan apagou a luz."
+      "narration": "Mira tentara voltar. Ainda não sabiam por que não conseguira. Quando o óleo acabou, Ilyan apagou a luz.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
     }
   ],
-  "published_through": 1463
+  "published_through": 1542
 }

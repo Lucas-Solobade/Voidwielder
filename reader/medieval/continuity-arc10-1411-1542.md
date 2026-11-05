@@ -1,6 +1,6 @@
 # Arco 10 — continuação e correções
 
-Estado de entrega: **1411–1463 ilustradas (53 páginas)**; 1464–1542 permanecem em roteiro. Limite de geração reabre em 05/11/2026 às 13:15 em America/Sao_Paulo. Não publicar as páginas restantes sem suas artes e revisão.
+Estado atualizado em 05/11/2026: o limite anterior foi liberado e a continuação 1464–1542 foi ilustrada em formato de HQ com quadros. O registro específico está em `continuity-arc10-panels.md`. A entrega anterior 1411–1463 foi publicada separadamente.
 
 Pedido: substituir a capa editorial dentro da página 1403 por narrativa, afastar o balão do rosto de Oru na 1408 e adaptar as páginas 1411–1542 a partir do livro já escrito.
 
