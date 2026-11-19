@@ -8,7 +8,7 @@ from reader.medieval_catalog import ARCS, CANON, PAGES, PAGES_BY_NUMBER, STORY, 
 
 
 def test_medieval_canon_and_page_sequence():
-    assert [page["number"] for page in PAGES] == list(range(1, 1543))
+    assert [page["number"] for page in PAGES] == list(range(1, 1555))
     assert all(len(page["panels"]) == 3 for page in PAGES[:25])
     assert len({page["layout"] for page in PAGES[25:]}) >= 5
     assert all(set(page["cast"]) <= set(CANON["characters"]) for page in PAGES)
@@ -78,7 +78,7 @@ def test_medieval_canon_and_page_sequence():
     assert "Dia 499" in PAGES[829]["time"]
     assert "Dia 528" in PAGES[939]["time"]
     assert "Dia 569" in PAGES_BY_NUMBER[1100]["time"]
-    assert "Dia 692" in PAGES[-1]["time"]
+    assert "Dia 692" in PAGES_BY_NUMBER[1542]["time"]
     assert PAGES[178]["title"] == "A licença tem limites"
     assert PAGES[188]["title"] == "A armadilha fica"
     assert PAGES[189]["title"] == "O ferro embrulhado"
@@ -97,11 +97,16 @@ def test_medieval_canon_and_page_sequence():
     )
     assert all(
         line["speaker"] in ({CANON["characters"][name]["name"] for name in page["cast"]} | {"Avel", "Estudante", "Curandeira", "Carregador"})
-        and 0 <= line["balloon"]["x"] <= 100 - line["balloon"]["w"]
-        and 0 <= line["balloon"]["y"] <= 96
-        and 0 <= line["balloon"]["target_x"] <= 100
-        and 0 <= line["balloon"]["target_y"] <= 100
-        and line["balloon"].get("kind", "normal") in {"normal", "shout", "thought", "whisper"}
+        and (
+            (page.get("lettering_baked") and line["balloon"].get("embedded"))
+            or (
+                0 <= line["balloon"]["x"] <= 100 - line["balloon"]["w"]
+                and 0 <= line["balloon"]["y"] <= 96
+                and 0 <= line["balloon"]["target_x"] <= 100
+                and 0 <= line["balloon"]["target_y"] <= 100
+                and line["balloon"].get("kind", "normal") in {"normal", "shout", "thought", "whisper"}
+            )
+        )
         for page in PAGES[25:] for line in page["lines"]
     )
     assert all(
@@ -434,7 +439,7 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert client.get(reverse("reader:medieval_read", args=(1463,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(1464,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(1542,))).status_code == 200
-    assert client.get(reverse("reader:medieval_read", args=(1543,))).status_code == 404
+    assert client.get(reverse("reader:medieval_read", args=(1555,))).status_code == 404
 
 
 def test_arc_four_coda_preserves_document_chain_and_speaker_balloon_assignment(client):

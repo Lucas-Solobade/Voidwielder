@@ -110,6 +110,7 @@ ARC_TEN["arc"]["chapters"].extend(
 )
 ARC_TEN["pages"].extend(page for page in ARC_TEN_NEXT["pages"] if page["number"] <= ARC_TEN_PUBLISHED_END)
 ARC_TEN["arc"]["status"] = "Concluído" if ARC_TEN_PUBLISHED_END == 1542 else "Em andamento"
+ARC_ELEVEN = json.loads((STORY_DIR / "arc11-1543-1554.json").read_text(encoding="utf-8"))
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
@@ -120,7 +121,7 @@ def page_art(number: int) -> str:
 
 PAGES = tuple(
     {**page, "art": page_art(page["number"])}
-    for page in [*STORY["pages"], *ARC_TWO["pages"], *ARC_THREE["pages"], *ARC_FOUR["pages"], *ARC_FIVE["pages"], *ARC_SIX["pages"], *ARC_SEVEN["pages"], *ARC_EIGHT["pages"], *ARC_NINE["pages"], *ARC_TEN["pages"]]
+    for page in [*STORY["pages"], *ARC_TWO["pages"], *ARC_THREE["pages"], *ARC_FOUR["pages"], *ARC_FIVE["pages"], *ARC_SIX["pages"], *ARC_SEVEN["pages"], *ARC_EIGHT["pages"], *ARC_NINE["pages"], *ARC_TEN["pages"], *ARC_ELEVEN["pages"]]
 )
 PAGES_BY_NUMBER = {page["number"]: page for page in PAGES}
 SERIES_URL = f"/hqs/{STORY['slug']}/"
@@ -134,6 +135,7 @@ ARC7_URL = f"{SERIES_URL}arcos/{ARC_SEVEN['arc']['slug']}/"
 ARC8_URL = f"{SERIES_URL}arcos/{ARC_EIGHT['arc']['slug']}/"
 ARC9_URL = f"{SERIES_URL}arcos/{ARC_NINE['arc']['slug']}/"
 ARC10_URL = f"{SERIES_URL}arcos/{ARC_TEN['arc']['slug']}/"
+ARC11_URL = f"{SERIES_URL}arcos/{ARC_ELEVEN['arc']['slug']}/"
 ARCS = (
     {**STORY["arc"], "start": STORY["pages"][0]["number"], "end": STORY["pages"][-1]["number"], "url": ARC_URL, "art": STORY["cover"]},
     {**ARC_TWO["arc"], "end": ARC_TWO["pages"][-1]["number"], "url": ARC2_URL, "art": "reader/images/medieval/page-33.webp"},
@@ -145,6 +147,7 @@ ARCS = (
     {**ARC_EIGHT["arc"], "end": ARC_EIGHT["pages"][-1]["number"], "url": ARC8_URL, "art": "reader/images/medieval/arc8-cover.webp"},
     {**ARC_NINE["arc"], "end": ARC_NINE["pages"][-1]["number"], "url": ARC9_URL, "art": "reader/images/medieval/arc9-cover.webp"},
     {**ARC_TEN["arc"], "end": ARC_TEN["pages"][-1]["number"], "url": ARC10_URL, "art": "reader/images/medieval/arc10-cover.webp"},
+    {**ARC_ELEVEN["arc"], "end": ARC_ELEVEN["pages"][-1]["number"], "url": ARC11_URL, "art": "reader/images/medieval/arc11-cover.webp"},
 )
 
 

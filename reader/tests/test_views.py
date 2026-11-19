@@ -8,7 +8,7 @@ def test_home_links_to_catalog_and_studies(client):
     assert reverse("reader:search") in content
     assert reverse("reader:studies") in content
     featured = content.split('aria-labelledby="destaques-title"')[1]
-    assert "O Inverno Dentro da Chama" in featured
+    assert "A Estrada dos Ausentes" in featured
     assert "Volume II" in featured
     assert "Homus Bananus" not in featured
     assert "Aprenda fazendo" not in featured

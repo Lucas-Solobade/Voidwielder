@@ -17,7 +17,7 @@
       {% if book.volume_number == 2 %}
       <p class="book-deck">Porto das Cinzas guarda uma passagem entre mundos. A prova de Mira está além da margem conhecida.</p>
       <p>{{ book.detail }} Os arcos 6 a 10 estão completos neste segundo volume; a busca continua.</p>
-      <div class="book-facts"><span>Volume II · Arcos 6 a 10 completos</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
+      <div class="book-facts"><span>Volume II · Arcos 6 a {{ book.published_arc }} completos</span><span>{{ book.chapter_count }} capítulos</span><span>{{ book.page_count }} páginas escritas</span><span>{{ illustration_count }} gravuras de capítulo</span></div>
       <p><a href="{{ book.read_url }}421/">Começar o arco 10 · O Inverno Dentro da Chama →</a></p>
       <p class="novel-progress-note">Leia antes <a href="{% url 'reader:novel_detail' %}">O Ferro que Escuta · Volume I</a> para acompanhar a cronologia desde Pedra-Mansa.</p>
       {% else %}

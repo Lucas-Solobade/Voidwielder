@@ -1,0 +1,146 @@
+{
+  "tool": "builtin image_gen",
+  "assets": [
+    {
+      "number": 1543,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-16f90637-94f3-47fc-b4a8-7760a5c24a68.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1543.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1543 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 4 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Nima adult 26 mature gnome woman EXACTLY 90cm tall (half a human), copper curly bob, freckles, pointed ears, moss cap and brass goggles, teal vest cream sleeves and tool belt; never a child or human sized. Mara adult 68 woman, weathered brown skin, short grey-black braid, worn brown patched wool, right thumb scar. Two staggered small panels across top: washers on workshop bench, then close-up of the single notch. Wide middle: Nima on sturdy work step showing Mara the washer. Lower horizontal: Mara draws notch beside ledger. Nima speaks in middle panel, cream balloon in free wall beside her head. The only text, inside one compact cream comic balloon, exactly \"Só vai parecer que aperta.\". Short tail points only to Nima. Reserve free scenery next to speaker's mouth, never over eyes, hair, face, hands or key gesture. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/nima.png",
+        "reader/medieval/references/individual/mara.png"
+      ]
+    },
+    {
+      "number": 1544,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-8ab9c030-0287-4f69-9867-2107946be674.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1544.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1544 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 3 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Nima adult 26 mature gnome woman EXACTLY 90cm tall (half a human), copper curly bob, freckles, pointed ears, moss cap and brass goggles, teal vest cream sleeves and tool belt; never a child or human sized. Mara adult 68 woman, weathered brown skin, short grey-black braid, worn brown patched wool, right thumb scar. One large panel left, two small panels stacked right. Left: Mara sets contract balance on low counter, Nima stands beside counter. Right upper: coins laid in counted rows on wood, no hands. Right lower: Mara hands one paper receipt to Nima, Nima's speech in free wall space beside her, clearly tail to small redhead. The only text, inside one compact cream comic balloon, exactly \"Preciso de um recibo.\". Short tail points only to Nima. Reserve free scenery next to speaker's mouth, never over eyes, hair, face, hands or key gesture. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/nima.png",
+        "reader/medieval/references/individual/mara.png"
+      ],
+      "revision": "Nima scaled to adult gnome height on a footstool in tall left panel."
+    },
+    {
+      "number": 1545,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-df8b2941-8fe1-4f81-ad8e-6f46a71de496.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1545.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1545 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 3 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Runa adult 18 human woman: pale, very long straight black hair and blunt bangs, silver septum ring, floral tattoo only anatomical LEFT arm, plum and charcoal clothes. Top wide panel: Ilyan at stone parapet, Runa folding a travel blanket. Bottom left: close-up of small plain rectangular COPPER buckle and worn leather strap on parapet, rough crescent on lower plate. Bottom right: close-up of Ilyan looking down, his single balloon beside face in distant free wall. The only text, inside one compact cream comic balloon, exactly \"Só estou imaginando a hora em que ele abrir.\". Short tail points only to Ilyan. Reserve free scenery next to speaker's mouth, never over eyes, hair, face, hands or key gesture. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png"
+      ],
+      "revision": "Copper buckle lower plate and crescent restored."
+    },
+    {
+      "number": 1546,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-c56fd3c1-abcf-4bac-a645-6407a37fc334.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1546.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1546 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 4 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. . No people. Two small top panels: two distinct wooden wagon wheels with iron pins, one dark and one honey brown. Middle panoramic panel: two stopped horse-drawn wagons in stone courtyard, exactly two horses total each eating from own nosebag. Bottom panoramic: the fork beyond Aram gate, left west path descends, right road turns uphill. No words or signs. Silent art, no lettering whatsoever. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": []
+    },
+    {
+      "number": 1547,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-e8d0ba79-b711-4464-be22-023a831a87b9.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1547.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1547 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 3 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Nima adult 26 mature gnome woman EXACTLY 90cm tall (half a human), copper curly bob, freckles, pointed ears, moss cap and brass goggles, teal vest cream sleeves and tool belt; never a child or human sized. Wide top shows Ilyan sitting on lowest stone step to meet Nima, standing 90cm small ADULT gnome, eyes at his seated eye level, carrying her closed tool case. Bottom left object detail her single case resting on ground, no hands. Bottom right their foreheads lightly touching from side, faces unobstructed; her short balloon beside her over blank masonry. The only text, inside one compact cream comic balloon, exactly \"Quando eu souber onde vou trabalhar, escrevo.\". Short tail points only to Nima. Reserve free scenery next to speaker's mouth, never over eyes, hair, face, hands or key gesture. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/individual/nima.png"
+      ]
+    },
+    {
+      "number": 1548,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-3b625973-d760-476a-8b39-79a63f0d0805.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1548.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1548 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 4 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Runa adult 18 human woman: pale, very long straight black hair and blunt bangs, silver septum ring, floral tattoo only anatomical LEFT arm, plum and charcoal clothes. Nima adult 26 mature gnome woman EXACTLY 90cm tall (half a human), copper curly bob, freckles, pointed ears, moss cap and brass goggles, teal vest cream sleeves and tool belt; never a child or human sized. Upper wide: all three by wagon, Runa crouched eye level to Nima, cheek-to-cheek smiling adult farewell. Two small middle panels: bread peeking from Nima pocket, then Ilyan holding small rectangle copper buckle near his own hip. Lower wide: all three smile, Ilyan and Runa sit on low stone step, Nima stands between them on lower ground, clear physically coherent scale, Nima single balloon in free wall above AND BESIDE, no face overlap. The only text, inside one compact cream comic balloon, exactly \"Está no bolso que você tentou fechar.\". Short tail points only to Nima. Reserve free scenery next to speaker's mouth, never over eyes, hair, face, hands or key gesture. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png",
+        "reader/medieval/references/individual/nima.png"
+      ],
+      "revision": "Copper buckle restored in close-up."
+    },
+    {
+      "number": 1549,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-a49c4819-2c17-4e5d-88b6-9f1db8c1a4f6.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1549.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1549 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 3 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Runa adult 18 human woman: pale, very long straight black hair and blunt bangs, silver septum ring, floral tattoo only anatomical LEFT arm, plum and charcoal clothes. Nima adult 26 mature gnome woman EXACTLY 90cm tall (half a human), copper curly bob, freckles, pointed ears, moss cap and brass goggles, teal vest cream sleeves and tool belt; never a child or human sized. Upper wide: Nima seated on rear of small wagon, tool case next to her, looks back. Lower left: distant wagon follows descending switchback, mountain terraces. Lower right: Runa on bench of stationary second wagon leaves room for Ilyan, he stands beside, no other characters. Silent, no speech balloon. Silent art, no lettering whatsoever. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png",
+        "reader/medieval/references/individual/nima.png"
+      ],
+      "revision": "Duplicate wagon removed from distant view; tattoo removed from anatomical right arm."
+    },
+    {
+      "number": 1550,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-aa6cf84c-c73c-4a78-9695-7994a7297f52.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1550.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1550 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 4 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Runa adult 18 human woman: pale, very long straight black hair and blunt bangs, silver septum ring, floral tattoo only anatomical LEFT arm, plum and charcoal clothes. Four sequential panels in varied grid: wide road after rain with one wagon from afar; two small panels of damp wheel tracks and Runa and Ilyan sharing bread seated on low roadside wall; broad bottom at dusk with familiar stone school south gate and moon banner, exactly Ilyan and Runa arriving on foot in front. No text. Silent art, no lettering whatsoever. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png"
+      ],
+      "revision": "Runa lowers charcoal sleeves to wrists during rainy journey."
+    },
+    {
+      "number": 1551,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-75f5f562-9eef-4903-bd5e-43c9ce6750a0.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1551.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1551 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 3 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Runa adult 18 human woman: pale, very long straight black hair and blunt bangs, silver septum ring, floral tattoo only anatomical LEFT arm, plum and charcoal clothes. Tall left panel: Ilyan and Runa pass under Casa south gate, moon banner, sunset. Right upper: boots crossing threshold, exactly four feet. Right lower: copy of fire-damaged letter on plain desk beside ink pot, untouched, no legible writing. No speech or text. Silent art, no lettering whatsoever. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png"
+      ],
+      "revision": "Runa wears lowered sleeves; the letter is an intact parchment copy."
+    },
+    {
+      "number": 1552,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-d9767a41-b352-44ee-8895-20f539832f07.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1552.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1552 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 3 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Runa adult 18 human woman: pale, very long straight black hair and blunt bangs, silver septum ring, floral tattoo only anatomical LEFT arm, plum and charcoal clothes. Ordelia mature human woman, olive skin, gray single braid, gold pin, burgundy robes, canonical face. Broad upper panel: Ordelia at map room desk, gray braided older woman in wine-colored robes, listens to Ilyan and Runa. Two bottom panels: close detail sketch of two closed barriers and broken access, without writing; Ordelia gently takes a copy of a torn letter lying on desk. All faces and limbs readable, quiet sunset. Silent art, no lettering whatsoever. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png",
+        "reader/medieval/references/individual/ordelia.png"
+      ],
+      "revision": "Diagram now shows two internal barriers; intact copied letter in Ordelia hands."
+    },
+    {
+      "number": 1553,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-41ceb6cb-7ab6-4cc1-8687-197616507d9c.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1553.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1553 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 4 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Ordelia mature human woman, olive skin, gray single braid, gold pin, burgundy robes, canonical face. Staggered four panels: Ordelia studies front, then flips parchment to blank reverse, then Ilyan waits quietly, then Ordelia speaks in compact cream bubble beside face over blank bookcase wall. Full arc continuity gray braid and wine robe. No other lettering. The only text, inside one compact cream comic balloon, exactly \"O rastro pode estar do lado de fora.\". Short tail points only to Ordelia. Reserve free scenery next to speaker's mouth, never over eyes, hair, face, hands or key gesture. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/individual/ordelia.png"
+      ],
+      "revision": "Front of letter contains handwriting; blank reverse preserved."
+    },
+    {
+      "number": 1554,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-254925b8-9a43-499f-a2d0-282935406b2a.png",
+      "target": "reader\\static\\reader\\images\\medieval\\page-1554.webp",
+      "prompt": "Use case: illustration-story. Complete finished portrait comic page, 1024 by 1536 preferred, page 1554 in As Estradas do Crepúsculo. Fine ink and painterly realistic medieval fantasy, copper warm sunlight and slate/indigo, narrow ivory gutters, clean black frame lines. Exactly 3 distinct sequential panels as directed, varied asymmetrical layout, left to right top to bottom. Attached images are identity references only; do not copy collage arrangement. Ilyan adult 18 human male 180cm: olive skin, clean-shaven oval face, very long black WAVY hair center part, charcoal shirt and indigo vest. Runa adult 18 human woman: pale, very long straight black hair and blunt bangs, silver septum ring, floral tattoo only anatomical LEFT arm, plum and charcoal clothes. Two small upper panels: Ilyan fastens small rectangular copper buckle on dark brown travel bag, then Runa sees him rise from his chair. Large closing panel below: Ilyan and Runa depart the map room into a lamplit stone corridor, faces unobstructed, Runa on his left, the bag slung over one shoulder; a view beyond opens toward the western evening landscape. No text. Silent art, no lettering whatsoever. Each character once per panel. Anatomically connected shoulder/elbow/wrist; exactly two arms and two hands per person, no extra fingers, no disembodied limbs. Keep faces clear. No page numbers, logos, stamps, text outside the one requested speech balloon. High fidelity style and cast continuity.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png"
+      ],
+      "revision": "Runa lowers her sleeves in closing panel."
+    },
+    {
+      "number": "cover",
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-38fd86ab-9391-482a-8c87-364726e76baf.png",
+      "target": "reader\\static\\reader\\images\\medieval\\arc11-cover.webp",
+      "prompt": "Use case: illustration-story. Wide landscape 3:2 cover illustration for medieval fantasy graphic novel A Estrada dos Ausentes, no typography or text. Finely painted detailed ink fantasy art. Establishing vista of the lived-in Entremeio with winding mountain terraces, cottages, drying clothes and a caravan traversing a stone pass at dawn; tiny warm door in distant inhabited valley as focal point. Foreground Ilyan on left at old stone parapet holding a folded half-burned letter, Runa on right stands looking toward same pass, tiny mature adult gnome Nima in center beside her tool chest at 90 cm exactly half human height on the same ground. Match the three supplied face/costume references exactly; Ilyan 18 long black wavy hair center part olive clean-shaven indigo vest; Runa 18 pale black straight hair blunt fringe left floral tattoo plum robes silver septum; Nima adult 26 freckled curly copper bob, moss hat and brass goggles, teal and cream work clothes, diminutive adult anatomy. Give generous margins, all figures entirely contained, no crop. Moody copper sun, indigo shadows, rich precise medieval detail, no spoiler appearance of Mira. Each person once, anatomically coherent two arms and hands, no duplicate figures, no speech bubbles.",
+      "references": [
+        "reader/medieval/references/individual/ilyan.png",
+        "reader/medieval/references/runa-sheet.png",
+        "reader/medieval/references/individual/nima.png"
+      ],
+      "revision": "Runa wears lowered sleeves; Ilyan holds intact copy without flame."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "arc": {
+    "number": 11,
+    "title": "A Estrada dos Ausentes",
+    "slug": "a-estrada-dos-ausentes",
+    "description": "Uma carta queimada aponta para um passo esquecido. A pista leva Ilyan e seus amigos a uma caravana ameaçada e às escolhas que afastaram Mira de casa.",
+    "status": "Em andamento",
+    "start": 1543,
+    "chapters": [
+      {
+        "title": "Duas estradas ao amanhecer",
+        "start": 1543,
+        "end": 1554
+      }
+    ]
+  },
+  "pages": [
+    {
+      "number": 1543,
+      "title": "O corte na arruela",
+      "time": "Dia 693 · amanhecer",
+      "place": "vigilia-aram",
+      "cast": [
+        "nima",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Two staggered small panels across top: washers on workshop bench, then close-up of the single notch. Wide middle: Nima on sturdy work step showing Mara the washer. Lower horizontal: Mara draws notch beside ledger. Nima speaks in middle panel, cream balloon in free wall beside her head.",
+      "layout": "Two staggered small panels across top: washers on workshop bench, then close-up of the single notch. Wide middle: Nima on sturdy work step showing Mara the washer. Lower horizontal: Mara draws notch beside ledger. Nima speaks in middle panel, cream balloon in free wall beside her head.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Só vai parecer que aperta.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
+    },
+    {
+      "number": 1544,
+      "title": "O pagamento restante",
+      "time": "Dia 693 · manhã",
+      "place": "vigilia-aram",
+      "cast": [
+        "nima",
+        "mara"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "One large panel left, two small panels stacked right. Left: Mara sets contract balance on low counter, Nima stands beside counter. Right upper: coins laid in counted rows on wood, no hands. Right lower: Mara hands one paper receipt to Nima, Nima's speech in free wall space beside her, clearly tail to small redhead.",
+      "layout": "One large panel left, two small panels stacked right. Left: Mara sets contract balance on low counter, Nima stands beside counter. Right upper: coins laid in counted rows on wood, no hands. Right lower: Mara hands one paper receipt to Nima, Nima's speech in free wall space beside her, clearly tail to small redhead.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Preciso de um recibo.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
+    },
+    {
+      "number": 1545,
+      "title": "A hora de abrir",
+      "time": "Dia 693 · manhã",
+      "place": "vigilia-aram",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Top wide panel: Ilyan at stone parapet, Runa folding a travel blanket. Bottom left: close-up of small plain rectangular COPPER buckle and worn leather strap on parapet, rough crescent on lower plate. Bottom right: close-up of Ilyan looking down, his single balloon beside face in distant free wall.",
+      "layout": "Top wide panel: Ilyan at stone parapet, Runa folding a travel blanket. Bottom left: close-up of small plain rectangular COPPER buckle and worn leather strap on parapet, rough crescent on lower plate. Bottom right: close-up of Ilyan looking down, his single balloon beside face in distant free wall.",
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Só estou imaginando a hora em que ele abrir.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
+    },
+    {
+      "number": 1546,
+      "title": "As duas carroças",
+      "time": "Dia 693 · manhã",
+      "place": "vigilia-aram",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "No people. Two small top panels: two distinct wooden wagon wheels with iron pins, one dark and one honey brown. Middle panoramic panel: two stopped horse-drawn wagons in stone courtyard, exactly two horses total each eating from own nosebag. Bottom panoramic: the fork beyond Aram gate, left west path descends, right road turns uphill. No words or signs.",
+      "layout": "No people. Two small top panels: two distinct wooden wagon wheels with iron pins, one dark and one honey brown. Middle panoramic panel: two stopped horse-drawn wagons in stone courtyard, exactly two horses total each eating from own nosebag. Bottom panoramic: the fork beyond Aram gate, left west path descends, right road turns uphill. No words or signs.",
+      "lines": [],
+      "narration": "O caminho de Nima descia para oeste. O outro levava à Casa.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
+    },
+    {
+      "number": 1547,
+      "title": "O degrau mais baixo",
+      "time": "Dia 693 · manhã",
+      "place": "vigilia-aram",
+      "cast": [
+        "ilyan",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Wide top shows Ilyan sitting on lowest stone step to meet Nima, standing 90cm small ADULT gnome, eyes at his seated eye level, carrying her closed tool case. Bottom left object detail her single case resting on ground, no hands. Bottom right their foreheads lightly touching from side, faces unobstructed; her short balloon beside her over blank masonry.",
+      "layout": "Wide top shows Ilyan sitting on lowest stone step to meet Nima, standing 90cm small ADULT gnome, eyes at his seated eye level, carrying her closed tool case. Bottom left object detail her single case resting on ground, no hands. Bottom right their foreheads lightly touching from side, faces unobstructed; her short balloon beside her over blank masonry.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Quando eu souber onde vou trabalhar, escrevo.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
+    },
+    {
+      "number": 1548,
+      "title": "O pão no bolso",
+      "time": "Dia 693 · manhã",
+      "place": "vigilia-aram",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Upper wide: all three by wagon, Runa crouched eye level to Nima, cheek-to-cheek smiling adult farewell. Two small middle panels: bread peeking from Nima pocket, then Ilyan holding small rectangle copper buckle near his own hip. Lower wide: all three smile, Ilyan and Runa sit on low stone step, Nima stands between them on lower ground, clear physically coherent scale, Nima single balloon in free wall above AND BESIDE, no face overlap.",
+      "layout": "Upper wide: all three by wagon, Runa crouched eye level to Nima, cheek-to-cheek smiling adult farewell. Two small middle panels: bread peeking from Nima pocket, then Ilyan holding small rectangle copper buckle near his own hip. Lower wide: all three smile, Ilyan and Runa sit on low stone step, Nima stands between them on lower ground, clear physically coherent scale, Nima single balloon in free wall above AND BESIDE, no face overlap.",
+      "lines": [
+        {
+          "speaker": "Nima",
+          "text": "Está no bolso que você tentou fechar.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
+    },
+    {
+      "number": 1549,
+      "title": "A curva do oeste",
+      "time": "Dia 693 · fim da manhã",
+      "place": "vigilia-aram",
+      "cast": [
+        "ilyan",
+        "runa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Upper wide: Nima seated on rear of small wagon, tool case next to her, looks back. Lower left: distant wagon follows descending switchback, mountain terraces. Lower right: Runa on bench of stationary second wagon leaves room for Ilyan, he stands beside, no other characters. Silent, no speech balloon.",
+      "layout": "Upper wide: Nima seated on rear of small wagon, tool case next to her, looks back. Lower left: distant wagon follows descending switchback, mountain terraces. Lower right: Runa on bench of stationary second wagon leaves room for Ilyan, he stands beside, no other characters. Silent, no speech balloon.",
+      "lines": [],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
+    },
+    {
+      "number": 1550,
+      "title": "Cinco dias de estrada",
+      "time": "Dia 694–698 · viagem",
+      "place": "estrada-norte",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Four sequential panels in varied grid: wide road after rain with one wagon from afar; two small panels of damp wheel tracks and Runa and Ilyan sharing bread seated on low roadside wall; broad bottom at dusk with familiar stone school south gate and moon banner, exactly Ilyan and Runa arriving on foot in front. No text.",
+      "layout": "Four sequential panels in varied grid: wide road after rain with one wagon from afar; two small panels of damp wheel tracks and Runa and Ilyan sharing bread seated on low roadside wall; broad bottom at dusk with familiar stone school south gate and moon banner, exactly Ilyan and Runa arriving on foot in front. No text.",
+      "lines": [],
+      "narration": "A viagem terminou na Casa, ao entardecer do dia 698.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
+    },
+    {
+      "number": 1551,
+      "title": "De volta à Casa",
+      "time": "Dia 698 · fim da tarde",
+      "place": "portao-sul",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Tall left panel: Ilyan and Runa pass under Casa south gate, moon banner, sunset. Right upper: boots crossing threshold, exactly four feet. Right lower: copy of fire-damaged letter on plain desk beside ink pot, untouched, no legible writing. No speech or text.",
+      "layout": "Tall left panel: Ilyan and Runa pass under Casa south gate, moon banner, sunset. Right upper: boots crossing threshold, exactly four feet. Right lower: copy of fire-damaged letter on plain desk beside ink pot, untouched, no legible writing. No speech or text.",
+      "lines": [],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
+    },
+    {
+      "number": 1552,
+      "title": "Primeiro, Aram",
+      "time": "Dia 698 · fim da tarde",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ilyan",
+        "runa",
+        "ordelia"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Broad upper panel: Ordelia at map room desk, gray braided older woman in wine-colored robes, listens to Ilyan and Runa. Two bottom panels: close detail sketch of two closed barriers and broken access, without writing; Ordelia gently takes a copy of a torn letter lying on desk. All faces and limbs readable, quiet sunset.",
+      "layout": "Broad upper panel: Ordelia at map room desk, gray braided older woman in wine-colored robes, listens to Ilyan and Runa. Two bottom panels: close detail sketch of two closed barriers and broken access, without writing; Ordelia gently takes a copy of a torn letter lying on desk. All faces and limbs readable, quiet sunset.",
+      "lines": [],
+      "narration": "Ordelia ouviu primeiro o relato de Aram.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
+    },
+    {
+      "number": 1553,
+      "title": "O verso da folha",
+      "time": "Dia 698 · fim da tarde",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ilyan",
+        "ordelia"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Staggered four panels: Ordelia studies front, then flips parchment to blank reverse, then Ilyan waits quietly, then Ordelia speaks in compact cream bubble beside face over blank bookcase wall. Full arc continuity gray braid and wine robe. No other lettering.",
+      "layout": "Staggered four panels: Ordelia studies front, then flips parchment to blank reverse, then Ilyan waits quietly, then Ordelia speaks in compact cream bubble beside face over blank bookcase wall. Full arc continuity gray braid and wine robe. No other lettering.",
+      "lines": [
+        {
+          "speaker": "Ordelia",
+          "text": "O rastro pode estar do lado de fora.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 4
+    },
+    {
+      "number": 1554,
+      "title": "O primeiro nome",
+      "time": "Dia 698 · noite",
+      "place": "galeria-biblioteca",
+      "cast": [
+        "ilyan",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 75,
+      "format": "comic",
+      "scene": "Two small upper panels: Ilyan fastens small rectangular copper buckle on dark brown travel bag, then Runa sees him rise from his chair. Large closing panel below: Ilyan and Runa depart the map room into a lamplit stone corridor, faces unobstructed, Runa on his left, the bag slung over one shoulder; a view beyond opens toward the western evening landscape. No text.",
+      "layout": "Two small upper panels: Ilyan fastens small rectangular copper buckle on dark brown travel bag, then Runa sees him rise from his chair. Large closing panel below: Ilyan and Runa depart the map room into a lamplit stone corridor, faces unobstructed, Runa on his left, the bag slung over one shoulder; a view beyond opens toward the western evening landscape. No text.",
+      "lines": [],
+      "narration": "O primeiro nome que Ilyan podia procurar era o de seu pai.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true,
+      "panel_count": 3
+    }
+  ]
+}

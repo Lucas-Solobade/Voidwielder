@@ -305,6 +305,20 @@
       "species": "humana",
       "appearance": "Cabelo preto curto até a mandíbula, polegar esquerdo rígido, roupa de transportadora e bolsa de registros.",
       "role": "Transportadora em Pedra-Mansa. Viu caixa em viagem, não Mira como passageira; primeira aparição no livro II capítulo 60."
+    },
+    "irsa": {
+      "name": "Irsa",
+      "age": 39,
+      "species": "humana",
+      "appearance": "Pele morena de sol, cabelo castanho curto com uma mecha grisalha, mangas verdes remendadas nos cotovelos e régua de selaria com duas agulhas cruzadas.",
+      "role": "Guia da rede de travessias do Entremeio. Conheceu Mira quando jovem e foi cliente de Nima em Aram. Aparece no livro II, capítulo 78."
+    },
+    "olva": {
+      "name": "Olva",
+      "age": 36,
+      "species": "humana",
+      "appearance": "Pele oliva, cabelo castanho preso num lenço ocre, casaco de lã cinza e remédios protegidos numa fronha atada. Após a queda, tornozelo esquerdo ferido e apoio de madeira.",
+      "role": "Viajante que leva remédios ao filho. Resgatada no deslizamento com ajuda de Tovo, Runa, Nima e da caravana."
     }
   },
   "creatures": {
@@ -431,7 +445,9 @@
     "armazenamento-aram": "Salas OESTE de Aram: núcleos térmicos cerâmicos, vigia de vidro espesso independente da porta principal e faixa de segurança; galerias fundas fechadas.",
     "galeria-fria-aram": "Corredor inferior físico sob o depósito oeste, visto somente através da vigia fechada. Fratura do Fundo de Sal e Faminto ficam separados por contenções, sem perseguição pela equipe.",
     "tanque-sul-aram": "Tanque de descarga vazio e isolado ao SUL longe das casas. Plataforma de válvula, fitas de vento e caminho de retirada conferidos antes da operação.",
-    "valvula-aram": "Face EXTERIOR acessível dos mecanismos oeste, plataforma firme com pino e presilha, descarga primeiro até tanque sul; luz reserva vem pela rota externa afastada da vigia."
+    "valvula-aram": "Face EXTERIOR acessível dos mecanismos oeste, plataforma firme com pino e presilha, descarga primeiro até tanque sul; luz reserva vem pela rota externa afastada da vigia.",
+    "casa-de-transito-entremeio": "Pátio na encosta após a rota guardada. Entrada de carroças, entrada do alojamento e passagem estreita dos guias. Armário selado guarda o original do registro de cargas e viajantes.",
+    "abrigo-dos-guias": "Abrigo comunitário a uma noite de caminhada da casa de trânsito, pela encosta autorizada. Porta menor encaixada na maior, pátio de refeições e mesa da carta à janela. A rota exata fica com os guias."
   },
   "school_map": {
     "valecobre": "Casas baixas e ruas públicas além do muro da escola; o grupo sai pelo portão sul e caminha para avisar moradores, sem atravessar o anexo ou atalhos mágicos.",
@@ -584,7 +600,8 @@
     "HQ 1403 foi corrigida: Ilyan estuda o mapa na pousada ao amanhecer do dia626. A capa permanece exclusivamente na apresentação do arco. HQ 1404–1410: dias 626–629, estrada, portão sul, recuperação de Tovo, quarto de cedro, treino com vela apagada, pequena fagulha e cuidado após perder sensibilidade. Nima permanece em Pedra-Mansa e não aparece na narrativa da abertura.",
     "O trisal Ilyan e Runa (18) e Nima (26, gnoma de 90cm) se reencontra nos capítulos 54–59; intimidade consensual termina fora de cena e amanhecer mantém corpos cobertos por lençóis, apenas ombros expostos. O pacto de não revelar a Ilyan a agressão antiga de Líria continua. Não há perdão entre Runa e Líria.",
     "Roteiro HQ1411–1542 pronto a partir do livroII45–74. Publicação ilustrada deste lote alcança somente1463, dia648, capítulo57. A geração atingiu limite da conta;1464–1542 são planejadas e não entram no leitor antes de geração e revisão. O arco10 da HQ continua em andamento.",
-    "HQ1464–1542 conclui arco10, dias649–692, livroII58–74. A pedido do autor, retorna o formato de HQ em quadros sequenciais variados: 76 páginas com múltiplos quadros e somente três páginas de impacto (1469,1512,1520). Intimidade adulta termina fora de cena. Reconciliação parcial com Bram, estudos com limites e romance Caio/Sere precedem Aram. Nima tem contrato próprio e rota oeste; equipe viaja por outra estrada. Faminto contido por duas barreiras sem invadir a galeria funda. Ilyan aprende a interromper o fogo corporal. Carta queimada confirma presença passada de Mira e tentativa de retorno, sem paradeiro atual. Runa e Líria continuam rivais."
+    "HQ1464–1542 conclui arco10, dias649–692, livroII58–74. A pedido do autor, retorna o formato de HQ em quadros sequenciais variados: 76 páginas com múltiplos quadros e somente três páginas de impacto (1469,1512,1520). Intimidade adulta termina fora de cena. Reconciliação parcial com Bram, estudos com limites e romance Caio/Sere precedem Aram. Nima tem contrato próprio e rota oeste; equipe viaja por outra estrada. Faminto contido por duas barreiras sem invadir a galeria funda. Ilyan aprende a interromper o fogo corporal. Carta queimada confirma presença passada de Mira e tentativa de retorno, sem paradeiro atual. Runa e Líria continuam rivais.",
+    "Livro II, arco 11, capítulos 75–98, páginas 582–651: parte de Aram no dia 693. Nima recebe o saldo, viaja pela rota oeste; Ilyan e Runa voltam à Casa no dia 698 e chegam a Pedra-Mansa no dia 704, depois da carta. Bram lembra as ferragens; Irsa liga os trenós às famílias que fugiam de dívidas e conduz o grupo por rota guardada do Entremeio. Deslizamento divide caravana. Caio usa ar existente para avisar; Tovo limita a ampliação a um fôlego, protege o ombro direito; Runa atende Olva e Nima trabalha a escora. Líria e Runa divergem sobre o registro da venda de itinerários. Cópia pública resguarda famílias, original fica sob selo local. Mira é encontrada fisicamente, admite que recuou para proteger a travessia e que deixou passar uma chance segura de avisar a família. O reencontro não resolve o vínculo com Bram. Nima segue seu contrato; Runa e Ilyan escolhem quanto ficar. Ilyan e Mira escrevem para Bram. HQ 1543–1554 adapta somente capítulo 75, dias 693–698; arco em andamento na HQ."
   ],
   "comic_layout_rules": [
     "As artes das páginas 1–25 existentes ficam intactas. Os balões das páginas 13–25 podem mudar para retirar a faixa opaca. A partir da página 26, variar a composição conforme o ritmo: quadro amplo, divisões assimétricas, vinhetas menores e páginas de impacto. Não repetir três faixas horizontais como molde fixo.",
