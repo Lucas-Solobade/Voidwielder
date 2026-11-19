@@ -111,6 +111,9 @@ ARC_TEN["arc"]["chapters"].extend(
 ARC_TEN["pages"].extend(page for page in ARC_TEN_NEXT["pages"] if page["number"] <= ARC_TEN_PUBLISHED_END)
 ARC_TEN["arc"]["status"] = "Concluído" if ARC_TEN_PUBLISHED_END == 1542 else "Em andamento"
 ARC_ELEVEN = json.loads((STORY_DIR / "arc11-1543-1554.json").read_text(encoding="utf-8"))
+ARC_ELEVEN_CONTINUED = json.loads((STORY_DIR / "arc11-1555-1578.json").read_text(encoding="utf-8"))
+ARC_ELEVEN["arc"]["chapters"].extend(ARC_ELEVEN_CONTINUED["chapters"])
+ARC_ELEVEN["pages"].extend(ARC_ELEVEN_CONTINUED["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 

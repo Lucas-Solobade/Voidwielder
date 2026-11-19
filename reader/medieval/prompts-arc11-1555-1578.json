@@ -1,0 +1,816 @@
+[
+  {
+    "number": 1555,
+    "title": "A carta na forja",
+    "time": "Dia 699 · manhã",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Top wide: Bram alone at his forge beside warm furnace, holding ordinary posted parchment letter, stunned but composed. Lower left: close-up letter resting by cold tongs. Lower right: Bram pulls a kitchen chair away from table, emotion in full clear face.",
+    "layout": "Top wide: Bram alone at his forge beside warm furnace, holding ordinary posted parchment letter, stunned but composed. Lower left: close-up letter resting by cold tongs. Lower right: Bram pulls a kitchen chair away from table, emotion in full clear face.",
+    "narration": "A posta chegou a Pedra-Mansa no dia 699.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. EXACTLY 3panels: Top wide: Bram alone at his forge beside warm furnace, holding ordinary posted parchment letter, stunned but composed. Lower left: close-up letter resting by cold tongs. Lower right: Bram pulls a kitchen chair away from table, emotion in full clear face. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png"
+    ]
+  },
+  {
+    "number": 1556,
+    "title": "Cinco dias entre as tábuas",
+    "time": "Dia 699–704 · passagem do tempo",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram",
+      "ilyan",
+      "runa"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Four staggered panels. Upper left letter between two clean wooden boards on kitchen table. Upper right Bram lifts upper board to reread. Middle wide Ilyan and Runa walking ordinary winding rural road toward Pedra-Mansa, small figures, Runa sleeves down. Bottom wide arrival view forge stone cottage chimney, Ilyan and Runa at gate, warm afternoon. No magical travel.",
+    "layout": "Four staggered panels. Upper left letter between two clean wooden boards on kitchen table. Upper right Bram lifts upper board to reread. Middle wide Ilyan and Runa walking ordinary winding rural road toward Pedra-Mansa, small figures, Runa sleeves down. Bottom wide arrival view forge stone cottage chimney, Ilyan and Runa at gate, warm afternoon. No magical travel.",
+    "narration": "Durante cinco dias, Bram voltava à carta. No dia 704, Ilyan e Runa chegaram.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. EXACTLY 4panels: Four staggered panels. Upper left letter between two clean wooden boards on kitchen table. Upper right Bram lifts upper board to reread. Middle wide Ilyan and Runa walking ordinary winding rural road toward Pedra-Mansa, small figures, Runa sleeves down. Bottom wide arrival view forge stone cottage chimney, Ilyan and Runa at gate, warm afternoon. No magical travel. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png"
+    ]
+  },
+  {
+    "number": 1557,
+    "title": "O pai junto à pia",
+    "time": "Dia 704 · tarde",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram",
+      "ilyan",
+      "runa"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Top wide Bram at stone sink scraping rust from plain buckle, dark-haired son and Runa arriving at doorway. Two lower panels: silent son's strained face; then Bram sets scraper aside with compact balloon in free wall at his side. Runa sleeves down, tattoo concealed.",
+    "layout": "Top wide Bram at stone sink scraping rust from plain buckle, dark-haired son and Runa arriving at doorway. Two lower panels: silent son's strained face; then Bram sets scraper aside with compact balloon in free wall at his side. Runa sleeves down, tattoo concealed.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Bram",
+        "text": "Eu tive tempo de pensar. Não me fez mais rápido para falar.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. EXACTLY 3panels: Top wide Bram at stone sink scraping rust from plain buckle, dark-haired son and Runa arriving at doorway. Two lower panels: silent son's strained face; then Bram sets scraper aside with compact balloon in free wall at his side. Runa sleeves down, tattoo concealed. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Bram: \"Eu tive tempo de pensar. Não me fez mais rápido para falar.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png"
+    ]
+  },
+  {
+    "number": 1558,
+    "title": "Dois trenós de carga",
+    "time": "Dia 704 · tarde",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram",
+      "ilyan",
+      "runa"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Four panels with central large kitchen-table panel: stone hearth on left, window right, door to forge at rear, staircase by rear wall. Ilyan left seat, Bram right, Runa far seat sleeves down. Bram sketches two cargo sled outlines on board; close detail curved safe metal corner; son's eyes study it; Bram explains in large panel balloon over empty wall beside him. No flashback characters.",
+    "layout": "Four panels with central large kitchen-table panel: stone hearth on left, window right, door to forge at rear, staircase by rear wall. Ilyan left seat, Bram right, Runa far seat sleeves down. Bram sketches two cargo sled outlines on board; close detail curved safe metal corner; son's eyes study it; Bram explains in large panel balloon over empty wall beside him. No flashback characters.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Bram",
+        "text": "Mira pediu ferragens para dois trenós de carga.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. EXACTLY 4panels: Four panels with central large kitchen-table panel: stone hearth on left, window right, door to forge at rear, staircase by rear wall. Ilyan left seat, Bram right, Runa far seat sleeves down. Bram sketches two cargo sled outlines on board; close detail curved safe metal corner; son's eyes study it; Bram explains in large panel balloon over empty wall beside him. No flashback characters. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Bram: \"Mira pediu ferragens para dois trenós de carga.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png"
+    ]
+  },
+  {
+    "number": 1559,
+    "title": "Os nomes que faltam",
+    "time": "Dia 704 · tarde",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram",
+      "ilyan"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Tall left: Bram opens old forge ledger at kitchen table, son seated across lower left. Right upper: ledger has sparse accounts, nonspecific handwriting. Right lower Bram looks down, both hands naturally resting on closed ledger, balloon beside head in free wall. His right eyebrow scar reference, clean no duplicate hands.",
+    "layout": "Tall left: Bram opens old forge ledger at kitchen table, son seated across lower left. Right upper: ledger has sparse accounts, nonspecific handwriting. Right lower Bram looks down, both hands naturally resting on closed ledger, balloon beside head in free wall. His right eyebrow scar reference, clean no duplicate hands.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Bram",
+        "text": "Ela pediu que eu deixasse os nomes fora do livro.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. EXACTLY 3panels: Tall left: Bram opens old forge ledger at kitchen table, son seated across lower left. Right upper: ledger has sparse accounts, nonspecific handwriting. Right lower Bram looks down, both hands naturally resting on closed ledger, balloon beside head in free wall. His right eyebrow scar reference, clean no duplicate hands. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Bram: \"Ela pediu que eu deixasse os nomes fora do livro.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ]
+  },
+  {
+    "number": 1560,
+    "title": "A pergunta guardada",
+    "time": "Dia 704 · tarde",
+    "place": "pedra-mansa",
+    "cast": [
+      "ilyan",
+      "bram"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Three unequal panels: son facing father across kitchen table, one loose rounded metal fitting between them. Small middle object close-up fitting, hands withdrawn. Broad bottom Bram face left at 1/3 width, empty wall right for balloon, sober remorse. No magical glow.",
+    "layout": "Three unequal panels: son facing father across kitchen table, one loose rounded metal fitting between them. Small middle object close-up fitting, hands withdrawn. Broad bottom Bram face left at 1/3 width, empty wall right for balloon, sober remorse. No magical glow.",
+    "narration": "Ilyan quis saber por que só ouvia aquilo agora.",
+    "lines": [
+      {
+        "speaker": "Bram",
+        "text": "Eu chamava de trabalho toda vez que a lembrança ameaçava virar pergunta.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. EXACTLY 3panels: Three unequal panels: son facing father across kitchen table, one loose rounded metal fitting between them. Small middle object close-up fitting, hands withdrawn. Broad bottom Bram face left at 1/3 width, empty wall right for balloon, sober remorse. No magical glow. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Bram: \"Eu chamava de trabalho toda vez que a lembrança ameaçava virar pergunta.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/individual/bram.png"
+    ]
+  },
+  {
+    "number": 1561,
+    "title": "A marca do destinatário",
+    "time": "Dia 704 · fim da tarde",
+    "place": "pedra-mansa",
+    "cast": [
+      "runa",
+      "bram",
+      "ilyan"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Two small upper panels Runa sleeves down asks Bram at kitchen window, then Bram points to old paper receipt. Large middle macro receipt with clear small oval mark containing exactly two crossed sewing needles, faded postage date and ink stain, no readable words. Bottom Runa copies receipt data with quill at right-window desk, sleeves down, Ilyan watches at a distance. Runa balloon beside her only in first panel, never on face.",
+    "layout": "Two small upper panels Runa sleeves down asks Bram at kitchen window, then Bram points to old paper receipt. Large middle macro receipt with clear small oval mark containing exactly two crossed sewing needles, faded postage date and ink stain, no readable words. Bottom Runa copies receipt data with quill at right-window desk, sleeves down, Ilyan watches at a distance. Runa balloon beside her only in first panel, never on face.",
+    "narration": "O recibo ainda guardava o destino da peça enviada à selaria.",
+    "lines": [
+      {
+        "speaker": "Runa",
+        "text": "Os trenós voltaram para conserto?",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. EXACTLY 4panels: Two small upper panels Runa sleeves down asks Bram at kitchen window, then Bram points to old paper receipt. Large middle macro receipt with clear small oval mark containing exactly two crossed sewing needles, faded postage date and ink stain, no readable words. Bottom Runa copies receipt data with quill at right-window desk, sleeves down, Ilyan watches at a distance. Runa balloon beside her only in first panel, never on face. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Runa: \"Os trenós voltaram para conserto?\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ]
+  },
+  {
+    "number": 1562,
+    "title": "A panela para três",
+    "time": "Dia 704 · anoitecer",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram",
+      "ilyan",
+      "runa"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 76,
+    "format": "comic",
+    "scene": "Three panels asymmetrical: top wide Bram lighting oil lamp, pot already set for three bowls at kitchen table, Runa by window. Lower left Bram seated beside lamplight with his balloon to his right. Lower right son's softened face with separate answer balloon to side, no tail crossing. Kitchen geography hearthleft windowright stairsrear.",
+    "layout": "Three panels asymmetrical: top wide Bram lighting oil lamp, pot already set for three bowls at kitchen table, Runa by window. Lower left Bram seated beside lamplight with his balloon to his right. Lower right son's softened face with separate answer balloon to side, no tail crossing. Kitchen geography hearthleft windowright stairsrear.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Bram",
+        "text": "Fica para jantar?",
+        "balloon": {
+          "embedded": true
+        }
+      },
+      {
+        "speaker": "Ilyan",
+        "text": "Fico. Amanhã você me mostra como era o recorte.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. EXACTLY 3panels: Three panels asymmetrical: top wide Bram lighting oil lamp, pot already set for three bowls at kitchen table, Runa by window. Lower left Bram seated beside lamplight with his balloon to his right. Lower right son's softened face with separate answer balloon to side, no tail crossing. Kitchen geography hearthleft windowright stairsrear. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Bram: \"Fica para jantar?\"; Ilyan: \"Fico. Amanhã você me mostra como era o recorte.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png"
+    ]
+  },
+  {
+    "number": 1563,
+    "title": "O trabalho antes da visita",
+    "time": "Dia 705 · manhã",
+    "place": "pedra-mansa",
+    "cast": [
+      "nima"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Four varied panels. Nima unloading her rolling tool cart outside her own small workshop opposite Bram forge. Details stored metal calipers on low rack; gnome folds cloth. Final wide Nima closes tiny tool drawer and looks across street toward familiar forge. Full-body panel establishes her90cm adult scale with human sized doorway towering over her. Fully clothed mature woman.",
+    "layout": "Four varied panels. Nima unloading her rolling tool cart outside her own small workshop opposite Bram forge. Details stored metal calipers on low rack; gnome folds cloth. Final wide Nima closes tiny tool drawer and looks across street toward familiar forge. Full-body panel establishes her90cm adult scale with human sized doorway towering over her. Fully clothed mature woman.",
+    "narration": "Nima terminou de guardar os calibres antes de atravessar a rua.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 4panels: Four varied panels. Nima unloading her rolling tool cart outside her own small workshop opposite Bram forge. Details stored metal calipers on low rack; gnome folds cloth. Final wide Nima closes tiny tool drawer and looks across street toward familiar forge. Full-body panel establishes her90cm adult scale with human sized doorway towering over her. Fully clothed mature woman. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/nima.png"
+    ]
+  },
+  {
+    "number": 1564,
+    "title": "Primeiro, vocês",
+    "time": "Dia 705 · manhã",
+    "place": "pedra-mansa",
+    "cast": [
+      "nima",
+      "ilyan"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Top wide Ilyan seated low shaving a wood sliver at outdoor forge bench, Nima adult90cm stands on ground beside him, top of her head near seated shoulder. Lower left son puts tool down then asks in own balloon. Lower right Nima smiling on low stool, own balloon in empty wall. No touching sharp tool. Clearly tiny adult gnome.",
+    "layout": "Top wide Ilyan seated low shaving a wood sliver at outdoor forge bench, Nima adult90cm stands on ground beside him, top of her head near seated shoulder. Lower left son puts tool down then asks in own balloon. Lower right Nima smiling on low stool, own balloon in empty wall. No touching sharp tool. Clearly tiny adult gnome.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Ilyan",
+        "text": "Você veio por trabalho?",
+        "balloon": {
+          "embedded": true
+        }
+      },
+      {
+        "speaker": "Nima",
+        "text": "Primeiro vim ver vocês. O trabalho eu ouvi da janela.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. EXACTLY 3panels: Top wide Ilyan seated low shaving a wood sliver at outdoor forge bench, Nima adult90cm stands on ground beside him, top of her head near seated shoulder. Lower left son puts tool down then asks in own balloon. Lower right Nima smiling on low stool, own balloon in empty wall. No touching sharp tool. Clearly tiny adult gnome. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Ilyan: \"Você veio por trabalho?\"; Nima: \"Primeiro vim ver vocês. O trabalho eu ouvi da janela.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/nima.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ]
+  },
+  {
+    "number": 1565,
+    "title": "A curva lembrada",
+    "time": "Dia 705 · manhã",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram",
+      "nima",
+      "ilyan"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Top wide Bram brings sample box to outdoor workbench. Middle two panels close-up sample curved metal and wood drawing curve, then Nima adult on stable footstool reaches bench and compares both, only one pair arms. Bottom wide Ilyan puts pencil beside traced safe corner, Bram pointing with single index, Nima watches. No speech.",
+    "layout": "Top wide Bram brings sample box to outdoor workbench. Middle two panels close-up sample curved metal and wood drawing curve, then Nima adult on stable footstool reaches bench and compares both, only one pair arms. Bottom wide Ilyan puts pencil beside traced safe corner, Bram pointing with single index, Nima watches. No speech.",
+    "narration": "Bram mostrou a curva que lembrava. Nima não prometeu reconhecê-la em qualquer oficina.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. EXACTLY 4panels: Top wide Bram brings sample box to outdoor workbench. Middle two panels close-up sample curved metal and wood drawing curve, then Nima adult on stable footstool reaches bench and compares both, only one pair arms. Bottom wide Ilyan puts pencil beside traced safe corner, Bram pointing with single index, Nima watches. No speech. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/nima.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ]
+  },
+  {
+    "number": 1566,
+    "title": "A régua de Irsa",
+    "time": "Dia 705 · manhã",
+    "place": "pedra-mansa",
+    "cast": [
+      "nima",
+      "ilyan",
+      "bram"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Tall left Nima seated on work stool telling Ilyan about a recent repair, Bram behindbench. Right upper an object-only memory inset showing worn wooden saddlery ruler with small oval containing two crossed needles, NOmagicalglow. Right lower Nima sets quill beside folded sheet. Her single balloon in tall left empty pale wall right of her head. Maintain tinyadultscale.",
+    "layout": "Tall left Nima seated on work stool telling Ilyan about a recent repair, Bram behindbench. Right upper an object-only memory inset showing worn wooden saddlery ruler with small oval containing two crossed needles, NOmagicalglow. Right lower Nima sets quill beside folded sheet. Her single balloon in tall left empty pale wall right of her head. Maintain tinyadultscale.",
+    "narration": "Nima lembrou de uma cliente de Aram.",
+    "lines": [
+      {
+        "speaker": "Nima",
+        "text": "Irsa tinha essas duas agulhas na régua. Posso escrever para ela.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. EXACTLY 3panels: Tall left Nima seated on work stool telling Ilyan about a recent repair, Bram behindbench. Right upper an object-only memory inset showing worn wooden saddlery ruler with small oval containing two crossed needles, NOmagicalglow. Right lower Nima sets quill beside folded sheet. Her single balloon in tall left empty pale wall right of her head. Maintain tinyadultscale. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Nima: \"Irsa tinha essas duas agulhas na régua. Posso escrever para ela.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/nima.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/individual/bram.png"
+    ]
+  },
+  {
+    "number": 1567,
+    "title": "Enquanto a tinta seca",
+    "time": "Dia 705 · meio-dia",
+    "place": "pedra-mansa",
+    "cast": [
+      "nima",
+      "runa"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Four panels: Nima adult on high stable workstool writing short ordinary note at desk; ink drying and capped inkwell object detail; Runa stands in doorway with small market basket sleeves down; bottom wide Runa and tinyNima walk cobbled street together beneath wet eaves, no touching, fully clothed.",
+    "layout": "Four panels: Nima adult on high stable workstool writing short ordinary note at desk; ink drying and capped inkwell object detail; Runa stands in doorway with small market basket sleeves down; bottom wide Runa and tinyNima walk cobbled street together beneath wet eaves, no touching, fully clothed.",
+    "narration": "O bilhete seguiu por posta. Runa e Nima foram buscar ameixas.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. EXACTLY 4panels: Four panels: Nima adult on high stable workstool writing short ordinary note at desk; ink drying and capped inkwell object detail; Runa stands in doorway with small market basket sleeves down; bottom wide Runa and tinyNima walk cobbled street together beneath wet eaves, no touching, fully clothed. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/nima.png",
+      "reader/medieval/references/runa-sheet.png"
+    ]
+  },
+  {
+    "number": 1568,
+    "title": "O que a viagem guardou",
+    "time": "Dia 705 · tarde",
+    "place": "pedra-mansa",
+    "cast": [
+      "runa",
+      "nima"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Top wide two adult women under empty market awning after rain, basket of purple plums on bench. Runa sits on low bench next to adultgnome standing on same pavement, clear90cmscale. Lower left close on Nima mature face, asks short balloon beside. Lower right Runa pale straight blackbangs, emotional but composed, face entirelyclear balloonbeside. Runa sleevesdown.",
+    "layout": "Top wide two adult women under empty market awning after rain, basket of purple plums on bench. Runa sits on low bench next to adultgnome standing on same pavement, clear90cmscale. Lower left close on Nima mature face, asks short balloon beside. Lower right Runa pale straight blackbangs, emotional but composed, face entirelyclear balloonbeside. Runa sleevesdown.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Nima",
+        "text": "Você dormiu no caminho?",
+        "balloon": {
+          "embedded": true
+        }
+      },
+      {
+        "speaker": "Runa",
+        "text": "Dormi. Acordei antes de ele perceber que estava chorando.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 3panels: Top wide two adult women under empty market awning after rain, basket of purple plums on bench. Runa sits on low bench next to adultgnome standing on same pavement, clear90cmscale. Lower left close on Nima mature face, asks short balloon beside. Lower right Runa pale straight blackbangs, emotional but composed, face entirelyclear balloonbeside. Runa sleevesdown. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Nima: \"Você dormiu no caminho?\"; Runa: \"Dormi. Acordei antes de ele perceber que estava chorando.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/nima.png"
+    ]
+  },
+  {
+    "number": 1569,
+    "title": "Sob a varanda",
+    "time": "Dia 705 · tarde",
+    "place": "pedra-mansa",
+    "cast": [
+      "runa",
+      "nima"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Three panels tender adult romance fully clothed. Top wide Runa sitting LOW stone bench, tiny adult Nima standing on ground alongside, nose rain droplet, Runa smiles. Lower left Nima gently kisses Runa LEFT wrist, sleeve pushed back just enough to show wristbands on anatomicalLEFT arm, shoulder to elbow to wrist connected naturally. Lower right Runa leans down toward mature Nima for soft closed-mouth kiss, bust portraits with clear two faces, no grasping hands crossing. No nudity, no erotic framing. All adult canonical faces.",
+    "layout": "Three panels tender adult romance fully clothed. Top wide Runa sitting LOW stone bench, tiny adult Nima standing on ground alongside, nose rain droplet, Runa smiles. Lower left Nima gently kisses Runa LEFT wrist, sleeve pushed back just enough to show wristbands on anatomicalLEFT arm, shoulder to elbow to wrist connected naturally. Lower right Runa leans down toward mature Nima for soft closed-mouth kiss, bust portraits with clear two faces, no grasping hands crossing. No nudity, no erotic framing. All adult canonical faces.",
+    "narration": "A chuva presa no telhado acabou de cair.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 3panels: Three panels tender adult romance fully clothed. Top wide Runa sitting LOW stone bench, tiny adult Nima standing on ground alongside, nose rain droplet, Runa smiles. Lower left Nima gently kisses Runa LEFT wrist, sleeve pushed back just enough to show wristbands on anatomicalLEFT arm, shoulder to elbow to wrist connected naturally. Lower right Runa leans down toward mature Nima for soft closed-mouth kiss, bust portraits with clear two faces, no grasping hands crossing. No nudity, no erotic framing. All adult canonical faces. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/nima.png"
+    ]
+  },
+  {
+    "number": 1570,
+    "title": "O quarto de cima",
+    "time": "Dia 705 · noite",
+    "place": "pedra-mansa",
+    "cast": [
+      "bram",
+      "ilyan",
+      "runa",
+      "nima"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 77,
+    "format": "comic",
+    "scene": "Topleft object detail two folded spare blankets on staircase. Topright Ilyan opening bedroom window (stone room sloped wooden roof, bed against back wall) fully clothed charcoalshirt. Middle wide Runa and tinyadultNima sit on large bed fully clothed, talk whileIlyan listens near window. Bottom wide allthree recline sidebyside under cream quilt shoulders clothed, Ilyan center,Runa left,Nima right muchsmaller mature adult face. Single Runa balloon only middlepanel beside her. Warm quiet domestic nonsexual tenderness.",
+    "layout": "Topleft object detail two folded spare blankets on staircase. Topright Ilyan opening bedroom window (stone room sloped wooden roof, bed against back wall) fully clothed charcoalshirt. Middle wide Runa and tinyadultNima sit on large bed fully clothed, talk whileIlyan listens near window. Bottom wide allthree recline sidebyside under cream quilt shoulders clothed, Ilyan center,Runa left,Nima right muchsmaller mature adult face. Single Runa balloon only middlepanel beside her. Warm quiet domestic nonsexual tenderness.",
+    "narration": "Lá embaixo, Bram ainda mexia no banco de trabalho.",
+    "lines": [
+      {
+        "speaker": "Runa",
+        "text": "Pode deitar.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Bram47 broadstronghuman tanbrownskin, longdarkhair lowtiedwithgreytemples, shortgreyblackbeard scarbyrightbrow, creamrolledsleeves heavycharcoalleatherapron. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 4panels: Topleft object detail two folded spare blankets on staircase. Topright Ilyan opening bedroom window (stone room sloped wooden roof, bed against back wall) fully clothed charcoalshirt. Middle wide Runa and tinyadultNima sit on large bed fully clothed, talk whileIlyan listens near window. Bottom wide allthree recline sidebyside under cream quilt shoulders clothed, Ilyan center,Runa left,Nima right muchsmaller mature adult face. Single Runa balloon only middlepanel beside her. Warm quiet domestic nonsexual tenderness. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Runa: \"Pode deitar.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/bram.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/nima.png"
+    ]
+  },
+  {
+    "number": 1571,
+    "title": "A resposta da selaria",
+    "time": "Dia 707 · tarde",
+    "place": "valecobre",
+    "cast": [
+      "irsa"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Top wide regional saddlery shop, Irsa woman39 weatheredsunbrownshortchestnuthairgreytemples patchedgreensleeves leatherwaistcoat alone readingNima's note beside leatherharness. Lowerleft crossedneedlesruler by openedpaper; lowerright Irsa writes response with quill beside hangingharness, faceclear. Unreadable handwritingonly. No charactersbesideIrsa.",
+    "layout": "Top wide regional saddlery shop, Irsa woman39 weatheredsunbrownshortchestnuthairgreytemples patchedgreensleeves leatherwaistcoat alone readingNima's note beside leatherharness. Lowerleft crossedneedlesruler by openedpaper; lowerright Irsa writes response with quill beside hangingharness, faceclear. Unreadable handwritingonly. No charactersbesideIrsa.",
+    "narration": "Dois dias depois, Irsa respondeu: falariam no mercado de Valecobre no dia 715, após a viagem desde Pedra-Mansa.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Irsa39 HUMANwoman sunbrownskin, shortchestnuthair ONEgreystemplelock,hazeleyes normalroundears, patchedmossgreensleeves darkbrownleatherwaistcoat browntrousers boots woodenruler. No whitebraids no elfears. EXACTLY 3panels: Top wide regional saddlery shop, Irsa woman39 weatheredsunbrownshortchestnuthairgreytemples patchedgreensleeves leatherwaistcoat alone readingNima's note beside leatherharness. Lowerleft crossedneedlesruler by openedpaper; lowerright Irsa writes response with quill beside hangingharness, faceclear. Unreadable handwritingonly. No charactersbesideIrsa. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/irsa.png"
+    ]
+  },
+  {
+    "number": 1572,
+    "title": "A estrada até o mercado",
+    "time": "Dia 710–715 · viagem e chegada",
+    "place": "valecobre",
+    "cast": [
+      "nima",
+      "ilyan",
+      "runa"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Four sequential comic panels: wide trio travelling ordinary rural road, Ilyan and Runa full human height and tiny adult90cm Nima beside them pulling her small toolcart. Two middle small panels of rainy road wheel tracks, then three separate occupied bedrolls under wayside shelter fullyclothed. Broadbottom dawn day715 in Valecobre, Nima arrivesfirst at quietmarketstall humanheightcounter toweringaboveher, IlyanandRunawaiteradjacenttable inbackground. Runa sleevesfullydown. Clearlyfive days of ordinarytravel, NOT teleportation.",
+    "layout": "Four sequential comic panels: wide trio travelling ordinary rural road, Ilyan and Runa full human height and tiny adult90cm Nima beside them pulling her small toolcart. Two middle small panels of rainy road wheel tracks, then three separate occupied bedrolls under wayside shelter fullyclothed. Broadbottom dawn day715 in Valecobre, Nima arrivesfirst at quietmarketstall humanheightcounter toweringaboveher, IlyanandRunawaiteradjacenttable inbackground. Runa sleevesfullydown. Clearlyfive days of ordinarytravel, NOT teleportation.",
+    "narration": "A viagem pela estrada comum durou cinco dias. Nima chegou primeiro à barraca.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case illustration-story. Finished portrait comic page1024x1536, realisticfineinkpainterlymedievalfantasy matchingreferences copperwarm slateindigo narrowivorygutters. Exactly FOUR sequentialpanels. Identityreferencesonly nevercopycollage. Nima26 adultGNOMEwoman90cmhalfhumansize,matureface,coppercurlybobfrecklespointedears mosscapbrassgogglestealvestcreamsleeves toolbelt. Ilyan18adultman oliveclean-shavenlongblackWAVYhaircentreprt charcoalshirtindigovest. Runa18adultwomanpale straightlongblackhairbluntbangssilverseptum plumcharcoalclothes sleevesDOWNtattooCONCEALED. Four sequential comic panels: wide trio travelling ordinary rural road, Ilyan and Runa full human height and tiny adult90cm Nima beside them pulling her small toolcart. Two middle small panels of rainy road wheel tracks, then three separate occupied bedrolls under wayside shelter fullyclothed. Broadbottom dawn day713 in Valecobre, Nima arrivesfirst at quietmarketstall humanheightcounter toweringaboveher, IlyanandRunawaiteradjacenttable inbackground. Runa sleevesfullydown. Clearlyfive days of ordinarytravel, NOT teleportation. No text no balloons. Eachpersonexactlyonceperpanel twoarmsandtwohandsanatomicallyconnected.",
+    "references": [
+      "reader/medieval/references/individual/nima.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png"
+    ]
+  },
+  {
+    "number": 1573,
+    "title": "O recorte visto de cima",
+    "time": "Dia 715 · manhã",
+    "place": "valecobre",
+    "cast": [
+      "irsa",
+      "nima"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Wide top two adult women at low marketbench humanIrsa sitting and tinyNima standing. Irsa rotates drawing of curvedsledfitting. Middle close detail rotated sketchwithsimplecurvedflange noletters. Bottom Irsa chestportraitleft withfreecanvastorightforballoon, shelooksdown atpaper. Normalmechanicalnotmagical.",
+    "layout": "Wide top two adult women at low marketbench humanIrsa sitting and tinyNima standing. Irsa rotates drawing of curvedsledfitting. Middle close detail rotated sketchwithsimplecurvedflange noletters. Bottom Irsa chestportraitleft withfreecanvastorightforballoon, shelooksdown atpaper. Normalmechanicalnotmagical.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Irsa",
+        "text": "Isso prende a lona quando alguém precisa passar deitado.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Irsa39 HUMANwoman sunbrownskin, shortchestnuthair ONEgreystemplelock,hazeleyes normalroundears, patchedmossgreensleeves darkbrownleatherwaistcoat browntrousers boots woodenruler. No whitebraids no elfears. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 3panels: Wide top two adult women at low marketbench humanIrsa sitting and tinyNima standing. Irsa rotates drawing of curvedsledfitting. Middle close detail rotated sketchwithsimplecurvedflange noletters. Bottom Irsa chestportraitleft withfreecanvastorightforballoon, shelooksdown atpaper. Normalmechanicalnotmagical. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Irsa: \"Isso prende a lona quando alguém precisa passar deitado.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/nima.png"
+    ]
+  },
+  {
+    "number": 1574,
+    "title": "Alguns",
+    "time": "Dia 715 · manhã",
+    "place": "valecobre",
+    "cast": [
+      "nima",
+      "irsa"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Top small Nima matureadultfaceaskingquestion, balloon adjacent blankcanvas. Middlewide Irsa turnsheadtocheck street outside quietmarketawning; Nima inforegroundtiny. Bottom closeIrsa39soberface, separatecompactballoonbeside. No injuredpeople or flashback. Lightmorning marketcopper/slate.",
+    "layout": "Top small Nima matureadultfaceaskingquestion, balloon adjacent blankcanvas. Middlewide Irsa turnsheadtocheck street outside quietmarketawning; Nima inforegroundtiny. Bottom closeIrsa39soberface, separatecompactballoonbeside. No injuredpeople or flashback. Lightmorning marketcopper/slate.",
+    "narration": "",
+    "lines": [
+      {
+        "speaker": "Nima",
+        "text": "Feridos?",
+        "balloon": {
+          "embedded": true
+        }
+      },
+      {
+        "speaker": "Irsa",
+        "text": "Alguns.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. Irsa39 HUMANwoman sunbrownskin, shortchestnuthair ONEgreystemplelock,hazeleyes normalroundears, patchedmossgreensleeves darkbrownleatherwaistcoat browntrousers boots woodenruler. No whitebraids no elfears. EXACTLY 3panels: Top small Nima matureadultfaceaskingquestion, balloon adjacent blankcanvas. Middlewide Irsa turnsheadtocheck street outside quietmarketawning; Nima inforegroundtiny. Bottom closeIrsa39soberface, separatecompactballoonbeside. No injuredpeople or flashback. Lightmorning marketcopper/slate. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Nima: \"Feridos?\"; Irsa: \"Alguns.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/nima.png",
+      "reader/medieval/references/individual/irsa.png"
+    ]
+  },
+  {
+    "number": 1575,
+    "title": "Os dois que esperavam",
+    "time": "Dia 715 · manhã",
+    "place": "valecobre",
+    "cast": [
+      "nima",
+      "irsa",
+      "ilyan",
+      "runa"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Four comicpanels variedsizes. Topwide Ilyan andRuna waiting at adjacentmarkettable withbasket,Runa sleevesdown. Small middleleft Nima wavesonceatthem tinyadultwholefigure; middleright Irsa watchesquietly. Broadbottom IlyanRuna stepbesidelowtablewithtinyNimaandseatedIrsa. Exactlyfourforegroundpeopleoneofeach, allcanonicalfaces. No words.",
+    "layout": "Four comicpanels variedsizes. Topwide Ilyan andRuna waiting at adjacentmarkettable withbasket,Runa sleevesdown. Small middleleft Nima wavesonceatthem tinyadultwholefigure; middleright Irsa watchesquietly. Broadbottom IlyanRuna stepbesidelowtablewithtinyNimaandseatedIrsa. Exactlyfourforegroundpeopleoneofeach, allcanonicalfaces. No words.",
+    "narration": "Nima chamou Ilyan e Runa.",
+    "lines": [],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. Irsa39 HUMANwoman sunbrownskin, shortchestnuthair ONEgreystemplelock,hazeleyes normalroundears, patchedmossgreensleeves darkbrownleatherwaistcoat browntrousers boots woodenruler. No whitebraids no elfears. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. EXACTLY 4panels: Four comicpanels variedsizes. Topwide Ilyan andRuna waiting at adjacentmarkettable withbasket,Runa sleevesdown. Small middleleft Nima wavesonceatthem tinyadultwholefigure; middleright Irsa watchesquietly. Broadbottom IlyanRuna stepbesidelowtablewithtinyNimaandseatedIrsa. Exactlyfourforegroundpeopleoneofeach, allcanonicalfaces. No words. NO speechballoons or readabletext. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/nima.png",
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png"
+    ]
+  },
+  {
+    "number": 1576,
+    "title": "Onde o papel está",
+    "time": "Dia 715 · manhã",
+    "place": "valecobre",
+    "cast": [
+      "irsa",
+      "ilyan",
+      "runa",
+      "nima"
+    ],
+    "panel_count": 3,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Largeupperpanel Irsa at left nearstallpost asks Ilyan whoisright whileRunaandtinyNima listen a littleback; keepfaces clear reservecanvasbetweenIrsaandIlyanforheroneballoon shorttaillefttoIrsa. Lowerleft Ilyan countsplacesonfingerthenstops, exactlytwohands. LowerrightIrsa'scarefuleyes, shortchestnuthairgreylock, nolettering.",
+    "layout": "Largeupperpanel Irsa at left nearstallpost asks Ilyan whoisright whileRunaandtinyNima listen a littleback; keepfaces clear reservecanvasbetweenIrsaandIlyanforheroneballoon shorttaillefttoIrsa. Lowerleft Ilyan countsplacesonfingerthenstops, exactlytwohands. LowerrightIrsa'scarefuleyes, shortchestnuthairgreylock, nolettering.",
+    "narration": "Ilyan percebeu que Irsa contava também os lugares onde o papel podia ser encontrado.",
+    "lines": [
+      {
+        "speaker": "Irsa",
+        "text": "Quem mais tem a cópia?",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Irsa39 HUMANwoman sunbrownskin, shortchestnuthair ONEgreystemplelock,hazeleyes normalroundears, patchedmossgreensleeves darkbrownleatherwaistcoat browntrousers boots woodenruler. No whitebraids no elfears. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 3panels: Largeupperpanel Irsa at left nearstallpost asks Ilyan whoisright whileRunaandtinyNima listen a littleback; keepfaces clear reservecanvasbetweenIrsaandIlyanforheroneballoon shorttaillefttoIrsa. Lowerleft Ilyan countsplacesonfingerthenstops, exactlytwohands. LowerrightIrsa'scarefuleyes, shortchestnuthairgreylock, nolettering. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Irsa: \"Quem mais tem a cópia?\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/nima.png"
+    ]
+  },
+  {
+    "number": 1577,
+    "title": "A travessia guardada",
+    "time": "Dia 715 · manhã",
+    "place": "valecobre",
+    "cast": [
+      "irsa",
+      "ilyan",
+      "runa",
+      "nima"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Four distinctpanels. Upperwide Irsa seated undercanvaswithsame3visitors, Irsa balloonoverfreecanvasbesideherhead. Middleleft simplemapofrivercrossing/guardpostobjectdetailNOtext. Middleright Ilyan listenssoberdarkeyescurls. Lowerwide Irsa addressesvisitors, secondballoonnexttoherface openclothspace. ONLYIrsa speaks bothballoons.",
+    "layout": "Four distinctpanels. Upperwide Irsa seated undercanvaswithsame3visitors, Irsa balloonoverfreecanvasbesideherhead. Middleleft simplemapofrivercrossing/guardpostobjectdetailNOtext. Middleright Ilyan listenssoberdarkeyescurls. Lowerwide Irsa addressesvisitors, secondballoonnexttoherface openclothspace. ONLYIrsa speaks bothballoons.",
+    "narration": "Irsa conhecera Mira num inverno, quando viajou no assento de trás do trenó.",
+    "lines": [
+      {
+        "speaker": "Irsa",
+        "text": "Precisam de autorização dos guias e dos guardiões.",
+        "balloon": {
+          "embedded": true
+        }
+      },
+      {
+        "speaker": "Irsa",
+        "text": "Se a Casa vier sem combinar, o pedido acaba aqui.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Irsa39 HUMANwoman sunbrownskin, shortchestnuthair ONEgreystemplelock,hazeleyes normalroundears, patchedmossgreensleeves darkbrownleatherwaistcoat browntrousers boots woodenruler. No whitebraids no elfears. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Runa human woman adult18, pale coolskin ovalface darkalmond eyes silver SEPTUMring, verylong STRAIGHT blackhair BLUNTstraightbangs. Plumcharcoalmedievaldress. Tattoo ONLY anatomicalLEFTarm; sleeves fullyDOWN concealingtattoo unless explicitly requested wristdetail. No tattoo onrightarm. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 4panels: Four distinctpanels. Upperwide Irsa seated undercanvaswithsame3visitors, Irsa balloonoverfreecanvasbesideherhead. Middleleft simplemapofrivercrossing/guardpostobjectdetailNOtext. Middleright Ilyan listenssoberdarkeyescurls. Lowerwide Irsa addressesvisitors, secondballoonnexttoherface openclothspace. ONLYIrsa speaks bothballoons. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Irsa: \"Precisam de autorização dos guias e dos guardiões.\"; Irsa: \"Se a Casa vier sem combinar, o pedido acaba aqui.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/nima.png"
+    ]
+  },
+  {
+    "number": 1578,
+    "title": "O preço de saber",
+    "time": "Dia 715 · tarde",
+    "place": "valecobre",
+    "cast": [
+      "ilyan",
+      "irsa",
+      "nima"
+    ],
+    "panel_count": 4,
+    "novel_volume": 2,
+    "novel_chapter": 78,
+    "format": "comic",
+    "scene": "Toprowtwo panels Ilyan atmarketstallasks withshortballoonthenIrsapaysforbruisedappleonemptycounter andanswersseparateballoon freecanvas. LowerlefttinyadultNima crouchingbesidesmallcartwheelcheckingpin, Irsa atstallbehindwritesrequest. Lower right laterlamplitlodgingIlyanalonewritingordinaryshortlettertoOrdelia. No otherreadabletext. Onepersonperresponsepanelnofacetailoverlap. Important IlyanlongblackwavyhaircleanfacevsIrsashortchestnutgreylock.",
+    "layout": "Toprowtwo panels Ilyan atmarketstallasks withshortballoonthenIrsapaysforbruisedappleonemptycounter andanswersseparateballoon freecanvas. LowerlefttinyadultNima crouchingbesidesmallcartwheelcheckingpin, Irsa atstallbehindwritesrequest. Lower right laterlamplitlodgingIlyanalonewritingordinaryshortlettertoOrdelia. No otherreadabletext. Onepersonperresponsepanelnofacetailoverlap. Important IlyanlongblackwavyhaircleanfacevsIrsashortchestnutgreylock.",
+    "narration": "O pedido aos guardiões foi escrito antes de qualquer partida.",
+    "lines": [
+      {
+        "speaker": "Ilyan",
+        "text": "Por que esconder gente numa lona?",
+        "balloon": {
+          "embedded": true
+        }
+      },
+      {
+        "speaker": "Irsa",
+        "text": "Havia quem pagasse por saber em qual carroça iam.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "lettering_baked": true,
+    "art_width": 1024,
+    "art_height": 1536,
+    "prompt": "Use case: illustration-story. New finished portrait comic page 1024x1536 for As Estradas do Crepúsculo. Fine ink detailed painterly realistic medievalfantasy as references, warmcopper light slateindigo shadows, narrowivorygutters crispblackpanelframes. NOT a singleillustration: render each specifieddistinctpanel sequentially lefttorighttoptobottom. Referenceimages are identity/styleguides ONLY, nevercopytheircharactersheetcomposition. Ilyan human man adult18, tall lean180cm olive skin clean-shaven LONG black WAVY hair centerpart, dark almond eyes, narrowstraightnose, charcoalshirt wornindigovest brownbeltboots. Irsa39 HUMANwoman sunbrownskin, shortchestnuthair ONEgreystemplelock,hazeleyes normalroundears, patchedmossgreensleeves darkbrownleatherwaistcoat browntrousers boots woodenruler. No whitebraids no elfears. Nima26 ADULT GNOME WOMAN precisely90cmtall, MATURE adultface pointedears copper CURLY BOB greenhazel eyes freckles, moss cap brassgoggles tealvest creamsleeves browntrousers toolbelt. Halfheightofhuman. Neverchild. Groundlevelfullfiguresmustpreservescale, useLOWseatsforhumanstotalkwithher. EXACTLY 4panels: Toprowtwo panels Ilyan atmarketstallasks withshortballoonthenIrsapaysforbruisedappleonemptycounter andanswersseparateballoon freecanvas. LowerlefttinyadultNima crouchingbesidesmallcartwheelcheckingpin, Irsa atstallbehindwritesrequest. Lower right laterlamplitlodgingIlyanalonewritingordinaryshortlettertoOrdelia. No otherreadabletext. Onepersonperresponsepanelnofacetailoverlap. Important IlyanlongblackwavyhaircleanfacevsIrsashortchestnutgreylock. Onlyreadabletext exactly these Portuguese speechballoons in theirnamedcharacter's ownpanel: Ilyan: \"Por que esconder gente numa lona?\"; Irsa: \"Havia quem pagasse por saber em qual carroça iam.\". Compactcreamroundballoon blacklegiblelettering each placed overemptywall/canvas BESIDE speaker, shorttail tospeaker'smouth. Nevercover face,hair,eyes,hands,oraction. Exactlytwo armsandtwohands perperson connectedshoulderelbowwrist. No duplicatedperson withinapanel,extra limbs,disembodiedhands,mirrorcopies. Varypanellayout. No pagenumberslogoswatermarks.",
+    "references": [
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/nima.png"
+    ]
+  }
+]
