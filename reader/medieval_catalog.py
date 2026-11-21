@@ -114,6 +114,9 @@ ARC_ELEVEN = json.loads((STORY_DIR / "arc11-1543-1554.json").read_text(encoding=
 ARC_ELEVEN_CONTINUED = json.loads((STORY_DIR / "arc11-1555-1578.json").read_text(encoding="utf-8"))
 ARC_ELEVEN["arc"]["chapters"].extend(ARC_ELEVEN_CONTINUED["chapters"])
 ARC_ELEVEN["pages"].extend(ARC_ELEVEN_CONTINUED["pages"])
+ARC_ELEVEN_CARAVAN = json.loads((STORY_DIR / "arc11-1579-1668.json").read_text(encoding="utf-8"))
+ARC_ELEVEN["arc"]["chapters"].extend(ARC_ELEVEN_CARAVAN["chapters"])
+ARC_ELEVEN["pages"].extend(ARC_ELEVEN_CARAVAN["pages"])
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
