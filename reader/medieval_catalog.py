@@ -117,10 +117,19 @@ ARC_ELEVEN["pages"].extend(ARC_ELEVEN_CONTINUED["pages"])
 ARC_ELEVEN_CARAVAN = json.loads((STORY_DIR / "arc11-1579-1668.json").read_text(encoding="utf-8"))
 ARC_ELEVEN["arc"]["chapters"].extend(ARC_ELEVEN_CARAVAN["chapters"])
 ARC_ELEVEN["pages"].extend(ARC_ELEVEN_CARAVAN["pages"])
+ARC_ELEVEN_RESCUE = json.loads((STORY_DIR / "arc11-1669-1708.json").read_text(encoding="utf-8"))
+ARC_ELEVEN_RESCUE_END = ARC_ELEVEN_RESCUE["published_through"]
+ARC_ELEVEN["arc"]["chapters"].extend(
+    {**chapter, "end": min(chapter["end"], ARC_ELEVEN_RESCUE_END)}
+    for chapter in ARC_ELEVEN_RESCUE["chapters"] if chapter["start"] <= ARC_ELEVEN_RESCUE_END
+)
+ARC_ELEVEN["pages"].extend(page for page in ARC_ELEVEN_RESCUE["pages"] if page["number"] <= ARC_ELEVEN_RESCUE_END)
 CANON = json.loads((STORY_DIR / "canon.json").read_text(encoding="utf-8"))
 
 
 def page_art(number: int) -> str:
+    if number in (1589, 1620):
+        return f"reader/images/medieval/page-{number}-r2.webp"
     extension = "svg" if 133 <= number <= 134 or number == 766 else "webp"
     return f"reader/images/medieval/page-{number:02}.{extension}"
 

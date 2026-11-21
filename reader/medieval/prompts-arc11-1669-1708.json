@@ -1,0 +1,1151 @@
+[
+  {
+    "number": 1669,
+    "title": "O apoio firme",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "tovo",
+      "nima"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Tovo stands on SAFE upper plateau, RIGHT shoulder protected against torso, LEFT hand indicates clean wooden brace. Adult90cm Nima kneels at wedge beside him. Detail brace against rock, final their focused separate faces.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "Conferiram a escora antes de tocar no peso.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/tovo.png",
+      "reader/medieval/references/individual/nima.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Nima is a26-year-old ADULT GNOME WOMAN exactly90cm tall, mature adult face NOT A CHILD. Copper CURLY BOB, freckles, hazelgreen eyes, POINTED EARS, moss cap BRASS GOGGLES, teal vest cream sleeves brown trousers toolbelt boots. Full body on same ground as a180cm human: top of her cap reaches human WAIST, precisely HALF human height. Use human low seats and her stable cushion/step for matching eye-level. No spontaneous human growth. Sequential scene beats: Tovo stands on SAFE upper plateau, RIGHT shoulder protected against torso, LEFT hand indicates clean wooden brace. Adult90cm Nima kneels at wedge beside him. Detail brace against rock, final their focused separate faces. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1670,
+    "title": "A corda de Sere",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "sere",
+      "runa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Sere on safe upper rock ties rescue rope to sturdy stone post. Runa checks rope around her clothed waist, then waits at safe descent step. One woman per detail panel; last distant two-person view clearly separated.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Sere segurou a corda no patamar firme.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/sere.png",
+      "reader/medieval/references/runa-sheet.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Sequential scene beats: Sere on safe upper rock ties rescue rope to sturdy stone post. Runa checks rope around her clothed waist, then waits at safe descent step. One woman per detail panel; last distant two-person view clearly separated. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1671,
+    "title": "A descida curta",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "runa",
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Runa makes short controlled descent to Olva's rock ledge, rope taut back UP to safe plateau. Olva sits with LEFT ankle beneath fallen fence rail, hands on stone. Parcel remains thorn bush lower, NOT in hands. End Runa kneels beside her.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Runa esperou a palavra de Tovo.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: Runa makes short controlled descent to Olva's rock ledge, rope taut back UP to safe plateau. Olva sits with LEFT ankle beneath fallen fence rail, hands on stone. Parcel remains thorn bush lower, NOT in hands. End Runa kneels beside her. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1672,
+    "title": "Segure a minha manga",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "runa",
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Separate dialogue portraits: Runa kneels on ledge beside trapped Olva, then Olva grips ONE fold of Runa sleeve gently. Close cloth grip with naturally attached wrist; LEFT ankle remains trapped. No magical healing yet.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Runa",
+        "text": "Vai doer quando soltar. Segure a minha manga.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Olva estava lúcida.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: Separate dialogue portraits: Runa kneels on ledge beside trapped Olva, then Olva grips ONE fold of Runa sleeve gently. Close cloth grip with naturally attached wrist; LEFT ankle remains trapped. No magical healing yet. Exact Portuguese dialogue 1, speaker Runa, place ONLY inside that speaker's OWN solo closeup panel: \"Vai doer quando soltar. Segure a minha manga.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1673,
+    "title": "O peso na madeira",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "tovo"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Tovo ONLY on safe plateau braces feet apart and places LEFT palm onto lever end, RIGHT arm stays tucked at abdomen under cloak. Detail lever underside resting clean fulcrum, one hand only. Final Tovo breaths before effort. No lifting yet.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "Ele chamou a ampliação só quando o peso chegou à madeira.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/tovo.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Sequential scene beats: Tovo ONLY on safe plateau braces feet apart and places LEFT palm onto lever end, RIGHT arm stays tucked at abdomen under cloak. Detail lever underside resting clean fulcrum, one hand only. Final Tovo breaths before effort. No lifting yet. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1674,
+    "title": "Um palmo",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "tovo"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Tovo pushes lever with LEFT arm and legs from firm ground, RIGHT arm tucked. Natural strain, faint subtle muscular tension NOT giant glowingbody. Object detail fence rail rises a HANDSPAN over supporting rock, never person underfoot. Final Tovo face effort.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "A força ampliada durou um único fôlego.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/tovo.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Sequential scene beats: Tovo pushes lever with LEFT arm and legs from firm ground, RIGHT arm tucked. Natural strain, faint subtle muscular tension NOT giant glowingbody. Object detail fence rail rises a HANDSPAN over supporting rock, never person underfoot. Final Tovo face effort. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1675,
+    "title": "A hora da cunha",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "tovo",
+      "nima"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Top Tovo grimaces protecting RIGHT shoulder, LEFT maintains pressure on lever. Separate Nima drives ONE wooden wedge with small mallet into supporting brace. Detail second controlled mallet strike, two natural Nima arms, no other hands mixed. Final wedge seats securely.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [
+      {
+        "speaker": "Tovo",
+        "text": "Agora.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Nima bateu a cunha no momento combinado.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/tovo.png",
+      "reader/medieval/references/individual/nima.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Nima is a26-year-old ADULT GNOME WOMAN exactly90cm tall, mature adult face NOT A CHILD. Copper CURLY BOB, freckles, hazelgreen eyes, POINTED EARS, moss cap BRASS GOGGLES, teal vest cream sleeves brown trousers toolbelt boots. Full body on same ground as a180cm human: top of her cap reaches human WAIST, precisely HALF human height. Use human low seats and her stable cushion/step for matching eye-level. No spontaneous human growth. Sequential scene beats: Top Tovo grimaces protecting RIGHT shoulder, LEFT maintains pressure on lever. Separate Nima drives ONE wooden wedge with small mallet into supporting brace. Detail second controlled mallet strike, two natural Nima arms, no other hands mixed. Final wedge seats securely. Exact Portuguese dialogue 1, speaker Tovo, place ONLY inside that speaker's OWN solo closeup panel: \"Agora.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1676,
+    "title": "Junto da corda",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "runa",
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "At lower ledge Runa supports Olva by upper back while Olva grasps rescue rope, LEFT ankle now CLEAR of rail. Wide shot both anatomically separate adults, rail supported ABOVE ankles not through body. Final two women move a short distance toward taut rope. No flying or magiclevitation.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "A segunda batida coube no tempo de tirar Olva do sarrafo.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: At lower ledge Runa supports Olva by upper back while Olva grasps rescue rope, LEFT ankle now CLEAR of rail. Wide shot both anatomically separate adults, rail supported ABOVE ankles not through body. Final two women move a short distance toward taut rope. No flying or magiclevitation. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1677,
+    "title": "Todos para trás",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "irsa",
+      "tovo"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Irsa on safe plateau raises ONE palm signals retreat, own speech portrait. Separate Tovo releases LEFT hand from lever and steps back with RIGHT arm tucked. Objectdetail rail settles onto wedge, remains supported. No one under weight.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Irsa",
+        "text": "Recuem!",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "O sarrafo desceu um pouco e parou na escora.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/tovo.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Sequential scene beats: Irsa on safe plateau raises ONE palm signals retreat, own speech portrait. Separate Tovo releases LEFT hand from lever and steps back with RIGHT arm tucked. Objectdetail rail settles onto wedge, remains supported. No one under weight. Exact Portuguese dialogue 1, speaker Irsa, place ONLY inside that speaker's OWN solo closeup panel: \"Recuem!\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Spiky shout outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1678,
+    "title": "O prego que ficou",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "OBJECT ONLY three sequential panels rope slides over rough wood edge, ancient rusty nail stays in OLD broken fence wood, rope passes beside nail without snagging. Clean wooden brace remains separate without nail. NO persons or hands blood.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "O prego antigo ficou para trás sem pegar em ninguém.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/static/reader/images/medieval/page-1668.webp"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage.  Sequential scene beats: OBJECT ONLY three sequential panels rope slides over rough wood edge, ancient rusty nail stays in OLD broken fence wood, rope passes beside nail without snagging. Clean wooden brace remains separate without nail. NO persons or hands blood. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1679,
+    "title": "De volta ao patamar",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "olva",
+      "runa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Olva emerges onto SAFE upper plateau on knees hands pressed stone; Runa kneels beside her with rope. FullbodyOlva exactlytwo legs LEFTankle swelling, twohandsground. Final relieved face Olva and rope lowered. No parcel yet.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Olva agarrou o chão com as duas mãos.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/olva.png",
+      "reader/medieval/references/runa-sheet.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Sequential scene beats: Olva emerges onto SAFE upper plateau on knees hands pressed stone; Runa kneels beside her with rope. FullbodyOlva exactlytwo legs LEFTankle swelling, twohandsground. Final relieved face Olva and rope lowered. No parcel yet. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1680,
+    "title": "Água reservada",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "runa",
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Runa kneels by seated Olva in shade of hung green cloak. Wash small NON-GRAPHIC superficial scrape on LEFT ankle with clean water from brown tied waterskin, then cork remainder and place folded cloth/wood splint support. Keep both women normal anatomy, no detached limbs.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "Runa lavou o ferimento e guardou a água restante.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: Runa kneels by seated Olva in shade of hung green cloak. Wash small NON-GRAPHIC superficial scrape on LEFT ankle with clean water from brown tied waterskin, then cork remainder and place folded cloth/wood splint support. Keep both women normal anatomy, no detached limbs. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1681,
+    "title": "Os dedos",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "olva",
+      "runa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Olva seated LEFT ankle supported on folded blanket, asks Runa in own face panel. Separate object view boot removed LEFT foot toes move naturally five toes, no gory wound; final Runa counts movement in notebook. Keep injured left ankle supported not healed.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Olva",
+        "text": "Posso mexer os dedos?",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Runa deixou que ela tentasse por si.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/olva.png",
+      "reader/medieval/references/runa-sheet.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Sequential scene beats: Olva seated LEFT ankle supported on folded blanket, asks Runa in own face panel. Separate object view boot removed LEFT foot toes move naturally five toes, no gory wound; final Runa counts movement in notebook. Keep injured left ankle supported not healed. Exact Portuguese dialogue 1, speaker Olva, place ONLY inside that speaker's OWN solo closeup panel: \"Posso mexer os dedos?\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1682,
+    "title": "A capa dividida",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "ilyan",
+      "tovo"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Ilyan approaches seated Tovo carrying wool cloak. Tovo hides LEFT elbow on LEFT knee with subtle tremor, RIGHT shoulder protected. Final both sit shoulder-to-shoulder under ONE blanket normal proportions, two bodies and ownhands on ownknees.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Ilyan sentou sem pedir ao amigo que escondesse o cansaço.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/individual/tovo.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Ilyan is an adult HUMAN MAN age18, tall lean180cm, olive skin, clean-shaven elongated oval face, dark almond eyes, narrow straight nose, very long BLACK WAVY hair parted centrally. Charcoal linen shirt, worn indigo sleeveless vest, brown belt dark trousers boots; modest darkbrown bag with copper buckle when travelling. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Sequential scene beats: Ilyan approaches seated Tovo carrying wool cloak. Tovo hides LEFT elbow on LEFT knee with subtle tremor, RIGHT shoulder protected. Final both sit shoulder-to-shoulder under ONE blanket normal proportions, two bodies and ownhands on ownknees. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1683,
+    "title": "O assento livre",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "tovo",
+      "irsa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Irsa offers empty low wagon seat with open LEFT palm; Tovo accepts with nod then sits using LEFT hand rail, RIGHT arm tucked. No heavy luggage; wagon at safe plateau, horses held by anonymousdriver in distant scene. Keep visiblefullbodyproportions.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Quando lhe ofereceram o assento, Tovo aceitou.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/tovo.png",
+      "reader/medieval/references/individual/irsa.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Sequential scene beats: Irsa offers empty low wagon seat with open LEFT palm; Tovo accepts with nod then sits using LEFT hand rail, RIGHT arm tucked. No heavy luggage; wagon at safe plateau, horses held by anonymousdriver in distant scene. Keep visiblefullbodyproportions. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1684,
+    "title": "Três frascos secos",
+    "time": "Dia 734 · resgate",
+    "place": "encosta-partida-arco11",
+    "cast": [
+      "sere",
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 85,
+    "format": "comic",
+    "scene": "Sere takes SAFE checked long path around cliff to thorn bush, retrieves whole cream medicineparcel with two normal hands. Separate stilllife open cloth THREE capped dry bottles. Final Sere gives parcel to seated Olva supportedLEFTankle, Olva counts3 with ownfinger. NO instanthealing.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Olva",
+        "text": "Posso dormir?",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Sere voltou pela rota conferida. Os três frascos estavam secos.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/sere.png",
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: Sere takes SAFE checked long path around cliff to thorn bush, retrieves whole cream medicineparcel with two normal hands. Separate stilllife open cloth THREE capped dry bottles. Final Sere gives parcel to seated Olva supportedLEFTankle, Olva counts3 with ownfinger. NO instanthealing. Exact Portuguese dialogue 1, speaker Olva, place ONLY inside that speaker's OWN solo closeup panel: \"Posso dormir?\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1685,
+    "title": "O terraço largo",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "irsa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Establishing evening camp broad terrace sheltered stacked stonewall, TWO coveredwagons animals restrained farleft, small ordinary wood fire middle, water kettle. Irsa counts anonymous adult travelers; no invented namedcast. Lastcoiledrope and blankets drynear fire.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "A volta longa trouxe o outro grupo depois do anoitecer.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Sequential scene beats: Establishing evening camp broad terrace sheltered stacked stonewall, TWO coveredwagons animals restrained farleft, small ordinary wood fire middle, water kettle. Irsa counts anonymous adult travelers; no invented namedcast. Lastcoiledrope and blankets drynear fire. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1686,
+    "title": "Repouso antes da etapa",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "irsa",
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Irsa recounts adults atcamp gate, then seated Olva with LEFT leg supportedon wagonseat and THREE medicinebottleswrappedatlap, Irsa handshersealedparcel after inventory. Final Olva sleepscoveredlap, no sudden cure.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Irsa conferiu todos duas vezes e separou quem precisava repousar.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: Irsa recounts adults atcamp gate, then seated Olva with LEFT leg supportedon wagonseat and THREE medicinebottleswrappedatlap, Irsa handshersealedparcel after inventory. Final Olva sleepscoveredlap, no sudden cure. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1687,
+    "title": "A beirada sem olhar",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "caio",
+      "sere"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Caio approaches Sere washing muddy ownboot in bucket by stackedstonewall camp afterdark. Separate dialogueportraits Caio andSere exactlyoneballoon eachspeakerownpanel; final bothfaceeachother restrainedangryworried not smiling.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [
+      {
+        "speaker": "Caio",
+        "text": "Você correu para a beirada sem olhar.",
+        "balloon": {
+          "embedded": true
+        }
+      },
+      {
+        "speaker": "Sere",
+        "text": "E você esperou duas rajadas.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "O susto ainda estava entre os dois.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/caio.png",
+      "reader/medieval/references/individual/sere.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Caio is18-year-old HUMAN man athletic slender warm brown skin, brown eyes thickstraightbrows, SHORT AUBURN hair as identity reference. Petrolblue Guard tunic with cream rolledsleeves, brown shoulderstrap, boots. NO long hair NO pointed ears NO beard. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Sequential scene beats: Caio approaches Sere washing muddy ownboot in bucket by stackedstonewall camp afterdark. Separate dialogueportraits Caio andSere exactlyoneballoon eachspeakerownpanel; final bothfaceeachother restrainedangryworried not smiling. Exact Portuguese dialogue 1, speaker Caio, place ONLY inside that speaker's OWN solo closeup panel: \"Você correu para a beirada sem olhar.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exact Portuguese dialogue 2, speaker Sere, place ONLY inside that speaker's OWN solo closeup panel: \"E você esperou duas rajadas.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1688,
+    "title": "A explicação interrompida",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "caio",
+      "sere"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Caio begins gesture toexplain then stops mouthclosed thoughtful. Separate Sere listens bybucket notwand. Last Caio asksgentlequestion in ownportrait, broombootsbucketbackgroundconsistent.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Caio",
+        "text": "Você queria que eu tivesse falado mais cedo?",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Caio deixou a resposta pronta de lado.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/caio.png",
+      "reader/medieval/references/individual/sere.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Caio is18-year-old HUMAN man athletic slender warm brown skin, brown eyes thickstraightbrows, SHORT AUBURN hair as identity reference. Petrolblue Guard tunic with cream rolledsleeves, brown shoulderstrap, boots. NO long hair NO pointed ears NO beard. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Sequential scene beats: Caio begins gesture toexplain then stops mouthclosed thoughtful. Separate Sere listens bybucket notwand. Last Caio asksgentlequestion in ownportrait, broombootsbucketbackgroundconsistent. Exact Portuguese dialogue 1, speaker Caio, place ONLY inside that speaker's OWN solo closeup panel: \"Você queria que eu tivesse falado mais cedo?\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1689,
+    "title": "Que ela ouvisse",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "sere",
+      "caio"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Sere seatedbystackedwall bucketbootherlap gives quietanswer ownportraitballoon. Separate Caiolistens seatedwithhandsrelaxedon knees. Widebothnormal adultproportions besidefire.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Sere",
+        "text": "Eu queria que ela ouvisse.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Sentaram ao lado do balde.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/sere.png",
+      "reader/medieval/references/individual/caio.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Caio is18-year-old HUMAN man athletic slender warm brown skin, brown eyes thickstraightbrows, SHORT AUBURN hair as identity reference. Petrolblue Guard tunic with cream rolledsleeves, brown shoulderstrap, boots. NO long hair NO pointed ears NO beard. Sequential scene beats: Sere seatedbystackedwall bucketbootherlap gives quietanswer ownportraitballoon. Separate Caiolistens seatedwithhandsrelaxedon knees. Widebothnormal adultproportions besidefire. Exact Portuguese dialogue 1, speaker Sere, place ONLY inside that speaker's OWN solo closeup panel: \"Eu queria que ela ouvisse.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1690,
+    "title": "A meia e o tremor",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "tovo",
+      "ilyan"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Tovo seatedatcampfire tryingremove ownLEFTsock, LEFTleg twitches, RIGHTshoulderprotected. Ilyan sitslower andcarefully pulls sock from LEFT foot using both ownhands no crossedghostarm. Final twofriends small smilewarmblanket no healingmagic.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Tovo riu do tremor. Ilyan terminou de tirar a meia.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/tovo.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Tovo is18-year-old broad tall HALF-ORC man sageGREEN SKIN, short CURLY BROWN hair, small LOWER TUSKS, kind brown eyes. Blue tunic cream rolledsleeves amberleatherapron browntrousersboots. His RIGHT shoulder is recovering: no heavy lifting, rightarm heldclose or sling folded by cloak unless specifically requested. Exactlytwoarms, LEFT arm is free strong arm. Ilyan is an adult HUMAN MAN age18, tall lean180cm, olive skin, clean-shaven elongated oval face, dark almond eyes, narrow straight nose, very long BLACK WAVY hair parted centrally. Charcoal linen shirt, worn indigo sleeveless vest, brown belt dark trousers boots; modest darkbrown bag with copper buckle when travelling. Sequential scene beats: Tovo seatedatcampfire tryingremove ownLEFTsock, LEFTleg twitches, RIGHTshoulderprotected. Ilyan sitslower andcarefully pulls sock from LEFT foot using both ownhands no crossedghostarm. Final twofriends small smilewarmblanket no healingmagic. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1691,
+    "title": "Antes de saber",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "sere",
+      "caio"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Sere admitsfearquietly incloseup separatecompactballoon besideface. Caiolistens separatepanel, handonownknee. Final Sere lowerscleanbootnearfire sober.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [
+      {
+        "speaker": "Sere",
+        "text": "Por um instante, achei que você tivesse caído.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Ela contou o que vira no primeiro instante.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/sere.png",
+      "reader/medieval/references/individual/caio.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Caio is18-year-old HUMAN man athletic slender warm brown skin, brown eyes thickstraightbrows, SHORT AUBURN hair as identity reference. Petrolblue Guard tunic with cream rolledsleeves, brown shoulderstrap, boots. NO long hair NO pointed ears NO beard. Sequential scene beats: Sere admitsfearquietly incloseup separatecompactballoon besideface. Caiolistens separatepanel, handonownknee. Final Sere lowerscleanbootnearfire sober. Exact Portuguese dialogue 1, speaker Sere, place ONLY inside that speaker's OWN solo closeup panel: \"Por um instante, achei que você tivesse caído.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1692,
+    "title": "O nome primeiro",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "caio",
+      "sere"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Caio speaks ownportrait, recallsfear no flashbackdup. Separate objectdetail hisbluepennantfoldedbybucket, Sere listenswithhandsaroundownboot. Final pair closebutnotkissyet.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Caio",
+        "text": "Vi a pedra se mover debaixo do seu pé.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Quando gritou, ele esquecera os sinais ensaiados.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/caio.png",
+      "reader/medieval/references/individual/sere.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Caio is18-year-old HUMAN man athletic slender warm brown skin, brown eyes thickstraightbrows, SHORT AUBURN hair as identity reference. Petrolblue Guard tunic with cream rolledsleeves, brown shoulderstrap, boots. NO long hair NO pointed ears NO beard. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Sequential scene beats: Caio speaks ownportrait, recallsfear no flashbackdup. Separate objectdetail hisbluepennantfoldedbybucket, Sere listenswithhandsaroundownboot. Final pair closebutnotkissyet. Exact Portuguese dialogue 1, speaker Caio, place ONLY inside that speaker's OWN solo closeup panel: \"Vi a pedra se mover debaixo do seu pé.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1693,
+    "title": "Duas desculpas",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "caio",
+      "sere"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Caio cleanssecondmuddybootwithcloth, Sere setsfirstcleanbootnexttoit. BothadultseateddiscussapologiestounnamedtravelersOFFscreen. Finaltwopairbootsandbucket arrangement no extrapairs.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "Combinaram procurar depois do jantar as duas pessoas que haviam recebido ordens ao mesmo tempo.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/caio.png",
+      "reader/medieval/references/individual/sere.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Caio is18-year-old HUMAN man athletic slender warm brown skin, brown eyes thickstraightbrows, SHORT AUBURN hair as identity reference. Petrolblue Guard tunic with cream rolledsleeves, brown shoulderstrap, boots. NO long hair NO pointed ears NO beard. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Sequential scene beats: Caio cleanssecondmuddybootwithcloth, Sere setsfirstcleanbootnexttoit. BothadultseateddiscussapologiestounnamedtravelersOFFscreen. Finaltwopairbootsandbucket arrangement no extrapairs. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1694,
+    "title": "Perto da parede",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "sere",
+      "caio"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Top Sere andCaio standaside bystonewall awayfromcampwalkway, Sere takes hiswrist gently withLEFT hand, both visiblyconsentingwarmeyelevel. Large nextpaneladultgentleclosedmouthkiss, Sere onehandonCaioSHOULDER connectedelbowclear, Caio ownhandonherupperback otherownside. Finalforeheadsclose canonicalfaces no intimacyescalation.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "O beijo aconteceu onde ninguém precisava passar.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/sere.png",
+      "reader/medieval/references/individual/caio.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Sere is19-year-old adult ELF WOMAN DARK BROWN SKIN amber eyes, pointedelfears, WHITE SILVER HAIR in ONE THICK LONG BRAID over shoulder. Forestgreen hoodedcloak, brown leathertravelclothes bracers, recurvedashbow/quiver. Young adult feminine face, never pale/blondhuman. Caio is18-year-old HUMAN man athletic slender warm brown skin, brown eyes thickstraightbrows, SHORT AUBURN hair as identity reference. Petrolblue Guard tunic with cream rolledsleeves, brown shoulderstrap, boots. NO long hair NO pointed ears NO beard. Sequential scene beats: Top Sere andCaio standaside bystonewall awayfromcampwalkway, Sere takes hiswrist gently withLEFT hand, both visiblyconsentingwarmeyelevel. Large nextpaneladultgentleclosedmouthkiss, Sere onehandonCaioSHOULDER connectedelbowclear, Caio ownhandonherupperback otherownside. Finalforeheadsclose canonicalfaces no intimacyescalation. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1695,
+    "title": "A madeira solta",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "irsa",
+      "nima"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Irsa bringssmallloadcratefragmentto tinyadult90cm Nima at low workstool. Irsa fullbody170cm Nima90 SAMEbaselinecapwaist. Objectdetail burnt5tallynumberonINNERface hiddenbeneathjoint, Nima flipsfragmenttwoattachedhands. Nightlamplight.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "O número estava na face de dentro, escondido pelo encaixe.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/nima.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Nima is a26-year-old ADULT GNOME WOMAN exactly90cm tall, mature adult face NOT A CHILD. Copper CURLY BOB, freckles, hazelgreen eyes, POINTED EARS, moss cap BRASS GOGGLES, teal vest cream sleeves brown trousers toolbelt boots. Full body on same ground as a180cm human: top of her cap reaches human WAIST, precisely HALF human height. Use human low seats and her stable cushion/step for matching eye-level. No spontaneous human growth. Sequential scene beats: Irsa bringssmallloadcratefragmentto tinyadult90cm Nima at low workstool. Irsa fullbody170cm Nima90 SAMEbaselinecapwaist. Objectdetail burnt5tallynumberonINNERface hiddenbeneathjoint, Nima flipsfragmenttwoattachedhands. Nightlamplight. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1696,
+    "title": "Antes de tocar",
+    "time": "Dia 734 · noite",
+    "place": "pouso-terraco-arco11",
+    "cast": [
+      "liria",
+      "irsa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 86,
+    "format": "comic",
+    "scene": "Liria comparescratefragmentburntFIVEtallymark withduplicatecopyfromownbrasschainnotebook. Irsa waitsseparateportrait. TopLiriastopsIrsahand byspokenrequestNOTphysicalgrab, bothhands onownside. Objectdetailfragmentandcopyvisible. NO Runa present.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Líria",
+        "text": "Olhe antes de tocar.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Líria reconheceu o número do recibo duplicado.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/liria.png",
+      "reader/medieval/references/individual/irsa.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Líria is18-year-old HUMAN woman copperolive skin, graygreen eyes, hooked nose, short CHIN SCAR, darkauburn hair in TWO LONG TIGHT BRAIDS. Gray studentcoat with RED stitched trim, brown belt, brass-chained notebook. Sharp proud expression, rival of Runa never friendly with her. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Sequential scene beats: Liria comparescratefragmentburntFIVEtallymark withduplicatecopyfromownbrasschainnotebook. Irsa waitsseparateportrait. TopLiriastopsIrsahand byspokenrequestNOTphysicalgrab, bothhands onownside. Objectdetailfragmentandcopyvisible. NO Runa present. Exact Portuguese dialogue 1, speaker Líria, place ONLY inside that speaker's OWN solo closeup panel: \"Olhe antes de tocar.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1697,
+    "title": "Três entradas",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "irsa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Day735 morningarrival guardedtransithouse stonecourtyard: LEFT broadwagonarch, CENTERlodgingdoor, RIGHTnarrowguidepassage. TWOcoveredwagonsapproachleft gate, clotheslinewindows andlowsoup potthreshold. Irsa walkingforeground identifiesdoorsbylook. NoMira, noportals.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "A casa de trânsito apareceu no dia seguinte.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Sequential scene beats: Day735 morningarrival guardedtransithouse stonecourtyard: LEFT broadwagonarch, CENTERlodgingdoor, RIGHTnarrowguidepassage. TWOcoveredwagonsapproachleft gate, clotheslinewindows andlowsoup potthreshold. Irsa walkingforeground identifiesdoorsbylook. NoMira, noportals. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1698,
+    "title": "Na soleira",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "olva",
+      "runa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Olva insistssitthresholdbeforelodgingentry, LEFT ankleclothedsplint supportedonlowstool. Runacrouchesbeside her, notebookandwaterskin. THREEdoorscourtyardstable, soup potnearentrance notunderfoot. SeparateOlvaface thoughtfulmissingchild nochilddrawn.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "O filho de Olva seguira dois dias antes, com a irmã mais velha.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/olva.png",
+      "reader/medieval/references/runa-sheet.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Sequential scene beats: Olva insistssitthresholdbeforelodgingentry, LEFT ankleclothedsplint supportedonlowstool. Runacrouchesbeside her, notebookandwaterskin. THREEdoorscourtyardstable, soup potnearentrance notunderfoot. SeparateOlvaface thoughtfulmissingchild nochilddrawn. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1699,
+    "title": "A condutora dos remédios",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "AnonymousadultHUMANwoman courierage40darktan shortblackhair redheadwrap plainbrowncloak, introduceswalkdeparturetoOlva seatedsupportedLEFTankle. In ownobjectpanel courierchecksthree cappedmedicineglassbottles before wrappingcreamcloth. LastOlovahandsoverparcel. No children visible, recurringcourierkeepidentity.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Uma condutora aceitou levar os remédios depois de conferir os vidros.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: AnonymousadultHUMANwoman courierage40darktan shortblackhair redheadwrap plainbrowncloak, introduceswalkdeparturetoOlva seatedsupportedLEFTankle. In ownobjectpanel courierchecksthree cappedmedicineglassbottles before wrappingcreamcloth. LastOlovahandsoverparcel. No children visible, recurringcourierkeepidentity. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1700,
+    "title": "A hora no caderno",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "runa",
+      "olva"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Runa writesdeparturetimeinownsmallnotebook seatedbesideOlva threshold. SeparateOlva asks lookingtoward narrowguidegate. Runa response ownportraitsmallballoon; doNOTdrawfloatingclock or readableinventeddates.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Runa",
+        "text": "Venho chamar quando ela sair.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Runa guardou a hora e prometeu chamá-la.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/runa-sheet.png",
+      "reader/medieval/references/individual/olva.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Runa is an adult HUMAN WOMAN age18, pale cool skin, oval face dark almond eyes, very long STRAIGHT BLACK hair and straight BLUNT BANGS, tiny SILVER SEPTUM RING. Plum and charcoal practical medieval dress with sleeves FULLY DOWN: floral LEFT-arm tattoo concealed; never tattoo right arm. No elf ears. Olva is36-year-old HUMAN woman olive skin, brown eyes, brown hair fully tied under OCHRE HEADSCARF, plain GREY WOOL COAT creamundershirt brownskirt leather shoes. Tied CREAM PILLOWCASE parcel protects medicine for her son. No injury until slipped onto rockledge; thereafter LEFT ANKLE trapped, twolegs andtwoarms. Sequential scene beats: Runa writesdeparturetimeinownsmallnotebook seatedbesideOlva threshold. SeparateOlva asks lookingtoward narrowguidegate. Runa response ownportraitsmallballoon; doNOTdrawfloatingclock or readableinventeddates. Exact Portuguese dialogue 1, speaker Runa, place ONLY inside that speaker's OWN solo closeup panel: \"Venho chamar quando ela sair.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1701,
+    "title": "A entrada do posto",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "irsa",
+      "liria"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Insideplainstone registryofficetablewindowleft sealedcabinetback. Irsa places numberedwoodfragmenttable beforeanonymousadultHUMANmaleclerk50tan,baldcrownshortbrownsidehair shortbeard greyvestcreamshirt. Liriastandsbacksameheightcanon. Detailoriginalledger entrywithFIVEtallymark cargo saltbagicon. NOmagicglow.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "O escrivão encontrou a entrada: a caixa passara como sal comum.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/liria.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Líria is18-year-old HUMAN woman copperolive skin, graygreen eyes, hooked nose, short CHIN SCAR, darkauburn hair in TWO LONG TIGHT BRAIDS. Gray studentcoat with RED stitched trim, brown belt, brass-chained notebook. Sharp proud expression, rival of Runa never friendly with her. Sequential scene beats: Insideplainstone registryofficetablewindowleft sealedcabinetback. Irsa places numberedwoodfragmenttable beforeanonymousadultHUMANmaleclerk50tan,baldcrownshortbrownsidehair shortbeard greyvestcreamshirt. Liriastandsbacksameheightcanon. Detailoriginalledger entrywithFIVEtallymark cargo saltbagicon. NOmagicglow. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1702,
+    "title": "A via que faltava",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "liria"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Liria shows two receipts, same5tallynumberdifferentweighttallies. Anonymousclerk50tanbaldcrownshortbrownsidehairbeardgreyvestcreamshirt offersseatOPPOSITEhim. LastLiriasitsfrontofclerkexaminingpapersbothhands clearlyhers; woodfragmentleftedge notwand.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "A segunda via nunca havia chegado ao posto.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/liria.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Líria is18-year-old HUMAN woman copperolive skin, graygreen eyes, hooked nose, short CHIN SCAR, darkauburn hair in TWO LONG TIGHT BRAIDS. Gray studentcoat with RED stitched trim, brown belt, brass-chained notebook. Sharp proud expression, rival of Runa never friendly with her. Sequential scene beats: Liria shows two receipts, same5tallynumberdifferentweighttallies. Anonymousclerk50tanbaldcrownshortbrownsidehairbeardgreyvestcreamshirt offersseatOPPOSITEhim. LastLiriasitsfrontofclerkexaminingpapersbothhands clearlyhers; woodfragmentleftedge notwand. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1703,
+    "title": "Até o banco",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "ilyan",
+      "irsa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Ilyan asksIrsafornews withhandonownbag. Irsa leads him fromcourtyardLEFTwagonarchto lowbenchbybackstonewall, narrowguidegateRIGHT background. Bothadultseatednormal sevenheadproportions NOT giantknees, noNima. Last Ilyan attentivecloseup.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Enquanto Líria examinava as vias, Ilyan perguntou por Mira.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/individual/irsa.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Ilyan is an adult HUMAN MAN age18, tall lean180cm, olive skin, clean-shaven elongated oval face, dark almond eyes, narrow straight nose, very long BLACK WAVY hair parted centrally. Charcoal linen shirt, worn indigo sleeveless vest, brown belt dark trousers boots; modest darkbrown bag with copper buckle when travelling. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Sequential scene beats: Ilyan asksIrsafornews withhandonownbag. Irsa leads him fromcourtyardLEFTwagonarchto lowbenchbybackstonewall, narrowguidegateRIGHT background. Bothadultseatednormal sevenheadproportions NOT giantknees, noNima. Last Ilyan attentivecloseup. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1704,
+    "title": "O rosto do menino",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "irsa",
+      "ilyan"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Irsa onbench tellsrememberedstory inpresent, closeupface withcompactballoon. Ilyan listensownpanel. Object-only detail oldcanvasfold/bowlcleanwater as symbolicmemory, NO Mira orchildillustrated, no spirit ormirror. FinalIrsa soberdeliberatehandsownknees.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Irsa",
+        "text": "Mira ajudou a limpar o rosto dele.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Irsa recordava a chegada de um menino que viajara sob a lona.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Ilyan is an adult HUMAN MAN age18, tall lean180cm, olive skin, clean-shaven elongated oval face, dark almond eyes, narrow straight nose, very long BLACK WAVY hair parted centrally. Charcoal linen shirt, worn indigo sleeveless vest, brown belt dark trousers boots; modest darkbrown bag with copper buckle when travelling. Sequential scene beats: Irsa onbench tellsrememberedstory inpresent, closeupface withcompactballoon. Ilyan listensownpanel. Object-only detail oldcanvasfold/bowlcleanwater as symbolicmemory, NO Mira orchildillustrated, no spirit ormirror. FinalIrsa soberdeliberatehandsownknees. Exact Portuguese dialogue 1, speaker Irsa, place ONLY inside that speaker's OWN solo closeup panel: \"Mira ajudou a limpar o rosto dele.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1705,
+    "title": "Dois homens do depósito",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "irsa",
+      "ilyan"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Irsa continuespresentbenchstory gesturetowarddistantroad, no actualpastmen appearing. Ilyan turnswithquestion inowncloseuppanel, thenownIrsaattentiveface. BothnormalanatomyhandsrestingNOdetachedlimbs.",
+    "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+    "panel_count": 3,
+    "lines": [
+      {
+        "speaker": "Ilyan",
+        "text": "Você viu isso?",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Depois, Mira voltara à beirada da estrada e reconhecera dois homens do depósito das salinas.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: wide top establishing panel, two unequal lower panels. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Ilyan is an adult HUMAN MAN age18, tall lean180cm, olive skin, clean-shaven elongated oval face, dark almond eyes, narrow straight nose, very long BLACK WAVY hair parted centrally. Charcoal linen shirt, worn indigo sleeveless vest, brown belt dark trousers boots; modest darkbrown bag with copper buckle when travelling. Sequential scene beats: Irsa continuespresentbenchstory gesturetowarddistantroad, no actualpastmen appearing. Ilyan turnswithquestion inowncloseuppanel, thenownIrsaattentiveface. BothnormalanatomyhandsrestingNOdetachedlimbs. Exact Portuguese dialogue 1, speaker Ilyan, place ONLY inside that speaker's OWN solo closeup panel: \"Você viu isso?\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1706,
+    "title": "O que ela viu",
+    "time": "Dia 735 · dia",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "irsa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Irsa SOLO seatedbench portraitspeaks clearly, secondpanel herownhandpointsatoneledgerblankmargin notinventedflashback. Thirdshe lowershand thoughtful. NOMiraorchildintheimage. Keepcanonicalfacehairgreytemplespatchgreensleeves.",
+    "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+    "panel_count": 4,
+    "lines": [
+      {
+        "speaker": "Irsa",
+        "text": "Vi ela voltar ao trenó com a manga rasgada. O resto me contou ali.",
+        "balloon": {
+          "embedded": true
+        }
+      }
+    ],
+    "narration": "Ela separou o testemunho do que Mira lhe contara.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Sequential scene beats: Irsa SOLO seatedbench portraitspeaks clearly, secondpanel herownhandpointsatoneledgerblankmargin notinventedflashback. Thirdshe lowershand thoughtful. NOMiraorchildintheimage. Keepcanonicalfacehairgreytemplespatchgreensleeves. Exact Portuguese dialogue 1, speaker Irsa, place ONLY inside that speaker's OWN solo closeup panel: \"Vi ela voltar ao trenó com a manga rasgada. O resto me contou ali.\". Compact ivory speech balloon in EMPTY BACKGROUND to side, short tail near speaker mouth WITHOUT crossing face, hair, hands or action. Rounded ordinary speech outline. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1707,
+    "title": "Depois da ronda",
+    "time": "Dia 735 · anoitecer",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "ilyan",
+      "irsa"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Ilyan asksIrsa towriteownobservations showingblankpaper ownhands. Irsa nodsthenwalksRIGHTnarrowguidegate forordinaryround. Last Ilyanwaitsbench dusk shiftedhours no instantwitness. No floatingarms twopeople separated.",
+    "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+    "panel_count": 4,
+    "lines": [],
+    "narration": "Irsa podia anotar depois da ronda. Ilyan esperou.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/ilyan.png",
+      "reader/medieval/references/individual/irsa.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction. Identity references ONLY do not copy referencecollage. Ilyan is an adult HUMAN MAN age18, tall lean180cm, olive skin, clean-shaven elongated oval face, dark almond eyes, narrow straight nose, very long BLACK WAVY hair parted centrally. Charcoal linen shirt, worn indigo sleeveless vest, brown belt dark trousers boots; modest darkbrown bag with copper buckle when travelling. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Sequential scene beats: Ilyan asksIrsa towriteownobservations showingblankpaper ownhands. Irsa nodsthenwalksRIGHTnarrowguidegate forordinaryround. Last Ilyanwaitsbench dusk shiftedhours no instantwitness. No floatingarms twopeople separated. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  },
+  {
+    "number": 1708,
+    "title": "A mesma noite",
+    "time": "Dia 735 · anoitecer",
+    "place": "casa-de-transito-entremeio",
+    "cast": [
+      "irsa",
+      "ilyan"
+    ],
+    "novel_volume": 2,
+    "novel_chapter": 87,
+    "format": "comic",
+    "scene": "Night Irsa returnswithanonymousadultHUMANmansecond-sleddriver55sunbrownskinshortgreybearddarkgreencapbrowncoat, all3atbenchwithphysicalshortwrittenstatements. Driverownportrait speaking noballoon needednarration. Ilyanstudies twostatementsseparatefinalpanel contemplative not triumphant. NoMiraappearance yet no hug.",
+    "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+    "panel_count": 3,
+    "lines": [],
+    "narration": "O condutor lembrava de Mira pedindo que deixasse o trenó no posto e seguisse com as crianças. Sua partida e a chegada lembrada por Irsa pertenciam à mesma noite.",
+    "art_width": 1024,
+    "art_height": 1536,
+    "lettering_baked": true,
+    "references": [
+      "reader/medieval/references/individual/irsa.png",
+      "reader/medieval/references/individual/ilyan.png"
+    ],
+    "prompt": "Use case illustration-story. ONE FINISHED original medieval fantasy COMIC PAGE1024x1536, detailed realistic fineink painterly style matching As Estradas do Crepusculo, warmcopper light indigoslate shadows, narrowivorygutters blackborders. THREE PANELS: two vertical upper dialogue panels, wide lower action panel. Identity references ONLY do not copy referencecollage. Irsa is39-year-old HUMAN woman sunbrowned skin, hazel eyes, SHORT CHESTNUT hair with ONE GREY TEMPLE STREAK, patched MOSS GREEN sleeves darkbrown leather waistcoat brown trousers wornboots wooden saddleryruler on belt. Rounded human ears no whitebraids. Ilyan is an adult HUMAN MAN age18, tall lean180cm, olive skin, clean-shaven elongated oval face, dark almond eyes, narrow straight nose, very long BLACK WAVY hair parted centrally. Charcoal linen shirt, worn indigo sleeveless vest, brown belt dark trousers boots; modest darkbrown bag with copper buckle when travelling. Sequential scene beats: Night Irsa returnswithanonymousadultHUMANmansecond-sleddriver55sunbrownskinshortgreybearddarkgreencapbrowncoat, all3atbenchwithphysicalshortwrittenstatements. Driverownportrait speaking noballoon needednarration. Ilyanstudies twostatementsseparatefinalpanel contemplative not triumphant. NoMiraappearance yet no hug. NO TEXT NO BALLOONS printed in art. Exactly TWO anatomicallyconnected arms andhands and TWOlegs perperson. Track every hand back through wrist elbow to ITS OWN shoulder. NO floating forearms behind otherpeople, NO extra limbs. Human wholebody7–8headheights natural neck shoulders pelvis knees; no giant closeup body behind tiny foregroundperson. Do NOT combine two people in crowded closeup; use separate portraits. Nima adult90cm HALFhumanheight capatwaist SAMEdepthground, never child. One each namedperson perpanel, no duplicates or unrequested extra people. All clothes/identities constant. Narration added separately outsideimage: DO NOT print narration, titles, page numbers, captions, logos or watermark. Maintain multiple specified COMICpanels, never singleillustration."
+  }
+]

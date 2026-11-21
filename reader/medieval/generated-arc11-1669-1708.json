@@ -1,0 +1,62 @@
+{
+  "tool": "builtin image_gen",
+  "prompt_set": "prompts-arc11-1669-1708.json",
+  "planned": 40,
+  "assets": [
+    {
+      "number": 1669,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-60e247a5-45fc-448a-b8cb-c8118c8fd70f.png",
+      "target": "reader/static/reader/images/medieval/page-1669.webp"
+    },
+    {
+      "number": 1670,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-3a0dfbe1-4bfe-450c-b8ad-f3aa364786d8.png",
+      "target": "reader/static/reader/images/medieval/page-1670.webp"
+    },
+    {
+      "number": 1671,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-8a6315f1-cd10-4515-9508-d21ec26acbeb.png",
+      "target": "reader/static/reader/images/medieval/page-1671.webp"
+    },
+    {
+      "number": 1672,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-d7dd89d5-ceae-4438-9a7c-c71bf3938aad.png",
+      "target": "reader/static/reader/images/medieval/page-1672.webp"
+    },
+    {
+      "number": 1679,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-038ea21b-6ee7-4178-aa80-0b366761834d.png",
+      "target": "reader/static/reader/images/medieval/page-1679.webp"
+    },
+    {
+      "number": 1680,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-39f99a98-79c5-4b38-8ad3-451397504bc1.png",
+      "target": "reader/static/reader/images/medieval/page-1680.webp"
+    },
+    {
+      "number": 1681,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-857bc31b-06d3-4a20-a607-a95a61cbc9f7.png",
+      "target": "reader/static/reader/images/medieval/page-1681.webp"
+    },
+    {
+      "number": 1689,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-d8682eda-cdfe-4461-9bc7-ff4136ec2b83.png",
+      "target": "reader/static/reader/images/medieval/page-1689.webp"
+    },
+    {
+      "number": 1690,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-3af6721b-0596-4374-b05d-eeb25a93aaca.png",
+      "target": "reader/static/reader/images/medieval/page-1690.webp"
+    },
+    {
+      "number": 1699,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-b4936c3d-f3c0-476a-a514-40774698b13f.png",
+      "target": "reader/static/reader/images/medieval/page-1699.webp"
+    },
+    {
+      "number": 1700,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-8bfbe15a-bbfa-4f0e-943f-17d47ea1476b.png",
+      "target": "reader/static/reader/images/medieval/page-1700.webp"
+    }
+  ]
+}

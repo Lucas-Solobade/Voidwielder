@@ -1,0 +1,980 @@
+{
+  "chapters": [
+    {
+      "title": "Um fôlego para Olva",
+      "start": 1669,
+      "end": 1684
+    },
+    {
+      "title": "A discussão depois",
+      "start": 1685,
+      "end": 1696
+    },
+    {
+      "title": "A casa de trânsito",
+      "start": 1697,
+      "end": 1708
+    }
+  ],
+  "pages": [
+    {
+      "number": 1669,
+      "title": "O apoio firme",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "tovo",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Tovo stands on SAFE upper plateau, RIGHT shoulder protected against torso, LEFT hand indicates clean wooden brace. Adult90cm Nima kneels at wedge beside him. Detail brace against rock, final their focused separate faces.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "Conferiram a escora antes de tocar no peso.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1670,
+      "title": "A corda de Sere",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "sere",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Sere on safe upper rock ties rescue rope to sturdy stone post. Runa checks rope around her clothed waist, then waits at safe descent step. One woman per detail panel; last distant two-person view clearly separated.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 5,
+      "lines": [],
+      "narration": "Sere segurou a corda no patamar firme.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1671,
+      "title": "A descida curta",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "runa",
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Runa makes short controlled descent to Olva's rock ledge, rope taut back UP to safe plateau. Olva sits with LEFT ankle beneath fallen fence rail, hands on stone. Parcel remains thorn bush lower, NOT in hands. End Runa kneels beside her.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Runa esperou a palavra de Tovo.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1672,
+      "title": "Segure a minha manga",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "runa",
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Separate dialogue portraits: Runa kneels on ledge beside trapped Olva, then Olva grips ONE fold of Runa sleeve gently. Close cloth grip with naturally attached wrist; LEFT ankle remains trapped. No magical healing yet.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Vai doer quando soltar. Segure a minha manga.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Olva estava lúcida.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1673,
+      "title": "O peso na madeira",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Tovo ONLY on safe plateau braces feet apart and places LEFT palm onto lever end, RIGHT arm stays tucked at abdomen under cloak. Detail lever underside resting clean fulcrum, one hand only. Final Tovo breaths before effort. No lifting yet.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "Ele chamou a ampliação só quando o peso chegou à madeira.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1674,
+      "title": "Um palmo",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Tovo pushes lever with LEFT arm and legs from firm ground, RIGHT arm tucked. Natural strain, faint subtle muscular tension NOT giant glowingbody. Object detail fence rail rises a HANDSPAN over supporting rock, never person underfoot. Final Tovo face effort.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "A força ampliada durou um único fôlego.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1675,
+      "title": "A hora da cunha",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "tovo",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Top Tovo grimaces protecting RIGHT shoulder, LEFT maintains pressure on lever. Separate Nima drives ONE wooden wedge with small mallet into supporting brace. Detail second controlled mallet strike, two natural Nima arms, no other hands mixed. Final wedge seats securely.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [
+        {
+          "speaker": "Tovo",
+          "text": "Agora.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Nima bateu a cunha no momento combinado.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1676,
+      "title": "Junto da corda",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "runa",
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "At lower ledge Runa supports Olva by upper back while Olva grasps rescue rope, LEFT ankle now CLEAR of rail. Wide shot both anatomically separate adults, rail supported ABOVE ankles not through body. Final two women move a short distance toward taut rope. No flying or magiclevitation.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "A segunda batida coube no tempo de tirar Olva do sarrafo.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1677,
+      "title": "Todos para trás",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "irsa",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Irsa on safe plateau raises ONE palm signals retreat, own speech portrait. Separate Tovo releases LEFT hand from lever and steps back with RIGHT arm tucked. Objectdetail rail settles onto wedge, remains supported. No one under weight.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Irsa",
+          "text": "Recuem!",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "O sarrafo desceu um pouco e parou na escora.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1678,
+      "title": "O prego que ficou",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "OBJECT ONLY three sequential panels rope slides over rough wood edge, ancient rusty nail stays in OLD broken fence wood, rope passes beside nail without snagging. Clean wooden brace remains separate without nail. NO persons or hands blood.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "O prego antigo ficou para trás sem pegar em ninguém.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1679,
+      "title": "De volta ao patamar",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "olva",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Olva emerges onto SAFE upper plateau on knees hands pressed stone; Runa kneels beside her with rope. FullbodyOlva exactlytwo legs LEFTankle swelling, twohandsground. Final relieved face Olva and rope lowered. No parcel yet.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Olva agarrou o chão com as duas mãos.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1680,
+      "title": "Água reservada",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "runa",
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Runa kneels by seated Olva in shade of hung green cloak. Wash small NON-GRAPHIC superficial scrape on LEFT ankle with clean water from brown tied waterskin, then cork remainder and place folded cloth/wood splint support. Keep both women normal anatomy, no detached limbs.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "Runa lavou o ferimento e guardou a água restante.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1681,
+      "title": "Os dedos",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "olva",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Olva seated LEFT ankle supported on folded blanket, asks Runa in own face panel. Separate object view boot removed LEFT foot toes move naturally five toes, no gory wound; final Runa counts movement in notebook. Keep injured left ankle supported not healed.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Olva",
+          "text": "Posso mexer os dedos?",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Runa deixou que ela tentasse por si.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1682,
+      "title": "A capa dividida",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "ilyan",
+        "tovo"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Ilyan approaches seated Tovo carrying wool cloak. Tovo hides LEFT elbow on LEFT knee with subtle tremor, RIGHT shoulder protected. Final both sit shoulder-to-shoulder under ONE blanket normal proportions, two bodies and ownhands on ownknees.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Ilyan sentou sem pedir ao amigo que escondesse o cansaço.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1683,
+      "title": "O assento livre",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "tovo",
+        "irsa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Irsa offers empty low wagon seat with open LEFT palm; Tovo accepts with nod then sits using LEFT hand rail, RIGHT arm tucked. No heavy luggage; wagon at safe plateau, horses held by anonymousdriver in distant scene. Keep visiblefullbodyproportions.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Quando lhe ofereceram o assento, Tovo aceitou.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1684,
+      "title": "Três frascos secos",
+      "time": "Dia 734 · resgate",
+      "place": "encosta-partida-arco11",
+      "cast": [
+        "sere",
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 85,
+      "format": "comic",
+      "scene": "Sere takes SAFE checked long path around cliff to thorn bush, retrieves whole cream medicineparcel with two normal hands. Separate stilllife open cloth THREE capped dry bottles. Final Sere gives parcel to seated Olva supportedLEFTankle, Olva counts3 with ownfinger. NO instanthealing.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Olva",
+          "text": "Posso dormir?",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Sere voltou pela rota conferida. Os três frascos estavam secos.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1685,
+      "title": "O terraço largo",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "irsa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Establishing evening camp broad terrace sheltered stacked stonewall, TWO coveredwagons animals restrained farleft, small ordinary wood fire middle, water kettle. Irsa counts anonymous adult travelers; no invented namedcast. Lastcoiledrope and blankets drynear fire.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "A volta longa trouxe o outro grupo depois do anoitecer.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1686,
+      "title": "Repouso antes da etapa",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "irsa",
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Irsa recounts adults atcamp gate, then seated Olva with LEFT leg supportedon wagonseat and THREE medicinebottleswrappedatlap, Irsa handshersealedparcel after inventory. Final Olva sleepscoveredlap, no sudden cure.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Irsa conferiu todos duas vezes e separou quem precisava repousar.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1687,
+      "title": "A beirada sem olhar",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Caio approaches Sere washing muddy ownboot in bucket by stackedstonewall camp afterdark. Separate dialogueportraits Caio andSere exactlyoneballoon eachspeakerownpanel; final bothfaceeachother restrainedangryworried not smiling.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Você correu para a beirada sem olhar.",
+          "balloon": {
+            "embedded": true
+          }
+        },
+        {
+          "speaker": "Sere",
+          "text": "E você esperou duas rajadas.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "O susto ainda estava entre os dois.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1688,
+      "title": "A explicação interrompida",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Caio begins gesture toexplain then stops mouthclosed thoughtful. Separate Sere listens bybucket notwand. Last Caio asksgentlequestion in ownportrait, broombootsbucketbackgroundconsistent.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Você queria que eu tivesse falado mais cedo?",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Caio deixou a resposta pronta de lado.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1689,
+      "title": "Que ela ouvisse",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Sere seatedbystackedwall bucketbootherlap gives quietanswer ownportraitballoon. Separate Caiolistens seatedwithhandsrelaxedon knees. Widebothnormal adultproportions besidefire.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Eu queria que ela ouvisse.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Sentaram ao lado do balde.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1690,
+      "title": "A meia e o tremor",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "tovo",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Tovo seatedatcampfire tryingremove ownLEFTsock, LEFTleg twitches, RIGHTshoulderprotected. Ilyan sitslower andcarefully pulls sock from LEFT foot using both ownhands no crossedghostarm. Final twofriends small smilewarmblanket no healingmagic.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Tovo riu do tremor. Ilyan terminou de tirar a meia.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1691,
+      "title": "Antes de saber",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Sere admitsfearquietly incloseup separatecompactballoon besideface. Caiolistens separatepanel, handonownknee. Final Sere lowerscleanbootnearfire sober.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [
+        {
+          "speaker": "Sere",
+          "text": "Por um instante, achei que você tivesse caído.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Ela contou o que vira no primeiro instante.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1692,
+      "title": "O nome primeiro",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Caio speaks ownportrait, recallsfear no flashbackdup. Separate objectdetail hisbluepennantfoldedbybucket, Sere listenswithhandsaroundownboot. Final pair closebutnotkissyet.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Caio",
+          "text": "Vi a pedra se mover debaixo do seu pé.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Quando gritou, ele esquecera os sinais ensaiados.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1693,
+      "title": "Duas desculpas",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "caio",
+        "sere"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Caio cleanssecondmuddybootwithcloth, Sere setsfirstcleanbootnexttoit. BothadultseateddiscussapologiestounnamedtravelersOFFscreen. Finaltwopairbootsandbucket arrangement no extrapairs.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "Combinaram procurar depois do jantar as duas pessoas que haviam recebido ordens ao mesmo tempo.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1694,
+      "title": "Perto da parede",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "sere",
+        "caio"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Top Sere andCaio standaside bystonewall awayfromcampwalkway, Sere takes hiswrist gently withLEFT hand, both visiblyconsentingwarmeyelevel. Large nextpaneladultgentleclosedmouthkiss, Sere onehandonCaioSHOULDER connectedelbowclear, Caio ownhandonherupperback otherownside. Finalforeheadsclose canonicalfaces no intimacyescalation.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "O beijo aconteceu onde ninguém precisava passar.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1695,
+      "title": "A madeira solta",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "irsa",
+        "nima"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Irsa bringssmallloadcratefragmentto tinyadult90cm Nima at low workstool. Irsa fullbody170cm Nima90 SAMEbaselinecapwaist. Objectdetail burnt5tallynumberonINNERface hiddenbeneathjoint, Nima flipsfragmenttwoattachedhands. Nightlamplight.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "O número estava na face de dentro, escondido pelo encaixe.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1696,
+      "title": "Antes de tocar",
+      "time": "Dia 734 · noite",
+      "place": "pouso-terraco-arco11",
+      "cast": [
+        "liria",
+        "irsa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 86,
+      "format": "comic",
+      "scene": "Liria comparescratefragmentburntFIVEtallymark withduplicatecopyfromownbrasschainnotebook. Irsa waitsseparateportrait. TopLiriastopsIrsahand byspokenrequestNOTphysicalgrab, bothhands onownside. Objectdetailfragmentandcopyvisible. NO Runa present.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Líria",
+          "text": "Olhe antes de tocar.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Líria reconheceu o número do recibo duplicado.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1697,
+      "title": "Três entradas",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "irsa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Day735 morningarrival guardedtransithouse stonecourtyard: LEFT broadwagonarch, CENTERlodgingdoor, RIGHTnarrowguidepassage. TWOcoveredwagonsapproachleft gate, clotheslinewindows andlowsoup potthreshold. Irsa walkingforeground identifiesdoorsbylook. NoMira, noportals.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "A casa de trânsito apareceu no dia seguinte.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1698,
+      "title": "Na soleira",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "olva",
+        "runa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Olva insistssitthresholdbeforelodgingentry, LEFT ankleclothedsplint supportedonlowstool. Runacrouchesbeside her, notebookandwaterskin. THREEdoorscourtyardstable, soup potnearentrance notunderfoot. SeparateOlvaface thoughtfulmissingchild nochilddrawn.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "O filho de Olva seguira dois dias antes, com a irmã mais velha.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1699,
+      "title": "A condutora dos remédios",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "AnonymousadultHUMANwoman courierage40darktan shortblackhair redheadwrap plainbrowncloak, introduceswalkdeparturetoOlva seatedsupportedLEFTankle. In ownobjectpanel courierchecksthree cappedmedicineglassbottles before wrappingcreamcloth. LastOlovahandsoverparcel. No children visible, recurringcourierkeepidentity.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Uma condutora aceitou levar os remédios depois de conferir os vidros.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1700,
+      "title": "A hora no caderno",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "runa",
+        "olva"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Runa writesdeparturetimeinownsmallnotebook seatedbesideOlva threshold. SeparateOlva asks lookingtoward narrowguidegate. Runa response ownportraitsmallballoon; doNOTdrawfloatingclock or readableinventeddates.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Runa",
+          "text": "Venho chamar quando ela sair.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Runa guardou a hora e prometeu chamá-la.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1701,
+      "title": "A entrada do posto",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "irsa",
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Insideplainstone registryofficetablewindowleft sealedcabinetback. Irsa places numberedwoodfragmenttable beforeanonymousadultHUMANmaleclerk50tan,baldcrownshortbrownsidehair shortbeard greyvestcreamshirt. Liriastandsbacksameheightcanon. Detailoriginalledger entrywithFIVEtallymark cargo saltbagicon. NOmagicglow.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "O escrivão encontrou a entrada: a caixa passara como sal comum.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1702,
+      "title": "A via que faltava",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "liria"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Liria shows two receipts, same5tallynumberdifferentweighttallies. Anonymousclerk50tanbaldcrownshortbrownsidehairbeardgreyvestcreamshirt offersseatOPPOSITEhim. LastLiriasitsfrontofclerkexaminingpapersbothhands clearlyhers; woodfragmentleftedge notwand.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "A segunda via nunca havia chegado ao posto.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1703,
+      "title": "Até o banco",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "ilyan",
+        "irsa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Ilyan asksIrsafornews withhandonownbag. Irsa leads him fromcourtyardLEFTwagonarchto lowbenchbybackstonewall, narrowguidegateRIGHT background. Bothadultseatednormal sevenheadproportions NOT giantknees, noNima. Last Ilyan attentivecloseup.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Enquanto Líria examinava as vias, Ilyan perguntou por Mira.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1704,
+      "title": "O rosto do menino",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "irsa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Irsa onbench tellsrememberedstory inpresent, closeupface withcompactballoon. Ilyan listensownpanel. Object-only detail oldcanvasfold/bowlcleanwater as symbolicmemory, NO Mira orchildillustrated, no spirit ormirror. FinalIrsa soberdeliberatehandsownknees.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Irsa",
+          "text": "Mira ajudou a limpar o rosto dele.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Irsa recordava a chegada de um menino que viajara sob a lona.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1705,
+      "title": "Dois homens do depósito",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "irsa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Irsa continuespresentbenchstory gesturetowarddistantroad, no actualpastmen appearing. Ilyan turnswithquestion inowncloseuppanel, thenownIrsaattentiveface. BothnormalanatomyhandsrestingNOdetachedlimbs.",
+      "layout": "THREE PANELS: wide top establishing panel, two unequal lower panels.",
+      "panel_count": 3,
+      "lines": [
+        {
+          "speaker": "Ilyan",
+          "text": "Você viu isso?",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Depois, Mira voltara à beirada da estrada e reconhecera dois homens do depósito das salinas.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1706,
+      "title": "O que ela viu",
+      "time": "Dia 735 · dia",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "irsa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Irsa SOLO seatedbench portraitspeaks clearly, secondpanel herownhandpointsatoneledgerblankmargin notinventedflashback. Thirdshe lowershand thoughtful. NOMiraorchildintheimage. Keepcanonicalfacehairgreytemplespatchgreensleeves.",
+      "layout": "FOUR PANELS: tall left establishing panel, three stacked right detail/reaction panels.",
+      "panel_count": 4,
+      "lines": [
+        {
+          "speaker": "Irsa",
+          "text": "Vi ela voltar ao trenó com a manga rasgada. O resto me contou ali.",
+          "balloon": {
+            "embedded": true
+          }
+        }
+      ],
+      "narration": "Ela separou o testemunho do que Mira lhe contara.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1707,
+      "title": "Depois da ronda",
+      "time": "Dia 735 · anoitecer",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "ilyan",
+        "irsa"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Ilyan asksIrsa towriteownobservations showingblankpaper ownhands. Irsa nodsthenwalksRIGHTnarrowguidegate forordinaryround. Last Ilyanwaitsbench dusk shiftedhours no instantwitness. No floatingarms twopeople separated.",
+      "layout": "FOUR PANELS: two small upper details, broad middle action panel, broad lower reaction.",
+      "panel_count": 4,
+      "lines": [],
+      "narration": "Irsa podia anotar depois da ronda. Ilyan esperou.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    },
+    {
+      "number": 1708,
+      "title": "A mesma noite",
+      "time": "Dia 735 · anoitecer",
+      "place": "casa-de-transito-entremeio",
+      "cast": [
+        "irsa",
+        "ilyan"
+      ],
+      "novel_volume": 2,
+      "novel_chapter": 87,
+      "format": "comic",
+      "scene": "Night Irsa returnswithanonymousadultHUMANmansecond-sleddriver55sunbrownskinshortgreybearddarkgreencapbrowncoat, all3atbenchwithphysicalshortwrittenstatements. Driverownportrait speaking noballoon needednarration. Ilyanstudies twostatementsseparatefinalpanel contemplative not triumphant. NoMiraappearance yet no hug.",
+      "layout": "THREE PANELS: two vertical upper dialogue panels, wide lower action panel.",
+      "panel_count": 3,
+      "lines": [],
+      "narration": "O condutor lembrava de Mira pedindo que deixasse o trenó no posto e seguisse com as crianças. Sua partida e a chegada lembrada por Irsa pertenciam à mesma noite.",
+      "art_width": 1024,
+      "art_height": 1536,
+      "lettering_baked": true
+    }
+  ],
+  "published_through": 1671,
+  "production_status": "Image usage limit reached; only reviewed contiguous pages are published. 1672–1708 remain planned."
+}

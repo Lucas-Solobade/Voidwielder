@@ -8,7 +8,7 @@ from reader.medieval_catalog import ARCS, CANON, PAGES, PAGES_BY_NUMBER, STORY, 
 
 
 def test_medieval_canon_and_page_sequence():
-    assert [page["number"] for page in PAGES] == list(range(1, 1669))
+    assert [page["number"] for page in PAGES] == list(range(1, 1672))
     assert all(len(page["panels"]) == 3 for page in PAGES[:25])
     assert len({page["layout"] for page in PAGES[25:]}) >= 5
     assert all(set(page["cast"]) <= set(CANON["characters"]) for page in PAGES)
@@ -441,7 +441,8 @@ def test_medieval_catalog_shows_series_and_reader_navigation(client):
     assert client.get(reverse("reader:medieval_read", args=(1542,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(1578,))).status_code == 200
     assert client.get(reverse("reader:medieval_read", args=(1668,))).status_code == 200
-    assert client.get(reverse("reader:medieval_read", args=(1669,))).status_code == 404
+    assert client.get(reverse("reader:medieval_read", args=(1671,))).status_code == 200
+    assert client.get(reverse("reader:medieval_read", args=(1672,))).status_code == 404
 
 
 def test_arc_four_coda_preserves_document_chain_and_speaker_balloon_assignment(client):

@@ -1,0 +1,17 @@
+{
+  "tool": "builtin image_gen",
+  "assets": [
+    {
+      "number": 1589,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-ccb50333-0738-40a8-96b5-f4bffe578630.png",
+      "prompt": "Use case precise-object-edit. Edit target image1 comic page1589. In TOP panel ONLY REMOVE the detached grey-sleeved human forearm and hand floating behind Nima and reaching to the leather bag. Fill the entire ghost arm silhouette with the same stone wall. Ilyan's far arm is naturally hidden BEHIND HIS OWN TORSO in this seated lean; DO NOT extend it to the bag. Keep his near arm on seat and hand, full torso and legs unchanged. Keep Nima exactly unchanged. The bag stays on stool. Preserve ALL other panels, all text, faces, clothes and borders exactly.",
+      "target": "reader/static/reader/images/medieval/page-1589-r2.webp"
+    },
+    {
+      "number": 1620,
+      "path": "C:\\Users\\Pichau\\.codex\\generated_images\\01a1087f-84de-7831-b9a1-ed04a1453df4\\exec-2b939329-461c-4670-be5a-63f5f2e0de4c.png",
+      "prompt": "Use case precise-object-edit. Edit target image1 comic page1620. Replace ONLY LOWER RIGHT panel with a natural chest-up SOLO portrait of adult human Ilyan seated on his stool, looking down-left toward Nima OFF PANEL. Normal slender adult human anatomy: head one seventh full standing height, neck normal length, shoulder width about2.5 head widths; long black WAVY hair indigo vest charcoal shirt canonical face. REMOVE the small Nima figure and giant bent knee from this panel entirely. Show Ilyan's chest and shoulders with natural arm resting on his lap just outside crop, stone ivy wall behind. No floating body parts, no other person in this panel. Preserve top panel, lower-left Nima and key, ALL dialogue and frames EXACTLY. Supporting image2 gives Ilyan's canonical identity only, don't copy reference collage.",
+      "target": "reader/static/reader/images/medieval/page-1620-r2.webp"
+    }
+  ]
+}
